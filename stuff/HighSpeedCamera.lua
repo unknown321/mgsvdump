@@ -1,0 +1,4 @@
+HighSpeedCamera
+	RequestEvent()
+	RequestToCancel()
+	RequestToCancelAll()

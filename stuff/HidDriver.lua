@@ -1,0 +1,11 @@
+HidDriver
+	Clear()
+	Frame()
+	Input()
+	IRelease()
+	Override()
+	Release()
+	ResetDefaultPadSensibility()
+	SetPadDataCacheCapacity()
+	SetPadSensibility()
+	Sleep()

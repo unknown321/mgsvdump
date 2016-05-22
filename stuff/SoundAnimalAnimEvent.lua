@@ -1,0 +1,3 @@
+SoundAnimalAnimEvent
+	SetupAnimalFootStep()
+	SetupAnimalRattleSuit()

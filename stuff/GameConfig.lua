@@ -1,0 +1,10 @@
+GameConfig
+	ApplyAllConfig()
+	GetCameraLRIsReversed()
+	GetCameraUDIsReversed()
+	GetControlType()
+	GetStealthAssistEnabled()
+	Reset()
+	SetCameraLRIsReversed()
+	SetCameraUDIsReversed()
+	SetStealthAssistEnabled()

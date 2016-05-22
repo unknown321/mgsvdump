@@ -1,0 +1,13 @@
+Quat
+	__call()
+	GetW()
+	GetX()
+	GetY()
+	GetZ()
+	Identity()
+	Normalize()
+	Rotation()
+	RotationX()
+	RotationY()
+	RotationZ()
+	ToString()

@@ -1,0 +1,3 @@
+FxDaemon
+	Initialize()
+	InitializeReserveObject()

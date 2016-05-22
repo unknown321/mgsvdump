@@ -1,0 +1,2 @@
+GkTacticalService
+	GetTacticalActionEdge()

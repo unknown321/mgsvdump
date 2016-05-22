@@ -1,0 +1,23 @@
+_G["TppWeather"]
+	["_GetRequestWeatherArgs"] = loadstring()
+	["_scriptInstanceId"] = [[userdata]]
+	["_scriptPath"] = "TppWeather"
+	["Init"] = loadstring()
+	["OnMissionCanStart"] = loadstring()
+	["OverrideColorCorrectionLUT"] = loadstring()
+	["OverrideColorCorrectionParameter"] = loadstring()
+	["RestoreColorCorrectionLUT"] = loadstring()
+	["RestoreColorCorrectionParameter"] = loadstring()
+	["SetMissionStartWeather"] = loadstring()
+	["StoreToSVars"] = loadstring()
+	CancelForceRequestWeather()
+	CancelRequestWeather()
+	ForceRequestWeather()
+	OnEndMissionPrepareFunction()
+	RequestWeather()
+	RestoreFromSVars()
+	RestoreMissionStartWeather()
+	SaveMissionStartWeather()
+	SetDefaultWeatherDurations()
+	SetDefaultWeatherProbabilities()
+	SetWeatherProbabilitiesAfghNoSandStorm()

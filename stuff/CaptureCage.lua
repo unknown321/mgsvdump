@@ -1,0 +1,3 @@
+CaptureCage
+	GetCaptureAnimalList()
+	RegisterCaptureAnimal()

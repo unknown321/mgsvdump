@@ -1,0 +1,10 @@
+TppHostage2
+	ClearDefaultBodyFovaId()
+	ClearHostageType()
+	ClearUniquePartsPath()
+	ReloadHostage2ParameterTables()
+	SetDefaultBodyFovaId()
+	SetDefaultPartsPath()
+	SetHostageType()
+	SetSVarsKeyNames2()
+	SetUniquePartsPath()

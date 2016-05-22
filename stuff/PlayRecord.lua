@@ -1,0 +1,2 @@
+PlayRecord
+	RegistPlayRecord()

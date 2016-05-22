@@ -1,0 +1,11 @@
+TppSoldier2
+	DisableMarkerModelEffect()
+	LoadRequestSoldierDefaultWeapon()
+	LoadRequestSoldierWeapon()
+	ReloadSoldier2ParameterTables()
+	SetDefaultPartsPath()
+	SetDefaultSoldierWeapon()
+	SetDisableMarkerModelEffect()
+	SetEnglishVoiceIdTable()
+	SetExtendPartsInfo()
+	SetSVarsKeyNames()

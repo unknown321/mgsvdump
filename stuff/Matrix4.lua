@@ -1,0 +1,13 @@
+Matrix4
+	__call()
+	Identity()
+	Inverse()
+	Rotation()
+	RotationX()
+	RotationY()
+	RotationZ()
+	RotationZYX()
+	RotTranslation()
+	Scale()
+	ToString()
+	Translation()

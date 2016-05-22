@@ -1,0 +1,9 @@
+Vector3
+	__call()
+	Add()
+	Cross()
+	Dot()
+	Normalize()
+	Scale()
+	Sub()
+	ToString()

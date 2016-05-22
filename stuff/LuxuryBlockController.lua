@@ -1,0 +1,3 @@
+LuxuryBlockController
+	AddList()
+	Init()

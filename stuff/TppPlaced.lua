@@ -1,0 +1,12 @@
+TppPlaced
+	ChangeEquipIdByLocatorName()
+	DeleteAllCaptureCage()
+	GetCaptureCageInfo()
+	GetLocatorIndex()
+	IsLocator()
+	IsQuestBlock()
+	OnAllocate()
+	SetCorrelationValueByLocatorName()
+	SetEnableByLocatorName()
+	SetFobFreePositionMineId()
+	StartToCreateFromLocators()

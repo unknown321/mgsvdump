@@ -1,0 +1,2 @@
+TppSightObstructionManager
+	CheckSight()

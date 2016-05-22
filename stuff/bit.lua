@@ -1,0 +1,13 @@
+bit
+	arshift()
+	band()
+	bnot()
+	bor()
+	bswap()
+	bxor()
+	lshift()
+	rol()
+	ror()
+	rshift()
+	tobit()
+	tohex()

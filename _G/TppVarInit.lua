@@ -1,0 +1,22 @@
+_G["TppVarInit"]
+	["_scriptInstanceId"] = [[userdata]]
+	["_scriptPath"] = "TppVarInit"
+	["ClearAllVarsAndSlot"] = loadstring()
+	["ClearIsContinueFromTitle"] = loadstring()
+	["DEBUG_GetDefaultPlayerWeaponAndItemTable"] = loadstring()
+	["InitializeAllPlatformForNewGame"] = loadstring()
+	["InitializeForContinue"] = loadstring()
+	["InitializeOnlineChallengeTaskLocalCompletedVars"] = loadstring()
+	["InitializeOnNewGameAtFirstTime"] = loadstring()
+	["InitializeOnStatingMainFrame"] = loadstring()
+	["SetHorseObtainedAndCanSortie"] = loadstring()
+	["SetInitPlayerItems"] = loadstring()
+	["SetInitPlayerWeapons"] = loadstring()
+	["SetVarsTitleCypr"] = loadstring()
+	["SetVarsTitleHeliSpace"] = loadstring()
+	["StartInitMission"] = loadstring()
+	InitializeForNewMission()
+	InitializeOnlineChallengeTaskVarsForNewMission()
+	InitializeOnNewGame()
+	InitializeOnStartTitle()
+	StartTitle()

@@ -1,0 +1,3 @@
+TppHeliPhotoFova
+	ClearGroupSetting()
+	SetGroupUnit()

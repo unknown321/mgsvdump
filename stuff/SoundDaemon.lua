@@ -1,0 +1,4 @@
+SoundDaemon
+	Create()
+	MakeLeftRightAnimEventPair()
+	RegisterAnimEvent()

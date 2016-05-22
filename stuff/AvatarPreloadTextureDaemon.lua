@@ -1,0 +1,4 @@
+AvatarPreloadTextureDaemon
+	CheckBlendTexLoaded()
+	PreloadRequestForLocalPlayer()
+	ResetTexture()

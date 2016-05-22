@@ -1,0 +1,2 @@
+TppCombatLocatorProvider
+	RegisterCombatLocatorSetToCpforLua()
