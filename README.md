@@ -6,7 +6,7 @@ Interesting stuff is in `stuff` directory, global variables in `_G`. Grep is you
 dump.txt - dump itself.
 
 Some info:
-	C-based functions and functions with upvalues cannot be dumped, usually they have only a name ie _G["SoundAreaGlobalBody"].OverwriteParameter()`. However some of them are represented as 256412184() - they have been removed from stuff.
+	C-based functions and functions with upvalues cannot be dumped, usually they have only a name ie `_G["SoundAreaGlobalBody"].OverwriteParameter()`. However some of them are represented as 256412184() - they have been removed from stuff.
 
 	loadstring() functions can be dumped and usually have source code in .lua files.
 
