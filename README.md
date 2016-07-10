@@ -12,3 +12,8 @@ Some info:
 * `multirefobjects` are uhh, objects that have multiplie references to them. There is an issue with proper naming so I did my best matching it. However some of them are still not named because I don't have time for that.
 * Huge boring tables have being shrinked or even removed because who cares. If you need them - you can try to find them in dump.txt or dump them yourself.
 * `Small_stuff` file has tiny classes with only a couple of named methods. They probably have a lot of unnamed numerical methods, but they are useless. Have some interest in them - make a dump. `Small_staff_list` has all classes from that file for easier searching.
+
+
+See also:
+	https://github.com/unknown321/mgswaifus
+	https://github.com/unknown321/mgsmonsterguns

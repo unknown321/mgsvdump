@@ -1,6 +1,4 @@
 TppMotherBaseManagement
-	__index()
-	__newindex()
 	ActivateAutoAssign()
 	AddBonusPopupFromBonusPopupFlagStaffs()
 	AddCassetteTapeTrack()
