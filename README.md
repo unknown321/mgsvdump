@@ -15,5 +15,5 @@ Some info:
 
 
 See also:
-	https://github.com/unknown321/mgswaifus
-	https://github.com/unknown321/mgsmonsterguns
+* https://github.com/unknown321/mgswaifus
+* https://github.com/unknown321/mgsmonsterguns
