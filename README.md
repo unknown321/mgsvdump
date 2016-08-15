@@ -14,6 +14,8 @@ Some info:
 * `Small_stuff` file has tiny classes with only a couple of named methods. They probably have a lot of unnamed numerical methods, but they are useless. Have some interest in them - make a dump. `Small_staff_list` has all classes from that file for easier searching.
 
 
-See also:
-* https://github.com/unknown321/mgswaifus
-* https://github.com/unknown321/mgsmonsterguns
+I also have other MGSV-related repos:
+
+ * https://github.com/unknown321/mgsv_lua_dump - dump of (probably) all lua files in the game, made for changelogs
+ * https://github.com/unknown321/mgswaifus - unique soldiers with photos and skills and everything else
+ * https://github.com/unknown321/mgsmonsterguns - how do the weapons work (and how to make monster guns).
