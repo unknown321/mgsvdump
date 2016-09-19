@@ -3,7 +3,7 @@ Dump of globals while being in ACC (tpp) and freeplay (mgo).
 
 Grep is your friend, github search is bad.
 
-Dump can be take using dumper.lua and script_loader - 
+Dump can be take using dumper.lua and script_loader - https://github.com/unknown321/mgsv_research/blob/gh-pages/mods/dumper/dumper.lua
 
 Some info:
 * C-based functions and functions with upvalues cannot be dumped, usually they have only a name ie `_G["SoundAreaGlobalBody"].OverwriteParameter()`.
