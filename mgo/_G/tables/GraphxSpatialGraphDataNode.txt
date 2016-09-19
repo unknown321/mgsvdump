@@ -1,0 +1,2 @@
+["_className"] = "GraphxSpatialGraphDataNode";
+["GetPosition"] = nil --[[functions with upvalue not supported]];

@@ -1,0 +1,4 @@
+["_className"] = "TppCoverPointProvider";
+["ClearAll"] = nil --[[functions with upvalue not supported]];
+["Create"] = nil --[[functions with upvalue not supported]];
+["CheckUsable"] = nil --[[functions with upvalue not supported]];

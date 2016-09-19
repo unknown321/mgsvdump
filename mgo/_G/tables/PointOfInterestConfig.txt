@@ -1,0 +1,9 @@
+["outpostOffsetX_4"] = 0;
+["_scriptInstanceId"] = nil --[[userdata]]
+;
+["outpostOffsetY_4"] = 0;
+["outpostOffsetY"] = 0;
+["outpostOffsetX"] = 0;
+["outpostOffsetY_2"] = 0;
+["_scriptPath"] = "PointOfInterestConfig";
+["outpostOffsetX_2"] = 0;

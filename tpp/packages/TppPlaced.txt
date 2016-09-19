@@ -1,0 +1,11 @@
+["StartToCreateFromLocators"] = nil --[[non-lua function not supported]];
+["SetFobFreePositionMineId"] = nil --[[non-lua function not supported]];
+["GetCaptureCageInfo"] = nil --[[non-lua function not supported]];
+["IsLocator"] = nil --[[non-lua function not supported]];
+["ChangeEquipIdByLocatorName"] = nil --[[non-lua function not supported]];
+["IsQuestBlock"] = nil --[[non-lua function not supported]];
+["SetCorrelationValueByLocatorName"] = nil --[[non-lua function not supported]];
+["GetLocatorIndex"] = nil --[[non-lua function not supported]];
+["DeleteAllCaptureCage"] = nil --[[non-lua function not supported]];
+["OnAllocate"] = nil --[[non-lua function not supported]];
+["SetEnableByLocatorName"] = nil --[[non-lua function not supported]];

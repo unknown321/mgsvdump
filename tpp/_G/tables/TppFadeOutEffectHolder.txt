@@ -1,0 +1,2 @@
+["_className"] = "TppFadeOutEffectHolder";
+["Create"] = nil --[[functions with upvalue not supported]];

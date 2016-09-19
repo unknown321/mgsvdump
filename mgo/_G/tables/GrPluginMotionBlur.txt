@@ -1,0 +1,2 @@
+["_className"] = "GrPluginMotionBlur";
+["__call"] = nil --[[non-lua function not supported]];

@@ -1,0 +1,2 @@
+["SetGroupUnit"] = nil --[[non-lua function not supported]];
+["ClearGroupSetting"] = nil --[[non-lua function not supported]];

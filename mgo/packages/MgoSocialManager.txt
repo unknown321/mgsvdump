@@ -1,0 +1,1 @@
+["CheckAndHandleInvite"] = nil --[[non-lua function not supported]];

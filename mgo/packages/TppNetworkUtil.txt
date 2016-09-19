@@ -1,0 +1,13 @@
+["GetSessionMemberCount"] = nil --[[non-lua function not supported]];
+["SessionEnableAccept"] = nil --[[non-lua function not supported]];
+["EnableMultiPlaySession"] = nil --[[non-lua function not supported]];
+["GetSpecifiedHostIp"] = nil --[[non-lua function not supported]];
+["IsSessionConnect"] = nil --[[non-lua function not supported]];
+["CloseSession"] = nil --[[non-lua function not supported]];
+["SetTimeOut"] = nil --[[non-lua function not supported]];
+["SessionDisconnectPreparingMembers"] = nil --[[non-lua function not supported]];
+["IsHost"] = nil --[[non-lua function not supported]];
+["SyncedExecute"] = nil --[[non-lua function not supported]];
+["SyncedExecuteSessionIndex"] = nil --[[non-lua function not supported]];
+["StartNetSynchronizer"] = nil --[[non-lua function not supported]];
+["GetSessionMemberId"] = nil --[[non-lua function not supported]];

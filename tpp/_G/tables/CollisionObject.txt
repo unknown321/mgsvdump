@@ -1,0 +1,3 @@
+["_className"] = "CollisionObject";
+["SetValidRequest"] = nil --[[functions with upvalue not supported]];
+["SetInvalidRequest"] = nil --[[functions with upvalue not supported]];

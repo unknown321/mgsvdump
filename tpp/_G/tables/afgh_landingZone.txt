@@ -1,0 +1,3 @@
+["_scriptPath"] = "afgh_landingZone";
+["_scriptInstanceId"] = nil --[[userdata]]
+;

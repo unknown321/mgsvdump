@@ -1,0 +1,2 @@
+["_className"] = "DemoBlockPositionSetterBody";
+["SetEnable"] = nil --[[functions with upvalue not supported]];

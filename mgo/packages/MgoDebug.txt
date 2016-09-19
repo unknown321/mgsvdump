@@ -1,0 +1,2 @@
+["DumpStack"] = nil --[[non-lua function not supported]];
+["Dump"] = nil --[[non-lua function not supported]];

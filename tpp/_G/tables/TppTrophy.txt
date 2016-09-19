@@ -1,0 +1,109 @@
+["DOMINATION_TARGET_CP_NAME_LIST"] = {
+["afgh_fieldWest_ob"] = true;
+["afgh_villageWest_ob"] = true;
+["mafr_outland_cp"] = true;
+["afgh_sovietBase_cp"] = true;
+["mafr_hillWest_ob"] = true;
+["afgh_tentEast_ob"] = true;
+["afgh_commFacility_cp"] = true;
+["mafr_savannahWest_ob"] = true;
+["mafr_savannahEast_ob"] = true;
+["mafr_lab_cp"] = true;
+["afgh_fort_cp"] = true;
+["mafr_flowStation_cp"] = true;
+["mafr_diamond_cp"] = true;
+["mafr_hillWestNear_ob"] = true;
+["mafr_pfCampNorth_ob"] = true;
+["afgh_commWest_ob"] = true;
+["mafr_diamondSouth_ob"] = true;
+["afgh_bridgeNorth_ob"] = true;
+["afgh_bridgeWest_ob"] = true;
+["mafr_chicoVilWest_ob"] = true;
+["afgh_powerPlant_cp"] = true;
+["mafr_swamp_cp"] = true;
+["afgh_tentNorth_ob"] = true;
+["mafr_swampWest_ob"] = true;
+["afgh_sovietSouth_ob"] = true;
+["afgh_tent_cp"] = true;
+["afgh_fortWest_ob"] = true;
+["mafr_labWest_ob"] = true;
+["afgh_fieldEast_ob"] = true;
+["mafr_factoryWest_ob"] = true;
+["mafr_diamondWest_ob"] = true;
+["mafr_diamondNorth_ob"] = true;
+["afgh_slopedWest_ob"] = true;
+["afgh_villageEast_ob"] = true;
+["mafr_factorySouth_ob"] = true;
+["mafr_hillNorth_ob"] = true;
+["afgh_remnantsNorth_ob"] = true;
+["mafr_bananaEast_ob"] = true;
+["mafr_savannahNorth_ob"] = true;
+["mafr_swampEast_ob"] = true;
+["mafr_hill_cp"] = true;
+["afgh_villageNorth_ob"] = true;
+["mafr_bananaSouth_ob"] = true;
+["afgh_cliffTown_cp"] = true;
+["afgh_slopedEast_ob"] = true;
+["mafr_outlandNorth_ob"] = true;
+["afgh_fortSouth_ob"] = true;
+["mafr_banana_cp"] = true;
+["mafr_outlandEast_ob"] = true;
+["mafr_hillSouth_ob"] = true;
+["afgh_enemyBase_cp"] = true;
+["afgh_cliffWest_ob"] = true;
+["afgh_bridge_cp"] = true;
+["afgh_enemyNorth_ob"] = true;
+["afgh_cliffSouth_ob"] = true;
+["afgh_cliffEast_ob"] = true;
+["afgh_remnants_cp"] = true;
+["mafr_pfCampEast_ob"] = true;
+["afgh_plantWest_ob"] = true;
+["mafr_swampSouth_ob"] = true;
+["afgh_field_cp"] = true;
+["mafr_savannah_cp"] = true;
+["mafr_pfCamp_cp"] = true;
+["afgh_citadelSouth_ob"] = true;
+["afgh_citadel_cp"] = true;
+["afgh_enemyEast_ob"] = true;
+["afgh_ruinsNorth_ob"] = true;
+["afgh_waterwayEast_ob"] = true;
+["afgh_village_cp"] = true;
+["afgh_slopedTown_cp"] = true;
+};
+["UnlockOnAllMissionTaskCompleted"] = nil --[[functions with upvalue not supported]];
+["UnlockOnBuddyFriendlyMax"] = nil --[[functions with upvalue not supported]];
+["BUDDY_FRIENDLY_MAX"] = {
+[1] = 27;
+[2] = 26;
+[0] = 28;
+};
+["_scriptInstanceId"] = nil --[[userdata]]
+;
+["MISSION_CLEAR"] = {
+[10020] = 2;
+[10090] = 5;
+[10280] = 10;
+[10260] = 9;
+[10010] = 1;
+[10110] = 6;
+[10140] = 7;
+[10151] = 8;
+[10070] = 4;
+[10040] = 3;
+};
+["UnlockOnMissionClear"] = nil --[[functions with upvalue not supported]];
+["UnlockOnAllQuestClear"] = nil --[[functions with upvalue not supported]];
+["_scriptPath"] = "TppTrophy";
+["Unlock"] = loadstring("LuaQ\000\000&\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppTrophy.lua\000\000\000\000 \000\000\000\000\000=\000\000\000≈\000\000\000∆@¿Å\000\000¡@‹Ä\000⁄\000\000\000@Ä≈Ä\000\000∆\000¡A\000ÅAW\000Å¿Ä≈¿\000∆\000¬∆\000Ä⁄@\000\000¿ÄZ\000\000\000@Ä¡@\000ö\000\000\000\000\000Ä¿\000\000Å\000¡BJÅ\000\000IA\000ÜI¡ÄÜA\000≈¿\000∆\000¬…ÄC\000≈¿\000∆\000ƒ\000\000\000‹@\000¬\000Ä\000A\000AÅ\000ÅA\000 ÅÄ¬\000B¬B\000\000@\000Ä¬\000\000\000\000\000Ä¡˝⁄\000\000\000¿Ä¡\000BABA\000\000Ä\000Ä¡\000BÅ√Ñ\000Ä\000\000\000\000\000\000\000\000\000\000\000TppMission\000\r\000\000\000\000\000\000\000IsFOBMission\000\000\000\000\000\000\000\000vars\000\000\000\000\000\000\000\000missionCode\000\r\000\000\000\000\000\000\000fobSneakMode\000\000\000\000\000\000\000\000FobMode\000\
+\000\000\000\000\000\000\000MODE_SHAM\000\000\000\000\000\000\000\000gvars\000\
+\000\000\000\000\000\000\000trp_isGot\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000TppHero\000\000\000\000\000\000\000\000SetAndAnnounceHeroicOgrePoint\000\000\000\000\000\000\000\000heroicPoint\000\
+\000\000\000\000\000\000\000ogrePoint\000\000\000\000\000\000\000\000Trophy\000\r\000\000\000\000\000\000\000TrophyUnlock\000\000\000\000\000\000\000?\000\000\000\000\000ÄG@\000\000\000\000=\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\
+\000\000\000\
+\000\000\000\
+\000\000\000\
+\000\000\000\
+\000\000\000\000\000\000\000\000\000\000\000\000\r\000\000\000\r\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000 \000\000\000\000\000\000\000\000\000\000\000\000\000a\000\000\000\000\000<\000\000\000\000\000\000\000\000\000\000o\000\000\000\000\000<\000\000\000\000\000\000\000\000\000\000_\000\000\000\000\000<\000\000\000\000\000\000\000\000\000\000a\000\000\000\000\000\000\000\000\000\000\000\000\000\000a\000&\000\000\000<\000\000\000\000\000\000\000\000\000\000(for index)\000)\000\000\0002\000\000\000\000\000\000\000\000\000\000(for limit)\000)\000\000\0002\000\000\000\000\000\000\000\000\000\000(for step)\000)\000\000\0002\000\000\000\000\000\000\000\000\000\000_\000*\000\000\0001\000\000\000\000\000\000\000");
+["DOMINATION_TARGET_CP_COUNT"] = {
+["afgh"] = 38;
+["mafr"] = 32;
+};

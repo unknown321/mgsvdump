@@ -1,0 +1,3 @@
+["GameObjectId"] = nil --[[non-lua function not supported]];
+["GetLocationLW"] = nil --[[non-lua function not supported]];
+["GetActor"] = nil --[[non-lua function not supported]];

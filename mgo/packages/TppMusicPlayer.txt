@@ -1,0 +1,4 @@
+["SetStructureDlc"] = nil --[[non-lua function not supported]];
+["SetTrack"] = nil --[[non-lua function not supported]];
+["SetAlbum"] = nil --[[non-lua function not supported]];
+["SetStructure"] = nil --[[non-lua function not supported]];

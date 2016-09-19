@@ -1,0 +1,2 @@
+["_className"] = "TppSimpleGameSequenceSystem";
+["Start"] = nil --[[functions with upvalue not supported]];

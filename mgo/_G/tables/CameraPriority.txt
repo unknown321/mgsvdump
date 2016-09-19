@@ -1,0 +1,2 @@
+["_className"] = "CameraPriority";
+["RegisterPriorities"] = nil --[[functions with upvalue not supported]];

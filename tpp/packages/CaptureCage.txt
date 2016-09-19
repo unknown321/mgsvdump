@@ -1,0 +1,2 @@
+["RegisterCaptureAnimal"] = nil --[[non-lua function not supported]];
+["GetCaptureAnimalList"] = nil --[[non-lua function not supported]];

@@ -1,2 +1,0 @@
-LipSyncDaemon
-	Create()

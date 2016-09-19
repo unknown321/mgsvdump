@@ -1,0 +1,7 @@
+["_className"] = "Script";
+["IsLoadingLibrary"] = nil --[[functions with upvalue not supported]];
+["ReloadAll"] = nil --[[functions with upvalue not supported]];
+["LoadLibraryAsync"] = nil --[[functions with upvalue not supported]];
+["LoadLibrary"] = nil --[[functions with upvalue not supported]];
+["DebugSetAlwaysLoadingFileEnabled"] = nil --[[functions with upvalue not supported]];
+["GetScript"] = nil --[[functions with upvalue not supported]];

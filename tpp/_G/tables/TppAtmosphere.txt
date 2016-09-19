@@ -1,0 +1,2 @@
+["_className"] = "TppAtmosphere";
+["StartSkyCapture"] = nil --[[functions with upvalue not supported]];

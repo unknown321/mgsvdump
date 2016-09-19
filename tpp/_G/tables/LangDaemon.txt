@@ -1,0 +1,4 @@
+["_className"] = "LangDaemon";
+["GetInstance"] = nil --[[functions with upvalue not supported]];
+["GetManager"] = nil --[[functions with upvalue not supported]];
+["__call"] = nil --[[non-lua function not supported]];

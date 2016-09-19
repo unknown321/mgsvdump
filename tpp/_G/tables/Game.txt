@@ -1,0 +1,14 @@
+["_className"] = "Game";
+["ExportDataRelationGraph"] = nil --[[functions with upvalue not supported]];
+["GetBucket"] = nil --[[functions with upvalue not supported]];
+["PostDataBodyReset"] = nil --[[functions with upvalue not supported]];
+["DeleteScene"] = nil --[[functions with upvalue not supported]];
+["GetScene"] = nil --[[functions with upvalue not supported]];
+["CreateScene"] = nil --[[functions with upvalue not supported]];
+["CreateBucket"] = nil --[[functions with upvalue not supported]];
+["GetMainBucket"] = nil --[[functions with upvalue not supported]];
+["DeleteBucket"] = nil --[[functions with upvalue not supported]];
+["SetName"] = nil --[[functions with upvalue not supported]];
+["SetMainBucket"] = nil --[[functions with upvalue not supported]];
+["PostDataBodyRecreation"] = nil --[[functions with upvalue not supported]];
+["__call"] = nil --[[non-lua function not supported]];

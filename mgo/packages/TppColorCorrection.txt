@@ -1,0 +1,4 @@
+["SetLUT"] = nil --[[non-lua function not supported]];
+["RemoveParameter"] = nil --[[non-lua function not supported]];
+["SetParameter"] = nil --[[non-lua function not supported]];
+["RemoveLUT"] = nil --[[non-lua function not supported]];

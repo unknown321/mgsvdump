@@ -1,0 +1,5 @@
+["SetLimitGlobalTimeRate"] = nil --[[non-lua function not supported]];
+["SetLimitInstanceMemorySize"] = nil --[[non-lua function not supported]];
+["ResetLimitInstanceMemorySize"] = nil --[[non-lua function not supported]];
+["SetLimitInstanceMemoryDefaultSize"] = nil --[[non-lua function not supported]];
+["SetExecutionPrioritySetting"] = nil --[[non-lua function not supported]];

@@ -1,0 +1,3 @@
+["Vote"] = nil --[[non-lua function not supported]];
+["Create"] = nil --[[non-lua function not supported]];
+["Config"] = nil --[[non-lua function not supported]];

@@ -1,0 +1,15 @@
+["IsDynamicBlockLoaded"] = nil --[[non-lua function not supported]];
+["GetRulesetScriptVarsValueById"] = nil --[[non-lua function not supported]];
+["SPECIAL_ROLE_NONE"] = 3;
+["IsCommonBlockLoaded"] = nil --[[non-lua function not supported]];
+["SPECIAL_ROLE_SNAKE"] = 0;
+["SPECIAL_ROLE_QUIET"] = 2;
+["HasDynamicBlock"] = nil --[[non-lua function not supported]];
+["IsMapBlockLoaded"] = nil --[[non-lua function not supported]];
+["GetActiveRuleset"] = nil --[[non-lua function not supported]];
+["ReloadRuleset"] = nil --[[non-lua function not supported]];
+["HasBlockController"] = nil --[[non-lua function not supported]];
+["HasCommonBlock"] = nil --[[non-lua function not supported]];
+["Config"] = nil --[[non-lua function not supported]];
+["SPECIAL_ROLE_OCELOT"] = 1;
+["HasMapBlock"] = nil --[[non-lua function not supported]];

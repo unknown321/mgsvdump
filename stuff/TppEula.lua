@@ -1,2 +1,0 @@
-TppEula
-	Start()

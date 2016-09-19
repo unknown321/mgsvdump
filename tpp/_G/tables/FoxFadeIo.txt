@@ -1,0 +1,12 @@
+["_className"] = "FoxFadeIo";
+["FadeOut"] = nil --[[functions with upvalue not supported]];
+["SetPadReleaseMode"] = nil --[[functions with upvalue not supported]];
+["ResetFadeLock"] = nil --[[functions with upvalue not supported]];
+["Create"] = nil --[[functions with upvalue not supported]];
+["IsFadeProcessing"] = nil --[[functions with upvalue not supported]];
+["SetFadeLock"] = nil --[[functions with upvalue not supported]];
+["FadeDisregard"] = nil --[[functions with upvalue not supported]];
+["IsPadReleaseMode"] = nil --[[functions with upvalue not supported]];
+["WhiteFadeOut"] = nil --[[functions with upvalue not supported]];
+["EditModeDisregard"] = nil --[[functions with upvalue not supported]];
+["FadeIn"] = nil --[[functions with upvalue not supported]];

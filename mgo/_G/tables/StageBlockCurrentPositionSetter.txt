@@ -1,0 +1,7 @@
+[143846675] = nil --[[non-lua function not supported]];
+[-285212672] = 4;
+[87560036] = nil --[[non-lua function not supported]];
+[80171496] = nil --[[non-lua function not supported]];
+[143846671] = nil --[[non-lua function not supported]];
+[-285212671] = {
+};

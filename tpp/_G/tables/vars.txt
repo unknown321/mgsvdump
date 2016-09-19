@@ -1,0 +1,2589 @@
+["importantItems"] = {
+[-285212666] = 32;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmWeaponPartsUnderBarrelStatus"] = {
+[-285212666] = 23;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmDeployMissionAveRanksSvars"] = {
+[-285212666] = 71;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmDeployTeamSubPoints"] = {
+[-285212666] = 11;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["userPresetBuddyHorseParts"] = {
+[-285212666] = 3;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["cboxEquipId"] = {
+[-285212666] = 16;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmClusterTimeMinutes"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["personalName"] = {
+[-285212666] = 64;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["suitDevelopLevel"] = {
+[-285212666] = 91;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["emblemRotate"] = {
+[-285212666] = 4;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["droppedWeaponPos"] = {
+[-285212666] = 9;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmServerDevelopUsageResourceType1Counts"] = {
+[-285212666] = 320;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["returnHeliLoadoutInfoU8buf"] = {
+[-285212666] = 460;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["placedWeapons"] = {
+[-285212666] = 32;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecurityCommonPlatform1MineCounts"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["placedPos"] = {
+[-285212666] = 96;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["checkPointGimmickPermanentGimmickSaveData"] = {
+[-285212666] = 2592;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["itemLevelsDeveloped"] = {
+[-285212666] = 72;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["userPresetDWalkerAdditionalPartsLevel"] = {
+[-285212666] = 12;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["supCboxLevels"] = {
+[-285212666] = 13;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["buddyFriendlyPointMissionStart"] = {
+[-285212666] = 8;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["dlcPermittedFlag"] = {
+[-285212666] = 2;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmDeployTeamSvarsTruckWestCount"] = {
+[-285212666] = 22;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["initChimeraColorIndex"] = {
+[-285212666] = 3;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["requestWeatherUserId"] = {
+[-285212666] = 5;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecurityCommonPlatform1PlacedFreeCameraCounts"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["ammoSubInWeapons"] = {
+[-285212665] = nil --[[userdata]]
+;
+[-285212666] = 6;
+
+
+};
+["mbmServerDevelopIds"] = {
+[-285212666] = 320;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["importantItemPos"] = {
+[-285212666] = 96;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["optionSelectedIndices"] = {
+[-285212666] = 32;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["ammoStockCounts"] = {
+[-285212665] = nil --[[userdata]]
+;
+[-285212666] = 46;
+
+
+};
+["cboxFlag"] = {
+[-285212666] = 16;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["suppressorLives"] = {
+[-285212666] = 6;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecurityCommonPlatform2MineCounts"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["cboxLocation"] = {
+[-285212666] = 64;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["emblemTextureTag"] = {
+[-285212666] = 4;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["reliefVehicleCarryAmmo"] = {
+[-285212666] = 3;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["playerDecoyAngleBallon"] = {
+[-285212666] = 12;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecuritySpecialPlatformUavCounts"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["buddyFriendlyMaxPoint"] = {
+[-285212666] = 8;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["emblemY"] = {
+[-285212666] = 4;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecurityCommonPlatform1CameraCounts"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmResourceSvars1Fix"] = {
+[-285212666] = 59;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["keybordNo"] = {
+[-285212666] = 120;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["weaponOriginalOwners"] = {
+[-285212666] = 3;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["importantItemStatus"] = {
+[-285212666] = 32;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmPfRatingShortMatchSections"] = {
+[-285212666] = 15;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["playerDecoyInstanceIndicies"] = {
+[-285212666] = 12;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["droppedWeaponStatus"] = {
+[-285212666] = 3;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["userPresetHeliParts"] = {
+[-285212666] = 5;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["buddyFriendlyCount"] = {
+[-285212666] = 64;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["userPresetChimeraParts"] = {
+[-285212666] = 288;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecuritySpecialPlatformPlacedFreeMineCounts"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["emblemScale"] = {
+[-285212666] = 4;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["initialBuddyPosMissionStart"] = {
+[-285212666] = 3;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["captureAreaName"] = {
+[-285212666] = 16;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["requestWeatherType"] = {
+[-285212666] = 5;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmRedContainerCountsSvarsFix"] = {
+[-285212666] = 5;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmWeaponPartsBarrelStatus"] = {
+[-285212666] = 115;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["reliefVehicleCarryLife"] = {
+[-285212666] = 12;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecuritySpecialPlatformSoldierCounts"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmDeployTeamSvarsWalkerGearCfaBattleCount"] = {
+[-285212666] = 22;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["cboxPosterIndices"] = {
+[-285212666] = 16;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["cboxPosterType"] = {
+[-285212666] = 16;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmDeployTeamSvars4wdWestCount"] = {
+[-285212666] = 22;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["isInitialWeapon"] = {
+[-285212665] = nil --[[userdata]]
+;
+[-285212666] = 6;
+
+
+};
+["mbmSecurityCommonPlatform1UavCounts"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmPfRatingRankingPlayerRankDiffs"] = {
+[-285212666] = 16;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["userPresetChimeraColorIndex"] = {
+[-285212666] = 24;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["loadoutInfoU32buf"] = {
+[-285212666] = 68;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["playerCameraRotation"] = {
+[-285212665] = nil --[[userdata]]
+;
+[-285212666] = 2;
+
+
+};
+["mbmWeaponPartsSightStatus"] = {
+[-285212666] = 25;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmDeployTeamSvarsTruckEastCount"] = {
+[-285212666] = 22;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["dirtyEffectPosition"] = {
+[-285212666] = 192;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmOnlineOffsetEquipParamStatus"] = {
+[-285212666] = 1024;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["importantItemRot"] = {
+[-285212666] = 128;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmResourceSvars2Diff"] = {
+[-285212666] = 59;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["totalPlayTime"] = {
+[-285212666] = 8;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmPfRatingRankingPlayerRanks"] = {
+[-285212666] = 16;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["missionStartGimmickIndelibleName"] = {
+[-285212666] = 64;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmStaffSvarsStatusesNoSync"] = {
+[-285212666] = 3500;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["droppedSuppressorLife"] = {
+[-285212666] = 3;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecurityCommonPlatform2CameraCounts"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["placedAttachTargetGameObjectType"] = {
+[-285212666] = 32;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmWeaponPartsMuzzleStatus"] = {
+[-285212666] = 29;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmRemoverSvarsStatusesNoSync"] = {
+[-285212666] = 64;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["dirtyEffectBoneIndex"] = {
+[-285212666] = 64;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmDeployTeamSvars4wdEastCount"] = {
+[-285212666] = 22;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+[-285212671] = {
+["weatherNextTime"] = nil --[[functions with upvalue not supported]];
+["personalBirthdayMonth"] = nil --[[functions with upvalue not supported]];
+["buddyQuietCostumeType"] = nil --[[functions with upvalue not supported]];
+["mbmPdTotalAddedSoldierStaffCount"] = nil --[[functions with upvalue not supported]];
+["totalMarkingCount"] = nil --[[functions with upvalue not supported]];
+["requestFlagsAboutEquip"] = nil --[[functions with upvalue not supported]];
+["mbmNuclearDevelopStartTime"] = nil --[[functions with upvalue not supported]];
+["totalTakeHitCount"] = nil --[[functions with upvalue not supported]];
+["totalMovingDistanceOnVehicle"] = nil --[[functions with upvalue not supported]];
+["supCboxEquipId"] = nil --[[functions with upvalue not supported]];
+["infoIdForMGO"] = nil --[[functions with upvalue not supported]];
+["currentInventorySlot"] = nil --[[functions with upvalue not supported]];
+["captureAnimalIndex"] = nil --[[functions with upvalue not supported]];
+["mbmPreciousMetalProcessingElapsedTimeMinute"] = nil --[[functions with upvalue not supported]];
+["userMarkerSaveCount"] = nil --[[functions with upvalue not supported]];
+["handEquip2"] = nil --[[functions with upvalue not supported]];
+["mbmPandemicElapsedTimeMinuteSvars"] = nil --[[functions with upvalue not supported]];
+["mbmDeploySequentialMissionIdLimitSvars"] = nil --[[functions with upvalue not supported]];
+["mbmPfRatingRankingSaveSection"] = nil --[[functions with upvalue not supported]];
+["inquiryId"] = nil --[[functions with upvalue not supported]];
+["weather"] = nil --[[functions with upvalue not supported]];
+["mbmClearedCountOfflineDeploy"] = nil --[[functions with upvalue not supported]];
+["mbmStaffSyncVersion"] = nil --[[functions with upvalue not supported]];
+["avatarHeadPresetID"] = nil --[[functions with upvalue not supported]];
+["fobResultRankingDateTime"] = nil --[[functions with upvalue not supported]];
+["mbmLanguageElapsedTimeMinuteSvars"] = nil --[[functions with upvalue not supported]];
+["mbmPfRatingReadDefenseMatchFlag"] = nil --[[functions with upvalue not supported]];
+["mbmCompAnimal"] = nil --[[functions with upvalue not supported]];
+["avatarAccessoryPresetID"] = nil --[[functions with upvalue not supported]];
+["playerPosX"] = nil --[[functions with upvalue not supported]];
+["sortieBuddyTypeMissionStart"] = nil --[[functions with upvalue not supported]];
+["mbmDisableKikongoFirst"] = nil --[[functions with upvalue not supported]];
+["playerFaceId"] = nil --[[functions with upvalue not supported]];
+["locationCodeOfCollectionMoved"] = nil --[[functions with upvalue not supported]];
+["mbmPdTotalAddedGmpT"] = nil --[[functions with upvalue not supported]];
+["mbmBecomeMedicalSectionLvMax"] = nil --[[functions with upvalue not supported]];
+["playerMarkingCountInMission"] = nil --[[functions with upvalue not supported]];
+["mbLayoutCode"] = nil --[[functions with upvalue not supported]];
+["buddyGearMainWPGrade"] = nil --[[functions with upvalue not supported]];
+["fobIsInitializedFreePositionItem"] = nil --[[functions with upvalue not supported]];
+["buddyDogEyeType"] = nil --[[functions with upvalue not supported]];
+["mbmTppHeroicPoint"] = nil --[[functions with upvalue not supported]];
+["mbmPandemicSpreadAttackCount"] = nil --[[functions with upvalue not supported]];
+["avatarHairColor"] = nil --[[functions with upvalue not supported]];
+["isRussianTranslatable"] = nil --[[functions with upvalue not supported]];
+["mbmBecomeAllSectionLvMax"] = nil --[[functions with upvalue not supported]];
+["avatarBeardPresetID"] = nil --[[functions with upvalue not supported]];
+["infoId"] = nil --[[functions with upvalue not supported]];
+["mbmPdTotalAddedVolunteerStaffCount"] = nil --[[functions with upvalue not supported]];
+["avatarCheekPresetID"] = nil --[[functions with upvalue not supported]];
+["isAfrikaansTranslatable"] = nil --[[functions with upvalue not supported]];
+["avatarChinPresetID"] = nil --[[functions with upvalue not supported]];
+["mbmAutoGmpElapsedTimeMinuteSvars"] = nil --[[functions with upvalue not supported]];
+["initialPlayerPosZ"] = nil --[[functions with upvalue not supported]];
+["buddyDogFlag"] = nil --[[functions with upvalue not supported]];
+["emblemSyncFailed2"] = nil --[[functions with upvalue not supported]];
+["mbmLockedTanFlag"] = nil --[[functions with upvalue not supported]];
+["mbmBaseColorGotFlag"] = nil --[[functions with upvalue not supported]];
+["avatarReserve1"] = nil --[[functions with upvalue not supported]];
+["mbmS10081CaptiveStaffSvarsStatusSync"] = nil --[[functions with upvalue not supported]];
+["totalMovingDistanceAtStand"] = nil --[[functions with upvalue not supported]];
+["mbmInitializedServerWalletFlagDay1"] = nil --[[functions with upvalue not supported]];
+["buddyGearHeadGrade"] = nil --[[functions with upvalue not supported]];
+["playerStaffSeed"] = nil --[[functions with upvalue not supported]];
+["buddyCommonFlagMissionStart"] = nil --[[functions with upvalue not supported]];
+["initialBuddyRotYMissionStart"] = nil --[[functions with upvalue not supported]];
+["playerVehicleGameObjectId"] = nil --[[functions with upvalue not supported]];
+["playerStaffHeader"] = nil --[[functions with upvalue not supported]];
+["mbmOpenedRRandomMission"] = nil --[[functions with upvalue not supported]];
+["isServerDataCleared"] = nil --[[functions with upvalue not supported]];
+["rulesetDynamicPackIndices"] = nil --[[functions with upvalue not supported]];
+["clock"] = nil --[[functions with upvalue not supported]];
+["emblemVersion"] = nil --[[functions with upvalue not supported]];
+["buddyGearArmGrade"] = nil --[[functions with upvalue not supported]];
+["avatarFaceTypeIndex"] = nil --[[functions with upvalue not supported]];
+["initialPlayerRotY"] = nil --[[functions with upvalue not supported]];
+["mbmBecomeBaseDevSectionLvMax"] = nil --[[functions with upvalue not supported]];
+["reliefVehicleCarryState"] = nil --[[functions with upvalue not supported]];
+["handEquip"] = nil --[[functions with upvalue not supported]];
+["missionCodeMarkingsOfPlaced"] = nil --[[functions with upvalue not supported]];
+["supAttackWaitTime"] = nil --[[functions with upvalue not supported]];
+["totalAlertCount"] = nil --[[functions with upvalue not supported]];
+["obtainedBuddyType"] = nil --[[functions with upvalue not supported]];
+["mbmPandemicSpreadAttackLimitCount"] = nil --[[functions with upvalue not supported]];
+["initialPlayerPairGameObjectId"] = nil --[[functions with upvalue not supported]];
+["playerBodyInjuryCount"] = nil --[[functions with upvalue not supported]];
+["mbmDlcWeaponColorNewFlag"] = nil --[[functions with upvalue not supported]];
+["mbmPfRatingCommonFlag"] = nil --[[functions with upvalue not supported]];
+["initialBuddyStatus"] = nil --[[functions with upvalue not supported]];
+["avatarMouthPresetID"] = nil --[[functions with upvalue not supported]];
+["avatarSkinColorPresetID"] = nil --[[functions with upvalue not supported]];
+["totalMovingDistanceOnHorse"] = nil --[[functions with upvalue not supported]];
+["mbmBipedalismWeaponDevelopmentSkill"] = nil --[[functions with upvalue not supported]];
+["playerLifeMax"] = nil --[[functions with upvalue not supported]];
+["collectionMovedIndexEnd"] = nil --[[functions with upvalue not supported]];
+["buddyType"] = nil --[[functions with upvalue not supported]];
+["avatarSaveIsValid"] = nil --[[functions with upvalue not supported]];
+["playerCamoType"] = nil --[[functions with upvalue not supported]];
+["mbmPdTotalDefectionCount"] = nil --[[functions with upvalue not supported]];
+["sortiePrepPlayerSnakeSuitLevel"] = nil --[[functions with upvalue not supported]];
+["buddyDogColorType"] = nil --[[functions with upvalue not supported]];
+["locationCode"] = nil --[[functions with upvalue not supported]];
+["userPresetBattleGearCurrentSlot"] = nil --[[functions with upvalue not supported]];
+["buddyDogEquipType"] = nil --[[functions with upvalue not supported]];
+["fobIsSneak"] = nil --[[functions with upvalue not supported]];
+["supAttackCommonValue"] = nil --[[functions with upvalue not supported]];
+["totalReflexCount"] = nil --[[functions with upvalue not supported]];
+["disableCallBuddyType"] = nil --[[functions with upvalue not supported]];
+["avatarFaceRaceIndex"] = nil --[[functions with upvalue not supported]];
+["mbmIsOpenedMedicalSection"] = nil --[[functions with upvalue not supported]];
+["avatarRightEyeColorIndex"] = nil --[[functions with upvalue not supported]];
+["deadBuddyTypeMissionStart"] = nil --[[functions with upvalue not supported]];
+["initialBuddyRotY"] = nil --[[functions with upvalue not supported]];
+["battleGearColoring1"] = nil --[[functions with upvalue not supported]];
+["avatarBerdLength"] = nil --[[functions with upvalue not supported]];
+["buddyHorseHeadDesignType"] = nil --[[functions with upvalue not supported]];
+["mbmStaffListAssignListModeSvars"] = nil --[[functions with upvalue not supported]];
+["totalChickenCapTime"] = nil --[[functions with upvalue not supported]];
+["avatarEbrwStyle"] = nil --[[functions with upvalue not supported]];
+["initialPlayerPosX"] = nil --[[functions with upvalue not supported]];
+["pfRatingPoint"] = nil --[[functions with upvalue not supported]];
+["fobSneakMode"] = nil --[[functions with upvalue not supported]];
+["padType"] = nil --[[functions with upvalue not supported]];
+["mbmBecomeSecuritySectionLvMax"] = nil --[[functions with upvalue not supported]];
+["mbmHighestTotalSectionLv"] = nil --[[functions with upvalue not supported]];
+["mbmEnmityElapsedTimeMinuteSvars"] = nil --[[functions with upvalue not supported]];
+["mbmDlcWeaponColorNewFlag2"] = nil --[[functions with upvalue not supported]];
+["avatarEbrwWide"] = nil --[[functions with upvalue not supported]];
+["mbmIsOpenedHospitalSection"] = nil --[[functions with upvalue not supported]];
+["playerPhase"] = nil --[[functions with upvalue not supported]];
+["totalMovingDistanceAtSquat"] = nil --[[functions with upvalue not supported]];
+["userPresetDWalkerCurrentSlot"] = nil --[[functions with upvalue not supported]];
+["fobEventResultRankingDateTime"] = nil --[[functions with upvalue not supported]];
+["mbmAutoResourceElapsedTimeMinuteSvars"] = nil --[[functions with upvalue not supported]];
+["totalDiscoveredCount"] = nil --[[functions with upvalue not supported]];
+["userMarkerLocationId"] = nil --[[functions with upvalue not supported]];
+["heliMusicTrackID"] = nil --[[functions with upvalue not supported]];
+["doesNotRestoreCommandClusterGradeFromLayoutCode"] = nil --[[functions with upvalue not supported]];
+["heliMusicType"] = nil --[[functions with upvalue not supported]];
+["mbClusterId"] = nil --[[functions with upvalue not supported]];
+["sortiePrepPlayerSnakeCamoType"] = nil --[[functions with upvalue not supported]];
+["mbmPdTotalAddedHeroicPoint"] = nil --[[functions with upvalue not supported]];
+["mbDvcTutorialFlag"] = nil --[[functions with upvalue not supported]];
+["totalMovingDistanceOnBattleGear"] = nil --[[functions with upvalue not supported]];
+["stealthAssistLeftCount"] = nil --[[functions with upvalue not supported]];
+["currentItemIndex"] = nil --[[functions with upvalue not supported]];
+["playerRecoveryCountFromOgre"] = nil --[[functions with upvalue not supported]];
+["battleGearSubWPType"] = nil --[[functions with upvalue not supported]];
+["tppTransferAcquiredFlag"] = nil --[[functions with upvalue not supported]];
+["tppTransferFlag"] = nil --[[functions with upvalue not supported]];
+["sortiePrepPlayerSnakeFaceEquipId"] = nil --[[functions with upvalue not supported]];
+["supAttackLocationOnSave"] = nil --[[functions with upvalue not supported]];
+["mbmTreatmentElapsedTimeMinute"] = nil --[[functions with upvalue not supported]];
+["mbmFuelResourceProcessingElapsedTimeMinute"] = nil --[[functions with upvalue not supported]];
+["avatarReserve2"] = nil --[[functions with upvalue not supported]];
+["mbmDlcWeaponColorGotFlag2"] = nil --[[functions with upvalue not supported]];
+["supAttackFlags"] = nil --[[functions with upvalue not supported]];
+["supAttackLevelAttack"] = nil --[[functions with upvalue not supported]];
+["supAttackLevelWait"] = nil --[[functions with upvalue not supported]];
+["buddyGearBodyGrade"] = nil --[[functions with upvalue not supported]];
+["supAttackAttackType"] = nil --[[functions with upvalue not supported]];
+["loadoutInfoSaveFormVersion"] = nil --[[functions with upvalue not supported]];
+["buddyHorseType"] = nil --[[functions with upvalue not supported]];
+["mbmIsOpenedPrisonSection"] = nil --[[functions with upvalue not supported]];
+["avatarReserve0"] = nil --[[functions with upvalue not supported]];
+["supCboxLocationOnSave"] = nil --[[functions with upvalue not supported]];
+["faceEquipId2"] = nil --[[functions with upvalue not supported]];
+["supCboxFlags"] = nil --[[functions with upvalue not supported]];
+["supCboxFallHeight"] = nil --[[functions with upvalue not supported]];
+["mbmS10081CaptiveStaffSvarsHeader"] = nil --[[functions with upvalue not supported]];
+["mbmBanHeuy"] = nil --[[functions with upvalue not supported]];
+["mbmS10081CaptiveStaffSvarsStatusNoSync"] = nil --[[functions with upvalue not supported]];
+["mbmNRandomMissionClearedCount"] = nil --[[functions with upvalue not supported]];
+["mbmBecomeSpySectionLvMax"] = nil --[[functions with upvalue not supported]];
+["clockTimeScale"] = nil --[[functions with upvalue not supported]];
+["supCboxLevelWait"] = nil --[[functions with upvalue not supported]];
+["mbmBioticResourceProcessingElapsedTimeMinute"] = nil --[[functions with upvalue not supported]];
+["avatarEyebrowPresetID"] = nil --[[functions with upvalue not supported]];
+["missionHeroicPoint"] = nil --[[functions with upvalue not supported]];
+["supCboxDropType"] = nil --[[functions with upvalue not supported]];
+["deadBuddyType"] = nil --[[functions with upvalue not supported]];
+["mbmTppOgrePoint"] = nil --[[functions with upvalue not supported]];
+["mbmNewestNRandomMissionId"] = nil --[[functions with upvalue not supported]];
+["mbmPfRatingReadAttackMatchFlag"] = nil --[[functions with upvalue not supported]];
+["supCboxSaveFormVersion"] = nil --[[functions with upvalue not supported]];
+["mbmNotHeroThreshold"] = nil --[[functions with upvalue not supported]];
+["mbmBaseColorNewFlag"] = nil --[[functions with upvalue not supported]];
+["checkPointGimmickIndelibleCount"] = nil --[[functions with upvalue not supported]];
+["pushToTalk"] = nil --[[functions with upvalue not supported]];
+["currentForRentLoadoutSlotIndex"] = nil --[[functions with upvalue not supported]];
+["passageSecondsSinceOutMB"] = nil --[[functions with upvalue not supported]];
+["armRocketXIsReverse"] = nil --[[functions with upvalue not supported]];
+["mbmPoolRewardsSyncVersion"] = nil --[[functions with upvalue not supported]];
+["avatarHairPresetID"] = nil --[[functions with upvalue not supported]];
+["mbmBattleGearDeployingTeam"] = nil --[[functions with upvalue not supported]];
+["rulesetId"] = nil --[[functions with upvalue not supported]];
+["isAvatarPlayerEnable"] = nil --[[functions with upvalue not supported]];
+["mbmIsVisitedFobDeployWelcomeMessage2"] = nil --[[functions with upvalue not supported]];
+["playerRetryFlag"] = nil --[[functions with upvalue not supported]];
+["avatarFaceVariationIndex"] = nil --[[functions with upvalue not supported]];
+["currentSupportWeaponIndex"] = nil --[[functions with upvalue not supported]];
+["mbmCompPhoto"] = nil --[[functions with upvalue not supported]];
+["returnStaffHeader"] = nil --[[functions with upvalue not supported]];
+["mbmDeployRandomMissionSeedSvars"] = nil --[[functions with upvalue not supported]];
+["mbmIsOpenedBaseDevSection"] = nil --[[functions with upvalue not supported]];
+["buddyGearArmType"] = nil --[[functions with upvalue not supported]];
+["initialPlayerAction"] = nil --[[functions with upvalue not supported]];
+["initialPlayerFlag"] = nil --[[functions with upvalue not supported]];
+["mbmDlcWeaponColorGotFlag"] = nil --[[functions with upvalue not supported]];
+["mbmChallengeTaskOnlineVersionWindowOpen"] = nil --[[functions with upvalue not supported]];
+["rentalLoadoutPlayerId"] = nil --[[functions with upvalue not supported]];
+["mbmDeployableBattleGear"] = nil --[[functions with upvalue not supported]];
+["mbmPfRatingShortReadDefenseMatchFlag"] = nil --[[functions with upvalue not supported]];
+["mbmIsNuclearDeveloped"] = nil --[[functions with upvalue not supported]];
+["mbmPfRatingShortReadAttackMatchFlag"] = nil --[[functions with upvalue not supported]];
+["mbmPfRatingShortSaveSeason"] = nil --[[functions with upvalue not supported]];
+["sortiePrepPlayerDDCamoType"] = nil --[[functions with upvalue not supported]];
+["mbmPfRatingSaveSeason"] = nil --[[functions with upvalue not supported]];
+["initialPlayerVehicleGameObjectId"] = nil --[[functions with upvalue not supported]];
+["missionStartGimmickIndelibleCount"] = nil --[[functions with upvalue not supported]];
+["armRocketYIsReverse"] = nil --[[functions with upvalue not supported]];
+["buddyGearSubWPType"] = nil --[[functions with upvalue not supported]];
+["mbmDeployRewardSyncVersion"] = nil --[[functions with upvalue not supported]];
+["currentSortieLoadoutSlotNonRental"] = nil --[[functions with upvalue not supported]];
+["buddyQuietEquipType"] = nil --[[functions with upvalue not supported]];
+["playerRotY"] = nil --[[functions with upvalue not supported]];
+["buddyGearMainWPType"] = nil --[[functions with upvalue not supported]];
+["mbmCurrentNamePlateId"] = nil --[[functions with upvalue not supported]];
+["mbmPdTotalSubtractedHeroicPoint"] = nil --[[functions with upvalue not supported]];
+["playerOgrePointOnStartMission"] = nil --[[functions with upvalue not supported]];
+["mbDvcTopMenuFlag"] = nil --[[functions with upvalue not supported]];
+["mbmPdTotalSubtractedGmp"] = nil --[[functions with upvalue not supported]];
+["avatarHairStyleIndex"] = nil --[[functions with upvalue not supported]];
+["mbmPdTotalAddedGmp"] = nil --[[functions with upvalue not supported]];
+["mbmPandemicEventMode"] = nil --[[functions with upvalue not supported]];
+["mbmPdTotalFireCount"] = nil --[[functions with upvalue not supported]];
+["playerInjuryCount"] = nil --[[functions with upvalue not supported]];
+["battleGearAmmoCountSub"] = nil --[[functions with upvalue not supported]];
+["obtainedBuddyTypeMissionStart"] = nil --[[functions with upvalue not supported]];
+["mbmMinorMetalProcessingElapsedTimeMinute"] = nil --[[functions with upvalue not supported]];
+["eulaVersion"] = nil --[[functions with upvalue not supported]];
+["mbmPdTotalAddedHostageStaffCount"] = nil --[[functions with upvalue not supported]];
+["totalBatteryPowerAsGmp"] = nil --[[functions with upvalue not supported]];
+["mbmNuclearDevelopMaxTime"] = nil --[[functions with upvalue not supported]];
+["mbmNuclearDevelopTime"] = nil --[[functions with upvalue not supported]];
+["mbmIsNuclearDeveloping"] = nil --[[functions with upvalue not supported]];
+["missionOgrePoint"] = nil --[[functions with upvalue not supported]];
+["mbmIsNuclearDiscarded"] = nil --[[functions with upvalue not supported]];
+["mbmIsEnableNuclearDevelop"] = nil --[[functions with upvalue not supported]];
+["sortiePrepPlayerDDFaceEquipId"] = nil --[[functions with upvalue not supported]];
+["mbmIsOpenedSpySection"] = nil --[[functions with upvalue not supported]];
+["mbmRequestMisogi"] = nil --[[functions with upvalue not supported]];
+["mbmIsOpenedCombatSection"] = nil --[[functions with upvalue not supported]];
+["supCboxPhaseForSave"] = nil --[[functions with upvalue not supported]];
+["mbmDemoAttackedFromOtherPlayerKnowWhereFrom"] = nil --[[functions with upvalue not supported]];
+["mbmRequestDemoAttackedFromOtherPlayer"] = nil --[[functions with upvalue not supported]];
+["returnHeliLoadoutInfoSaveFormVersion"] = nil --[[functions with upvalue not supported]];
+["mbmAddRemoverIndexSvars"] = nil --[[functions with upvalue not supported]];
+["supCboxAdvancedRate"] = nil --[[functions with upvalue not supported]];
+["mbmS10081CaptiveStaffSvarsSeed"] = nil --[[functions with upvalue not supported]];
+["buddyGearSubWPGrade"] = nil --[[functions with upvalue not supported]];
+["totalChickCapTime"] = nil --[[functions with upvalue not supported]];
+["initialBuddyStatusMissionStart"] = nil --[[functions with upvalue not supported]];
+["totalMovingDistanceOnWalkerGear"] = nil --[[functions with upvalue not supported]];
+["mbmIsOpenedSeparationSection"] = nil --[[functions with upvalue not supported]];
+["mbmHeroThreshold"] = nil --[[functions with upvalue not supported]];
+["mbmClearedCountOnlineDeploy"] = nil --[[functions with upvalue not supported]];
+["mbmIsCancelAllDeploy"] = nil --[[functions with upvalue not supported]];
+["shootHitCountInMission"] = nil --[[functions with upvalue not supported]];
+["mbmFobDefenseWinCount"] = nil --[[functions with upvalue not supported]];
+["mbmCompSequential"] = nil --[[functions with upvalue not supported]];
+["mbmAddDeployLogIndex"] = nil --[[functions with upvalue not supported]];
+["emblemSyncFailed"] = nil --[[functions with upvalue not supported]];
+["mbmPfRatingShortRankingSaveSection"] = nil --[[functions with upvalue not supported]];
+["mbmDeploySequentialMissionIdSvars"] = nil --[[functions with upvalue not supported]];
+["buddyGearReloadGrade"] = nil --[[functions with upvalue not supported]];
+["mbmIsVisitedFobDeployWelcomeMessage1"] = nil --[[functions with upvalue not supported]];
+["mbmCompDesign"] = nil --[[functions with upvalue not supported]];
+["prevLocationCode"] = nil --[[functions with upvalue not supported]];
+["mbmFobDefenseLoseCount"] = nil --[[functions with upvalue not supported]];
+["mbmNuclearSynchronizedDay50"] = nil --[[functions with upvalue not supported]];
+["mbmNuclearWeaponLocalCountPatchingDay50"] = nil --[[functions with upvalue not supported]];
+["mbmIsInitializedDay50"] = nil --[[functions with upvalue not supported]];
+["mbmCompMb"] = nil --[[functions with upvalue not supported]];
+["mbmUserPresetBaseColor"] = nil --[[functions with upvalue not supported]];
+["sortiePrepPlayerDDSuitLevel"] = nil --[[functions with upvalue not supported]];
+["playerType"] = nil --[[functions with upvalue not supported]];
+["camoType2"] = nil --[[functions with upvalue not supported]];
+["shootHitCountEliminatedInMission"] = nil --[[functions with upvalue not supported]];
+["mbmIsContractOutDisplayed"] = nil --[[functions with upvalue not supported]];
+["sortieBuddyType"] = nil --[[functions with upvalue not supported]];
+["mbmIsOpenedSecuritySection"] = nil --[[functions with upvalue not supported]];
+["sortiePrepPlayerDDPartsType"] = nil --[[functions with upvalue not supported]];
+["playerSkillId"] = nil --[[functions with upvalue not supported]];
+["sortiePrepPlayerSnakePartsType"] = nil --[[functions with upvalue not supported]];
+["bgmVolume"] = nil --[[functions with upvalue not supported]];
+["initHandEquip"] = nil --[[functions with upvalue not supported]];
+["reliefVehicleCarryType"] = nil --[[functions with upvalue not supported]];
+["playerStamina"] = nil --[[functions with upvalue not supported]];
+["isPersonalDirty"] = nil --[[functions with upvalue not supported]];
+["useBlackDiamondEmblem"] = nil --[[functions with upvalue not supported]];
+["currentReturnHeliLoadoutSlot"] = nil --[[functions with upvalue not supported]];
+["missionCodeMarkingsOfPickable"] = nil --[[functions with upvalue not supported]];
+["avatarTatoColorIndex"] = nil --[[functions with upvalue not supported]];
+["initLoadoutInfo"] = nil --[[functions with upvalue not supported]];
+["buddyTypeMissionStart"] = nil --[[functions with upvalue not supported]];
+["mbmIsOccupation"] = nil --[[functions with upvalue not supported]];
+["avatarGashOrTatoVariationIndex"] = nil --[[functions with upvalue not supported]];
+["currentSortieLoadoutSlot"] = nil --[[functions with upvalue not supported]];
+["avatarRightEyeBrightnessIndex"] = nil --[[functions with upvalue not supported]];
+["mbmStaffListMainListModeSvars"] = nil --[[functions with upvalue not supported]];
+["returnStaffSeeds"] = nil --[[functions with upvalue not supported]];
+["fobIsSecurity"] = nil --[[functions with upvalue not supported]];
+["avatarLeftEyeBrightnessIndex"] = nil --[[functions with upvalue not supported]];
+["personalBirthdayDay"] = nil --[[functions with upvalue not supported]];
+["currentLoadoutSlot"] = nil --[[functions with upvalue not supported]];
+["mbmServerDevelopCount"] = nil --[[functions with upvalue not supported]];
+["playerShootCountInMission"] = nil --[[functions with upvalue not supported]];
+["avatarAllPartsPresetID"] = nil --[[functions with upvalue not supported]];
+["mbmBecomeCombatSectionLvMax"] = nil --[[functions with upvalue not supported]];
+["supCboxPartsType"] = nil --[[functions with upvalue not supported]];
+["buddyHorseFootDesignType"] = nil --[[functions with upvalue not supported]];
+["fpsAttackMode"] = nil --[[functions with upvalue not supported]];
+["mbmBecomeSupportSectionLvMax"] = nil --[[functions with upvalue not supported]];
+["buddyHorseColorType"] = nil --[[functions with upvalue not supported]];
+["partsType2"] = nil --[[functions with upvalue not supported]];
+["didCancelFobPatchDlcDownloadRequest"] = nil --[[functions with upvalue not supported]];
+["avatarFaceColorIndex"] = nil --[[functions with upvalue not supported]];
+["mbmBecomeDevelopSectionLvMax"] = nil --[[functions with upvalue not supported]];
+["missionCode"] = nil --[[functions with upvalue not supported]];
+["isKikongoTranslatable"] = nil --[[functions with upvalue not supported]];
+["avatarAcceFlag"] = nil --[[functions with upvalue not supported]];
+["mbmPdTotalSubtractedGmpT"] = nil --[[functions with upvalue not supported]];
+["battleGearColoring0"] = nil --[[functions with upvalue not supported]];
+["maxPhase"] = nil --[[functions with upvalue not supported]];
+["avatarNosePresetID"] = nil --[[functions with upvalue not supported]];
+["totalMovingDistanceAtCrawl"] = nil --[[functions with upvalue not supported]];
+["mbmTppGmp"] = nil --[[functions with upvalue not supported]];
+["mbmPdTotalDeadStaffCount"] = nil --[[functions with upvalue not supported]];
+["mbmCommonMetalProcessingElapsedTimeMinute"] = nil --[[functions with upvalue not supported]];
+["prevMissionCode"] = nil --[[functions with upvalue not supported]];
+["playerHandType"] = nil --[[functions with upvalue not supported]];
+["battleGearSubWPGrade"] = nil --[[functions with upvalue not supported]];
+["weatherAddDensity"] = nil --[[functions with upvalue not supported]];
+["mbmResourceSyncVersion"] = nil --[[functions with upvalue not supported]];
+["playerPosY"] = nil --[[functions with upvalue not supported]];
+["mbmNewestRRandomMissionId"] = nil --[[functions with upvalue not supported]];
+["mbmStaffInitEnmityLv"] = nil --[[functions with upvalue not supported]];
+["mbmAssignableMiller"] = nil --[[functions with upvalue not supported]];
+["buddyGearColoring0"] = nil --[[functions with upvalue not supported]];
+["fobIsPlaceMode"] = nil --[[functions with upvalue not supported]];
+["battleGearStockAmmoCountSub"] = nil --[[functions with upvalue not supported]];
+["supAttackStateForSave"] = nil --[[functions with upvalue not supported]];
+["sortieLoadoutInfoSaveFormVersion"] = nil --[[functions with upvalue not supported]];
+["buddyCommonFlag"] = nil --[[functions with upvalue not supported]];
+["buddyGearEquipGrade"] = nil --[[functions with upvalue not supported]];
+["mbmEnableStaffInitLangKikongo"] = nil --[[functions with upvalue not supported]];
+["playerPosZ"] = nil --[[functions with upvalue not supported]];
+["isPashtoTranslatable"] = nil --[[functions with upvalue not supported]];
+["mbmOpenedWalkerGear"] = nil --[[functions with upvalue not supported]];
+["playerPartsType"] = nil --[[functions with upvalue not supported]];
+["vehicleGameObjectIdOnPlayerOnCargo"] = nil --[[functions with upvalue not supported]];
+["avatarHairColorPresetID"] = nil --[[functions with upvalue not supported]];
+["mbmTppTotalIncomeGmp"] = nil --[[functions with upvalue not supported]];
+["mbmServerWalletGmp"] = nil --[[functions with upvalue not supported]];
+["supportHeliCustomize"] = nil --[[functions with upvalue not supported]];
+["sahelanBrokenMesh"] = nil --[[functions with upvalue not supported]];
+["avatarBerdStyle"] = nil --[[functions with upvalue not supported]];
+["isDefaultDisconnected"] = nil --[[functions with upvalue not supported]];
+["avatarLeftEyeColorIndex"] = nil --[[functions with upvalue not supported]];
+["mbmMasterGunsmithSkill"] = nil --[[functions with upvalue not supported]];
+["didCancelPatchDlcDownloadRequest"] = nil --[[functions with upvalue not supported]];
+["playerFaceEquipId"] = nil --[[functions with upvalue not supported]];
+["fobIsEvent"] = nil --[[functions with upvalue not supported]];
+["fobPickup"] = nil --[[functions with upvalue not supported]];
+["initialPlayerPosY"] = nil --[[functions with upvalue not supported]];
+["buddyGearColoring1"] = nil --[[functions with upvalue not supported]];
+["buddyGearHeadType"] = nil --[[functions with upvalue not supported]];
+["avatarEyePresetID"] = nil --[[functions with upvalue not supported]];
+["extraWeatherInterval"] = nil --[[functions with upvalue not supported]];
+["buddyDogMode"] = nil --[[functions with upvalue not supported]];
+["mbmMoraleElapsedTimeMinuteSvars"] = nil --[[functions with upvalue not supported]];
+["playerPlayFlag"] = nil --[[functions with upvalue not supported]];
+["playerLife"] = nil --[[functions with upvalue not supported]];
+["playerDisableActionFlag"] = nil --[[functions with upvalue not supported]];
+["buddyMissionFlag"] = nil --[[functions with upvalue not supported]];
+};
+["placedAttachTargetNames"] = {
+[-285212666] = 64;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmStaffSortKeysSvars"] = {
+[-285212666] = 13;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["requestWeatherParam"] = {
+[-285212666] = 5;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmFobDeployGradeSelectorIndexes"] = {
+[-285212666] = 6;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["droppedWeapons"] = {
+[-285212666] = 3;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecurityCommonPlatform3MineCounts"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmEquipDevelopTimes"] = {
+[-285212666] = 10;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["dirtyEffectRadius"] = {
+[-285212666] = 64;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmDeployTeamCombatPoints"] = {
+[-285212666] = 11;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["supCboxRot"] = {
+[-285212666] = 4;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmDeployTeamCombatStaffRankBottoms"] = {
+[-285212666] = 11;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["initialBuddyPos"] = {
+[-285212666] = 3;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmWeaponPartsMuzzleOptionStatus"] = {
+[-285212666] = 40;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecurityCommonPlatform3IrSensorCounts"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmPfRatingShortRankingPlayerIds"] = {
+[-285212666] = 16;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmServerRankingRecordedFlags"] = {
+[-285212666] = 106;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["avatarMotionFrame"] = {
+[-285212666] = 60;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["customizedWeaponSlotIndex"] = {
+[-285212666] = 3;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmWeaponPartsMagazineStatus"] = {
+[-285212666] = 186;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["userPresetVehiclePaintType"] = {
+[-285212666] = 10;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmAnimalHabitatMafrSvars"] = {
+[-285212666] = 64;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["sortieLoadoutInfoU16buf"] = {
+[-285212666] = 144;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["missionStartGimmickPermanentGimmickSaveData"] = {
+[-285212666] = 2592;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["collectionRotationsMoved"] = {
+[-285212666] = 32;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["tipsReadFlag"] = {
+[-285212666] = 200;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["supCboxU16buf"] = {
+[-285212666] = 36;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+[-285212672] = 0;
+["mbmSecurityClusterSvars"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecurityCommonPlatform1IrSensorCounts"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["sortieLoadoutInfoU8buf"] = {
+[-285212666] = 460;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmRemoverSvarsHeaders"] = {
+[-285212666] = 64;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmDataBaseSvars"] = {
+[-285212666] = 459;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmDeployTeamCombatStaffCounts"] = {
+[-285212666] = 11;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["currentZoomStep"] = {
+[-285212666] = 5;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmServerDevelopUsageResourceType2s"] = {
+[-285212666] = 320;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["userMarkerPosZ"] = {
+[-285212666] = 5;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["userPresetChimeraPaintType"] = {
+[-285212666] = 24;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["items2"] = {
+[-285212666] = 8;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmDeployTeamSubStaffCounts"] = {
+[-285212666] = 11;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmServerDevelopUsageResourceType2Counts"] = {
+[-285212666] = 320;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["battleGearAmmoCountMain"] = {
+[-285212666] = 2;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["userPresetBattleGearParts"] = {
+[-285212666] = 27;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["placedOwnerIds"] = {
+[-285212666] = 32;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["utcTime"] = {
+[-285212666] = 8;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecuritySpecialPlatformCameraCounts"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["droppedCarrierPlaceNo"] = {
+[-285212666] = 3;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecurityCommonPlatform2DecoyCounts"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmResourceCompensateCounts"] = {
+[-285212666] = 59;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmPfRatingShortRankingPlayerRanks"] = {
+[-285212666] = 16;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["initChimeraPaintType"] = {
+[-285212666] = 3;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmStaffSortDirsSvars"] = {
+[-285212666] = 13;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["initItems"] = {
+[-285212665] = nil --[[userdata]]
+;
+[-285212666] = 8;
+
+
+};
+["buddyFriendlyPoint"] = {
+[-285212666] = 8;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["battleGearMainWPType"] = {
+[-285212666] = 2;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmDeployTeamCombatStaffRankTops"] = {
+[-285212666] = 11;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["buttonNo"] = {
+[-285212666] = 120;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["sortieLoadoutInfoU32buf"] = {
+[-285212666] = 68;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["collectionLocatorIndicesMoved"] = {
+[-285212666] = 32;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmResourceSvars1Diff"] = {
+[-285212666] = 59;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmServerDevelopUsageGmpCosts"] = {
+[-285212666] = 320;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["userPresetBattleGearPartsLevel"] = {
+[-285212666] = 27;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["userPresetDWalkerPartsLevel"] = {
+[-285212666] = 24;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["placedStatus"] = {
+[-285212666] = 32;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmDeployTeamSubStaffRankTops"] = {
+[-285212666] = 11;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["supportWeapons"] = {
+[-285212665] = nil --[[userdata]]
+;
+[-285212666] = 16;
+
+
+};
+["mbmResourceSvars2Fix"] = {
+[-285212666] = 59;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmWeaponPartsLightStatus"] = {
+[-285212666] = 10;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["placedRot"] = {
+[-285212666] = 128;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["itemLevels"] = {
+[-285212666] = 72;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["dirtyEffectCount"] = {
+[-285212666] = 2;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecurityCommonPlatform3CautionAreaSvars"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["chimeraPaintType"] = {
+[-285212666] = 3;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["userMarkerGameObjId"] = {
+[-285212666] = 5;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmRemoverReasons"] = {
+[-285212666] = 64;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["chimeraColorIndex"] = {
+[-285212666] = 3;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["userMarkerAddFlag"] = {
+[-285212666] = 5;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmEquipDevelopIndices"] = {
+[-285212666] = 10;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["items"] = {
+[-285212665] = nil --[[userdata]]
+;
+[-285212666] = 16;
+
+
+};
+["mbmWhiteContainerCountsSvarsDiff"] = {
+[-285212666] = 5;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["markerLocatorInfos"] = {
+[-285212666] = 100;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["weapons"] = {
+[-285212665] = nil --[[userdata]]
+;
+[-285212666] = 6;
+
+
+};
+["dlcAcquiredFlag"] = {
+[-285212666] = 2;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecuritySpecialPlatformPlacedFreeCameraCounts"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["placedAttachPoints"] = {
+[-285212666] = 64;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmDeployTeamSvarsWalkerGearSovietSupportCount"] = {
+[-285212666] = 22;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["initWeapons"] = {
+[-285212665] = nil --[[userdata]]
+;
+[-285212666] = 3;
+
+
+};
+["supAttackPos"] = {
+[-285212666] = 3;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["supCboxU32buf"] = {
+[-285212666] = 17;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["importantItemNumber"] = {
+[-285212666] = 32;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmPfRatingMatchSections"] = {
+[-285212666] = 15;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["markingsOfPickable"] = {
+[-285212666] = 33;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["supCboxPos"] = {
+[-285212666] = 3;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["cloakEnabled"] = {
+[-285212666] = 2;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["checkPointGimmickIndelibleState"] = {
+[-285212666] = 32;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["missionStartGimmickIndelibleState"] = {
+[-285212666] = 32;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["checkPointGimmickIndelibleName"] = {
+[-285212666] = 64;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["developedItemLevels"] = {
+[-285212666] = 72;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["reliefVehicleCarryAttitude"] = {
+[-285212666] = 4;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmFobDeployCheckBoxes"] = {
+[-285212666] = 6;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecurityCommonPlatform2AntitheftCounts"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmChallengeTaskRewardReceiveFlags"] = {
+[-285212666] = 15;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmChallengeTaskCompleteFlags"] = {
+[-285212666] = 15;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmPfRatingShortRankingPlayerRankDiffs"] = {
+[-285212666] = 16;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmPfRatingRankingPlayerIds"] = {
+[-285212666] = 16;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["upgrades"] = {
+[-285212666] = 16;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["supCboxU8buf"] = {
+[-285212666] = 115;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmNamePlateNewFlags"] = {
+[-285212666] = 2;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["loadoutInfoU16buf"] = {
+[-285212666] = 144;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["initSupportWeapons"] = {
+[-285212665] = nil --[[userdata]]
+;
+[-285212666] = 8;
+
+
+};
+["mbmNamePlateGotFlags"] = {
+[-285212666] = 2;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmPdTotalAddedAnimalCounts"] = {
+[-285212666] = 99;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmPdTotalAddedResourceCounts"] = {
+[-285212666] = 59;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecurityCommonPlatform2PlacedFreeMineCounts"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["droppedCarrier"] = {
+[-285212666] = 3;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecuritySystemLevelsDeveloped"] = {
+[-285212666] = 16;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmRemoverSvarsStatusesSync"] = {
+[-285212666] = 64;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecuritySpecialPlatformCautionAreaSvars"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmEquipParamStatus"] = {
+[-285212666] = 1024;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmWeaponPartsReceiverStatus"] = {
+[-285212666] = 232;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["keyStr"] = {
+[-285212666] = 120;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmPoolRewardSeeds"] = {
+[-285212666] = 200;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecurityCommonPlatform1SoldierCounts"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmPoolRewardSourceIds"] = {
+[-285212666] = 200;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmPoolRewardsSvars"] = {
+[-285212666] = 200;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmClearedDeployRevengeMissionFlags"] = {
+[-285212666] = 14;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmDeployTeamSvarsWalkerGearCfaSupportCount"] = {
+[-285212666] = 22;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["battleGearMainWPGrade"] = {
+[-285212666] = 2;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecurityCommonPlatform2SoldierCounts"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["supAttackRot"] = {
+[-285212666] = 4;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["emblemColorL"] = {
+[-285212666] = 4;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["supportWeapons2"] = {
+[-285212666] = 8;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["buddyEspionageCpNames"] = {
+[-285212666] = 8;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecuritySpecialPlatformAntitheftCounts"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["isUseSuppressor"] = {
+[-285212666] = 6;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["weapons2"] = {
+[-285212666] = 3;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmStaffSvarsHeaders"] = {
+[-285212666] = 3500;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSectionFuncSvars"] = {
+[-285212666] = 42;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmDeployTeamSvarsWalkerGearSovietBattleCount"] = {
+[-285212666] = 22;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmDeployTeamSubStaffRankBottoms"] = {
+[-285212666] = 11;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["isUseCustomizedWeapon"] = {
+[-285212666] = 3;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["rentalLoadoutPlayerName"] = {
+[-285212666] = 100;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmWhiteContainerCountsSvarsFix"] = {
+[-285212666] = 5;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["cboxLife"] = {
+[-285212666] = 16;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["placedCorrelationId"] = {
+[-285212666] = 32;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmServerDevelopUsageResourceType1s"] = {
+[-285212666] = 320;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmDeployTeamSvarsWalkerGearProtoHeuyCount"] = {
+[-285212666] = 22;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecuritySpecialPlatformSvars"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["initChimeraParts"] = {
+[-285212666] = 36;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmDeployTeamSvarsTankWestCount"] = {
+[-285212666] = 22;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecurityCommonPlatform3Svars"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmDeployTeamSvarsTankEastCount"] = {
+[-285212666] = 22;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["dominatedCpFlagsAfgh"] = {
+[-285212666] = 16;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["markingsOfPlaced"] = {
+[-285212666] = 33;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmDeployTeamSvarsWheeledArmoredVehicleWestCount"] = {
+[-285212666] = 22;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmDeployTeamSvarsArmoredVehicleEastRocketCount"] = {
+[-285212666] = 22;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["userMarkerPosY"] = {
+[-285212666] = 5;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmDeployTeamSvarsArmoredVehicleEastCount"] = {
+[-285212666] = 22;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmClusterSvars"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmDeployTeamSvarsTimeMinute"] = {
+[-285212666] = 11;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["userPresetBuddyDogParts"] = {
+[-285212666] = 2;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecurityCommonPlatform3DecoyCounts"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["playerCameraPosition"] = {
+[-285212666] = 3;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecurityCommonPlatform1DecoyCounts"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["emblemFlag"] = {
+[-285212666] = 680;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecurityCommonPlatform1PlacedFreeMineCounts"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmRedContainerCountsSvarsDiff"] = {
+[-285212666] = 5;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["userMarkerPosX"] = {
+[-285212666] = 5;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmPoolRewardValues"] = {
+[-285212666] = 200;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["ammoInWeapons"] = {
+[-285212665] = nil --[[userdata]]
+;
+[-285212666] = 6;
+
+
+};
+["buddyGearAmmoCount"] = {
+[-285212666] = 2;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecurityCommonPlatform2Svars"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmWeaponPartsStockStatus"] = {
+[-285212666] = 43;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecurityCommonPlatform1Svars"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecurityCommonPlatform1AntitheftCounts"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecurityCommonPlatform3PlacedFreeCameraCounts"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecurityCommonPlatform3PlacedFreeMineCounts"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecurityCommonPlatform3UavCounts"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["isUseFlashLight"] = {
+[-285212666] = 6;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecurityCommonPlatform3CameraCounts"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+
+["mbmDeployTeamSvarsArmoredVehicleWestCount"] = {
+[-285212666] = 22;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["droppedAmmo"] = {
+[-285212666] = 6;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["chimeraParts"] = {
+[-285212665] = nil --[[userdata]]
+;
+[-285212666] = 36;
+
+
+};
+["collectionPositionsMoved"] = {
+[-285212666] = 96;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["initCustomizedWeapon"] = {
+[-285212666] = 3;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecurityCommonPlatform3AntitheftCounts"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["caputreAnimalId"] = {
+[-285212666] = 16;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecurityCommonPlatform3SoldierCounts"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["droppedWeaponRot"] = {
+[-285212666] = 12;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["returnHeliLoadoutInfoU32buf"] = {
+[-285212666] = 68;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+
+["mbmSecuritySpecialPlatformIrSensorCounts"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmStaffSvarsStatusesSync"] = {
+[-285212666] = 3500;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecurityCommonPlatform2CautionAreaSvars"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecurityCommonPlatform2UavCounts"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["fobResultRankingPrevRanks"] = {
+[-285212666] = 16;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["battleGearStockAmmoCountMain"] = {
+[-285212666] = 2;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["userPresetCustomizedWeapon"] = {
+[-285212666] = 24;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["dominatedCpFlagsMafr"] = {
+[-285212666] = 16;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecurityCommonPlatform2PlacedFreeCameraCounts"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["returnHeliLoadoutInfoU16buf"] = {
+[-285212666] = 144;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmServerRankingScores"] = {
+[-285212666] = 106;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmStaffSkillGots"] = {
+[-285212666] = 87;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["placedTargetGroupBlast"] = {
+[-285212666] = 32;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecurityCommonPlatform2IrSensorCounts"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmDeployMissionsSvars"] = {
+[-285212666] = 71;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecurityCommonPlatform1CautionAreaSvars"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmAnimalHabitatAfghSvars"] = {
+[-285212666] = 64;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmStaffSvarsSeeds"] = {
+[-285212666] = 3500;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmRemoverSvarsSeeds"] = {
+[-285212666] = 64;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["buddyFriendlyTimer"] = {
+[-285212666] = 8;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecuritySpecialPlatformMineCounts"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmSecuritySpecialPlatformDecoyCounts"] = {
+[-285212666] = 35;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["radioReadFlagGlobalScoped"] = {
+[-285212666] = 200;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["mbmFobSvars"] = {
+[-285212666] = 4;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["emblemX"] = {
+[-285212666] = 4;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["placedAttachTargetIndex"] = {
+[-285212666] = 32;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["userPresetDWalkerAdditionalParts"] = {
+[-285212666] = 12;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["buddyGearStockAmmoCount"] = {
+[-285212666] = 2;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["userPresetDWalkerParts"] = {
+[-285212666] = 24;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["loadoutInfoU8buf"] = {
+[-285212666] = 460;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["ammoStockIds"] = {
+[-285212665] = nil --[[userdata]]
+;
+[-285212666] = 46;
+
+
+};
+["fobEventResultRankingPrevRanks"] = {
+[-285212666] = 16;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["emblemColorH"] = {
+[-285212666] = 4;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["requestWeatherInterp"] = {
+[-285212666] = 5;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["customizedWeapon"] = {
+[-285212665] = nil --[[userdata]]
+;
+[-285212666] = 3;
+
+
+};
+["buddyCallCount"] = {
+[-285212666] = 7;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["droppedCount"] = {
+[-285212666] = 6;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};
+["cboxIsValid"] = {
+[-285212666] = 16;
+[-285212665] = nil --[[userdata]]
+;
+
+
+};

@@ -1,0 +1,3 @@
+["_className"] = "TppEyelidFilterStateManager";
+["GetInstance"] = nil --[[functions with upvalue not supported]];
+["SetEventStatus"] = nil --[[functions with upvalue not supported]];

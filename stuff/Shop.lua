@@ -1,3 +1,0 @@
-Shop
-	AllocatePSStoreMemory()
-	FreePSStoreMemory()

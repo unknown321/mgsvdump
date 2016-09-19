@@ -1,0 +1,15 @@
+["SynchronizeServer"] = nil --[[non-lua function not supported]];
+["AbortSneakMotherBase"] = nil --[[non-lua function not supported]];
+["GetNuclearNum"] = nil --[[non-lua function not supported]];
+["GetWormholeCount"] = nil --[[non-lua function not supported]];
+["GetNuclearMax"] = nil --[[non-lua function not supported]];
+["GetFobStatus"] = nil --[[non-lua function not supported]];
+["StartFobPickup"] = nil --[[non-lua function not supported]];
+["GetNuclearAbolitionCount"] = nil --[[non-lua function not supported]];
+["SendNoticeSneakMotherBase"] = nil --[[non-lua function not supported]];
+["GetWormhole"] = nil --[[non-lua function not supported]];
+["StartLogin"] = nil --[[non-lua function not supported]];
+["SynchronizeEmblem"] = nil --[[non-lua function not supported]];
+["GetOpponentName"] = nil --[[non-lua function not supported]];
+["OpenWormhole"] = nil --[[non-lua function not supported]];
+["FobIsSneak"] = nil --[[non-lua function not supported]];

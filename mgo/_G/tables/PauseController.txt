@@ -1,0 +1,2 @@
+["_className"] = "PauseController";
+["Create"] = nil --[[functions with upvalue not supported]];

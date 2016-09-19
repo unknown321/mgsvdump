@@ -1,0 +1,2 @@
+["_className"] = "TppTrapCheckIsPlayerAndHostCallbackDataElement";
+["__call"] = nil --[[non-lua function not supported]];

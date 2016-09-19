@@ -1,0 +1,12 @@
+[260017749] = nil --[[non-lua function not supported]];
+[227686467] = nil --[[non-lua function not supported]];
+[8473319] = nil --[[non-lua function not supported]];
+[-285212671] = {
+[22831020] = nil --[[functions with upvalue not supported]];
+[176962401] = nil --[[functions with upvalue not supported]];
+};
+[23879534] = nil --[[non-lua function not supported]];
+[-285212672] = 4;
+[226149471] = nil --[[non-lua function not supported]];
+[123484601] = nil --[[non-lua function not supported]];
+[31063518] = nil --[[non-lua function not supported]];

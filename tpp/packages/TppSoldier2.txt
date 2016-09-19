@@ -1,0 +1,10 @@
+["SetSVarsKeyNames"] = nil --[[non-lua function not supported]];
+["ReloadSoldier2ParameterTables"] = nil --[[non-lua function not supported]];
+["LoadRequestSoldierDefaultWeapon"] = nil --[[non-lua function not supported]];
+["LoadRequestSoldierWeapon"] = nil --[[non-lua function not supported]];
+["SetEnglishVoiceIdTable"] = nil --[[non-lua function not supported]];
+["SetDefaultPartsPath"] = nil --[[non-lua function not supported]];
+["SetDisableMarkerModelEffect"] = nil --[[non-lua function not supported]];
+["DisableMarkerModelEffect"] = nil --[[non-lua function not supported]];
+["SetDefaultSoldierWeapon"] = nil --[[non-lua function not supported]];
+["SetExtendPartsInfo"] = nil --[[non-lua function not supported]];

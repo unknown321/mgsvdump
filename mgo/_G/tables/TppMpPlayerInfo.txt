@@ -1,0 +1,3 @@
+["_className"] = "TppMpPlayerInfo";
+["GetGameObjectId"] = nil --[[functions with upvalue not supported]];
+["GetPosRotY"] = nil --[[functions with upvalue not supported]];

@@ -1,0 +1,6 @@
+["_className"] = "Data";
+["IsReference"] = nil --[[functions with upvalue not supported]];
+["GetDataBodyOnEditing"] = nil --[[functions with upvalue not supported]];
+["GetDataSet"] = nil --[[functions with upvalue not supported]];
+["GetDataBody"] = nil --[[functions with upvalue not supported]];
+["GetDataBodyWithReferrer"] = nil --[[functions with upvalue not supported]];

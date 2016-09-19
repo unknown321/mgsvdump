@@ -1,0 +1,2 @@
+["AddList"] = nil --[[non-lua function not supported]];
+["Init"] = nil --[[non-lua function not supported]];

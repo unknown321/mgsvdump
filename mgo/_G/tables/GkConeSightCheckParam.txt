@@ -1,0 +1,10 @@
+["GetAngleLeftRight"] = nil --[[functions with upvalue not supported]];
+["SetAngleUpDown"] = nil --[[functions with upvalue not supported]];
+["GetRange"] = nil --[[functions with upvalue not supported]];
+["SetAngleLeftRight"] = nil --[[functions with upvalue not supported]];
+["GetAngleUpDown"] = nil --[[functions with upvalue not supported]];
+["_className"] = "GkConeSightCheckParam";
+["SetHeadBackDistance"] = nil --[[functions with upvalue not supported]];
+["GetHeadBackDistance"] = nil --[[functions with upvalue not supported]];
+["SetRange"] = nil --[[functions with upvalue not supported]];
+["__call"] = nil --[[non-lua function not supported]];

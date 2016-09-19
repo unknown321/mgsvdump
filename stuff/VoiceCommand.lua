@@ -1,3 +1,0 @@
-VoiceCommand
-	SetVoiceEventType()
-	SetVoiceTypePriority()

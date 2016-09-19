@@ -1,0 +1,2 @@
+["SetWorldCenter"] = nil --[[non-lua function not supported]];
+["GetWorldCenter"] = nil --[[non-lua function not supported]];

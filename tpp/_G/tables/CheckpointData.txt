@@ -1,0 +1,2 @@
+["_className"] = "CheckpointData";
+["__call"] = nil --[[non-lua function not supported]];

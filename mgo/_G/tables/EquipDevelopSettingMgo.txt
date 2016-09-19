@@ -1,0 +1,3 @@
+["_scriptPath"] = "EquipDevelopSettingMgo";
+["_scriptInstanceId"] = nil --[[userdata]]
+;

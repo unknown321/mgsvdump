@@ -1,3 +1,0 @@
-TppCoder
-	GetWorldCenter()
-	SetWorldCenter()

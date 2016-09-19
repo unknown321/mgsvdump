@@ -1,0 +1,4 @@
+["SetupSoldierFootStep"] = nil --[[non-lua function not supported]];
+["SetupSoldierType"] = nil --[[non-lua function not supported]];
+["SetupSoldierBodyCollision"] = nil --[[non-lua function not supported]];
+["SetupSoldierRattleSuit"] = nil --[[non-lua function not supported]];

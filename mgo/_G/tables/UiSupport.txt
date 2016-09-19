@@ -1,0 +1,5 @@
+["_className"] = "UiSupport";
+["GetInstance"] = nil --[[functions with upvalue not supported]];
+["End"] = nil --[[functions with upvalue not supported]];
+["Create"] = nil --[[functions with upvalue not supported]];
+["CreateLoginPrint"] = nil --[[functions with upvalue not supported]];

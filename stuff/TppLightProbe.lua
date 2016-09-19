@@ -1,3 +1,0 @@
-TppLightProbe
-	SetReadLpshDebugLogDisable()
-	SetReadLpshDebugLogEnable()

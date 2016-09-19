@@ -1,4 +1,0 @@
-GsRoute
-	GetRouteId()
-
-	ROUTE_ID_EMPTY = 3205930904

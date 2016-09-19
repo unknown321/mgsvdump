@@ -1,0 +1,3 @@
+["_className"] = "NetworkInfo";
+["GetInstance"] = nil --[[functions with upvalue not supported]];
+["IsNuclearAbolition"] = nil --[[functions with upvalue not supported]];

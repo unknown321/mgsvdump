@@ -1,0 +1,3473 @@
+["gimmickBreakConnectTable"] = {
+["waterway_tower003"] = "waterway_tower003_link";
+["waterway_prst007_A"] = "waterway_prst007_A_link";
+["village_antn001"] = "village_mchn001";
+["fort_antn003"] = "fort_mchn003";
+["waterway_prst003_A"] = "waterway_prst003_A_link";
+["sovietBase_antn002"] = "sovietBase_mchn001";
+["powerPlant_antn003"] = "powerPlant_mchn003";
+["field_antn001"] = "field_mchn001";
+["commFacility_antn001"] = "commFacility_mchn001";
+["waterway_prst001_B"] = "waterway_prst001_B_link";
+["waterway_prst001_A"] = "waterway_prst001_A_link";
+["tent_antn002"] = "tent_mchn002";
+["enemyBase_antn002"] = "enemyBase_mchn002";
+["commFacility_cmmn001"] = "commFacility_cmmn002";
+["fort_antn002"] = "fort_mchn002";
+["commFacility_antn003"] = "commFacility_mchn003";
+["waterway_tower002"] = "waterway_tower002_link";
+["waterway_prst008_B"] = "waterway_prst008_B_link";
+["cliffTown_antn002"] = "cliffTown_mchn002";
+["powerPlant_antn002"] = "powerPlant_mchn002";
+["field_antn002"] = "field_mchn002";
+["waterway_prst005_A"] = "waterway_prst005_A_link";
+["waterway_tower001"] = "waterway_tower001_link";
+["bridge_antn001"] = "bridge_mchn001";
+["waterway_prst007_B"] = "waterway_prst007_B_link";
+["waterway_prst006_A"] = "waterway_prst006_A_link";
+["waterway_prst005_B"] = "waterway_prst005_B_link";
+["slopedTown_antn002"] = "slopedTown_mchn002";
+["tent_antn001"] = "tent_mchn001";
+["remnants_antn001"] = "remnants_mchn001";
+["cliffTown_antn001"] = "cliffTown_mchn001";
+["waterway_prst004_A"] = "waterway_prst004_A_link";
+["sovietBase_antn001"] = "sovietBase_mchn002";
+["village_antn002"] = "village_mchn002";
+["waterway_prst003_B"] = "waterway_prst003_B_link";
+["waterway_prst002_B"] = "waterway_prst002_B_link";
+["waterway_prst008_A"] = "waterway_prst008_A_link";
+["powerPlant_cmmn001"] = "powerPlant_cmmn002";
+["waterway_prst002_A"] = "waterway_prst002_A_link";
+["bridge_antn002"] = "bridge_mchn002";
+["commFacility_antn002"] = "commFacility_mchn002";
+["waterway_prst004_B"] = "waterway_prst004_B_link";
+["tent_cmmn001"] = "tent_cmmn002";
+["fort_antn001"] = "fort_mchn001";
+["bridge_antn003"] = "bridge_mchn003";
+["enemyBase_antn001"] = "enemyBase_mchn001";
+["powerPlant_antn001"] = "powerPlant_mchn001";
+["waterway_prst006_B"] = "waterway_prst006_B_link";
+["field_antn003"] = "field_mchn003";
+["slopedTown_antn001"] = "slopedTown_mchn001";
+};
+["Messages"] = loadstring("LuaQ\000\0003\000\000\000\000\000\000\000@/Assets/tpp/script/location/afgh/afgh_gimmick.lua\000®\r\000\000π\r\000\000\000\000\000\000\000\000\000\000\000@@\000J@\000\000ä\000Ä ¿\000\000…\000¡ÅÅ\000A…\000ÅÇ\
+A\000\000ABÑ…\000ÅÉ\
+¡\000\000Å¬ÅEÅ\000FÅ¬AÅÇJA\000\000IABÑAÅÉCÄ¢@ÄIÄ\000Å\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000\000\000Tpp\000\000\000\000\000\000\000\000StrCode32Table\000\000\000\000\000\000\000\000GameObject\000\000\000\000\000\000\000\000msg\000\r\000\000\000\000\000\000\000BreakGimmick\000\000\000\000\000\000\000\000func\000\000\000\000\000\000\000\000TppGimmick\000\000\000\000\000\000\000\000option\000\000\000\000\000\000\000\000isExecMissionPrepare\000\000\000\000\000\000\000\000SwitchGimmick\000\000\000\000\000\000\000\000™\r\000\000™\r\000\000™\r\000\000´\r\000\000´\r\000\000≠\r\000\000Æ\r\000\000Æ\r\000\000Æ\r\000\000Ø\r\000\000Ø\r\000\000Ø\r\000\000∞\r\000\000≤\r\000\000≥\r\000\000≥\r\000\000≥\r\000\000¥\r\000\000¥\r\000\000¥\r\000\000∑\r\000\000∑\r\000\000∑\r\000\000™\r\000\000∏\r\000\000π\r\000\000\000\000\000\000\000\000\000\000");
+["OnInitialize"] = nil --[[functions with upvalue not supported]];
+["messageExecTable"] = {
+[3333891920] = {
+[2422244811] = {
+["func"] = nil --[[functions with upvalue not supported]];
+["option"] = {
+[4282425663] = true;
+};
+};
+[245113022] = {
+["func"] = nil --[[functions with upvalue not supported]];
+["option"] = {
+[4282425663] = true;
+};
+};
+};
+};
+["gimmickCpConnectTable"] = {
+["afgh_slopedTown_cp"] = {
+[1] = "slopedTown_antn001";
+[2] = "slopedTown_antn002";
+[3] = "slopedTown_cmmn001";
+["groupName"] = "group_Area2";
+};
+["afgh_powerPlant_cp"] = {
+[1] = "powerPlant_antn001";
+[2] = "powerPlant_antn002";
+[3] = "powerPlant_antn003";
+[4] = "powerPlant_cmmn001";
+[5] = "powerPlant_cmmn002";
+["groupName"] = "group_Area4";
+["isCommunicateBase"] = true;
+};
+["afgh_remnants_cp"] = {
+[1] = "remnants_antn001";
+[2] = "remnants_cmmn001";
+["groupName"] = "group_Area1";
+};
+["afgh_commFacility_cp"] = {
+[1] = "commFacility_antn001";
+[2] = "commFacility_antn002";
+[3] = "commFacility_antn003";
+[4] = "commFacility_cmmn001";
+[5] = "commFacility_cmmn002";
+["groupName"] = "group_Area2";
+["isCommunicateBase"] = true;
+};
+["afgh_cliffTown_cp"] = {
+[1] = "cliffTown_cmmn001";
+[2] = "cliffTown_antn001";
+[3] = "cliffTown_antn002";
+["groupName"] = "group_Area3";
+};
+["afgh_field_cp"] = {
+[1] = "field_cmmn001";
+[2] = "field_antn001";
+[3] = "field_antn002";
+[4] = "field_antn003";
+["groupName"] = "group_Area1";
+};
+["afgh_enemyBase_cp"] = {
+[1] = "enemyBase_antn001";
+[2] = "enemyBase_antn002";
+[3] = "enemyBase_cmmn001";
+["groupName"] = "group_Area2";
+};
+["afgh_sovietBase_cp"] = {
+[1] = "sovietBase_cmmn001";
+[2] = "sovietBase_antn001";
+[3] = "sovietBase_antn002";
+["groupName"] = "group_Area4";
+};
+["afgh_fort_cp"] = {
+[1] = "fort_cmmn001";
+[2] = "fort_antn001";
+[3] = "fort_antn002";
+[4] = "fort_antn003";
+["groupName"] = "group_Area3";
+};
+["afgh_bridge_cp"] = {
+[1] = "bridge_cmmn001";
+[2] = "bridge_antn001";
+[3] = "bridge_antn002";
+[4] = "bridge_antn003";
+["groupName"] = "group_Area3";
+};
+["afgh_village_cp"] = {
+[1] = "village_antn001";
+[2] = "village_antn002";
+[3] = "village_cmmn001";
+["groupName"] = "group_Area2";
+};
+["afgh_tent_cp"] = {
+[1] = "tent_cmmn001";
+[2] = "tent_cmmn002";
+[3] = "tent_antn001";
+[4] = "tent_antn002";
+["groupName"] = "group_Area1";
+["isCommunicateBase"] = true;
+};
+};
+["_scriptInstanceId"] = nil --[[userdata]]
+;
+["OnMessage"] = nil --[[functions with upvalue not supported]];
+["_scriptPath"] = "afgh_gimmick";
+["gimmickPowerCutConnectTable"] = {
+["commFacility_gnrt001"] = {
+["cpName"] = "afgh_commFacility_cp";
+["powerCutAreaName"] = "PowerCutArea_commFacility1";
+};
+["remnants_gnrt001"] = {
+["cpName"] = "afgh_remnants_cp";
+["powerCutAreaName"] = "PowerCutArea_remnants1";
+};
+["sovietBase_swtc003"] = {
+["cpName"] = "afgh_sovietBase_cp";
+["powerCutAreaName"] = "PowerCutArea_sovietBase3";
+};
+["slopedTown_gnrt001"] = {
+["cpName"] = "afgh_slopedTown_cp";
+["powerCutAreaName"] = "PowerCutArea_slopedTown1";
+};
+["fort_gnrt001"] = {
+["cpName"] = "afgh_fort_cp";
+["powerCutAreaName"] = "PowerCutArea_fort1";
+};
+["powerPlant_swtc001"] = {
+["cpName"] = "afgh_powerPlant_cp";
+["powerCutAreaName"] = "PowerCutArea_powerPlant01";
+};
+["village_gnrt001"] = {
+["cpName"] = "afgh_village_cp";
+["powerCutAreaName"] = "PowerCutArea_village1";
+};
+["enemyBase_gnrt002"] = {
+["cpName"] = "afgh_enemyBase_cp";
+["powerCutAreaName"] = "PowerCutArea_enemyBase2";
+};
+["cliffTown_gnrt001"] = {
+["cpName"] = "afgh_cliffTown_cp";
+["powerCutAreaName"] = "PowerCutArea_cliffTown1";
+};
+["field_gnrt001"] = {
+["cpName"] = "afgh_field_cp";
+["powerCutAreaName"] = "PowerCutArea_field1";
+};
+["sovietBase_swtc001"] = {
+["cpName"] = "afgh_sovietBase_cp";
+["powerCutAreaName"] = "PowerCutArea_sovietBase1";
+};
+["enemyBase_gnrt001"] = {
+["cpName"] = "afgh_enemyBase_cp";
+["powerCutAreaName"] = "PowerCutArea_enemyBase1";
+};
+["citadel_gnrt003"] = {
+["cpName"] = "afgh_citadel_cp";
+["powerCutAreaName"] = "PowerCutArea_citadel3";
+};
+["tent_swtc001"] = {
+["cpName"] = "afgh_tent_cp";
+["powerCutAreaName"] = "PowerCutArea_tent1";
+};
+["sovietBase_swtc002"] = {
+["cpName"] = "afgh_sovietBase_cp";
+["powerCutAreaName"] = "PowerCutArea_sovietBase2";
+};
+["citadel_gnrt001"] = {
+["cpName"] = "afgh_citadel_cp";
+["powerCutAreaName"] = "PowerCutArea_citadel1";
+};
+["bridge_gnrt001"] = {
+["cpName"] = "fgh_bridge_cp";
+["powerCutAreaName"] = "PowerCutArea_bridge1";
+};
+["citadel_gnrt002"] = {
+["cpName"] = "afgh_citadel_cp";
+["powerCutAreaName"] = "PowerCutArea_citadel2";
+};
+};
+["gimmickVisibilityiConnectTable"] = {
+};
+["checkBrokenAndBreakConnectTable"] = {
+["waterway_prst006_A_link"] = {
+["breakGimmickId"] = "waterway_prst006_C";
+["checkBrokenGimmickId"] = "waterway_prst006_B_link";
+};
+["waterway_prst007_A_link"] = {
+["breakGimmickId"] = "waterway_prst007_C";
+["checkBrokenGimmickId"] = "waterway_prst007_B_link";
+};
+["waterway_prst003_A_link"] = {
+["breakGimmickId"] = "waterway_prst003_C";
+["checkBrokenGimmickId"] = "waterway_prst003_B_link";
+};
+["waterway_prst005_A_link"] = {
+["breakGimmickId"] = "waterway_prst005_C";
+["checkBrokenGimmickId"] = "waterway_prst005_B_link";
+};
+["waterway_prst008_A_link"] = {
+["breakGimmickId"] = "waterway_prst008_C";
+["checkBrokenGimmickId"] = "waterway_prst008_B_link";
+};
+["waterway_prst001_A_link"] = {
+["breakGimmickId"] = "waterway_prst001_C";
+["checkBrokenGimmickId"] = "waterway_prst001_B_link";
+};
+["waterway_prst004_A_link"] = {
+["breakGimmickId"] = "waterway_prst004_C";
+["checkBrokenGimmickId"] = "waterway_prst004_B_link";
+};
+["waterway_prst002_A_link"] = {
+["breakGimmickId"] = "waterway_prst002_C";
+["checkBrokenGimmickId"] = "waterway_prst002_B_link";
+};
+};
+["gimmickIdentifierParamTable"] = {
+["enemyBase_mortar005"] = {
+["type"] = 81;
+["blockLarge"] = "afgh_enemyBase";
+["locatorName"] = "hw00_gim_n0004|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/enemyBase/afgh_enemyBase_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["waterway_prst007_A"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst008_gim_n0004|srt_afgh_rins001_prst008";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["slopedTown_antn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_slopedTown";
+["locatorName"] = "afgh_antn001_vrtn004_gim_n0000|srt_afgh_antn001_fndt004";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/slopedTown/afgh_slopedTown_gimmick.fox2";
+["gimmickType"] = 1;
+};
+["waterway_pillar006"] = {
+["type"] = 88;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_pllr004_gim_n0000|srt_afgh_rins001_pllr004";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["village_casset001"] = {
+["type"] = 91;
+["blockLarge"] = "afgh_village";
+["locatorName"] = "afgh_radi001_csst001_gim_n0000|srt_afgh_radi001_csst001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/village/afgh_village_gimmick.fox2";
+["gimmickType"] = 14;
+};
+["bridge_mchn002"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_bridge";
+["locatorName"] = "mtbs_mchn025_vrtn002_gim_n0001|srt_mtbs_mchn025_vrtn002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/bridge/afgh_bridge_gimmick.fox2";
+["gimmickType"] = 2;
+};
+["powerPlant_aacr001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_powerPlant";
+["locatorName"] = "afgh_antn006_gim_n0000|srt_afgh_antn006";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/powerPlant/afgh_powerPlant_gimmick.fox2";
+["gimmickType"] = 9;
+};
+["waterway_prst001_B"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst007_gim_n0001|srt_afgh_rins001_prst007";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["enemyBase_cntn003"] = {
+["type"] = 77;
+["blockLarge"] = "afgh_enemyBase";
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0002|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/enemyBase/afgh_enemyBase_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["remnants_cmmn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_remnants";
+["locatorName"] = "afgh_cmmn002_cmmn002_gim_n0000|srt_afgh_cmmn002_cmmn002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/remnants/afgh_remnants_gimmick.fox2";
+["gimmickType"] = 3;
+};
+["sovietBase_cntn013"] = {
+["type"] = 77;
+["blockLarge"] = "afgh_sovietBase";
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0013|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/sovietBase/afgh_sovietBase_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["cliffTown_mortar002"] = {
+["type"] = 81;
+["blockLarge"] = "afgh_cliffTown";
+["locatorName"] = "hw00_gim_n0001|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/cliffTown/afgh_cliffTown_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["waterway_tower002"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_twer004_gim_n0002|srt_afgh_rins001_twer004";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["slopedTown_mchn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_slopedTown";
+["locatorName"] = "mtbs_mchn025_vrtn001_gim_n0001|srt_mtbs_mchn025_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/slopedTown/afgh_slopedTown_gimmick.fox2";
+["gimmickType"] = 2;
+};
+["fort_mchn002"] = {
+["type"] = 79;
+["blockLarge"] = "afgn_fort";
+["locatorName"] = "mtbs_mchn025_vrtn002_gim_n0001|srt_mtbs_mchn025_vrtn002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/fort/afgn_fort_gimmick.fox2";
+["gimmickType"] = 2;
+};
+["tentEast_mortar001"] = {
+["type"] = 81;
+["blockSmall"] = {
+[1] = 123;
+[2] = 140;
+};
+["locatorName"] = "hw00_gim_n0000|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/123/123_140/afgh_123_140_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["ruinsNorth_mortar001"] = {
+["type"] = 81;
+["blockSmall"] = {
+[1] = 145;
+[2] = 141;
+};
+["locatorName"] = "hw00_gim_n0000|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/145/145_141/afgh_145_141_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["commFacility_gun001"] = {
+["type"] = 82;
+["blockLarge"] = "afgh_commFacility";
+["locatorName"] = "hw03_gim_n0000|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/commFacility/afgh_commFacility_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["remnants_antn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_remnants";
+["locatorName"] = "afgh_antn001_vrtn004_gim_n0000|srt_afgh_antn001_fndt004";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/remnants/afgh_remnants_gimmick.fox2";
+["gimmickType"] = 1;
+};
+["waterway_pillar002"] = {
+["type"] = 88;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_pllr001_gim_n0001|srt_afgh_rins001_pllr001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["bridge_antn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_bridge";
+["locatorName"] = "afgh_antn001_vrtn005_gim_n0000|srt_afgh_antn001_fndt005";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/bridge/afgh_bridge_gimmick.fox2";
+["gimmickType"] = 1;
+};
+["tent_aacr001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_tent";
+["locatorName"] = "afgh_antn006_gim_n0001|srt_afgh_antn006";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/tent/afgh_tent_asset.fox2";
+["gimmickType"] = 9;
+};
+["bridge_cmmn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_bridge";
+["locatorName"] = "afgh_cmmn002_cmmn001_gim_n0000|srt_afgh_cmmn002_cmmn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/bridge/afgh_bridge_gimmick.fox2";
+["gimmickType"] = 3;
+};
+["enemyBase_gun002"] = {
+["type"] = 82;
+["blockLarge"] = "afgh_enemyBase";
+["locatorName"] = "hw03_gim_n0002|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/enemyBase/afgh_enemyBase_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["waterway_prst003_B_link"] = {
+["type"] = 88;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst003_gim_n0002|srt_afgh_rins001_prst003";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["citadelSouth_gun003"] = {
+["type"] = 82;
+["blockSmall"] = {
+[1] = 120;
+[2] = 113;
+};
+["locatorName"] = "hw03_gim_n0000|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/120/120_113/afgh_120_113_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["tent_mchn002"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_tent";
+["locatorName"] = "mtbs_mchn025_vrtn001_gim_n0001|srt_mtbs_mchn025_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/tent/afgh_tent_gimmick.fox2";
+["gimmickType"] = 2;
+};
+["field_mortar002"] = {
+["type"] = 81;
+["blockLarge"] = "afgh_field";
+["locatorName"] = "hw00_gim_n0001|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/field/afgh_field_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["waterway_tower003"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_twer004_gim_n0003|srt_afgh_rins001_twer004";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["commFacility_gnrt001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_commFacility";
+["locatorName"] = "afgh_gnrt002_gim_n0000|srt_afgh_gnrt002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/commFacility/afgh_commFacility_gimmick.fox2";
+["gimmickType"] = 6;
+};
+["citadel_antiair003"] = {
+["type"] = 80;
+["blockLarge"] = "afgh_citadel";
+["locatorName"] = "sad0_main0_def_gim_n0004|srt_sad0_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/citadel/afgh_citadel_gimmick.fox2";
+["gimmickType"] = 8;
+};
+["citadel_cntn009"] = {
+["type"] = 77;
+["blockSmall"] = {
+[1] = 123;
+[2] = 110;
+};
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0001|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/123/123_110/afgh_123_110_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["fort_gnrt001"] = {
+["type"] = 79;
+["blockLarge"] = "afgn_fort";
+["locatorName"] = "afgh_gnrt002_gim_n0000|srt_afgh_gnrt002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/fort/afgn_fort_gimmick.fox2";
+["gimmickType"] = 6;
+};
+["powerPlant_antn003"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_powerPlant";
+["locatorName"] = "afgh_antn001_vrtn005_gim_n0003|srt_afgh_antn001_fndt005";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/powerPlant/afgh_powerPlant_gimmick.fox2";
+["gimmickType"] = 1;
+};
+["waterway_prst005_A_link"] = {
+["type"] = 88;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst002_gim_n0004|srt_afgh_rins001_prst002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["sovietBase_cntn005"] = {
+["type"] = 77;
+["blockLarge"] = "afgh_sovietBase";
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0005|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/sovietBase/afgh_sovietBase_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["enemyBase_wtct001"] = {
+["type"] = 84;
+["blockLarge"] = "afgh_enemyBase";
+["locatorName"] = "afgh_wtct001_gim_n0000|srt_afgh_wtct001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/enemyBase/afgh_enemyBase_gimmick.fox2";
+["gimmickType"] = 11;
+};
+["waterway_prst001_A"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst007_gim_n0000|srt_afgh_rins001_prst007";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["field_gnrt001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_field";
+["locatorName"] = "afgh_gnrt002_gim_n0000|srt_afgh_gnrt002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/field/afgh_field_gimmick.fox2";
+["gimmickType"] = 6;
+};
+["bridge_casset001"] = {
+["type"] = 91;
+["blockLarge"] = "afgh_bridge";
+["locatorName"] = "afgh_radi001_csst001_gim_n0000|srt_afgh_radi001_csst001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/bridge/afgh_bridge_gimmick.fox2";
+["gimmickType"] = 14;
+};
+["enemyBase_antn002"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_enemyBase";
+["locatorName"] = "afgh_antn001_vrtn004_gim_n0001|srt_afgh_antn001_fndt004";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/enemyBase/afgh_enemyBase_gimmick.fox2";
+["gimmickType"] = 1;
+};
+["enemyBase_aacr001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_enemyBase";
+["locatorName"] = "afgh_antn006_gim_n0000|srt_afgh_antn006";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/enemyBase/afgh_enemyBase_gimmick.fox2";
+["gimmickType"] = 9;
+};
+["tent_mchn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_tent";
+["locatorName"] = "mtbs_mchn025_vrtn001_gim_n0000|srt_mtbs_mchn025_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/tent/afgh_tent_gimmick.fox2";
+["gimmickType"] = 2;
+};
+["remnants_light002"] = {
+["type"] = 76;
+["blockLarge"] = "afgh_remnants";
+["locatorName"] = "gntn_srlg001_vrtn002_gim_n0001|srt_gntn_srlg001_gm";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/remnants/afgh_remnants_gimmick.fox2";
+["gimmickType"] = 10;
+};
+["slopedTown_gun002"] = {
+["type"] = 82;
+["blockLarge"] = "afgh_slopedTown";
+["locatorName"] = "hw03_gim_n0002|srt_hw03_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/slopedTown/afgh_slopedTown_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["citadel_gun005"] = {
+["type"] = 82;
+["blockLarge"] = "afgh_citadel";
+["locatorName"] = "hw03_gim_n0005|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/citadel/afgh_citadel_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["bridgeWest_wtct001"] = {
+["type"] = 84;
+["blockSmall"] = {
+[1] = 145;
+[2] = 133;
+};
+["locatorName"] = "afgh_wtct001_gim_n0000|srt_afgh_wtct001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/145/145_133/afgh_145_133_gimmick.fox2";
+["gimmickType"] = 11;
+};
+["waterway_pillar001"] = {
+["type"] = 88;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_pllr001_gim_n0000|srt_afgh_rins001_pllr001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["bridge_cntn001"] = {
+["type"] = 77;
+["blockLarge"] = "afgh_bridge";
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0001|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/bridge/afgh_bridge_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["slopedTown_antiair001"] = {
+["type"] = 80;
+["blockLarge"] = "afgh_slopedTown";
+["locatorName"] = "nad0_main0_def_gim_n_0000|srt_nad0_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/slopedTown/afgh_slopedTown_gimmick.fox2";
+["gimmickType"] = 8;
+};
+["villageNorth_gun002"] = {
+["type"] = 82;
+["blockSmall"] = {
+[1] = 137;
+[2] = 138;
+};
+["locatorName"] = "hw03_gim_n0000|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/137/137_138/afgh_137_138_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["commFacility_aacr001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_commFacility";
+["locatorName"] = "afgh_antn006_gim_n0000|srt_afgh_antn006";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/commFacility/afgh_commFacility_asset.fox2";
+["gimmickType"] = 9;
+};
+["tentEast_wtct001"] = {
+["type"] = 84;
+["blockSmall"] = {
+[1] = 123;
+[2] = 140;
+};
+["locatorName"] = "afgh_wtct001_gim_n0000|srt_afgh_wtct001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/123/123_140/afgh_123_140_asset.fox2";
+["gimmickType"] = 11;
+};
+["commWest_mortar002"] = {
+["type"] = 81;
+["blockSmall"] = {
+[1] = 140;
+[2] = 138;
+};
+["locatorName"] = "hw00_gim_n0001|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/140/140_138/afgh_140_138_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["sovietBase_mchn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_sovietBase";
+["locatorName"] = "mtbs_mchn025_vrtn001_gim_n0000|srt_mtbs_mchn025_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/sovietBase/afgh_sovietBase_gimmick.fox2";
+["gimmickType"] = 2;
+};
+["powerPlant_mchn003"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_powerPlant";
+["locatorName"] = "mtbs_mchn025_vrtn002_gim_n0003|srt_mtbs_mchn025_vrtn002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/powerPlant/afgh_powerPlant_gimmick.fox2";
+["gimmickType"] = 2;
+};
+["village_mchn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_village";
+["locatorName"] = "mtbs_mchn025_vrtn001_gim_n0002|srt_mtbs_mchn025_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/village/afgh_village_asset.fox2";
+["gimmickType"] = 2;
+};
+["enemyBase_mortar002"] = {
+["type"] = 81;
+["blockLarge"] = "afgh_enemyBase";
+["locatorName"] = "hw00_gim_n0001|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/enemyBase/afgh_enemyBase_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["commFacility_cntn001"] = {
+["type"] = 77;
+["blockLarge"] = "afgh_commFacility";
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0000|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/commFacility/afgh_commFacility_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["sovietBase_swtc002"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_sovietBase";
+["locatorName"] = "gntn_mchn001_swtc002_gim_n0001|srt_gntn_mchn001_swtc002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/sovietBase/afgh_sovietBase_asset.fox2";
+["gimmickType"] = 15;
+};
+["enemyBase_gun001"] = {
+["type"] = 82;
+["blockLarge"] = "afgh_enemyBase";
+["locatorName"] = "hw03_gim_n0001|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/enemyBase/afgh_enemyBase_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["powerPlant_casset001"] = {
+["type"] = 91;
+["blockLarge"] = "afgh_powerPlant";
+["locatorName"] = "afgh_radi001_csst001_gim_n0000|srt_afgh_radi001_csst001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/powerPlant/afgh_powerPlant_gimmick.fox2";
+["gimmickType"] = 14;
+};
+["enemyNorth_mortar002"] = {
+["type"] = 81;
+["blockSmall"] = {
+[1] = 131;
+[2] = 129;
+};
+["locatorName"] = "hw00_gim_n0001|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/131/131_129/afgh_131_129_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["field_mchn002"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_field";
+["locatorName"] = "mtbs_mchn025_vrtn002_gim_n0001|srt_mtbs_mchn025_vrtn002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/field/afgh_field_gimmick.fox2";
+["gimmickType"] = 2;
+};
+["field_antiair001"] = {
+["type"] = 80;
+["blockLarge"] = "afgh_field";
+["locatorName"] = "sad0_main0_def_gim_n0000|srt_sad0_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/field/afgh_field_gimmick.fox2";
+["gimmickType"] = 8;
+};
+["fort_antiair001"] = {
+["type"] = 80;
+["blockLarge"] = "afgn_fort";
+["locatorName"] = "sad0_main0_def_gim_n0000|srt_sad0_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/fort/afgn_fort_gimmick.fox2";
+["gimmickType"] = 8;
+};
+["commFacility_mortar001"] = {
+["type"] = 81;
+["blockLarge"] = "afgh_commFacility";
+["locatorName"] = "hw00_gim_n0000|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/commFacility/afgh_commFacility_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["citadel_gun004"] = {
+["type"] = 82;
+["blockLarge"] = "afgh_citadel";
+["locatorName"] = "hw03_gim_n0003|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/citadel/afgh_citadel_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["commFacility_casset001"] = {
+["type"] = 91;
+["blockLarge"] = "afgh_commFacility";
+["locatorName"] = "afgh_radi001_csst001_gim_n0000|srt_afgh_radi001_csst001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/commFacility/afgh_commFacility_gimmick.fox2";
+["gimmickType"] = 14;
+};
+["tent_light001"] = {
+["type"] = 76;
+["blockLarge"] = "afgh_tent";
+["locatorName"] = "afgh_wtct001_vrtn001_gim_n0000|gntn_srlg001_vrtn001_gim_n0000|srt_gntn_srlg001_gm";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/tent/afgh_tent_gimmick.fox2";
+["gimmickType"] = 10;
+};
+["sovietBase_cntn003"] = {
+["type"] = 77;
+["blockLarge"] = "afgh_sovietBase";
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0002|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/sovietBase/afgh_sovietBase_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["enemyBase_mortar001"] = {
+["type"] = 81;
+["blockLarge"] = "afgh_enemyBase";
+["locatorName"] = "hw00_gim_n0000|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/enemyBase/afgh_enemyBase_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["cliffTown_mortar004"] = {
+["type"] = 81;
+["blockLarge"] = "afgh_cliffTown";
+["locatorName"] = "hw00_gim_n0003|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/cliffTown/afgh_cliffTown_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["fort_antn002"] = {
+["type"] = 79;
+["blockLarge"] = "afgn_fort";
+["locatorName"] = "afgh_antn001_vrtn005_gim_n0001|srt_afgh_antn001_fndt005";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/fort/afgn_fort_gimmick.fox2";
+["gimmickType"] = 1;
+};
+["slopedTown_light002"] = {
+["type"] = 76;
+["blockLarge"] = "afgh_slopedTown";
+["locatorName"] = "gntn_srlg001_vrtn002_gim_n0001|srt_gntn_srlg001_gm";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/slopedTown/afgh_slopedTown_gimmick.fox2";
+["gimmickType"] = 10;
+};
+["powerPlant_cntn002"] = {
+["type"] = 77;
+["blockLarge"] = "";
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0001|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/mission2/story/s10070/s10070_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["sovietBase_aacr001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_sovietBase";
+["locatorName"] = "afgh_antn006_gim_n0000|srt_afgh_antn006";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/sovietBase/afgh_sovietBase_asset.fox2";
+["gimmickType"] = 9;
+};
+["enemyBase_casset001"] = {
+["type"] = 91;
+["blockLarge"] = "afgh_enemyBase";
+["locatorName"] = "afgh_radi001_csst001_gim_n0000|srt_afgh_radi001_csst001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/enemyBase/afgh_enemyBase_gimmick.fox2";
+["gimmickType"] = 14;
+};
+["cliffTown_antn002"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_cliffTown";
+["locatorName"] = "afgh_antn001_vrtn004_gim_n0001|srt_afgh_antn001_fndt004";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/cliffTown/afgh_cliffTown_gimmick.fox2";
+["gimmickType"] = 1;
+};
+["field_antn002"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_field";
+["locatorName"] = "afgh_antn001_vrtn005_gim_n0001|srt_afgh_antn001_fndt005";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/field/afgh_field_gimmick.fox2";
+["gimmickType"] = 1;
+};
+["citadel_antiair002"] = {
+["type"] = 80;
+["blockLarge"] = "afgh_citadel";
+["locatorName"] = "sad0_main0_def_gim_n0003|srt_sad0_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/citadel/afgh_citadel_gimmick.fox2";
+["gimmickType"] = 8;
+};
+["remnants_gnrt001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_remnants";
+["locatorName"] = "afgh_gnrt002_gim_n0000|srt_afgh_gnrt002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/remnants/afgh_remnants_gimmick.fox2";
+["gimmickType"] = 6;
+};
+["powerPlant_gun001"] = {
+["type"] = 82;
+["blockLarge"] = "afgh_powerPlant";
+["locatorName"] = "hw03_gim_n0000|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/powerPlant/afgh_powerPlant_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["field_mortar001"] = {
+["type"] = 81;
+["blockLarge"] = "afgh_field";
+["locatorName"] = "hw00_gim_n0000|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/field/afgh_field_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["bridge_antn003"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_bridge";
+["locatorName"] = "afgh_antn001_vrtn005_gim_n0000|srt_afgh_antn001_fndt005";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/147/147_131/afgh_147_131_gimmick.fox2";
+["gimmickType"] = 1;
+};
+["field_light003"] = {
+["type"] = 76;
+["blockLarge"] = "afgh_field";
+["locatorName"] = "gntn_srlg001_vrtn002_gim_n0002|srt_gntn_srlg001_gm";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/field/afgh_field_gimmick.fox2";
+["gimmickType"] = 10;
+};
+["village_cmmn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_village";
+["locatorName"] = "afgh_cmmn002_cmmn002_gim_n_0000|srt_afgh_cmmn002_cmmn002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/village/afgh_village_gimmick.fox2";
+["gimmickType"] = 3;
+};
+["citadel_antn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_citadel";
+["locatorName"] = "afgh_antn001_vrtn004_gim_n0000|srt_afgh_antn001_fndt004";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/citadel/afgh_citadel_gimmick.fox2";
+["gimmickType"] = 1;
+};
+["field_mortar003"] = {
+["type"] = 81;
+["blockLarge"] = "afgh_field";
+["locatorName"] = "hw00_gim_n0002|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/field/afgh_field_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["waterway_prst008_A"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst008_gim_n0005|srt_afgh_rins001_prst008";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["cliffTown_mortar001"] = {
+["type"] = 81;
+["blockLarge"] = "afgh_cliffTown";
+["locatorName"] = "hw00_gim_n0000|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/cliffTown/afgh_cliffTown_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["tentEast_gun001"] = {
+["type"] = 82;
+["blockSmall"] = {
+[1] = 124;
+[2] = 140;
+};
+["locatorName"] = "hw03_gim_n0000|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/124/124_140/afgh_124_140_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["slopedTown_casset001"] = {
+["type"] = 91;
+["blockLarge"] = "afgh_slopedTown";
+["locatorName"] = "afgh_radi001_csst001_gim_n0000|srt_afgh_radi001_csst001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/slopedTown/afgh_slopedTown_gimmick.fox2";
+["gimmickType"] = 14;
+};
+["tentNorth_gun002"] = {
+["type"] = 82;
+["blockSmall"] = {
+[1] = 119;
+[2] = 134;
+};
+["locatorName"] = "hw03_gim_n0001|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/119/119_134/afgh_119_134_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["tentNorth_gun001"] = {
+["type"] = 82;
+["blockSmall"] = {
+[1] = 119;
+[2] = 134;
+};
+["locatorName"] = "hw03_gim_n0000|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/119/119_134/afgh_119_134_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["waterway_prst002_C"] = {
+["type"] = 88;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst001_gim_n0001|srt_afgh_rins001_prst001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["cliffTown_gun002"] = {
+["type"] = 82;
+["blockLarge"] = "afgh_cliffTown";
+["locatorName"] = "hw03_gim_n0001|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/cliffTown/afgh_cliffTown_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["sovietSouth_gun001"] = {
+["type"] = 82;
+["blockSmall"] = {
+[1] = 120;
+[2] = 123;
+};
+["locatorName"] = "hw03_gim_n0000|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/120/120_123/afgh_120_123_asset.fox2";
+["gimmickType"] = 4;
+};
+["commFacility_cntn002"] = {
+["type"] = 77;
+["blockLarge"] = "afgh_commFacility";
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0001|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/commFacility/afgh_commFacility_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["plantWest_mortar001"] = {
+["type"] = 81;
+["blockSmall"] = {
+[1] = 123;
+[2] = 121;
+};
+["locatorName"] = "hw00_gim_n0000|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/123/123_121/afgh_123_121_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["waterway_prst006_B_link"] = {
+["type"] = 88;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst006_gim_n0001|srt_afgh_rins001_prst006";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["citadel_mchn003"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_citadel";
+["locatorName"] = "mtbs_mchn025_vrtn001_gim_n0002|srt_mtbs_mchn025_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/citadel/afgh_citadel_gimmick.fox2";
+["gimmickType"] = 2;
+};
+["enemyBase_mortar003"] = {
+["type"] = 81;
+["blockLarge"] = "afgh_enemyBase";
+["locatorName"] = "hw00_gim_n0002|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/enemyBase/afgh_enemyBase_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["citadel_cntn005"] = {
+["type"] = 77;
+["blockSmall"] = {
+[1] = 123;
+[2] = 109;
+};
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0003|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/123/123_109/afgh_123_109_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["fortSouth_gun001"] = {
+["type"] = 82;
+["blockSmall"] = {
+[1] = 150;
+[2] = 123;
+};
+["locatorName"] = "hw03_gim_n0000|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/150/150_123/afgh_150_123_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["fortSouth_mortar001"] = {
+["type"] = 81;
+["blockSmall"] = {
+[1] = 150;
+[2] = 123;
+};
+["locatorName"] = "hw00_gim_n0000|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/150/150_123/afgh_150_123_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["citadel_cmmn002"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_citadel";
+["locatorName"] = "afgh_cmmn002_cmmn002_gim_n0000|srt_afgh_cmmn002_cmmn002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/citadel/afgh_citadel_gimmick.fox2";
+["gimmickType"] = 3;
+};
+["tent_light003"] = {
+["type"] = 76;
+["blockLarge"] = "afgh_tent";
+["locatorName"] = "gntn_srlg001_vrtn001_gim_n0001|srt_gntn_srlg001_gm";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/tent/afgh_tent_gimmick.fox2";
+["gimmickType"] = 10;
+};
+["sovietBase_cntn010"] = {
+["type"] = 77;
+["blockLarge"] = "afgh_sovietBase";
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0010|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/sovietBase/afgh_sovietBase_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["powerPlant_cmmn002"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_powerPlant";
+["locatorName"] = "afgh_cmmn002_cmmn002_gim_n0000|srt_afgh_cmmn002_cmmn002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/powerPlant/afgh_powerPlant_gimmick.fox2";
+["gimmickType"] = 3;
+};
+["villageWest_mortar001"] = {
+["type"] = 81;
+["blockSmall"] = {
+[1] = 131;
+[2] = 140;
+};
+["locatorName"] = "hw00_gim_n0000|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/131/131_140/afgh_131_140_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["waterway_prst008_B_link"] = {
+["type"] = 88;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst006_gim_n0003|srt_afgh_rins001_prst006";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["cliffEast_wtct001"] = {
+["type"] = 84;
+["blockSmall"] = {
+[1] = 142;
+[2] = 122;
+};
+["locatorName"] = "afgh_wtct001_gim_n0000|srt_afgh_wtct001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/142/142_122/afgh_142_122_gimmick.fox2";
+["gimmickType"] = 11;
+};
+["fortWest_gun001"] = {
+["type"] = 82;
+["blockSmall"] = {
+[1] = 147;
+[2] = 123;
+};
+["locatorName"] = "hw03_gim_n0000|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/147/147_123/afgh_147_123_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["powerPlant_cmmn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_powerPlant";
+["locatorName"] = "afgh_cmmn002_cmmn001_gim_n0000|srt_afgh_cmmn002_cmmn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/powerPlant/afgh_powerPlant_gimmick.fox2";
+["gimmickType"] = 3;
+};
+["fortWest_mortar001"] = {
+["type"] = 81;
+["blockSmall"] = {
+[1] = 147;
+[2] = 123;
+};
+["locatorName"] = "hw00_gim_n0000|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/147/147_123/afgh_147_123_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["cliffTown_cmmn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_cliffTown";
+["locatorName"] = "afgh_cmmn002_cmmn001_gim_n0000|srt_afgh_cmmn002_cmmn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/cliffTown/afgh_cliffTown_gimmick.fox2";
+["gimmickType"] = 3;
+};
+["tent_wtct001"] = {
+["type"] = 84;
+["blockLarge"] = "afgh_tent";
+["locatorName"] = "afgh_wtct001_vrtn001_gim_n0000|srt_afgh_wtct001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/tent/afgh_tent_gimmick.fox2";
+["gimmickType"] = 11;
+};
+["sovietBase_cntn006"] = {
+["type"] = 77;
+["blockLarge"] = "afgh_sovietBase";
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0006|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/sovietBase/afgh_sovietBase_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["cliffTown_mchn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_cliffTown";
+["locatorName"] = "mtbs_mchn025_vrtn001_gim_n0000|srt_mtbs_mchn025_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/cliffTown/afgh_cliffTown_gimmick.fox2";
+["gimmickType"] = 2;
+};
+["citadel_cntn010"] = {
+["type"] = 77;
+["blockSmall"] = {
+[1] = 123;
+[2] = 110;
+};
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0002|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/123/123_110/afgh_123_110_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["citadel_light004"] = {
+["type"] = 76;
+["blockLarge"] = "afgh_citadel";
+["locatorName"] = "gntn_srlg001_vrtn002_gim_n0003|srt_gntn_srlg001_gm";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/citadel/afgh_citadel_gimmick.fox2";
+["gimmickType"] = 10;
+};
+["citadel_casset001"] = {
+["type"] = 91;
+["blockLarge"] = "";
+["locatorName"] = "afgh_radi001_csst001_gim_n0000|srt_afgh_radi001_csst001";
+["dataSetName"] = "/Assets/tpp/level/mission2/story/s10150/s10150_block01.fox2";
+["gimmickType"] = 14;
+};
+["field_light002"] = {
+["type"] = 76;
+["blockLarge"] = "afgh_field";
+["locatorName"] = "gntn_srlg001_vrtn002_gim_n0001|srt_gntn_srlg001_gm";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/field/afgh_field_gimmick.fox2";
+["gimmickType"] = 10;
+};
+["villageNorth_mortar002"] = {
+["type"] = 81;
+["blockSmall"] = {
+[1] = 137;
+[2] = 138;
+};
+["locatorName"] = "hw00_gim_n0000|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/137/137_138/afgh_137_138_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["bridge_cntn003"] = {
+["type"] = 77;
+["blockLarge"] = "afgh_bridge";
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0003|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/bridge/afgh_bridge_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["commFacility_antn003"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_commFacility";
+["locatorName"] = "afgh_antn001_vrtn004_gim_n0002|srt_afgh_antn001_fndt004";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/commFacility/afgh_commFacility_gimmick.fox2";
+["gimmickType"] = 1;
+};
+["commFacility_mortar002"] = {
+["type"] = 81;
+["blockLarge"] = "afgh_commFacility";
+["locatorName"] = "hw00_gim_n0001|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/commFacility/afgh_commFacility_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["enemyBase_cntn002"] = {
+["type"] = 77;
+["blockLarge"] = "afgh_enemyBase";
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0001|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/enemyBase/afgh_enemyBase_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["villageNorth_casset001"] = {
+["type"] = 91;
+["blockSmall"] = {
+[1] = 136;
+[2] = 138;
+};
+["locatorName"] = "afgh_radi001_csst001_gim_n0000|srt_afgh_radi001_csst001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/136/136_138/afgh_136_138_gimmick.fox2";
+["gimmickType"] = 14;
+};
+["waterway_prst004_B_link"] = {
+["type"] = 88;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst003_gim_n0001|srt_afgh_rins001_prst003";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["village_antiair001"] = {
+["type"] = 80;
+["blockSmall"] = {
+[1] = 135;
+[2] = 141;
+};
+["locatorName"] = "sad0_main0_def_gim_n0000|srt_sad0_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/135/135_141/afgh_135_141_gimmick.fox2";
+["gimmickType"] = 8;
+};
+["field_mchn003"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_field";
+["locatorName"] = "mtbs_mchn025_vrtn002_gim_n0002|srt_mtbs_mchn025_vrtn002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/field/afgh_field_gimmick.fox2";
+["gimmickType"] = 2;
+};
+["bridge_light002"] = {
+["type"] = 76;
+["blockLarge"] = "afgh_bridge";
+["locatorName"] = "gntn_srlg001_vrtn002_gim_n0000|srt_gntn_srlg001_gm";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/bridge/afgh_bridge_gimmick.fox2";
+["gimmickType"] = 10;
+};
+["cliffWest_gun001"] = {
+["type"] = 82;
+["blockSmall"] = {
+[1] = 135;
+[2] = 126;
+};
+["locatorName"] = "hw03_gim_n0000|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/135/135_126/afgh_135_126_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["bridgeWest_mortar001"] = {
+["type"] = 81;
+["blockSmall"] = {
+[1] = 144;
+[2] = 133;
+};
+["locatorName"] = "hw00_gim_n0000|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/144/144_133/afgh_144_133_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["cliffTown_gun001"] = {
+["type"] = 82;
+["blockLarge"] = "afgh_cliffTown";
+["locatorName"] = "hw03_gim_n0000|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/cliffTown/afgh_cliffTown_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["sovietBase_cntn004"] = {
+["type"] = 77;
+["blockLarge"] = "afgh_sovietBase";
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0003|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/sovietBase/afgh_sovietBase_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["citadel_cntn004"] = {
+["type"] = 77;
+["blockSmall"] = {
+[1] = 123;
+[2] = 109;
+};
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0002|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/123/123_109/afgh_123_109_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["cliffWest_mortar001"] = {
+["type"] = 81;
+["blockSmall"] = {
+[1] = 135;
+[2] = 126;
+};
+["locatorName"] = "hw00_gim_n0000|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/135/135_126/afgh_135_126_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["enemyBase_cntn001"] = {
+["type"] = 77;
+["blockLarge"] = "afgh_enemyBase";
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0000|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/enemyBase/afgh_enemyBase_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["cliffWest_wtct001"] = {
+["type"] = 84;
+["blockSmall"] = {
+[1] = 135;
+[2] = 126;
+};
+["locatorName"] = "afgh_wtct001_gim_n0000|srt_afgh_wtct001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/135/135_126/afgh_135_126_gimmick.fox2";
+["gimmickType"] = 11;
+};
+["cliffSouth_mortar001"] = {
+["type"] = 81;
+["blockSmall"] = {
+[1] = 141;
+[2] = 129;
+};
+["locatorName"] = "hw00_gim_n0000|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/141/141_129/afgh_141_129_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["village_gnrt001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_village";
+["locatorName"] = "afgh_gnrt002_gim_n_0000|srt_afgh_gnrt002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/village/afgh_village_gimmick.fox2";
+["gimmickType"] = 6;
+};
+["remnants_casset001"] = {
+["type"] = 91;
+["blockLarge"] = "afgh_remnants";
+["locatorName"] = "afgh_radi001_csst001_gim_n0000|srt_afgh_radi001_csst001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/remnants/afgh_remnants_gimmick.fox2";
+["gimmickType"] = 14;
+};
+["cliffSouth_gun001"] = {
+["type"] = 82;
+["blockSmall"] = {
+[1] = 141;
+[2] = 129;
+};
+["locatorName"] = "hw03_gim_n0000|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/141/141_129/afgh_141_129_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["fieldWest_gun001"] = {
+["type"] = 82;
+["blockSmall"] = {
+[1] = 133;
+[2] = 148;
+};
+["locatorName"] = "hw03_gim_n0000|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/133/133_148/afgh_133_148_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["villageWest_wtct001"] = {
+["type"] = 84;
+["blockSmall"] = {
+[1] = 131;
+[2] = 140;
+};
+["locatorName"] = "afgh_wtct001_gim_n0000|srt_afgh_wtct001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/131/131_140/afgh_131_140_asset.fox2";
+["gimmickType"] = 11;
+};
+["tent_light002"] = {
+["type"] = 76;
+["blockLarge"] = "afgh_tent";
+["locatorName"] = "gntn_srlg001_vrtn001_gim_n0000|srt_gntn_srlg001_gm";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/tent/afgh_tent_gimmick.fox2";
+["gimmickType"] = 10;
+};
+["fieldWest_mortar001"] = {
+["type"] = 81;
+["blockSmall"] = {
+[1] = 133;
+[2] = 148;
+};
+["locatorName"] = "hw00_gim_n0000|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/133/133_148/afgh_133_148_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["fort_mchn003"] = {
+["type"] = 79;
+["blockLarge"] = "afgn_fort";
+["locatorName"] = "mtbs_mchn025_vrtn002_gim_n0002|srt_mtbs_mchn025_vrtn002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/fort/afgn_fort_gimmick.fox2";
+["gimmickType"] = 2;
+};
+["slopedEast_wtct001"] = {
+["type"] = 84;
+["blockSmall"] = {
+[1] = 140;
+[2] = 131;
+};
+["locatorName"] = "afgh_wtct001_gim_n0000|srt_afgh_wtct001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/140/140_131/afgh_140_131_asset.fox2";
+["gimmickType"] = 11;
+};
+["remnantsNorth_mortar001"] = {
+["type"] = 81;
+["blockSmall"] = {
+[1] = 124;
+[2] = 144;
+};
+["locatorName"] = "hw00_gim_n0000|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/124/124_144/afgh_124_144_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["bridge_cntn007"] = {
+["type"] = 77;
+["blockLarge"] = "afgh_bridge";
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0007|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/bridge/afgh_bridge_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["waterway_prst004_A"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst007_gim_n0006|srt_afgh_rins001_prst007";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["waterway_prst008_B"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst008_gim_n0006|srt_afgh_rins001_prst008";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["remnantsNorth_casset001"] = {
+["type"] = 91;
+["blockSmall"] = {
+[1] = 124;
+[2] = 144;
+};
+["locatorName"] = "afgh_radi001_csst001_gim_n0000|srt_afgh_radi001_csst001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/124/124_144/afgh_124_144_gimmick.fox2";
+["gimmickType"] = 14;
+};
+["enemyBase_gnrt001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_enemyBase";
+["locatorName"] = "afgh_gnrt002_gim_n0000|srt_afgh_gnrt002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/enemyBase/afgh_enemyBase_gimmick.fox2";
+["gimmickType"] = 6;
+};
+["citadel_antiair001"] = {
+["type"] = 80;
+["blockLarge"] = "afgh_citadel";
+["locatorName"] = "sad0_main0_def_gim_n0001|srt_sad0_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/citadel/afgh_citadel_gimmick.fox2";
+["gimmickType"] = 8;
+};
+["field_antn003"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_field";
+["locatorName"] = "afgh_antn001_vrtn005_gim_n0002|srt_afgh_antn001_fndt005";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/field/afgh_field_gimmick.fox2";
+["gimmickType"] = 1;
+};
+["commWest_mortar001"] = {
+["type"] = 81;
+["blockSmall"] = {
+[1] = 140;
+[2] = 138;
+};
+["locatorName"] = "hw00_gim_n0000|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/140/140_138/afgh_140_138_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["field_mchn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_field";
+["locatorName"] = "mtbs_mchn025_vrtn002_gim_n0000|srt_mtbs_mchn025_vrtn002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/field/afgh_field_gimmick.fox2";
+["gimmickType"] = 2;
+};
+["waterway_prst005_B_link"] = {
+["type"] = 88;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst003_gim_n0004|srt_afgh_rins001_prst003";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["enemyBase_cntn005"] = {
+["type"] = 77;
+["blockLarge"] = "afgh_enemyBase";
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0004|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/enemyBase/afgh_enemyBase_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["waterway_pillar003"] = {
+["type"] = 88;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_pllr001_gim_n0002|srt_afgh_rins001_pllr001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["cliffTown_casset001"] = {
+["type"] = 91;
+["blockLarge"] = "afgh_cliffTown";
+["locatorName"] = "afgh_radi001_csst001_gim_n0000|srt_afgh_radi001_csst001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/cliffTown/afgh_cliffTown_gimmick.fox2";
+["gimmickType"] = 14;
+};
+["fieldWest_mortar002"] = {
+["type"] = 81;
+["blockSmall"] = {
+[1] = 133;
+[2] = 148;
+};
+["locatorName"] = "hw00_gim_n0001|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/133/133_148/afgh_133_148_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["sovietBase_swtc001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_sovietBase";
+["locatorName"] = "gntn_mchn001_swtc002_gim_n0000|srt_gntn_mchn001_swtc002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/sovietBase/afgh_sovietBase_asset.fox2";
+["gimmickType"] = 15;
+};
+["fieldWest_wtct001"] = {
+["type"] = 84;
+["blockSmall"] = {
+[1] = 133;
+[2] = 148;
+};
+["locatorName"] = "afgh_wtct001_gim_n0000|srt_afgh_wtct001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/133/133_148/afgh_133_148_gimmick.fox2";
+["gimmickType"] = 11;
+};
+["fort_antn003"] = {
+["type"] = 79;
+["blockLarge"] = "afgn_fort";
+["locatorName"] = "afgh_antn001_vrtn005_gim_n0002|srt_afgh_antn001_fndt005";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/fort/afgn_fort_gimmick.fox2";
+["gimmickType"] = 1;
+};
+["fieldEast_mortar002"] = {
+["type"] = 81;
+["blockSmall"] = {
+[1] = 141;
+[2] = 146;
+};
+["locatorName"] = "hw00_gim_n0002|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/141/141_146/afgh_141_146_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["waterway_prst002_A_link"] = {
+["type"] = 88;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst002_gim_n0001|srt_afgh_rins001_prst002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["remnants_light003"] = {
+["type"] = 76;
+["blockLarge"] = "afgh_remnants";
+["locatorName"] = "gntn_srlg001_vrtn001_gim_n0002|srt_gntn_srlg001_gm";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/remnants/afgh_remnants_gimmick.fox2";
+["gimmickType"] = 10;
+};
+["citadel_mortar003"] = {
+["type"] = 81;
+["blockLarge"] = "afgh_citadel";
+["locatorName"] = "hw00_gim_n0002|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/citadel/afgh_citadel_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["bridge_mchn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_bridge";
+["locatorName"] = "mtbs_mchn025_vrtn002_gim_n0000|srt_mtbs_mchn025_vrtn002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/bridge/afgh_bridge_gimmick.fox2";
+["gimmickType"] = 2;
+};
+["remnants_gun002"] = {
+["type"] = 82;
+["blockLarge"] = "afgh_remnants";
+["locatorName"] = "hw03_gim_n0001|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/remnants/afgh_remnants_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["commFacility_light001"] = {
+["type"] = 76;
+["blockLarge"] = "afgh_commFacility";
+["locatorName"] = "gntn_srlg001_vrtn002_gim_n0000|srt_gntn_srlg001_gm";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/commFacility/afgh_commFacility_gimmick.fox2";
+["gimmickType"] = 10;
+};
+["commFacility_antn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_commFacility";
+["locatorName"] = "afgh_antn001_vrtn004_gim_n0000|srt_afgh_antn001_fndt004";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/commFacility/afgh_commFacility_gimmick.fox2";
+["gimmickType"] = 1;
+};
+["sovietBase_swtc003"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_sovietBase";
+["locatorName"] = "gntn_mchn001_swtc002_gim_n0002|srt_gntn_mchn001_swtc002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/sovietBase/afgh_sovietBase_asset.fox2";
+["gimmickType"] = 15;
+};
+["fort_gun001"] = {
+["type"] = 82;
+["blockLarge"] = "afgn_fort";
+["locatorName"] = "hw03_gim_n0000|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/fort/afgn_fort_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["enemyBase_gun005"] = {
+["type"] = 82;
+["blockLarge"] = "afgh_enemyBase";
+["locatorName"] = "hw03_gim_n0005|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/enemyBase/afgh_enemyBase_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["citadel_light007"] = {
+["type"] = 76;
+["blockLarge"] = "afgh_citadel";
+["locatorName"] = "gntn_srlg001_vrtn002_gim_n0006|srt_gntn_srlg001_gm";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/citadel/afgh_citadel_gimmick.fox2";
+["gimmickType"] = 10;
+};
+["enemyBase_mortar004"] = {
+["type"] = 81;
+["blockLarge"] = "afgh_enemyBase";
+["locatorName"] = "hw00_gim_n0003|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/enemyBase/afgh_enemyBase_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["citadel_cmmn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_citadel";
+["locatorName"] = "afgh_cmmn002_cmmn001_gim_n0000|srt_afgh_cmmn002_cmmn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/citadel/afgh_citadel_gimmick.fox2";
+["gimmickType"] = 3;
+};
+["cliffTown_wtct001"] = {
+["type"] = 84;
+["blockLarge"] = "afgh_cliffTown";
+["locatorName"] = "afgh_wtct001_vrtn001_gim_n0000|srt_afgh_wtct001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/cliffTown/afgh_cliffTown_gimmick.fox2";
+["gimmickType"] = 11;
+};
+["field_light001"] = {
+["type"] = 76;
+["blockLarge"] = "afgh_field";
+["locatorName"] = "gntn_srlg001_vrtn002_gim_n0000|srt_gntn_srlg001_gm";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/field/afgh_field_gimmick.fox2";
+["gimmickType"] = 10;
+};
+["enemyNorth_wtct001"] = {
+["type"] = 84;
+["blockSmall"] = {
+[1] = 131;
+[2] = 129;
+};
+["locatorName"] = "afgh_wtct001_gim_n0000|srt_afgh_wtct001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/131/131_129/afgh_131_129_asset.fox2";
+["gimmickType"] = 11;
+};
+["slopedTown_mchn002"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_slopedTown";
+["locatorName"] = "mtbs_mchn025_vrtn001_gim_n0002|srt_mtbs_mchn025_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/slopedTown/afgh_slopedTown_gimmick.fox2";
+["gimmickType"] = 2;
+};
+["citadelSouth_mortar001"] = {
+["type"] = 81;
+["blockSmall"] = {
+[1] = 119;
+[2] = 114;
+};
+["locatorName"] = "hw00_gim_n0000|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/119/119_114/afgh_119_114_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["sovietBase_cntn012"] = {
+["type"] = 77;
+["blockLarge"] = "afgh_sovietBase";
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0012|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/sovietBase/afgh_sovietBase_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["enemyBase_cntn007"] = {
+["type"] = 77;
+["blockLarge"] = "afgh_enemyBase";
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0006|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/enemyBase/afgh_enemyBase_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["citadelSouth_cntn001"] = {
+["type"] = 77;
+["blockSmall"] = {
+[1] = 119;
+[2] = 114;
+};
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0000|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/119/119_114/afgh_119_114_asset.fox2";
+["gimmickType"] = 7;
+};
+["citadelSouth_gun002"] = {
+["type"] = 82;
+["blockSmall"] = {
+[1] = 119;
+[2] = 114;
+};
+["locatorName"] = "hw03_gim_n0001|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/119/119_114/afgh_119_114_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["sovietBase_mchn002"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_sovietBase";
+["locatorName"] = "mtbs_mchn025_vrtn001_gim_n0001|srt_mtbs_mchn025_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/sovietBase/afgh_sovietBase_gimmick.fox2";
+["gimmickType"] = 2;
+};
+["cliffTown_aacr001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_cliffTown";
+["locatorName"] = "afgh_antn006_gim_n0000|srt_afgh_antn006";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/cliffTown/afgh_cliffTown_gimmick.fox2";
+["gimmickType"] = 9;
+};
+["citadelSouth_gun001"] = {
+["type"] = 82;
+["blockSmall"] = {
+[1] = 119;
+[2] = 114;
+};
+["locatorName"] = "hw03_gim_n0000|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/119/119_114/afgh_119_114_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["sovietBase_cntn002"] = {
+["type"] = 77;
+["blockLarge"] = "afgh_sovietBase";
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0001|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/sovietBase/afgh_sovietBase_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["enemyBase_cntn006"] = {
+["type"] = 77;
+["blockLarge"] = "afgh_enemyBase";
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0005|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/enemyBase/afgh_enemyBase_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["enemyBase_wtct002"] = {
+["type"] = 84;
+["blockLarge"] = "afgh_enemyBase";
+["locatorName"] = "afgh_wtct001_vrtn001_gim_n0000|srt_afgh_wtct001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/enemyBase/afgh_enemyBase_gimmick.fox2";
+["gimmickType"] = 11;
+};
+["waterway_prst004_A_link"] = {
+["type"] = 88;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst002_gim_n0003|srt_afgh_rins001_prst002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["cliffTown_light004"] = {
+["type"] = 76;
+["blockLarge"] = "afgh_cliffTown";
+["locatorName"] = "afgh_wtct001_vrtn001_gim_n0000|gntn_srlg001_vrtn001_gim_n0000|srt_gntn_srlg001_gm";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/cliffTown/afgh_cliffTown_gimmick.fox2";
+["gimmickType"] = 10;
+};
+["citadel_light002"] = {
+["type"] = 76;
+["blockLarge"] = "afgh_citadel";
+["locatorName"] = "gntn_srlg001_vrtn002_gim_n0000|srt_gntn_srlg001_gm";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/citadel/afgh_citadel_gimmick.fox2";
+["gimmickType"] = 10;
+};
+["tent_swtc001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_tent";
+["locatorName"] = "gntn_mchn001_swtc002_gim_n0000|srt_gntn_mchn001_swtc002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/tent/afgh_tent_gimmick.fox2";
+["gimmickType"] = 15;
+};
+["enemyEast_gun001"] = {
+["type"] = 82;
+["blockSmall"] = {
+[1] = 130;
+[2] = 133;
+};
+["locatorName"] = "hw03_gim_n0000|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/130/130_133/afgh_130_133_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["slopedWest_wtct001"] = {
+["type"] = 84;
+["blockSmall"] = {
+[1] = 133;
+[2] = 133;
+};
+["locatorName"] = "afgh_wtct001_gim_n0000|srt_afgh_wtct001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/133/133_133/afgh_133_133_asset.fox2";
+["gimmickType"] = 11;
+};
+["cliffSouth_casset001"] = {
+["type"] = 91;
+["blockSmall"] = {
+[1] = 141;
+[2] = 129;
+};
+["locatorName"] = "afgh_radi001_csst001_gim_n0000|srt_afgh_radi001_csst001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/141/141_129/afgh_141_129_gimmick.fox2";
+["gimmickType"] = 14;
+};
+["slopedEast_mortar002"] = {
+["type"] = 81;
+["blockSmall"] = {
+[1] = 140;
+[2] = 131;
+};
+["locatorName"] = "hw00_gim_n0001|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/140/140_131/afgh_140_131_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["slopedWest_mortar002"] = {
+["type"] = 81;
+["blockSmall"] = {
+[1] = 133;
+[2] = 133;
+};
+["locatorName"] = "hw00_gim_n0001|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/133/133_133/afgh_133_133_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["enemyBase_light003"] = {
+["type"] = 76;
+["blockLarge"] = "afgh_enemyBase";
+["locatorName"] = "afgh_wtct001_vrtn001_gim_n0000|gntn_srlg001_vrtn001_gim_n0000|srt_gntn_srlg001_gm";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/enemyBase/afgh_enemyBase_gimmick.fox2";
+["gimmickType"] = 10;
+};
+["slopedWest_mortar001"] = {
+["type"] = 81;
+["blockSmall"] = {
+[1] = 133;
+[2] = 133;
+};
+["locatorName"] = "hw00_gim_n0000|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/133/133_133/afgh_133_133_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["slopedWest_gun002"] = {
+["type"] = 82;
+["blockSmall"] = {
+[1] = 133;
+[2] = 133;
+};
+["locatorName"] = "hw03_gim_n0000|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/133/133_133/afgh_133_133_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["village_antn002"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_village";
+["locatorName"] = "afgh_antn001_vrtn004_gim_n_0002|srt_afgh_antn001_fndt004";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/village/afgh_village_gimmick.fox2";
+["gimmickType"] = 1;
+};
+["slopedWest_gun001"] = {
+["type"] = 82;
+["blockSmall"] = {
+[1] = 133;
+[2] = 133;
+};
+["locatorName"] = "hw03_gim_n0000|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/133/133_133/afgh_133_133_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["powerPlant_mchn002"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_powerPlant";
+["locatorName"] = "mtbs_mchn025_vrtn002_gim_n0002|srt_mtbs_mchn025_vrtn002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/powerPlant/afgh_powerPlant_gimmick.fox2";
+["gimmickType"] = 2;
+};
+["waterway_prst002_A"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst007_gim_n0004|srt_afgh_rins001_prst007";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["bridgeWest_light002"] = {
+["type"] = 76;
+["blockSmall"] = {
+[1] = 145;
+[2] = 133;
+};
+["locatorName"] = "gntn_srlg001_vrtn002_gim_n0000|srt_gntn_srlg001_gm";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/145/145_133/afgh_145_133_gimmick.fox2";
+["gimmickType"] = 10;
+};
+["waterway_prst001_B_link"] = {
+["type"] = 88;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst003_gim_n0000|srt_afgh_rins001_prst003";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["bridgeWest_light001"] = {
+["type"] = 76;
+["blockSmall"] = {
+[1] = 145;
+[2] = 133;
+};
+["locatorName"] = "gntn_srlg001_vrtn001_gim_n0000|srt_gntn_srlg001_gm";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/145/145_133/afgh_145_133_gimmick.fox2";
+["gimmickType"] = 10;
+};
+["commFacility_antn002"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_commFacility";
+["locatorName"] = "afgh_antn001_vrtn004_gim_n0001|srt_afgh_antn001_fndt004";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/commFacility/afgh_commFacility_gimmick.fox2";
+["gimmickType"] = 1;
+};
+["fort_gun002"] = {
+["type"] = 82;
+["blockLarge"] = "afgn_fort";
+["locatorName"] = "hw03_gim_n0001|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/fort/afgn_fort_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["bridgeWest_gun001"] = {
+["type"] = 82;
+["blockSmall"] = {
+[1] = 144;
+[2] = 133;
+};
+["locatorName"] = "hw03_gim_n0001|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/144/144_133/afgh_144_133_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["bridgeWest_mortar002"] = {
+["type"] = 81;
+["blockSmall"] = {
+[1] = 146;
+[2] = 133;
+};
+["locatorName"] = "hw00_gim_n0000|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/146/146_133/afgh_146_133_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["bridgeNorth_gun001"] = {
+["type"] = 82;
+["blockSmall"] = {
+[1] = 151;
+[2] = 129;
+};
+["locatorName"] = "hw03_gim_n0000|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/151/151_129/afgh_151_129_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["commFacility_mchn002"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_commFacility";
+["locatorName"] = "mtbs_mchn025_vrtn001_gim_n0002|srt_mtbs_mchn025_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/commFacility/afgh_commFacility_asset.fox2";
+["gimmickType"] = 2;
+};
+["waterway_prst007_C"] = {
+["type"] = 88;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst004_gim_n0002|srt_afgh_rins001_prst004";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["waterway_pillar008"] = {
+["type"] = 88;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_pllr006_gim_n0001|srt_afgh_rins001_pllr006";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["waterway_pillar007"] = {
+["type"] = 88;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_pllr005_gim_n0000|srt_afgh_rins001_pllr005";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["waterway_pillar005"] = {
+["type"] = 88;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_pllr003_gim_n0000|srt_afgh_rins001_pllr003";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["waterway_pillar004"] = {
+["type"] = 88;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_pllr002_gim_n0000|srt_afgh_rins001_pllr002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["bridge_cntn006"] = {
+["type"] = 77;
+["blockLarge"] = "afgh_bridge";
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0006|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/bridge/afgh_bridge_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["waterway_arch001"] = {
+["type"] = 88;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_vrtn019_gim_n0000|srt_afgh_rins001_vrtn019";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["fort_antn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgn_fort";
+["locatorName"] = "afgh_antn001_vrtn005_gim_n0000|srt_afgh_antn001_fndt005";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/fort/afgn_fort_gimmick.fox2";
+["gimmickType"] = 1;
+};
+["village_mortar003"] = {
+["type"] = 81;
+["blockLarge"] = "afgh_village";
+["locatorName"] = "hw00_gim_n_0002|srt_hw00_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/village/afgh_village_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["cliffSouth_wtct001"] = {
+["type"] = 84;
+["blockSmall"] = {
+[1] = 140;
+[2] = 128;
+};
+["locatorName"] = "afgh_wtct001_gim_n0000|srt_afgh_wtct001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/140/140_128/afgh_140_128_gimmick.fox2";
+["gimmickType"] = 11;
+};
+["waterway_prst006_C"] = {
+["type"] = 88;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst004_gim_n0001|srt_afgh_rins001_prst004";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["powerPlant_cntn003"] = {
+["type"] = 77;
+["blockLarge"] = "";
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0002|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/mission2/story/s10070/s10070_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["waterway_prst008_A_link"] = {
+["type"] = 88;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst005_gim_n0003|srt_afgh_rins001_prst005";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["fort_cmmn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgn_fort";
+["locatorName"] = "afgh_cmmn002_cmmn001_gim_n0000|srt_afgh_cmmn002_cmmn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/fort/afgn_fort_gimmick.fox2";
+["gimmickType"] = 3;
+};
+["bridgeNorth_mortar001"] = {
+["type"] = 81;
+["blockSmall"] = {
+[1] = 151;
+[2] = 128;
+};
+["locatorName"] = "hw00_gim_n0000|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/151/151_128/afgh_151_128_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["citadel_antn002"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_citadel";
+["locatorName"] = "afgh_antn001_vrtn004_gim_n0001|srt_afgh_antn001_fndt004";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/citadel/afgh_citadel_gimmick.fox2";
+["gimmickType"] = 1;
+};
+["waterway_prst007_B_link"] = {
+["type"] = 88;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst006_gim_n0002|srt_afgh_rins001_prst006";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["cliffEast_gun001"] = {
+["type"] = 82;
+["blockSmall"] = {
+[1] = 143;
+[2] = 122;
+};
+["locatorName"] = "hw03_gim_n0000|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/143/143_122/afgh_143_122_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["waterway_prst007_A_link"] = {
+["type"] = 88;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst005_gim_n0002|srt_afgh_rins001_prst005";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["slopedTown_mortar002"] = {
+["type"] = 81;
+["blockLarge"] = "afgh_slopedTown";
+["locatorName"] = "hw00_gim_n_0001|srt_hw00_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/slopedTown/afgh_slopedTown_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["waterway_tower002_link"] = {
+["type"] = 88;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_twer002_gim_n0001|srt_afgh_rins001_twer002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["tent_cmmn002"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_tent";
+["locatorName"] = "afgh_cmmn002_cmmn002_gim_n0000|srt_afgh_cmmn002_cmmn002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/tent/afgh_tent_gimmick.fox2";
+["gimmickType"] = 3;
+};
+["waterway_prst006_A_link"] = {
+["type"] = 88;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst005_gim_n0001|srt_afgh_rins001_prst005";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["field_gun001"] = {
+["type"] = 82;
+["blockLarge"] = "afgh_field";
+["locatorName"] = "hw03_gim_n0000|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/field/afgh_field_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["waterway_prst006_A"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst008_gim_n0001|srt_afgh_rins001_prst008";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["bridge_mchn003"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_bridge";
+["locatorName"] = "mtbs_mchn025_vrtn002_gim_n0000|srt_mtbs_mchn025_vrtn002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/147/147_131/afgh_147_131_gimmick.fox2";
+["gimmickType"] = 2;
+};
+["citadel_cntn003"] = {
+["type"] = 77;
+["blockSmall"] = {
+[1] = 123;
+[2] = 108;
+};
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0003|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/123/123_108/afgh_123_108_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["cliffTown_light002"] = {
+["type"] = 76;
+["blockLarge"] = "afgh_cliffTown";
+["locatorName"] = "gntn_srlg001_vrtn001_gim_n0001|srt_gntn_srlg001_gm";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/cliffTown/afgh_cliffTown_gimmick.fox2";
+["gimmickType"] = 10;
+};
+["citadel_gnrt003"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_citadel";
+["locatorName"] = "afgh_gnrt002_gim_n0002|srt_afgh_gnrt002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/citadel/afgh_citadel_gimmick.fox2";
+["gimmickType"] = 6;
+};
+["waterway_prst005_B"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst007_gim_n0009|srt_afgh_rins001_prst007";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["bridge_light001"] = {
+["type"] = 76;
+["blockLarge"] = "afgh_bridge";
+["locatorName"] = "afgh_wtct001_vrtn001_gim_n0000|gntn_srlg001_vrtn001_gim_n0000|srt_gntn_srlg001_gm";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/bridge/afgh_bridge_gimmick.fox2";
+["gimmickType"] = 10;
+};
+["sovietBase_wtct001"] = {
+["type"] = 84;
+["blockSmall"] = {
+[1] = 116;
+[2] = 119;
+};
+["locatorName"] = "afgh_wtct001_gim_n0000|srt_afgh_wtct001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/116/116_119/afgh_116_119_asset.fox2";
+["gimmickType"] = 11;
+};
+["waterway_prst005_A"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst007_gim_n0008|srt_afgh_rins001_prst007";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["waterway_prst004_C"] = {
+["type"] = 88;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst001_gim_n0003|srt_afgh_rins001_prst001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["citadel_cntn006"] = {
+["type"] = 77;
+["blockSmall"] = {
+[1] = 123;
+[2] = 109;
+};
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0004|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/123/123_109/afgh_123_109_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["villageEast_wtct001"] = {
+["type"] = 84;
+["blockSmall"] = {
+[1] = 140;
+[2] = 142;
+};
+["locatorName"] = "afgh_wtct001_gim_n0000|srt_afgh_wtct001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/140/140_142/afgh_140_142_asset.fox2";
+["gimmickType"] = 11;
+};
+["tent_gun002"] = {
+["type"] = 82;
+["blockLarge"] = "afgh_tent";
+["locatorName"] = "hw03_gim_n0001|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/tent/afgh_tent_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["slopedTown_antiair002"] = {
+["type"] = 80;
+["blockLarge"] = "afgh_slopedTown";
+["locatorName"] = "nad0_main0_def_gim_n_0001|srt_nad0_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/slopedTown/afgh_slopedTown_gimmick.fox2";
+["gimmickType"] = 8;
+};
+["waterway_prst004_B"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst007_gim_n0007|srt_afgh_rins001_prst007";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["citadelSouth_cntn002"] = {
+["type"] = 77;
+["blockSmall"] = {
+[1] = 119;
+[2] = 114;
+};
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0001|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/119/119_114/afgh_119_114_asset.fox2";
+["gimmickType"] = 7;
+};
+["enemyBase_gun004"] = {
+["type"] = 82;
+["blockLarge"] = "afgh_enemyBase";
+["locatorName"] = "hw03_gim_n0004|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/enemyBase/afgh_enemyBase_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["waterway_prst003_C"] = {
+["type"] = 88;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst001_gim_n0002|srt_afgh_rins001_prst001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["cliffTown_mchn002"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_cliffTown";
+["locatorName"] = "mtbs_mchn025_vrtn001_gim_n0001|srt_mtbs_mchn025_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/cliffTown/afgh_cliffTown_gimmick.fox2";
+["gimmickType"] = 2;
+};
+["citadel_light005"] = {
+["type"] = 76;
+["blockLarge"] = "afgh_citadel";
+["locatorName"] = "gntn_srlg001_vrtn002_gim_n0004|srt_gntn_srlg001_gm";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/citadel/afgh_citadel_gimmick.fox2";
+["gimmickType"] = 10;
+};
+["waterway_prst003_B"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst007_gim_n0003|srt_afgh_rins001_prst007";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["slopedTown_antn002"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_slopedTown";
+["locatorName"] = "afgh_antn001_vrtn004_gim_n0001|srt_afgh_antn001_fndt004";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/slopedTown/afgh_slopedTown_gimmick.fox2";
+["gimmickType"] = 1;
+};
+["commFacility_cmmn002"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_commFacility";
+["locatorName"] = "afgh_cmmn002_cmmn002_gim_n0000|srt_afgh_cmmn002_cmmn002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/commFacility/afgh_commFacility_gimmick.fox2";
+["gimmickType"] = 3;
+};
+["enemyBase_mchn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_enemyBase";
+["locatorName"] = "mtbs_mchn025_vrtn001_gim_n0000|srt_mtbs_mchn025_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/enemyBase/afgh_enemyBase_gimmick.fox2";
+["gimmickType"] = 2;
+};
+["field_cmmn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_field";
+["locatorName"] = "afgh_cmmn002_cmmn002_gim_n0000|srt_afgh_cmmn002_cmmn002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/field/afgh_field_asset.fox2";
+["gimmickType"] = 3;
+};
+["enemyBase_light002"] = {
+["type"] = 76;
+["blockLarge"] = "afgh_enemyBase";
+["locatorName"] = "gntn_srlg001_vrtn002_gim_n0001|srt_gntn_srlg001_gm";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/enemyBase/afgh_enemyBase_gimmick.fox2";
+["gimmickType"] = 10;
+};
+["sovietBase_antn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_sovietBase";
+["locatorName"] = "afgh_antn001_vrtn004_gim_n0000|srt_afgh_antn001_fndt004";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/sovietBase/afgh_sovietBase_gimmick.fox2";
+["gimmickType"] = 1;
+};
+["tent_casset001"] = {
+["type"] = 91;
+["blockLarge"] = "afgh_tent";
+["locatorName"] = "afgh_radi001_csst001_gim_n0000|srt_afgh_radi001_csst001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/tent/afgh_tent_gimmick.fox2";
+["gimmickType"] = 14;
+};
+["waterway_prst003_A_link"] = {
+["type"] = 88;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst002_gim_n0002|srt_afgh_rins001_prst002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["remnants_light004"] = {
+["type"] = 76;
+["blockLarge"] = "afgh_remnants";
+["locatorName"] = "gntn_srlg001_vrtn002_gim_n0000|srt_gntn_srlg001_gm";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/remnants/afgh_remnants_gimmick.fox2";
+["gimmickType"] = 10;
+};
+["waterway_prst003_A"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst007_gim_n0002|srt_afgh_rins001_prst007";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["waterway_prst002_B_link"] = {
+["type"] = 88;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst003_gim_n0003|srt_afgh_rins001_prst003";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["sovietBase_cntn007"] = {
+["type"] = 77;
+["blockLarge"] = "afgh_sovietBase";
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0007|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/sovietBase/afgh_sovietBase_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["field_wtct001"] = {
+["type"] = 84;
+["blockLarge"] = "afgh_field";
+["locatorName"] = "afgh_wtct001_vrtn001_gim_n0000|srt_afgh_wtct001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/field/afgh_field_gimmick.fox2";
+["gimmickType"] = 11;
+};
+["field_gun002"] = {
+["type"] = 82;
+["blockLarge"] = "afgh_field";
+["locatorName"] = "hw03_gim_n0001|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/field/afgh_field_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["bridge_mortar001"] = {
+["type"] = 81;
+["blockLarge"] = "afgh_bridge";
+["locatorName"] = "hw00_gim_n0000|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/bridge/afgh_bridge_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["citadel_gun006"] = {
+["type"] = 82;
+["blockLarge"] = "afgh_citadel";
+["locatorName"] = "hw03_gim_n0006|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/citadel/afgh_citadel_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["slopedEast_mortar001"] = {
+["type"] = 81;
+["blockSmall"] = {
+[1] = 140;
+[2] = 131;
+};
+["locatorName"] = "hw00_gim_n0000|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/140/140_131/afgh_140_131_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["waterway_prst001_C"] = {
+["type"] = 88;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst001_gim_n0000|srt_afgh_rins001_prst001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["waterway_prst001_A_link"] = {
+["type"] = 88;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst002_gim_n0000|srt_afgh_rins001_prst002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["fortWest_casset001"] = {
+["type"] = 91;
+["blockSmall"] = {
+[1] = 147;
+[2] = 123;
+};
+["locatorName"] = "afgh_radi001_csst001_gim_n0000|srt_afgh_radi001_csst001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/147/147_123/afgh_147_123_gimmick.fox2";
+["gimmickType"] = 14;
+};
+["waterway_prst006_B"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst008_gim_n0002|srt_afgh_rins001_prst008";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["waterway_tower001_link"] = {
+["type"] = 88;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_twer002_gim_n0002|srt_afgh_rins001_twer002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["citadel_mortar001"] = {
+["type"] = 81;
+["blockLarge"] = "afgh_citadel";
+["locatorName"] = "hw00_gim_n0000|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/citadel/afgh_citadel_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["waterway_tower001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_twer004_gim_n0001|srt_afgh_rins001_twer004";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["village_mortar001"] = {
+["type"] = 81;
+["blockLarge"] = "afgh_village";
+["locatorName"] = "hw00_gim_n_0000|srt_hw00_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/village/afgh_village_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["citadel_light006"] = {
+["type"] = 76;
+["blockLarge"] = "afgh_citadel";
+["locatorName"] = "gntn_srlg001_vrtn002_gim_n0005|srt_gntn_srlg001_gm";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/citadel/afgh_citadel_gimmick.fox2";
+["gimmickType"] = 10;
+};
+["tent_cntn001"] = {
+["type"] = 77;
+["blockLarge"] = "afgh_tent";
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0001|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/tent/afgh_tent_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["village_antn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_village";
+["locatorName"] = "afgh_antn001_vrtn004_gim_n_0001|srt_afgh_antn001_fndt004";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/village/afgh_village_gimmick.fox2";
+["gimmickType"] = 1;
+};
+["commFacility_gun002"] = {
+["type"] = 82;
+["blockLarge"] = "afgh_commFacility";
+["locatorName"] = "hw03_gim_n0001|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/commFacility/afgh_commFacility_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["slopedTown_gnrt001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_slopedTown";
+["locatorName"] = "afgh_gnrt002_gim_n0000|srt_afgh_gnrt002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/slopedTown/afgh_slopedTown_gimmick.fox2";
+["gimmickType"] = 6;
+};
+["villageNorth_gun001"] = {
+["type"] = 82;
+["blockSmall"] = {
+[1] = 136;
+[2] = 138;
+};
+["locatorName"] = "hw03_gim_n0000|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/136/136_138/afgh_136_138_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["enemyBase_mchn002"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_enemyBase";
+["locatorName"] = "mtbs_mchn025_vrtn001_gim_n0001|srt_mtbs_mchn025_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/enemyBase/afgh_enemyBase_gimmick.fox2";
+["gimmickType"] = 2;
+};
+["citadel_light003"] = {
+["type"] = 76;
+["blockLarge"] = "afgh_citadel";
+["locatorName"] = "gntn_srlg001_vrtn002_gim_n0002|srt_gntn_srlg001_gm";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/citadel/afgh_citadel_gimmick.fox2";
+["gimmickType"] = 10;
+};
+["powerPlant_swtc001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_powerPlant";
+["locatorName"] = "gntn_mchn001_swtc002_gim_n0000|srt_gntn_mchn001_swtc002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/powerPlant/afgh_powerPlant_gimmick.fox2";
+["gimmickType"] = 15;
+};
+["field_antn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_field";
+["locatorName"] = "afgh_antn001_vrtn005_gim_n0000|srt_afgh_antn001_fndt005";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/field/afgh_field_gimmick.fox2";
+["gimmickType"] = 1;
+};
+["slopedTown_aacr001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_slopedTown";
+["locatorName"] = "afgh_antn006_gim_n0000|srt_afgh_antn006";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/slopedTown/afgh_slopedTown_gimmick.fox2";
+["gimmickType"] = 9;
+};
+["enemyEast_gun002"] = {
+["type"] = 82;
+["blockSmall"] = {
+[1] = 130;
+[2] = 134;
+};
+["locatorName"] = "hw03_gim_n0000|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/130/130_134/afgh_130_134_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["citadel_light001"] = {
+["type"] = 76;
+["blockLarge"] = "afgh_citadel";
+["locatorName"] = "gntn_srlg001_vrtn001_gim_n0000|srt_gntn_srlg001_gm";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/citadel/afgh_citadel_gimmick.fox2";
+["gimmickType"] = 10;
+};
+["cliffTown_gnrt001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_cliffTown";
+["locatorName"] = "afgh_gnrt002_gim_n0000|srt_afgh_gnrt002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/cliffTown/afgh_cliffTown_gimmick.fox2";
+["gimmickType"] = 6;
+};
+["enemyBase_gun003"] = {
+["type"] = 82;
+["blockLarge"] = "afgh_enemyBase";
+["locatorName"] = "hw03_gim_n0003|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/enemyBase/afgh_enemyBase_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["waterway_prst005_C"] = {
+["type"] = 88;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst001_gim_n0004|srt_afgh_rins001_prst001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["citadel_gnrt002"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_citadel";
+["locatorName"] = "afgh_gnrt002_gim_n0001|srt_afgh_gnrt002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/citadel/afgh_citadel_gimmick.fox2";
+["gimmickType"] = 6;
+};
+["cliffTown_mortar003"] = {
+["type"] = 81;
+["blockLarge"] = "afgh_cliffTown";
+["locatorName"] = "hw00_gim_n0002|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/cliffTown/afgh_cliffTown_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["citadel_mchn002"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_citadel";
+["locatorName"] = "mtbs_mchn025_vrtn001_gim_n0001|srt_mtbs_mchn025_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/citadel/afgh_citadel_gimmick.fox2";
+["gimmickType"] = 2;
+};
+["powerPlant_antn002"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_powerPlant";
+["locatorName"] = "afgh_antn001_vrtn005_gim_n0002|srt_afgh_antn001_fndt005";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/powerPlant/afgh_powerPlant_gimmick.fox2";
+["gimmickType"] = 1;
+};
+["commFacility_cmmn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_commFacility";
+["locatorName"] = "afgh_cmmn002_cmmn001_gim_n0000|srt_afgh_cmmn002_cmmn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/commFacility/afgh_commFacility_gimmick.fox2";
+["gimmickType"] = 3;
+};
+["citadel_mortar005"] = {
+["type"] = 81;
+["blockLarge"] = "afgh_citadel";
+["locatorName"] = "hw00_gim_n0004|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/citadel/afgh_citadel_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["citadel_mortar004"] = {
+["type"] = 81;
+["blockLarge"] = "afgh_citadel";
+["locatorName"] = "hw00_gim_n0003|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/citadel/afgh_citadel_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["bridge_cntn004"] = {
+["type"] = 77;
+["blockLarge"] = "afgh_bridge";
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0004|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/bridge/afgh_bridge_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["cliffTown_gun003"] = {
+["type"] = 82;
+["blockLarge"] = "afgh_cliffTown";
+["locatorName"] = "hw03_gim_n0002|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/cliffTown/afgh_cliffTown_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["citadel_mortar002"] = {
+["type"] = 81;
+["blockLarge"] = "afgh_citadel";
+["locatorName"] = "hw00_gim_n0001|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/citadel/afgh_citadel_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["citadel_gun003"] = {
+["type"] = 82;
+["blockLarge"] = "afgh_citadel";
+["locatorName"] = "hw03_gim_n0002|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/citadel/afgh_citadel_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["citadel_gun002"] = {
+["type"] = 82;
+["blockLarge"] = "afgh_citadel";
+["locatorName"] = "hw03_gim_n0001|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/citadel/afgh_citadel_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["village_mortar002"] = {
+["type"] = 81;
+["blockLarge"] = "afgh_village";
+["locatorName"] = "hw00_gim_n_0001|srt_hw00_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/village/afgh_village_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["citadel_gun001"] = {
+["type"] = 82;
+["blockLarge"] = "afgh_citadel";
+["locatorName"] = "hw03_gim_n0000|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/citadel/afgh_citadel_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["citadel_antiair004"] = {
+["type"] = 80;
+["blockLarge"] = "afgh_citadel";
+["locatorName"] = "sad0_main0_def_gim_n0005|srt_sad0_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/citadel/afgh_citadel_gimmick.fox2";
+["gimmickType"] = 8;
+};
+["powerPlant_light001"] = {
+["type"] = 76;
+["blockLarge"] = "afgh_powerPlant";
+["locatorName"] = "gntn_srlg001_vrtn001_gim_n0000|srt_gntn_srlg001_gm";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/powerPlant/afgh_powerPlant_gimmick.fox2";
+["gimmickType"] = 10;
+};
+["citadel_aacr001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_citadel";
+["locatorName"] = "afgh_antn006_gim_n0000|srt_afgh_antn006";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/citadel/afgh_citadel_gimmick.fox2";
+["gimmickType"] = 9;
+};
+["villageWest_gun001"] = {
+["type"] = 82;
+["blockSmall"] = {
+[1] = 131;
+[2] = 140;
+};
+["locatorName"] = "hw03_gim_n0000|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/131/131_140/afgh_131_140_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["enemyNorth_mortar001"] = {
+["type"] = 81;
+["blockSmall"] = {
+[1] = 131;
+[2] = 129;
+};
+["locatorName"] = "hw00_gim_n0000|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/131/131_129/afgh_131_129_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["bridge_wtct001"] = {
+["type"] = 84;
+["blockLarge"] = "afgh_bridge";
+["locatorName"] = "afgh_wtct001_vrtn001_gim_n0000|srt_afgh_wtct001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/bridge/afgh_bridge_gimmick.fox2";
+["gimmickType"] = 11;
+};
+["waterway_prst007_B"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst008_gim_n0003|srt_afgh_rins001_prst008";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["commFacility_mchn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_commFacility";
+["locatorName"] = "mtbs_mchn025_vrtn001_gim_n0001|srt_mtbs_mchn025_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/commFacility/afgh_commFacility_asset.fox2";
+["gimmickType"] = 2;
+};
+["citadel_mchn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_citadel";
+["locatorName"] = "mtbs_mchn025_vrtn001_gim_n0000|srt_mtbs_mchn025_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/citadel/afgh_citadel_gimmick.fox2";
+["gimmickType"] = 2;
+};
+["waterway_prst002_B"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst007_gim_n0005|srt_afgh_rins001_prst007";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["citadel_cntn011"] = {
+["type"] = 77;
+["blockSmall"] = {
+[1] = 123;
+[2] = 110;
+};
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0003|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/123/123_110/afgh_123_110_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["citadel_cntn008"] = {
+["type"] = 77;
+["blockSmall"] = {
+[1] = 123;
+[2] = 110;
+};
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0000|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/123/123_110/afgh_123_110_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["citadel_cntn007"] = {
+["type"] = 77;
+["blockSmall"] = {
+[1] = 123;
+[2] = 109;
+};
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0005|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/123/123_109/afgh_123_109_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["waterwayEast_wtct001"] = {
+["type"] = 84;
+["blockSmall"] = {
+[1] = 122;
+[2] = 127;
+};
+["locatorName"] = "afgh_wtct001_gim_n0000|srt_afgh_wtct001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/122/122_127/afgh_122_127_asset.fox2";
+["gimmickType"] = 11;
+};
+["enemyBase_gnrt002"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_enemyBase";
+["locatorName"] = "afgh_gnrt002_gim_n0001|srt_afgh_gnrt002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/enemyBase/afgh_enemyBase_gimmick.fox2";
+["gimmickType"] = 6;
+};
+["tent_mortar001"] = {
+["type"] = 81;
+["blockLarge"] = "afgh_tent";
+["locatorName"] = "hw00_gim_n0000|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/tent/afgh_tent_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["citadel_cntn001"] = {
+["type"] = 77;
+["blockSmall"] = {
+[1] = 123;
+[2] = 108;
+};
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0001|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/123/123_108/afgh_123_108_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["enemyBase_antiair002"] = {
+["type"] = 80;
+["blockLarge"] = "afgh_enemyBase";
+["locatorName"] = "sad0_main0_def_gim_n0002|srt_sad0_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/enemyBase/afgh_enemyBase_gimmick.fox2";
+["gimmickType"] = 8;
+};
+["sovietBase_antn002"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_sovietBase";
+["locatorName"] = "afgh_antn001_vrtn004_gim_n0001|srt_afgh_antn001_fndt004";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/sovietBase/afgh_sovietBase_gimmick.fox2";
+["gimmickType"] = 1;
+};
+["sovietBase_cntn011"] = {
+["type"] = 77;
+["blockLarge"] = "afgh_sovietBase";
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0011|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/sovietBase/afgh_sovietBase_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["cliffTown_light003"] = {
+["type"] = 76;
+["blockLarge"] = "afgh_cliffTown";
+["locatorName"] = "gntn_srlg001_vrtn001_gim_n0002|srt_gntn_srlg001_gm";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/cliffTown/afgh_cliffTown_gimmick.fox2";
+["gimmickType"] = 10;
+};
+["sovietBase_cntn009"] = {
+["type"] = 77;
+["blockLarge"] = "afgh_sovietBase";
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0009|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/sovietBase/afgh_sovietBase_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["village_mchn002"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_village";
+["locatorName"] = "mtbs_mchn025_vrtn001_gim_n0001|srt_mtbs_mchn025_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/village/afgh_village_asset.fox2";
+["gimmickType"] = 2;
+};
+["citadelSouth_cntn003"] = {
+["type"] = 77;
+["blockSmall"] = {
+[1] = 119;
+[2] = 114;
+};
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0002|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/119/119_114/afgh_119_114_asset.fox2";
+["gimmickType"] = 7;
+};
+["sovietBase_cntn001"] = {
+["type"] = 77;
+["blockLarge"] = "afgh_sovietBase";
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0000|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/sovietBase/afgh_sovietBase_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["fieldEast_mortar001"] = {
+["type"] = 81;
+["blockSmall"] = {
+[1] = 141;
+[2] = 146;
+};
+["locatorName"] = "hw00_gim_n0001|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/141/141_146/afgh_141_146_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["bridge_gun002"] = {
+["type"] = 82;
+["blockLarge"] = "afgh_bridge";
+["locatorName"] = "hw03_gim_n0001|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/bridge/afgh_bridge_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["fieldWest_light001"] = {
+["type"] = 76;
+["blockSmall"] = {
+[1] = 133;
+[2] = 148;
+};
+["locatorName"] = "gntn_srlg001_vrtn001_gim_n0000|srt_gntn_srlg001_gm";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/133/133_148/afgh_133_148_gimmick.fox2";
+["gimmickType"] = 10;
+};
+["sovietBase_mortar001"] = {
+["type"] = 81;
+["blockLarge"] = "afgh_sovietBase";
+["locatorName"] = "hw00_gim_n0000|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/sovietBase/afgh_sovietBase_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["sovietBase_gun002"] = {
+["type"] = 82;
+["blockLarge"] = "afgh_sovietBase";
+["locatorName"] = "hw03_gim_n0001|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/sovietBase/afgh_sovietBase_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["slopedTown_gun001"] = {
+["type"] = 82;
+["blockLarge"] = "afgh_slopedTown";
+["locatorName"] = "hw03_gim_n0001|srt_hw03_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/slopedTown/afgh_slopedTown_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["sovietBase_cmmn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_sovietBase";
+["locatorName"] = "afgh_cmmn002_cmmn001_gim_n0000|srt_afgh_cmmn002_cmmn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/sovietBase/afgh_sovietBase_gimmick.fox2";
+["gimmickType"] = 3;
+};
+["field_casset001"] = {
+["type"] = 91;
+["blockLarge"] = "afgh_field";
+["locatorName"] = "afgh_radi001_csst001_gim_n0000|srt_afgh_radi001_csst001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/field/afgh_field_gimmick.fox2";
+["gimmickType"] = 14;
+};
+["fort_wtct002"] = {
+["type"] = 84;
+["blockLarge"] = "afgn_fort";
+["locatorName"] = "afgh_wtct001_gim_n0001|srt_afgh_wtct001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/fort/afgn_fort_gimmick.fox2";
+["gimmickType"] = 11;
+};
+["powerPlant_cntn001"] = {
+["type"] = 77;
+["blockLarge"] = "";
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0000|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/mission2/story/s10070/s10070_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["enemyBase_cntn008"] = {
+["type"] = 77;
+["blockLarge"] = "afgh_enemyBase";
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0008|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/enemyBase/afgh_enemyBase_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["village_gun002"] = {
+["type"] = 82;
+["blockLarge"] = "afgh_village";
+["locatorName"] = "hw03_gim_n0002|srt_hw03_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/village/afgh_village_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["remnants_mortar002"] = {
+["type"] = 81;
+["blockLarge"] = "afgh_remnants";
+["locatorName"] = "hw00_gim_n0001|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/remnants/afgh_remnants_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["cliffTown_mortar005"] = {
+["type"] = 81;
+["blockLarge"] = "afgh_cliffTown";
+["locatorName"] = "hw00_gim_n0004|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/cliffTown/afgh_cliffTown_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["sovietBase_gun001"] = {
+["type"] = 82;
+["blockLarge"] = "afgh_sovietBase";
+["locatorName"] = "hw03_gim_n0000|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/sovietBase/afgh_sovietBase_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["field_aacr001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_field";
+["locatorName"] = "afgh_antn006_gim_n0000|srt_afgh_antn006";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/field/afgh_field_gimmick.fox2";
+["gimmickType"] = 9;
+};
+["bridge_gnrt001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_bridge";
+["locatorName"] = "afgh_gnrt002_gim_n0000|srt_afgh_gnrt002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/bridge/afgh_bridge_gimmick.fox2";
+["gimmickType"] = 6;
+};
+["bridge_cntn005"] = {
+["type"] = 77;
+["blockLarge"] = "afgh_bridge";
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0005|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/bridge/afgh_bridge_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["village_light001"] = {
+["type"] = 76;
+["blockLarge"] = "afgh_village";
+["locatorName"] = "gntn_srlg001_vrtn002_gim_n_0000|srt_gntn_srlg001_gm";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/village/afgh_village_gimmick.fox2";
+["gimmickType"] = 10;
+};
+["tent_gun001"] = {
+["type"] = 82;
+["blockLarge"] = "afgh_tent";
+["locatorName"] = "hw03_gim_n0000|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/tent/afgh_tent_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["tent_antn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_tent";
+["locatorName"] = "afgh_antn001_vrtn004_gim_n0000|srt_afgh_antn001_fndt004";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/tent/afgh_tent_gimmick.fox2";
+["gimmickType"] = 1;
+};
+["fortWest_mortar002"] = {
+["type"] = 81;
+["blockSmall"] = {
+[1] = 147;
+[2] = 123;
+};
+["locatorName"] = "hw00_gim_n0001|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/147/147_123/afgh_147_123_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["fort_casset001"] = {
+["type"] = 91;
+["blockLarge"] = "afgn_fort";
+["locatorName"] = "afgh_radi001_csst001_gim_n0000|srt_afgh_radi001_csst001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/fort/afgn_fort_gimmick.fox2";
+["gimmickType"] = 14;
+};
+["slopedTown_light001"] = {
+["type"] = 76;
+["blockLarge"] = "afgh_slopedTown";
+["locatorName"] = "gntn_srlg001_vrtn002_gim_n0000|srt_gntn_srlg001_gm";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/slopedTown/afgh_slopedTown_gimmick.fox2";
+["gimmickType"] = 10;
+};
+["powerPlant_cntn004"] = {
+["type"] = 77;
+["blockLarge"] = "";
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0003|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/mission2/story/s10070/s10070_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["fort_wtct001"] = {
+["type"] = 84;
+["blockLarge"] = "afgn_fort";
+["locatorName"] = "afgh_wtct001_gim_n0000|srt_afgh_wtct001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/fort/afgn_fort_gimmick.fox2";
+["gimmickType"] = 11;
+};
+["fieldEast_casset001"] = {
+["type"] = 91;
+["blockSmall"] = {
+[1] = 141;
+[2] = 147;
+};
+["locatorName"] = "afgh_radi001_csst001_gim_n0000|srt_afgh_radi001_csst001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/141/141_147/afgh_141_147_gimmick.fox2";
+["gimmickType"] = 14;
+};
+["remnants_mortar001"] = {
+["type"] = 81;
+["blockLarge"] = "afgh_remnants";
+["locatorName"] = "hw00_gim_n0000|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/remnants/afgh_remnants_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["fort_mortar002"] = {
+["type"] = 81;
+["blockLarge"] = "afgn_fort";
+["locatorName"] = "hw00_gim_n0001|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/fort/afgn_fort_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["villageNorth_mortar001"] = {
+["type"] = 81;
+["blockSmall"] = {
+[1] = 136;
+[2] = 138;
+};
+["locatorName"] = "hw00_gim_n0000|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/136/136_138/afgh_136_138_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["bridge_mortar002"] = {
+["type"] = 81;
+["blockLarge"] = "afgh_bridge";
+["locatorName"] = "hw00_gim_n0001|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/bridge/afgh_bridge_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["tent_antn002"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_tent";
+["locatorName"] = "afgh_antn001_vrtn004_gim_n0001|srt_afgh_antn001_fndt004";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/tent/afgh_tent_gimmick.fox2";
+["gimmickType"] = 1;
+};
+["waterway_prst008_C"] = {
+["type"] = 88;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_prst004_gim_n0003|srt_afgh_rins001_prst004";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["fort_aacr001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_fort";
+["locatorName"] = "afgh_antn006_gim_n0002|srt_afgh_antn006";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/fort/afgh_fort_asset.fox2";
+["gimmickType"] = 9;
+};
+["commWest_wtct001"] = {
+["type"] = 84;
+["blockSmall"] = {
+[1] = 140;
+[2] = 138;
+};
+["locatorName"] = "afgh_wtct001_gim_n0000|srt_afgh_wtct001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/140/140_138/afgh_140_138_asset.fox2";
+["gimmickType"] = 11;
+};
+["cliffTown_light001"] = {
+["type"] = 76;
+["blockLarge"] = "afgh_cliffTown";
+["locatorName"] = "gntn_srlg001_vrtn001_gim_n0000|srt_gntn_srlg001_gm";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/cliffTown/afgh_cliffTown_gimmick.fox2";
+["gimmickType"] = 10;
+};
+["citadel_gnrt001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_citadel";
+["locatorName"] = "afgh_gnrt002_gim_n0000|srt_afgh_gnrt002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/citadel/afgh_citadel_gimmick.fox2";
+["gimmickType"] = 6;
+};
+["waterway_tower003_link"] = {
+["type"] = 88;
+["blockLarge"] = "afgh_waterway";
+["locatorName"] = "afgh_rins001_twer002_gim_n0003|srt_afgh_rins001_twer002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/waterway/afgh_waterway_asset.fox2";
+["gimmickType"] = 0;
+};
+["cliffTown_antn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_cliffTown";
+["locatorName"] = "afgh_antn001_vrtn004_gim_n0000|srt_afgh_antn001_fndt004";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/cliffTown/afgh_cliffTown_gimmick.fox2";
+["gimmickType"] = 1;
+};
+["bridge_antiair001"] = {
+["type"] = 80;
+["blockLarge"] = "afgh_bridge";
+["locatorName"] = "sad0_main0_def_gim_n0000|srt_sad0_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/bridge/afgh_bridge_gimmick.fox2";
+["gimmickType"] = 8;
+};
+["field_light004"] = {
+["type"] = 76;
+["blockLarge"] = "afgh_field";
+["locatorName"] = "gntn_srlg001_vrtn002_gim_n0003|srt_gntn_srlg001_gm";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/field/afgh_field_gimmick.fox2";
+["gimmickType"] = 10;
+};
+["bridge_antn002"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_bridge";
+["locatorName"] = "afgh_antn001_vrtn005_gim_n0001|srt_afgh_antn001_fndt005";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/bridge/afgh_bridge_gimmick.fox2";
+["gimmickType"] = 1;
+};
+["fort_mortar001"] = {
+["type"] = 81;
+["blockLarge"] = "afgn_fort";
+["locatorName"] = "hw00_gim_n0000|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/fort/afgn_fort_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["bridge_cntn002"] = {
+["type"] = 77;
+["blockLarge"] = "afgh_bridge";
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0002|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/bridge/afgh_bridge_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["fort_mchn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgn_fort";
+["locatorName"] = "mtbs_mchn025_vrtn002_gim_n0000|srt_mtbs_mchn025_vrtn002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/fort/afgn_fort_gimmick.fox2";
+["gimmickType"] = 2;
+};
+["citadel_cntn002"] = {
+["type"] = 77;
+["blockSmall"] = {
+[1] = 123;
+[2] = 108;
+};
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0002|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_small/123/123_108/afgh_123_108_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["remnants_light001"] = {
+["type"] = 76;
+["blockLarge"] = "afgh_remnants";
+["locatorName"] = "gntn_srlg001_vrtn001_gim_n0000|srt_gntn_srlg001_gm";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/remnants/afgh_remnants_gimmick.fox2";
+["gimmickType"] = 10;
+};
+["powerPlant_mortar001"] = {
+["type"] = 81;
+["blockLarge"] = "afgh_powerPlant";
+["locatorName"] = "hw00_gim_n0000|srt_hw00_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/powerPlant/afgh_powerPlant_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["commFacility_light002"] = {
+["type"] = 76;
+["blockLarge"] = "afgh_commFacility";
+["locatorName"] = "gntn_srlg001_vrtn002_gim_n0001|srt_gntn_srlg001_gm";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/commFacility/afgh_commFacility_gimmick.fox2";
+["gimmickType"] = 10;
+};
+["enemyBase_cntn004"] = {
+["type"] = 77;
+["blockLarge"] = "afgh_enemyBase";
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0003|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/enemyBase/afgh_enemyBase_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["tent_cmmn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_tent";
+["locatorName"] = "afgh_cmmn002_cmmn001_gim_n0000|srt_afgh_cmmn002_cmmn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/tent/afgh_tent_gimmick.fox2";
+["gimmickType"] = 3;
+};
+["remnants_aacr001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_remnants";
+["locatorName"] = "afgh_antn006_gim_n0000|srt_afgh_antn006";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/remnants/afgh_remnants_gimmick.fox2";
+["gimmickType"] = 9;
+};
+["village_gun001"] = {
+["type"] = 82;
+["blockLarge"] = "afgh_village";
+["locatorName"] = "hw03_gim_n0001|srt_hw03_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/village/afgh_village_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["remnants_cntn001"] = {
+["type"] = 77;
+["blockLarge"] = "afgh_remnants";
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0001|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/remnants/afgh_remnants_gimmick.fox2";
+["gimmickType"] = 7;
+};
+["remnants_gun001"] = {
+["type"] = 82;
+["blockLarge"] = "afgh_remnants";
+["locatorName"] = "hw03_gim_n0000|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/remnants/afgh_remnants_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["slopedTown_mortar003"] = {
+["type"] = 81;
+["blockLarge"] = "afgh_slopedTown";
+["locatorName"] = "hw00_gim_n_0002|srt_hw00_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/slopedTown/afgh_slopedTown_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["bridge_gun001"] = {
+["type"] = 82;
+["blockLarge"] = "afgh_bridge";
+["locatorName"] = "hw03_gim_n0000|srt_hw03_tpod0_def_v00";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/bridge/afgh_bridge_gimmick.fox2";
+["gimmickType"] = 4;
+};
+["citadel_antn003"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_citadel";
+["locatorName"] = "afgh_antn001_vrtn004_gim_n0002|srt_afgh_antn001_fndt004";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/citadel/afgh_citadel_gimmick.fox2";
+["gimmickType"] = 1;
+};
+["enemyBase_cmmn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_enemyBase";
+["locatorName"] = "afgh_cmmn002_cmmn001_gim_n0000|srt_afgh_cmmn002_cmmn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/enemyBase/afgh_enemyBase_gimmick.fox2";
+["gimmickType"] = 3;
+};
+["sovietBase_casset001"] = {
+["type"] = 91;
+["blockLarge"] = "afgh_sovietBase";
+["locatorName"] = "afgh_radi001_csst001_gim_n0000|srt_afgh_radi001_csst001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/sovietBase/afgh_sovietBase_asset.fox2";
+["gimmickType"] = 14;
+};
+["slopedTown_light003"] = {
+["type"] = 76;
+["blockLarge"] = "afgh_slopedTown";
+["locatorName"] = "gntn_srlg001_vrtn002_gim_n0002|srt_gntn_srlg001_gm";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/slopedTown/afgh_slopedTown_gimmick.fox2";
+["gimmickType"] = 10;
+};
+["enemyBase_light001"] = {
+["type"] = 76;
+["blockLarge"] = "afgh_enemyBase";
+["locatorName"] = "gntn_srlg001_vrtn002_gim_n0000|srt_gntn_srlg001_gm";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/enemyBase/afgh_enemyBase_gimmick.fox2";
+["gimmickType"] = 10;
+};
+["slopedTown_cmmn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_slopedTown";
+["locatorName"] = "afgh_cmmn002_cmmn001_gim_n0000|srt_afgh_cmmn002_cmmn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/slopedTown/afgh_slopedTown_gimmick.fox2";
+["gimmickType"] = 3;
+};
+["enemyBase_antiair001"] = {
+["type"] = 80;
+["blockLarge"] = "afgh_enemyBase";
+["locatorName"] = "sad0_main0_def_gim_n0001|srt_sad0_main0_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/enemyBase/afgh_enemyBase_gimmick.fox2";
+["gimmickType"] = 8;
+};
+["enemyBase_antn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_enemyBase";
+["locatorName"] = "afgh_antn001_vrtn004_gim_n0000|srt_afgh_antn001_fndt004";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/enemyBase/afgh_enemyBase_gimmick.fox2";
+["gimmickType"] = 1;
+};
+["slopedTown_mortar001"] = {
+["type"] = 81;
+["blockLarge"] = "afgh_slopedTown";
+["locatorName"] = "hw00_gim_n_0000|srt_hw00_def";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/slopedTown/afgh_slopedTown_gimmick.fox2";
+["gimmickType"] = 5;
+};
+["commFacility_mchn003"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_commFacility";
+["locatorName"] = "mtbs_mchn025_vrtn001_gim_n0000|srt_mtbs_mchn025_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/commFacility/afgh_commFacility_asset.fox2";
+["gimmickType"] = 2;
+};
+["powerPlant_antn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_powerPlant";
+["locatorName"] = "afgh_antn001_vrtn005_gim_n0001|srt_afgh_antn001_fndt005";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/powerPlant/afgh_powerPlant_gimmick.fox2";
+["gimmickType"] = 1;
+};
+["powerPlant_mchn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_powerPlant";
+["locatorName"] = "mtbs_mchn025_vrtn002_gim_n0001|srt_mtbs_mchn025_vrtn002";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/powerPlant/afgh_powerPlant_gimmick.fox2";
+["gimmickType"] = 2;
+};
+["remnants_mchn001"] = {
+["type"] = 79;
+["blockLarge"] = "afgh_remnants";
+["locatorName"] = "mtbs_mchn025_vrtn001_gim_n0000|srt_mtbs_mchn025_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/remnants/afgh_remnants_gimmick.fox2";
+["gimmickType"] = 2;
+};
+["sovietBase_cntn008"] = {
+["type"] = 77;
+["blockLarge"] = "afgh_sovietBase";
+["locatorName"] = "gntn_cntn001_vrtn001_gim_n0008|srt_gntn_cntn001_vrtn001";
+["dataSetName"] = "/Assets/tpp/level/location/afgh/block_large/sovietBase/afgh_sovietBase_gimmick.fox2";
+["gimmickType"] = 7;
+};
+};

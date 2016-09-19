@@ -1,4 +1,0 @@
-TppGameStatus
-	IsSet()
-	Reset()
-	Set()

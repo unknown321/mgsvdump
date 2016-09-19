@@ -1,9 +1,0 @@
-TppSoldier2CommonBlockController
-	CreateCommonMotionBlockGroup()
-	IsBlockActive()
-	IsBlockEmpty()
-	IsReady()
-	RegisterCommonMotionPackagePath()
-	RequestToLoadCommonMotionBlock()
-	RequestToUnloadCommonMotionBlock()
-	SetPackagePathWithPrerequisites()

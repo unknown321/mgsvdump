@@ -1,0 +1,14 @@
+["_className"] = "Bucket";
+["RecreateDataBody"] = nil --[[functions with upvalue not supported]];
+["RemoveAll"] = nil --[[functions with upvalue not supported]];
+["GetEditableDataBodySet"] = nil --[[functions with upvalue not supported]];
+["LoadDataSetFile"] = nil --[[functions with upvalue not supported]];
+["GetScene"] = nil --[[functions with upvalue not supported]];
+["LoadEditableDataSet"] = nil --[[functions with upvalue not supported]];
+["SaveEditableDataSet"] = nil --[[functions with upvalue not supported]];
+["GetEditableDataSet"] = nil --[[functions with upvalue not supported]];
+["RemoveActor"] = nil --[[functions with upvalue not supported]];
+["UnloadDataSetFile"] = nil --[[functions with upvalue not supported]];
+["GetEditableDataSetPath"] = nil --[[functions with upvalue not supported]];
+["LoadProjectFile"] = nil --[[functions with upvalue not supported]];
+["AddActor"] = nil --[[functions with upvalue not supported]];

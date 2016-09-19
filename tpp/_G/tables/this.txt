@@ -1,0 +1,3 @@
+["_scriptPath"] = "WeaponPartsCombinationSettings";
+["_scriptInstanceId"] = nil --[[userdata]]
+;

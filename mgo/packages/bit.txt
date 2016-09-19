@@ -1,0 +1,12 @@
+["band"] = nil --[[non-lua function not supported]];
+["rshift"] = nil --[[non-lua function not supported]];
+["bor"] = nil --[[non-lua function not supported]];
+["bnot"] = nil --[[non-lua function not supported]];
+["bswap"] = nil --[[non-lua function not supported]];
+["bxor"] = nil --[[non-lua function not supported]];
+["tobit"] = nil --[[non-lua function not supported]];
+["ror"] = nil --[[non-lua function not supported]];
+["lshift"] = nil --[[non-lua function not supported]];
+["tohex"] = nil --[[non-lua function not supported]];
+["rol"] = nil --[[non-lua function not supported]];
+["arshift"] = nil --[[non-lua function not supported]];

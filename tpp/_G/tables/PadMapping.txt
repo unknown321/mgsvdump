@@ -1,0 +1,14 @@
+["_className"] = "PadMapping";
+["GetInstance"] = nil --[[functions with upvalue not supported]];
+["SetPad2LogicalNum"] = nil --[[functions with upvalue not supported]];
+["SetPad1LogicalNum"] = nil --[[functions with upvalue not supported]];
+["Dump"] = nil --[[functions with upvalue not supported]];
+["SetPad0LogicalNum"] = nil --[[functions with upvalue not supported]];
+["ResetPadMapping"] = nil --[[functions with upvalue not supported]];
+["GetPad1LogicalNum"] = nil --[[functions with upvalue not supported]];
+["SetPad3LogicalNum"] = nil --[[functions with upvalue not supported]];
+["GetPad0LogicalNum"] = nil --[[functions with upvalue not supported]];
+["GetPad2LogicalNum"] = nil --[[functions with upvalue not supported]];
+["GetPad3LogicalNum"] = nil --[[functions with upvalue not supported]];
+["GetPhysicalPadNum"] = nil --[[functions with upvalue not supported]];
+["__call"] = nil --[[functions with upvalue not supported]];

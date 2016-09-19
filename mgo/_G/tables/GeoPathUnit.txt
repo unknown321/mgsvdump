@@ -1,0 +1,2 @@
+["_className"] = "GeoPathUnit";
+["ClearTags"] = nil --[[functions with upvalue not supported]];

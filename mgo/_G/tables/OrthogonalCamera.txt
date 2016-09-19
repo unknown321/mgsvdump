@@ -1,0 +1,2 @@
+["_className"] = "OrthogonalCamera";
+["SetProjectionScale"] = nil --[[functions with upvalue not supported]];

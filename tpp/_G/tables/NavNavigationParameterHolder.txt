@@ -1,0 +1,2 @@
+["_className"] = "NavNavigationParameterHolder";
+["InsertNavigationParameter"] = nil --[[functions with upvalue not supported]];

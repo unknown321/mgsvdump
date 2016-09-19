@@ -1,0 +1,6 @@
+["_className"] = "PathMapper";
+["Dump"] = nil --[[functions with upvalue not supported]];
+["RegisterRealPath"] = nil --[[functions with upvalue not supported]];
+["Register"] = nil --[[functions with upvalue not supported]];
+["Replace"] = nil --[[functions with upvalue not supported]];
+["Add"] = nil --[[functions with upvalue not supported]];

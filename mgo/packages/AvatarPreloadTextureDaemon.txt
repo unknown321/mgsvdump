@@ -1,0 +1,3 @@
+["CheckBlendTexLoaded"] = nil --[[non-lua function not supported]];
+["PreloadRequestForLocalPlayer"] = nil --[[non-lua function not supported]];
+["ResetTexture"] = nil --[[non-lua function not supported]];

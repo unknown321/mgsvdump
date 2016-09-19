@@ -1,0 +1,7 @@
+["RecreateLocatorBasedPOIObjects"] = nil --[[non-lua function not supported]];
+["Config"] = nil --[[non-lua function not supported]];
+["POI_TYPE_GENERIC"] = 0;
+["POI_TYPE_VEHICLE"] = 3;
+["POI_HANDLE_INVALID"] = 65535;
+["POI_TYPE_PLAYER"] = 2;
+["POI_TYPE_SPAWN_POINT"] = 1;

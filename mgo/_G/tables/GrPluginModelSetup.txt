@@ -1,0 +1,2 @@
+["_className"] = "GrPluginModelSetup";
+["__call"] = nil --[[non-lua function not supported]];

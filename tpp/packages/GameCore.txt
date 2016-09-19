@@ -1,0 +1,10 @@
+["StopPlayingRecord"] = nil --[[non-lua function not supported]];
+["StartRecording"] = nil --[[non-lua function not supported]];
+["StopRecording"] = nil --[[non-lua function not supported]];
+["DebugDumpRecord"] = nil --[[non-lua function not supported]];
+["GetRecordState"] = nil --[[non-lua function not supported]];
+["SetGameObjectPerfEnabled"] = nil --[[non-lua function not supported]];
+["ExportGameObjectPerfGraph"] = nil --[[non-lua function not supported]];
+["ExportGameObjectPerf"] = nil --[[non-lua function not supported]];
+["EraseRecord"] = nil --[[non-lua function not supported]];
+["PlayRecord"] = nil --[[non-lua function not supported]];

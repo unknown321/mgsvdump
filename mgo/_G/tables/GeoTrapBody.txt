@@ -1,0 +1,4 @@
+["_className"] = "GeoTrapBody";
+["SetInvalid"] = nil --[[functions with upvalue not supported]];
+["GetByName"] = nil --[[functions with upvalue not supported]];
+["SetValid"] = nil --[[functions with upvalue not supported]];

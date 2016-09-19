@@ -1,3 +1,0 @@
-CaptureCage
-	GetCaptureAnimalList()
-	RegisterCaptureAnimal()

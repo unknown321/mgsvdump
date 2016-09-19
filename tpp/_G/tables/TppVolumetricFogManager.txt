@@ -1,0 +1,4 @@
+["_className"] = "TppVolumetricFogManager";
+["SetEnableAreaFog"] = nil --[[functions with upvalue not supported]];
+["SetEnableFog"] = nil --[[functions with upvalue not supported]];
+["IsEnableAreaFog"] = nil --[[functions with upvalue not supported]];

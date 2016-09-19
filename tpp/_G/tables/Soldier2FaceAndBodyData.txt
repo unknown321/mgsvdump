@@ -1,0 +1,3 @@
+["_scriptPath"] = "Soldier2FaceAndBodyData";
+["_scriptInstanceId"] = nil --[[userdata]]
+;

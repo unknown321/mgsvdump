@@ -1,0 +1,2 @@
+["AllocatePSStoreMemory"] = nil --[[non-lua function not supported]];
+["FreePSStoreMemory"] = nil --[[non-lua function not supported]];

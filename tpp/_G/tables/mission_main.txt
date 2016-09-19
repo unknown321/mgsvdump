@@ -1,0 +1,10 @@
+["OnChangeSVars"] = nil --[[functions with upvalue not supported]];
+["OnTerminate"] = nil --[[functions with upvalue not supported]];
+["OnInitialize"] = nil --[[functions with upvalue not supported]];
+["OnReload"] = nil --[[functions with upvalue not supported]];
+["OnMessage"] = nil --[[functions with upvalue not supported]];
+["_scriptInstanceId"] = nil --[[userdata]]
+;
+["_scriptPath"] = "mission_main";
+["OnUpdate"] = nil --[[functions with upvalue not supported]];
+["OnAllocate"] = nil --[[functions with upvalue not supported]];

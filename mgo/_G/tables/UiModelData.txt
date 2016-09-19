@@ -1,0 +1,2 @@
+["_className"] = "UiModelData";
+["SetModelNodeElement"] = nil --[[functions with upvalue not supported]];

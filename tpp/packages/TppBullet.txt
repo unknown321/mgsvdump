@@ -1,0 +1,2 @@
+["ClearBulletMark"] = nil --[[non-lua function not supported]];
+["ReloadRecoilMaterials"] = nil --[[non-lua function not supported]];

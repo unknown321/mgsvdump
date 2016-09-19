@@ -1,0 +1,5 @@
+["GetMissionBordId"] = nil --[[non-lua function not supported]];
+["GetMissionLimitBordId"] = nil --[[non-lua function not supported]];
+["RegistRanking"] = nil --[[non-lua function not supported]];
+["WriteServerRankingScore"] = nil --[[non-lua function not supported]];
+["IsRankingBusy"] = nil --[[non-lua function not supported]];

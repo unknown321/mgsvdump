@@ -1,0 +1,2 @@
+["_className"] = "GrPluginSubSurfaceScatter";
+["__call"] = nil --[[non-lua function not supported]];

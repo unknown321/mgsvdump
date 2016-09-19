@@ -1,0 +1,2 @@
+["_className"] = "GrRenderPlugin";
+["AddPlugin"] = nil --[[functions with upvalue not supported]];

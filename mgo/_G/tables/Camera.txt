@@ -1,0 +1,3 @@
+["_className"] = "Camera";
+["SetTransform"] = nil --[[functions with upvalue not supported]];
+["GetTransform"] = nil --[[functions with upvalue not supported]];

@@ -1,0 +1,5 @@
+["_className"] = "PassiveBlockController";
+["FindInstance"] = nil --[[functions with upvalue not supported]];
+["LoadRequest"] = nil --[[functions with upvalue not supported]];
+["GetBlockGroup"] = nil --[[functions with upvalue not supported]];
+["UnloadRequest"] = nil --[[functions with upvalue not supported]];

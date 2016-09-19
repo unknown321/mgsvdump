@@ -1,4 +1,0 @@
-PlayerInfo
-	AndCheckStatus()
-	GetLocalPlayerIndex()
-	OrCheckStatus()

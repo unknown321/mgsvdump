@@ -1,0 +1,5 @@
+["RegisterMaterial"] = nil --[[non-lua function not supported]];
+["RegisterTexture"] = nil --[[non-lua function not supported]];
+["GeoLuaEnableTriggerTrap"] = nil --[[non-lua function not supported]];
+["UnregisterMaterial"] = nil --[[non-lua function not supported]];
+["DumpFilePath"] = nil --[[non-lua function not supported]];

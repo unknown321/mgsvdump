@@ -1,0 +1,4 @@
+["_className"] = "GeoSearchObject";
+["GetData"] = nil --[[functions with upvalue not supported]];
+["GetPosition"] = nil --[[functions with upvalue not supported]];
+["__call"] = nil --[[non-lua function not supported]];

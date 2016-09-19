@@ -1,0 +1,5 @@
+["DBGFontSize"] = nil --[[non-lua function not supported]];
+["DBGLocate"] = nil --[[non-lua function not supported]];
+["ModelConvert"] = nil --[[non-lua function not supported]];
+["DBGColor"] = nil --[[non-lua function not supported]];
+["DBGPrint"] = nil --[[non-lua function not supported]];

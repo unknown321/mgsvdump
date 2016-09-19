@@ -1,0 +1,3 @@
+["_scriptPath"] = "MbmCommonSetting40RewardDeploy";
+["_scriptInstanceId"] = nil --[[userdata]]
+;

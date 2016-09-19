@@ -1,0 +1,3 @@
+["_scriptPath"] = "TppDebug";
+["_scriptInstanceId"] = nil --[[userdata]]
+;

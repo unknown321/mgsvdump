@@ -1,0 +1,2 @@
+["_className"] = "GrPluginFxaa";
+["__call"] = nil --[[non-lua function not supported]];

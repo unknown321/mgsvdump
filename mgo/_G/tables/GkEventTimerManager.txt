@@ -1,0 +1,7 @@
+["_className"] = "GkEventTimerManager";
+["StopAll"] = nil --[[functions with upvalue not supported]];
+["IsTimerActive"] = nil --[[functions with upvalue not supported]];
+["StartRaw"] = nil --[[functions with upvalue not supported]];
+["Stop"] = nil --[[functions with upvalue not supported]];
+["Start"] = nil --[[functions with upvalue not supported]];
+["SetPaused"] = nil --[[functions with upvalue not supported]];

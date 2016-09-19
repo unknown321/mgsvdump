@@ -1,0 +1,2 @@
+["_className"] = "GrPluginLineIntegralSSAO";
+["__call"] = nil --[[non-lua function not supported]];

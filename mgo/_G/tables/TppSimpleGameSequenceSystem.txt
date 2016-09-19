@@ -1,0 +1,6 @@
+["_className"] = "TppSimpleGameSequenceSystem";
+["IsShowLoadScreen"] = nil --[[functions with upvalue not supported]];
+["SetShowLoadScreen"] = nil --[[functions with upvalue not supported]];
+["SetEventualMissionCode"] = nil --[[functions with upvalue not supported]];
+["Start"] = nil --[[functions with upvalue not supported]];
+["CheckHostConnection"] = nil --[[functions with upvalue not supported]];

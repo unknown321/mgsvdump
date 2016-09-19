@@ -1,0 +1,8 @@
+["_className"] = "FxLocator";
+["Invisible"] = nil --[[functions with upvalue not supported]];
+["Create"] = nil --[[functions with upvalue not supported]];
+["Visible"] = nil --[[functions with upvalue not supported]];
+["SetReceiverVector"] = nil --[[functions with upvalue not supported]];
+["GetByName"] = nil --[[functions with upvalue not supported]];
+["SetReceiverLife"] = nil --[[functions with upvalue not supported]];
+["Destroy"] = nil --[[functions with upvalue not supported]];

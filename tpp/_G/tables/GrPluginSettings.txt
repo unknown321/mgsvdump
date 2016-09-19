@@ -1,0 +1,2 @@
+["_className"] = "GrPluginSettings";
+["SetRenderName"] = nil --[[functions with upvalue not supported]];

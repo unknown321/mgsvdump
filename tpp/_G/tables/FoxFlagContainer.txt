@@ -1,0 +1,11 @@
+["_className"] = "FoxFlagContainer";
+["AllClear"] = nil --[[functions with upvalue not supported]];
+["Set"] = nil --[[functions with upvalue not supported]];
+["AndCheck"] = nil --[[functions with upvalue not supported]];
+["GetString"] = nil --[[functions with upvalue not supported]];
+["OrCheck"] = nil --[[functions with upvalue not supported]];
+["GetStatusString"] = nil --[[functions with upvalue not supported]];
+["Add"] = nil --[[functions with upvalue not supported]];
+["Reset"] = nil --[[functions with upvalue not supported]];
+["Check"] = nil --[[functions with upvalue not supported]];
+["__call"] = nil --[[functions with upvalue not supported]];

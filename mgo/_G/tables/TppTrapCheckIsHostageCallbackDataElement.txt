@@ -1,0 +1,2 @@
+["_className"] = "TppTrapCheckIsHostageCallbackDataElement";
+["__call"] = nil --[[non-lua function not supported]];

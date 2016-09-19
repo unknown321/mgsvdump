@@ -1,0 +1,40 @@
+[-285212672] = 4;
+[201251380] = nil --[[non-lua function not supported]];
+[137135741] = nil --[[non-lua function not supported]];
+[206644244] = nil --[[non-lua function not supported]];
+[188271516] = nil --[[non-lua function not supported]];
+[26595625] = nil --[[non-lua function not supported]];
+[185098796] = nil --[[non-lua function not supported]];
+[219956189] = nil --[[non-lua function not supported]];
+[78862469] = nil --[[non-lua function not supported]];
+[122675215] = nil --[[non-lua function not supported]];
+[187541253] = nil --[[non-lua function not supported]];
+
+[-285212671] = {
+[226237853] = nil --[[functions with upvalue not supported]];
+[44558204] = nil --[[functions with upvalue not supported]];
+[184160756] = nil --[[functions with upvalue not supported]];
+[27347291] = nil --[[functions with upvalue not supported]];
+[179540398] = nil --[[functions with upvalue not supported]];
+[16841280] = nil --[[functions with upvalue not supported]];
+[77837453] = nil --[[functions with upvalue not supported]];
+[7955555] = nil --[[functions with upvalue not supported]];
+[32365128] = nil --[[functions with upvalue not supported]];
+[96882270] = nil --[[functions with upvalue not supported]];
+};
+[212759936] = nil --[[non-lua function not supported]];
+[241255881] = nil --[[non-lua function not supported]];
+[143691745] = nil --[[non-lua function not supported]];
+[139894150] = nil --[[non-lua function not supported]];
+[191555975] = nil --[[non-lua function not supported]];
+[102194822] = nil --[[non-lua function not supported]];
+[249032246] = nil --[[non-lua function not supported]];
+[240965684] = nil --[[non-lua function not supported]];
+[145438148] = nil --[[non-lua function not supported]];
+[49591366] = nil --[[non-lua function not supported]];
+[62144975] = nil --[[non-lua function not supported]];
+[11568137] = nil --[[non-lua function not supported]];
+[161924539] = nil --[[non-lua function not supported]];
+[122288095] = nil --[[non-lua function not supported]];
+[26595645] = nil --[[non-lua function not supported]];
+

@@ -1,9 +1,0 @@
-TppDemoUtility
-	AddSubjectMapping()
-	DisablePadZoom()
-	EnablePadZoom()
-	IsFadeOut()
-	ResetFadeInfo()
-	SetEnableDemoZoomSound()
-	SetInvisibleUniqueCharacter()
-	SetUseBlackDiamond()

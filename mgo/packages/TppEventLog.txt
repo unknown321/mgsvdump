@@ -1,0 +1,5 @@
+["ResumeRecording"] = nil --[[non-lua function not supported]];
+["StartRecording"] = nil --[[non-lua function not supported]];
+["StopRecording"] = nil --[[non-lua function not supported]];
+["WriteEvent"] = nil --[[non-lua function not supported]];
+["PauseRecording"] = nil --[[non-lua function not supported]];

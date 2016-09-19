@@ -1,0 +1,3 @@
+["_scriptPath"] = "MotherBaseWeaponSpecSetting";
+["_scriptInstanceId"] = nil --[[userdata]]
+;

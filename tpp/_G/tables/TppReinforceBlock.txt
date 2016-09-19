@@ -1,0 +1,120 @@
+["REINFORCE_TYPE_NAME"] = {
+[1] = "NONE";
+[2] = "EAST_WAV";
+[3] = "EAST_WAV_ROCKET";
+[4] = "WEST_WAV";
+[5] = "WEST_WAV_CANNON";
+[6] = "EAST_TANK";
+[7] = "WEST_TANK";
+[8] = "HELI";
+};
+["_HasVehicle"] = nil --[[functions with upvalue not supported]];
+["_OnCancelReinforce"] = nil --[[functions with upvalue not supported]];
+["IsProcessing"] = nil --[[functions with upvalue not supported]];
+["OnReload"] = nil --[[functions with upvalue not supported]];
+["ReinforceBlockOnUpdate"] = nil --[[functions with upvalue not supported]];
+["StartReinforce"] = nil --[[functions with upvalue not supported]];
+["_SetEnabledSoldier"] = nil --[[functions with upvalue not supported]];
+["ReinforceBlockOnDeactivate"] = nil --[[functions with upvalue not supported]];
+["UnloadReinforceBlock"] = nil --[[functions with upvalue not supported]];
+["REINFORCE_FPK"] = {
+[0] = "";
+[2] = "/Assets/tpp/pack/soldier/reinforce/reinforce_veh_east_wav_roc.fpk";
+[7] = {
+["AFGH"] = {
+["_DEFAULT"] = "/Assets/tpp/pack/soldier/reinforce/reinforce_heli_afgh.fpk";
+[2] = {
+[1] = "/Assets/tpp/pack/soldier/reinforce/reinforce_heli_afgh.fpk";
+[2] = "/Assets/tpp/pack/fova/mecha/sbh/sbh_ene_red.fpk";
+};
+[1] = {
+[1] = "/Assets/tpp/pack/soldier/reinforce/reinforce_heli_afgh.fpk";
+[2] = "/Assets/tpp/pack/fova/mecha/sbh/sbh_ene_blk.fpk";
+};
+};
+["MAFR"] = {
+["_DEFAULT"] = "/Assets/tpp/pack/soldier/reinforce/reinforce_heli_mafr.fpk";
+[2] = {
+[1] = "/Assets/tpp/pack/soldier/reinforce/reinforce_heli_mafr.fpk";
+[2] = "/Assets/tpp/pack/fova/mecha/sbh/sbh_ene_red.fpk";
+};
+[1] = {
+[1] = "/Assets/tpp/pack/soldier/reinforce/reinforce_heli_mafr.fpk";
+[2] = "/Assets/tpp/pack/fova/mecha/sbh/sbh_ene_blk.fpk";
+};
+};
+};
+[3] = {
+["PF_B"] = "/Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_wav_b.fpk";
+["PF_A"] = "/Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_wav_a.fpk";
+["PF_C"] = "/Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_wav_c.fpk";
+};
+[1] = "/Assets/tpp/pack/soldier/reinforce/reinforce_veh_east_wav.fpk";
+[4] = {
+["PF_B"] = "/Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_wav_can_b.fpk";
+["PF_A"] = "/Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_wav_can_a.fpk";
+["PF_C"] = "/Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_wav_can_c.fpk";
+};
+[5] = "/Assets/tpp/pack/soldier/reinforce/reinforce_veh_east_tnk.fpk";
+[6] = {
+["PF_B"] = "/Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_tnk_b.fpk";
+["PF_A"] = "/Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_tnk_a.fpk";
+["PF_C"] = "/Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_tnk_c.fpk";
+};
+};
+["_ActivateReinforce"] = nil --[[functions with upvalue not supported]];
+["_DeactivateReinforce"] = nil --[[functions with upvalue not supported]];
+["IsLoaded"] = nil --[[functions with upvalue not supported]];
+["REINFORCE_VEHICLE_NAME"] = "reinforce_vehicle_0000";
+["messageExecTable"] = {
+[3333891920] = {
+[619354164] = {
+["func"] = nil --[[functions with upvalue not supported]];
+};
+[818979056] = {
+["func"] = nil --[[functions with upvalue not supported]];
+};
+[2462937437] = {
+["func"] = nil --[[functions with upvalue not supported]];
+};
+};
+};
+["ReinforceBlockOnActivate"] = nil --[[functions with upvalue not supported]];
+["REINFORCE_HELI_NAME"] = "EnemyHeli";
+["LoadReinforceBlock"] = nil --[[functions with upvalue not supported]];
+["_HasHeli"] = nil --[[functions with upvalue not supported]];
+["Messages"] = nil --[[functions with upvalue not supported]];
+["_GetHeliRoute"] = loadstring("LuaQ\000\000.\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppReinforceBlock.lua\000ô\000\000\000ô\000\000\000\000\000\000\000\000A\000\000\000^\000\000\000Ä\000\000\000\000\000\000\000\000\000\000\000reinforce_heli_route_0000\000\000\000\000\000\000\000\000ô\000\000\000ô\000\000\000ô\000\000\000\000\000\000\000\000\000\000\000\000\000e\000\000\000\000\000\000\000\000\000\000\000\000");
+["GetReinforceBlockState"] = nil --[[functions with upvalue not supported]];
+["_scriptInstanceId"] = nil --[[userdata]]
+;
+["_scriptPath"] = "TppReinforceBlock";
+["_OnRequestAppearReinforce"] = nil --[[functions with upvalue not supported]];
+["_OnRequestLoadReinforce"] = nil --[[functions with upvalue not supported]];
+["Init"] = nil --[[functions with upvalue not supported]];
+["SetUpReinforceBlock"] = nil --[[functions with upvalue not supported]];
+["_SetEnabledVehicle"] = nil --[[functions with upvalue not supported]];
+["GetReinforceBlockId"] = loadstring("LuaQ\000\000.\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppReinforceBlock.lua\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000@@\000EÄ\000\000F¿¿\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000\000\000ScriptBlock\000\000\000\000\000\000\000\000GetScriptBlockId\000\000\000\000\000\000\000\000mvars\000\000\000\000\000\000\000\000reinforce_reinforceBlockName\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000");
+["ReinforceBlockOnInitialize"] = nil --[[functions with upvalue not supported]];
+["ReinforceBlockOnTerminate"] = loadstring("LuaQ\000\000.\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppReinforceBlock.lua\000â\000\000\000â\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000\000\000\000â\000\000\000\000\000\000\000\000\000\000\000");
+["_HasSoldier"] = nil --[[functions with upvalue not supported]];
+["OnMessage"] = nil --[[functions with upvalue not supported]];
+["REINFORCE_SOLDIER_NAMES"] = {
+[1] = "reinforce_soldier_0000";
+[2] = "reinforce_soldier_0001";
+[3] = "reinforce_soldier_0002";
+[4] = "reinforce_soldier_0003";
+};
+["FinishReinforce"] = nil --[[functions with upvalue not supported]];
+["REINFORCE_DRIVER_SOLDIER_NAME"] = "reinforce_soldier_driver";
+["REINFORCE_TYPE"] = {
+["EAST_WAV_ROCKET"] = 2;
+["HELI"] = 7;
+["WEST_WAV"] = 3;
+["EAST_WAV"] = 1;
+["WEST_WAV_CANNON"] = 4;
+["WEST_TANK"] = 6;
+["EAST_TANK"] = 5;
+["NONE"] = 0;
+};
+["GetFpk"] = nil --[[functions with upvalue not supported]];

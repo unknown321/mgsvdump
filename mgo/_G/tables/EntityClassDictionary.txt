@@ -1,0 +1,3 @@
+["_className"] = "EntityClassDictionary";
+["GetCategoryList"] = nil --[[functions with upvalue not supported]];
+["GetClassNameList"] = nil --[[functions with upvalue not supported]];

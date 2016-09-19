@@ -1,0 +1,3 @@
+["_className"] = "TppDefaultParameterContainer";
+["AddParam"] = nil --[[functions with upvalue not supported]];
+["GetParam"] = nil --[[functions with upvalue not supported]];

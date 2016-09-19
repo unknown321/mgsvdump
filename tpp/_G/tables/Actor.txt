@@ -1,0 +1,2 @@
+["_className"] = "Actor";
+["AddToScene"] = nil --[[functions with upvalue not supported]];

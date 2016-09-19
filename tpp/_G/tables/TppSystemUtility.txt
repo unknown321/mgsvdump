@@ -1,0 +1,4 @@
+["_className"] = "TppSystemUtility";
+["GetCurrentGameMode"] = nil --[[functions with upvalue not supported]];
+["ConfigDefaultPadAssigns"] = nil --[[functions with upvalue not supported]];
+["SetCurrentGameMode"] = nil --[[functions with upvalue not supported]];

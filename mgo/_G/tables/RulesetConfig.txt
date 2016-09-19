@@ -1,0 +1,3 @@
+["_scriptPath"] = "RulesetConfig";
+["_scriptInstanceId"] = nil --[[userdata]]
+;

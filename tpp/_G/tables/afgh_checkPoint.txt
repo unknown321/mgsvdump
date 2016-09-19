@@ -1,0 +1,128 @@
+["_scriptPath"] = "afgh_checkPoint";
+["CheckPointList"] = {
+["slopedTown"] = {
+[1] = "CHK_slopedTown";
+};
+["bridge"] = {
+[1] = "CHK_bridge";
+};
+["remnants"] = {
+[1] = "CHK_remnants";
+};
+["waterway"] = {
+[1] = "CHK_waterway";
+};
+["enemyNorth"] = {
+[1] = "CHK_enemyNorth";
+};
+["cliffEast"] = {
+[1] = "CHK_cliffEast";
+};
+["powerPlant"] = {
+[1] = "CHK_powerPlant";
+};
+["enemyBase"] = {
+[1] = "CHK_enemyBase";
+};
+["cliffTown"] = {
+[1] = "CHK_cliffTown";
+};
+["villageWest"] = {
+[1] = "CHK_villageWest";
+};
+["citadelSouth"] = {
+[1] = "CHK_citadelSouth";
+};
+["fieldEast"] = {
+[1] = "CHK_fieldEast";
+};
+["sovietBase"] = {
+[1] = "CHK_sovietBase";
+};
+["village"] = {
+[1] = "CHK_village";
+};
+["fort"] = {
+[1] = "CHK_fort";
+};
+["fortSouth"] = {
+[1] = "CHK_fortSouth";
+};
+["commFacility"] = {
+[1] = "CHK_commFacility";
+};
+["fortWest"] = {
+[1] = "CHK_fortWest";
+};
+["tent"] = {
+[1] = "CHK_tent";
+};
+["villageNorth"] = {
+[1] = "CHK_villageNorth";
+};
+["remnantsNorth"] = {
+[1] = "CHK_remnantsNorth";
+};
+["citadel"] = {
+[1] = "CHK_citadel";
+};
+["tentNorth"] = {
+[1] = "CHK_tentNorth";
+};
+["plantSouth"] = {
+[1] = "CHK_plantSouth";
+};
+["enemyEast"] = {
+[1] = "CHK_enemyEast";
+};
+["fieldWest"] = {
+[1] = "CHK_fieldWest";
+};
+["villageEast"] = {
+[1] = "CHK_villageEast";
+};
+["waterwayEast"] = {
+[1] = "CHK_waterwayEast";
+};
+["tentEast"] = {
+[1] = "CHK_tentEast";
+};
+["ruinsNorth"] = {
+[1] = "CHK_ruinsNorth";
+};
+["ruins"] = {
+[1] = "CHK_ruins";
+};
+["slopedWest"] = {
+[1] = "CHK_slopedWest";
+};
+["cliffWest"] = {
+[1] = "CHK_cliffWest";
+};
+["slopedEast"] = {
+[1] = "CHK_slopedEast";
+};
+["bridgeNorth"] = {
+[1] = "CHK_bridgeNorth";
+};
+["commWest"] = {
+[1] = "CHK_commWest";
+};
+["sovietSouth"] = {
+[1] = "CHK_sovietSouth";
+};
+["plantWest"] = {
+[1] = "CHK_plantWest";
+};
+["cliffSouth"] = {
+[1] = "CHK_cliffSouth";
+};
+["bridgeWest"] = {
+[1] = "CHK_bridgeWest";
+};
+["field"] = {
+[1] = "CHK_field";
+};
+};
+["_scriptInstanceId"] = nil --[[userdata]]
+;

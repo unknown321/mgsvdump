@@ -1,0 +1,2 @@
+["_className"] = "GeoTrapCondition";
+["AddConditionParam"] = nil --[[functions with upvalue not supported]];

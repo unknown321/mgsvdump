@@ -1,0 +1,16 @@
+["RegisterObserverScript"] = nil --[[functions with upvalue not supported]];
+["GetLatestCheckpointTag"] = nil --[[functions with upvalue not supported]];
+["ClearLatestCheckpointTag"] = nil --[[functions with upvalue not supported]];
+["IsPassedCheckpoint"] = nil --[[functions with upvalue not supported]];
+["PostCheckpointDeletion"] = nil --[[functions with upvalue not supported]];
+["RegisterObserver"] = nil --[[functions with upvalue not supported]];
+["DeleteObserverScript"] = nil --[[functions with upvalue not supported]];
+["__call"] = nil --[[non-lua function not supported]];
+["_className"] = "Checkpoint";
+["PostDataRestoration"] = nil --[[functions with upvalue not supported]];
+["PostCheckpointDeserializationFromFile"] = nil --[[functions with upvalue not supported]];
+["SetRestorationFromSerializedDataMode"] = nil --[[functions with upvalue not supported]];
+["IsBusy"] = nil --[[functions with upvalue not supported]];
+["PostCheckpointDeserialization"] = nil --[[functions with upvalue not supported]];
+["DeleteObserver"] = nil --[[functions with upvalue not supported]];
+["PostCheckpointCreation"] = nil --[[functions with upvalue not supported]];

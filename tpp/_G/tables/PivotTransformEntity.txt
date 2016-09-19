@@ -1,0 +1,2 @@
+["_className"] = "PivotTransformEntity";
+["__call"] = nil --[[non-lua function not supported]];

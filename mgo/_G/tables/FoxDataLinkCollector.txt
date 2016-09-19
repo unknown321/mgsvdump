@@ -1,0 +1,4 @@
+["_className"] = "FoxDataLinkCollector";
+["GetData"] = nil --[[functions with upvalue not supported]];
+["GetDataBody"] = nil --[[functions with upvalue not supported]];
+["ShowWarningIfUse"] = nil --[[functions with upvalue not supported]];

@@ -1,0 +1,7 @@
+["StartRecord"] = nil --[[functions with upvalue not supported]];
+["GetInstance"] = nil --[[functions with upvalue not supported]];
+["StopPlay"] = nil --[[functions with upvalue not supported]];
+["StopRecord"] = nil --[[functions with upvalue not supported]];
+["StartPlay"] = nil --[[functions with upvalue not supported]];
+["_className"] = "Replay";
+["__call"] = nil --[[functions with upvalue not supported]];

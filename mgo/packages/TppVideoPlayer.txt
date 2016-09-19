@@ -1,0 +1,5 @@
+["PlayVideo"] = nil --[[non-lua function not supported]];
+["LoadVideo"] = nil --[[non-lua function not supported]];
+["IsVideoStopped"] = nil --[[non-lua function not supported]];
+["AllocateMemoryPool"] = nil --[[non-lua function not supported]];
+["IsVideoLoadDone"] = nil --[[non-lua function not supported]];

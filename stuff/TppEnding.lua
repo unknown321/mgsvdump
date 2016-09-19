@@ -1,4 +1,0 @@
-TppEnding
-	SetEndsFile()
-	Start()
-	Stop()

@@ -1,0 +1,2 @@
+["_className"] = "BlockScriptBody";
+["CreateQuark"] = nil --[[functions with upvalue not supported]];

@@ -1,0 +1,186 @@
+["lrrpNumberDefine"] = {
+[1] = "afgh_villageEast_ob";
+[2] = "afgh_commWest_ob";
+[3] = "afgh_cliffSouth_ob";
+[4] = "afgh_villageWest_ob";
+[5] = "afgh_bridgeWest_ob";
+[6] = "afgh_tentEast_ob";
+[7] = "afgh_enemyNorth_ob";
+[8] = "afgh_cliffWest_ob";
+[9] = "afgh_cliffEast_ob";
+[10] = "afgh_fortWest_ob";
+[11] = "afgh_slopedEast_ob";
+[12] = "afgh_fortSouth_ob";
+[13] = "afgh_ruinsNorth_ob";
+[14] = "afgh_villageNorth_ob";
+[15] = "afgh_slopedWest_ob";
+[16] = "afgh_fieldEast_ob";
+[17] = "afgh_plantSouth_ob";
+[18] = "afgh_waterwayEast_ob";
+[19] = "afgh_plantWest_ob";
+[20] = "afgh_fieldWest_ob";
+[21] = "afgh_remnantsNorth_ob";
+[22] = "afgh_tentNorth_ob";
+[23] = "afgh_cliffTown_cp";
+[24] = "afgh_tent_cp";
+[25] = "afgh_waterway_cp";
+[26] = "afgh_powerPlant_cp";
+[27] = "afgh_sovietBase_cp";
+[28] = "afgh_remnants_cp";
+[29] = "afgh_field_cp";
+[30] = "afgh_citadel_cp";
+[31] = "afgh_fort_cp";
+[32] = "afgh_village_cp";
+[33] = "afgh_bridge_cp";
+[34] = "afgh_commFacility_cp";
+[35] = "afgh_slopedTown_cp";
+[36] = "afgh_enemyBase_cp";
+[37] = "afgh_bridgeNorth_ob";
+[38] = "afgh_enemyEast_ob";
+[39] = "afgh_sovietSouth_ob";
+["afgh_powerPlant_cp"] = 26;
+["afgh_fieldWest_ob"] = 20;
+["afgh_villageWest_ob"] = 4;
+["afgh_tentNorth_ob"] = 22;
+["afgh_sovietBase_cp"] = 27;
+["afgh_sovietSouth_ob"] = 39;
+["afgh_tent_cp"] = 24;
+["afgh_tentEast_ob"] = 6;
+["afgh_fortWest_ob"] = 10;
+["afgh_remnantsNorth_ob"] = 21;
+["afgh_slopedWest_ob"] = 15;
+["afgh_villageEast_ob"] = 1;
+["afgh_fort_cp"] = 31;
+["afgh_villageNorth_ob"] = 14;
+["afgh_cliffTown_cp"] = 23;
+["afgh_slopedEast_ob"] = 11;
+["afgh_fortSouth_ob"] = 12;
+["afgh_citadel_cp"] = 30;
+["afgh_bridge_cp"] = 33;
+["afgh_plantSouth_ob"] = 17;
+["afgh_cliffWest_ob"] = 8;
+["afgh_enemyBase_cp"] = 36;
+["afgh_enemyNorth_ob"] = 7;
+["afgh_cliffSouth_ob"] = 3;
+["afgh_cliffEast_ob"] = 9;
+["afgh_remnants_cp"] = 28;
+["afgh_commWest_ob"] = 2;
+["afgh_plantWest_ob"] = 19;
+["afgh_slopedTown_cp"] = 35;
+["afgh_field_cp"] = 29;
+["afgh_commFacility_cp"] = 34;
+["afgh_bridgeNorth_ob"] = 37;
+["afgh_bridgeWest_ob"] = 5;
+["afgh_waterwayEast_ob"] = 18;
+["afgh_enemyEast_ob"] = 38;
+["afgh_ruinsNorth_ob"] = 13;
+["afgh_waterway_cp"] = 25;
+["afgh_village_cp"] = 32;
+["afgh_fieldEast_ob"] = 16;
+};
+["cpLinkMatrix"] = {
+[1] = "000000000000100100000000000000010000000";
+[2] = "000000000000010000000000000000000110000";
+[3] = "000000010010000000000010000000000000000";
+[4] = "000000000000000000000000000000010001000";
+[5] = "000000000010000000000000000000001000000";
+[6] = "000000000000000000000001000000000001000";
+[7] = "000000010000000000000000000000000000010";
+[8] = "001000100000000000000010000000000000000";
+[9] = "000000000100000000000010000000000000000";
+[10] = "000000001000000000000000000000100000000";
+[11] = "001010000000000000000000000000000010000";
+[12] = "000000000000000000000000000000100000100";
+[13] = "100000000000000100000000000000000100000";
+[14] = "010000000000000000000000000000010010000";
+[15] = "000000000000000000000000000000000011000";
+[16] = "100000000000100000000000000010000000000";
+[17] = "000000000000000000000000000000000000000";
+[18] = "000000000000000000100000000000000000001";
+[19] = "000000000000000001000000010000000000001";
+[20] = "000000000000000000001000000110000000000";
+[21] = "000000000000000000010001000100000000000";
+[22] = "000000000000000000000001000000000000000";
+[23] = "001000011000000000000000000000000000000";
+[24] = "000001000000000000001100000000000000000";
+[25] = "000000000000000000000000000000000000000";
+[26] = "000000000000000000100000000000000000000";
+[27] = "000000000000000000000000000000000000001";
+[28] = "000000000000000000011000000010000000000";
+[29] = "000000000000000100010000000100000000000";
+[30] = "000000000000000000000000000000000000000";
+[31] = "000000000101000000000000000000000000000";
+[32] = "100100000000010000000000000000000000000";
+[33] = "000010000000000000000000000000000000100";
+[34] = "010000000000100000000000000000000000000";
+[35] = "010000000010011000000000000000000000000";
+[36] = "000101000000001000000000000000000000010";
+[37] = "000000000001000000000000000000001000000";
+[38] = "000000100000000000000000000000000001000";
+[39] = "000000000000000001100000001000000000000";
+};
+["reinforceTravelPlan"] = {
+["afgh_slopedTown_cp"] = {
+[1] = "afgh_commWest_ob";
+[2] = "afgh_villageNorth_ob";
+};
+["afgh_powerPlant_cp"] = {
+[1] = "afgh_plantWest_ob";
+};
+["afgh_remnants_cp"] = {
+[1] = "afgh_remnantsNorth_ob";
+[2] = "afgh_field_cp";
+};
+["afgh_commFacility_cp"] = {
+[1] = "afgh_ruinsNorth_ob";
+[2] = "afgh_commWest_ob";
+};
+["afgh_cliffTown_cp"] = {
+[1] = "afgh_cliffEast_ob";
+[2] = "afgh_cliffWest_ob";
+};
+["afgh_field_cp"] = {
+[1] = "afgh_fieldEast_ob";
+[2] = "afgh_fieldWest_ob";
+};
+["afgh_enemyBase_cp"] = {
+[1] = "afgh_villageWest_ob";
+[2] = "afgh_slopedWest_ob";
+};
+["afgh_sovietBase_cp"] = {
+[1] = "afgh_sovietSouth_ob";
+};
+["afgh_bridge_cp"] = {
+[1] = "afgh_bridgeNorth_ob";
+[2] = "afgh_bridgeWest_ob";
+};
+["afgh_fort_cp"] = {
+[1] = "afgh_fortWest_ob";
+[2] = "afgh_fortSouth_ob";
+};
+["afgh_village_cp"] = {
+[1] = "afgh_villageWest_ob";
+[2] = "afgh_villageNorth_ob";
+};
+["afgh_tent_cp"] = {
+[1] = "afgh_tentNorth_ob";
+[2] = "afgh_tentEast_ob";
+};
+};
+["_scriptPath"] = "afgh_travelPlans";
+["_scriptInstanceId"] = nil --[[userdata]]
+;
+["defaultTravelRouteGroup"] = {
+["afgh_villageWest_ob"] = {
+["afgh_enemyBase_cp"] = {
+[1] = "travel";
+[2] = "in_lrrpHold_S";
+};
+};
+["afgh_enemyEast_ob"] = {
+["afgh_enemyBase_cp"] = {
+[1] = "travel";
+[2] = "in_lrrpHold_N";
+};
+};
+};

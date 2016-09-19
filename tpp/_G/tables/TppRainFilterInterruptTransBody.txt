@@ -1,0 +1,4 @@
+["_className"] = "TppRainFilterInterruptTransBody";
+["AddMaskTexturePath"] = nil --[[functions with upvalue not supported]];
+["AddPlaneMatrix"] = nil --[[functions with upvalue not supported]];
+["AddInterruptFlag"] = nil --[[functions with upvalue not supported]];

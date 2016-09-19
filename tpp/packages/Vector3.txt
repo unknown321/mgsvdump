@@ -1,0 +1,8 @@
+["Sub"] = nil --[[non-lua function not supported]];
+["ToString"] = nil --[[non-lua function not supported]];
+["Normalize"] = nil --[[non-lua function not supported]];
+["Dot"] = nil --[[non-lua function not supported]];
+["Scale"] = nil --[[non-lua function not supported]];
+["Cross"] = nil --[[non-lua function not supported]];
+["Add"] = nil --[[non-lua function not supported]];
+["__call"] = nil --[[non-lua function not supported]];

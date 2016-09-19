@@ -1,0 +1,4 @@
+["_className"] = "NavWorldDaemon";
+["AddScene"] = nil --[[functions with upvalue not supported]];
+["AddWorld"] = nil --[[functions with upvalue not supported]];
+["__call"] = nil --[[non-lua function not supported]];

@@ -1,0 +1,3 @@
+["_scriptPath"] = "RecoilMaterialTable";
+["_scriptInstanceId"] = nil --[[userdata]]
+;

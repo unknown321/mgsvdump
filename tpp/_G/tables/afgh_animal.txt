@@ -1,0 +1,1643 @@
+{};
+multiRefObjects[1][1] = 47;
+multiRefObjects[1][2] = 48;
+multiRefObjects[1][3] = 49;
+multiRefObjects[1][4] = 50;
+multiRefObjects[1][5] = 51;
+multiRefObjects[1][6] = 52;
+multiRefObjects[1][7] = 53;
+multiRefObjects[1][8] = 54;
+multiRefObjects[1][9] = 55;
+multiRefObjects[1][10] = 56;
+["animalAreaSetting"] = {
+[1] = {
+["defines"] = {
+[1] = {
+["keyList"] = {
+[1] = "commFacility_E";
+};
+};
+};
+["activeArea"] = {
+[1] = 145;
+[2] = 136;
+[3] = 146;
+[4] = 138;
+};
+["areaName"] = "commFacility_E";
+["loadArea"] = {
+[1] = 144;
+[2] = 135;
+[3] = 147;
+[4] = 139;
+};
+};
+[2] = {
+["defines"] = {
+[1] = {
+["keyList"] = {
+[1] = "commFacility_W";
+};
+};
+};
+["activeArea"] = {
+[1] = 141;
+[2] = 135;
+[3] = 142;
+[4] = 138;
+};
+["areaName"] = "commFacility_W";
+["loadArea"] = {
+[1] = 140;
+[2] = 134;
+[3] = 143;
+[4] = 139;
+};
+};
+[3] = {
+["defines"] = {
+[1] = {
+["keyList"] = {
+[1] = "enemyBase_E";
+};
+};
+};
+["activeArea"] = {
+[1] = 128;
+[2] = 133;
+[3] = 132;
+[4] = 135;
+};
+["areaName"] = "enemyBase_E";
+["loadArea"] = {
+[1] = 127;
+[2] = 132;
+[3] = 133;
+[4] = 136;
+};
+};
+[4] = {
+["defines"] = {
+[1] = {
+["conditionFunc"] = nil --[[functions with upvalue not supported]];
+["keyList"] = {
+[1] = "enemyBase_S_BuddyPuppy";
+};
+};
+[2] = {
+["keyList"] = {
+[1] = "enemyBase_S";
+};
+};
+};
+["activeArea"] = {
+[1] = 127;
+[2] = 138;
+[3] = 130;
+[4] = 139;
+};
+["areaName"] = "enemyBase_S";
+["loadArea"] = {
+[1] = 126;
+[2] = 137;
+[3] = 131;
+[4] = 140;
+};
+};
+[5] = {
+["defines"] = {
+[1] = {
+["conditionFunc"] = nil --[[functions with upvalue not supported]];
+["keyList"] = {
+[1] = "field_N_BuddyPuppy";
+};
+};
+[2] = {
+["keyList"] = {
+[1] = "field_N";
+};
+};
+};
+["activeArea"] = {
+[1] = 136;
+[2] = 146;
+[3] = 139;
+[4] = 150;
+};
+["areaName"] = "field_N";
+["loadArea"] = {
+[1] = 135;
+[2] = 145;
+[3] = 140;
+[4] = 151;
+};
+};
+[6] = {
+["defines"] = {
+[1] = {
+["conditionFunc"] = nil --[[functions with upvalue not supported]];
+["keyList"] = {
+[1] = "remnantsNorth_N_s10052";
+};
+};
+[2] = {
+["keyList"] = {
+[1] = "remnantsNorth_N";
+};
+};
+};
+["activeArea"] = {
+[1] = 121;
+[2] = 141;
+[3] = 123;
+[4] = 145;
+};
+["areaName"] = "remnantsNorth_N";
+["loadArea"] = {
+[1] = 120;
+[2] = 140;
+[3] = 124;
+[4] = 146;
+};
+};
+[7] = {
+["defines"] = {
+[1] = {
+["conditionFunc"] = nil --[[functions with upvalue not supported]];
+["keyList"] = {
+[1] = "ruins_N_BuddyPuppy";
+};
+};
+[2] = {
+["keyList"] = {
+[1] = "ruins_N";
+};
+};
+};
+["activeArea"] = {
+[1] = 141;
+[2] = 141;
+[3] = 144;
+[4] = 143;
+};
+["areaName"] = "ruins_N";
+["loadArea"] = {
+[1] = 140;
+[2] = 140;
+[3] = 145;
+[4] = 144;
+};
+};
+[8] = {
+["defines"] = {
+[1] = {
+["keyList"] = {
+[1] = "ruins_S";
+};
+};
+};
+["activeArea"] = {
+[1] = 142;
+[2] = 146;
+[3] = 144;
+[4] = 149;
+};
+["areaName"] = "ruins_S";
+["loadArea"] = {
+[1] = 141;
+[2] = 145;
+[3] = 145;
+[4] = 150;
+};
+};
+[9] = {
+["defines"] = {
+[1] = {
+["conditionFunc"] = nil --[[functions with upvalue not supported]];
+["keyList"] = {
+[1] = "slopedTown_S_RescueSpecial";
+};
+};
+[2] = {
+["keyList"] = {
+[1] = "slopedTown_S";
+};
+};
+};
+["activeArea"] = {
+[1] = 135;
+[2] = 133;
+[3] = 138;
+[4] = 136;
+};
+["areaName"] = "slopedTown_S";
+["loadArea"] = {
+[1] = 134;
+[2] = 132;
+[3] = 139;
+[4] = 137;
+};
+};
+[10] = {
+["defines"] = {
+[1] = {
+["keyList"] = {
+[1] = "village_N";
+};
+};
+};
+["activeArea"] = {
+[1] = 137;
+[2] = 139;
+[3] = 138;
+[4] = 140;
+};
+["areaName"] = "village_N";
+["loadArea"] = {
+[1] = 136;
+[2] = 138;
+[3] = 139;
+[4] = 141;
+};
+};
+[11] = {
+["defines"] = {
+[1] = {
+["keyList"] = {
+[1] = "village_W";
+};
+};
+};
+["activeArea"] = {
+[1] = 133;
+[2] = 139;
+[3] = 134;
+[4] = 140;
+};
+["areaName"] = "village_W";
+["loadArea"] = {
+[1] = 132;
+[2] = 138;
+[3] = 135;
+[4] = 141;
+};
+};
+[12] = {
+["defines"] = {
+[1] = {
+["conditionFunc"] = nil --[[functions with upvalue not supported]];
+["keyList"] = {
+[1] = "waterway_I_Child";
+};
+};
+[2] = {
+["conditionFunc"] = nil --[[functions with upvalue not supported]];
+["keyList"] = {
+[1] = "waterway_I_Quiet";
+};
+};
+[3] = {
+["keyList"] = {
+[1] = "waterway_I";
+};
+};
+};
+["activeArea"] = {
+[1] = 118;
+[2] = 129;
+[3] = 120;
+[4] = 132;
+};
+["areaName"] = "waterway_I";
+["loadArea"] = {
+[1] = 117;
+[2] = 128;
+[3] = 121;
+[4] = 133;
+};
+};
+[13] = {
+["defines"] = {
+[1] = {
+["keyList"] = {
+[1] = "powerPlant_S";
+};
+};
+};
+["activeArea"] = {
+[1] = 123;
+[2] = 123;
+[3] = 125;
+[4] = 127;
+};
+["areaName"] = "powerPlant_S";
+["loadArea"] = {
+[1] = 122;
+[2] = 122;
+[3] = 126;
+[4] = 128;
+};
+};
+[14] = {
+["defines"] = {
+[1] = {
+["keyList"] = {
+[1] = "cliffTown_NE";
+};
+};
+};
+["activeArea"] = {
+[1] = 140;
+[2] = 121;
+[3] = 144;
+[4] = 123;
+};
+["areaName"] = "cliffTown_NE";
+["loadArea"] = {
+[1] = 139;
+[2] = 120;
+[3] = 145;
+[4] = 124;
+};
+};
+[15] = {
+["defines"] = {
+[1] = {
+["keyList"] = {
+[1] = "citadel_S";
+};
+};
+};
+["activeArea"] = {
+[1] = 120;
+[2] = 111;
+[3] = 123;
+[4] = 113;
+};
+["areaName"] = "citadel_S";
+["loadArea"] = {
+[1] = 119;
+[2] = 110;
+[3] = 124;
+[4] = 114;
+};
+};
+[16] = {
+["defines"] = {
+[1] = {
+["keyList"] = {
+[1] = "cliffTown_SE";
+};
+};
+};
+["activeArea"] = {
+[1] = 141;
+[2] = 128;
+[3] = 144;
+[4] = 132;
+};
+["areaName"] = "cliffTown_SE";
+["loadArea"] = {
+[1] = 140;
+[2] = 127;
+[3] = 145;
+[4] = 133;
+};
+};
+[17] = {
+["defines"] = {
+[1] = {
+["keyList"] = {
+[1] = "cliffTown_WS";
+};
+};
+};
+["activeArea"] = {
+[1] = 133;
+[2] = 125;
+[3] = 137;
+[4] = 128;
+};
+["areaName"] = "cliffTown_WS";
+["loadArea"] = {
+[1] = 132;
+[2] = 124;
+[3] = 138;
+[4] = 129;
+};
+};
+[18] = {
+["defines"] = {
+[1] = {
+["keyList"] = {
+[1] = "powerPlant_SE";
+};
+};
+};
+["activeArea"] = {
+[1] = 128;
+[2] = 123;
+[3] = 130;
+[4] = 127;
+};
+["areaName"] = "powerPlant_SE";
+["loadArea"] = {
+[1] = 127;
+[2] = 122;
+[3] = 131;
+[4] = 128;
+};
+};
+[19] = {
+["defines"] = {
+[1] = {
+["keyList"] = {
+[1] = "sovietBase_E";
+};
+};
+};
+["activeArea"] = {
+[1] = 120;
+[2] = 116;
+[3] = 122;
+[4] = 120;
+};
+["areaName"] = "sovietBase_E";
+["loadArea"] = {
+[1] = 119;
+[2] = 115;
+[3] = 123;
+[4] = 121;
+};
+};
+[20] = {
+["defines"] = {
+[1] = {
+["conditionFunc"] = nil --[[functions with upvalue not supported]];
+["keyList"] = {
+[1] = "sovietBase_I_AiPod";
+};
+};
+[2] = {
+["keyList"] = {
+[1] = "sovietBase_I";
+};
+};
+};
+["activeArea"] = {
+[1] = 112;
+[2] = 116;
+[3] = 117;
+[4] = 124;
+};
+["areaName"] = "sovietBase_I";
+["loadArea"] = {
+[1] = 111;
+[2] = 115;
+[3] = 118;
+[4] = 125;
+};
+};
+[21] = {
+["defines"] = {
+[1] = {
+["keyList"] = {
+[1] = "remnants_NE";
+};
+};
+};
+["activeArea"] = {
+[1] = 126;
+[2] = 144;
+[3] = 133;
+[4] = 150;
+};
+["areaName"] = "remnants_NE";
+["loadArea"] = {
+[1] = 125;
+[2] = 143;
+[3] = 134;
+[4] = 151;
+};
+};
+[22] = {
+["defines"] = {
+[1] = {
+["keyList"] = {
+[1] = "bridge_S";
+};
+};
+};
+["activeArea"] = {
+[1] = 147;
+[2] = 130;
+[3] = 150;
+[4] = 132;
+};
+["areaName"] = "bridge_S";
+["loadArea"] = {
+[1] = 146;
+[2] = 129;
+[3] = 151;
+[4] = 133;
+};
+};
+[23] = {
+["defines"] = {
+[1] = {
+["keyList"] = {
+[1] = "bridge_N";
+};
+};
+};
+["activeArea"] = {
+[1] = 149;
+[2] = 122;
+[3] = 152;
+[4] = 127;
+};
+["areaName"] = "bridge_N";
+["loadArea"] = {
+[1] = 148;
+[2] = 121;
+[3] = 153;
+[4] = 128;
+};
+};
+[24] = {
+["defines"] = {
+[1] = {
+["keyList"] = {
+[1] = "tent_N";
+};
+};
+};
+["activeArea"] = {
+[1] = 117;
+[2] = 136;
+[3] = 120;
+[4] = 138;
+};
+["areaName"] = "tent_N";
+["loadArea"] = {
+[1] = 116;
+[2] = 135;
+[3] = 121;
+[4] = 139;
+};
+};
+};
+["IsQuiet"] = loadstring("LuaQ\000\0002\000\000\000\000\000\000\000@/Assets/tpp/script/location/afgh/afgh_animal.lua\000√\000\000À\000\000\000\000\000\000\000\000\000\000\000@@\000AÄ\000\000Ä\000E\000\000\000F¿¿\000\\ÄÄ\000W\000A\000@\000ÄÄ¿\000@\000ÄÇ\000Ä\000û\000\000Ç\000\000\000û\000\000\000Ä\000\000\000\000\000\000\000\000\000\000\000TppQuest\000\000\000\000\000\000\000\000IsActive\000\000\000\000\000\000\000\000waterway_q99010\000\000\000\000\000\000\000\000GetCurrentQuestName\000\000\000\000\000\000\000\000ƒ\000\000ƒ\000\000ƒ\000\000ƒ\000\000≈\000\000≈\000\000≈\000\000«\000\000«\000\000«\000\000«\000\000»\000\000»\000\000 \000\000 \000\000À\000\000\000\000\000\000\000\000\000\000\000\000isActive\000\000\000\000\000\000\000\000\000\000\000\000\000\000currentQuestname\000\000\000\000\000\000\000\000\000\000\000");
+["IsBuddyPuppy"] = loadstring("LuaQ\000\0002\000\000\000\000\000\000\000@/Assets/tpp/script/location/afgh/afgh_animal.lua\000î\000\000¢\000\000\000\000\000'\000\000\000\000\000\000@@\000ÄÄ\000EÄ\000\000F¿¿\000F\000¡\000@\000\000@\000ÄB\000\000\000^\000\000E@\000FÄ¡\000Ö¿\000Ü\000B\\Ä\000Z\000\000\000@ÄE@\000FÄ¬\000Å¿\000\\@\000B\000Ä\000^\000\000E@\000F\000√\000Ö¿\000Ü\000B\\Ä\000@√\000@ÄE@\000FÄ¬\000ÅÄ\000\\@\000B\000Ä\000^\000\000B\000\000\000^\000\000\000Ä\000\000\000\000\000\000\000\000\000\000\000TppStory\000\000\000\000\000\000\000\000GetCurrentStorySequence\000\
+\000\000\000\000\000\000\000TppDefine\000\000\000\000\000\000\000\000STORY_SEQUENCE\000\000\000\000\000\000\000\000CLEARD_TO_MATHER_BASE\000\000\000\000\000\000\000\000TppBuddyService\000\000\000\000\000\000\000\000IsDeadBuddyType\000\
+\000\000\000\000\000\000\000BuddyType\000\000\000\000\000\000\000\000DOG\000\000\000\000\000\000\000\000Fox\000\000\000\000\000\000\000\000Log\000-\000\000\000\000\000\000\000Buddy puppy is dead. New buddy puppy appear.\000\000\000\000\000\000\000\000DidObtainBuddyType\000\0007\000\000\000\000\000\000\000Buddy puppy is not obtained. First buddy puppy appear.\000\000\000\000\000'\000\000\000ï\000\000ï\000\000ï\000\000ñ\000\000ñ\000\000ñ\000\000ñ\000\000ñ\000\000ó\000\000ó\000\000ô\000\000ô\000\000ô\000\000ô\000\000ô\000\000ô\000\000ô\000\000ö\000\000ö\000\000ö\000\000ö\000\000õ\000\000õ\000\000ù\000\000ù\000\000ù\000\000ù\000\000ù\000\000ù\000\000ù\000\000û\000\000û\000\000û\000\000û\000\000ü\000\000ü\000\000°\000\000°\000\000¢\000\000\000\000\000\000\000\000\000\000\000\000currentStorySequence\000\000\000\000&\000\000\000\000\000\000\000");
+["animalRareLevel"] = {
+[122] = 1;
+[93] = 1;
+[95] = 2;
+[103] = 0;
+[175] = 3;
+[111] = 2;
+[113] = 0;
+[117] = 1;
+[119] = 2;
+[176] = 0;
+[180] = 2;
+[96] = 3;
+[100] = 0;
+[173] = 0;
+[108] = 0;
+[112] = 3;
+[181] = 1;
+};
+["OnMissionCanStart"] = nil --[[functions with upvalue not supported]];
+["OnAllocate"] = nil --[[functions with upvalue not supported]];
+["IsEventOn10052"] = loadstring("LuaQ\000\0002\000\000\000\000\000\000\000@/Assets/tpp/script/location/afgh/afgh_animal.lua\000ﬁ\000\000‰\000\000\000\000\000\
+\000\000\000\000\000\000@@\000ÄÄ\000Ä@\000@\000ÄB\000Ä\000^\000\000B\000\000\000^\000\000\000Ä\000\000\000\000\000\000\000\000\000\000\000TppMission\000\r\000\000\000\000\000\000\000GetMissionID\000\000\000\000\000\000¢√@\000\000\000\000\
+\000\000\000ﬂ\000\000ﬂ\000\000ﬂ\000\000‡\000\000‡\000\000·\000\000·\000\000„\000\000„\000\000‰\000\000\000\000\000\000\000\000\000\000\000\000isActive\000\000\000\000\000\000\000\000\000\000\000");
+["IsRescueSpecial"] = loadstring("LuaQ\000\0002\000\000\000\000\000\000\000@/Assets/tpp/script/location/afgh/afgh_animal.lua\000ß\000\000Ø\000\000\000\000\000\000\000\000\000\000\000@@\000AÄ\000\000Ä\000E\000\000\000F¿¿\000\\ÄÄ\000W\000A\000@\000ÄÄ¿\000@\000ÄÇ\000Ä\000û\000\000Ç\000\000\000û\000\000\000Ä\000\000\000\000\000\000\000\000\000\000\000TppQuest\000\000\000\000\000\000\000\000IsActive\000\000\000\000\000\000\000\000cliffTown_q99080\000\000\000\000\000\000\000\000GetCurrentQuestName\000\000\000\000\000\000\000\000®\000\000®\000\000®\000\000®\000\000©\000\000©\000\000©\000\000´\000\000´\000\000´\000\000´\000\000¨\000\000¨\000\000Æ\000\000Æ\000\000Ø\000\000\000\000\000\000\000\000\000\000\000\000isActive\000\000\000\000\000\000\000\000\000\000\000\000\000\000currentQuestname\000\000\000\000\000\000\000\000\000\000\000");
+["_scriptPath"] = "afgh_animal";
+["captureCageAnimalAreaSetting"] = {
+[1] = {
+["areaName"] = "commFacility_E";
+["activeArea"] = {
+[1] = 145;
+[2] = 136;
+[3] = 146;
+[4] = 138;
+};
+};
+[2] = {
+["areaName"] = "commFacility_W";
+["activeArea"] = {
+[1] = 141;
+[2] = 135;
+[3] = 142;
+[4] = 138;
+};
+};
+[3] = {
+["areaName"] = "enemyBase_E";
+["activeArea"] = {
+[1] = 128;
+[2] = 133;
+[3] = 132;
+[4] = 135;
+};
+};
+[4] = {
+["areaName"] = "enemyBase_S";
+["activeArea"] = {
+[1] = 127;
+[2] = 138;
+[3] = 130;
+[4] = 139;
+};
+};
+[5] = {
+["areaName"] = "field_N";
+["activeArea"] = {
+[1] = 136;
+[2] = 146;
+[3] = 139;
+[4] = 150;
+};
+};
+[6] = {
+["areaName"] = "remnantsNorth_N";
+["activeArea"] = {
+[1] = 121;
+[2] = 141;
+[3] = 123;
+[4] = 145;
+};
+};
+[7] = {
+["areaName"] = "ruins_N";
+["activeArea"] = {
+[1] = 141;
+[2] = 141;
+[3] = 144;
+[4] = 143;
+};
+};
+[8] = {
+["areaName"] = "ruins_S";
+["activeArea"] = {
+[1] = 142;
+[2] = 146;
+[3] = 144;
+[4] = 149;
+};
+};
+[9] = {
+["areaName"] = "slopedTown_S";
+["activeArea"] = {
+[1] = 135;
+[2] = 133;
+[3] = 138;
+[4] = 136;
+};
+};
+[10] = {
+["areaName"] = "village_N";
+["activeArea"] = {
+[1] = 137;
+[2] = 139;
+[3] = 138;
+[4] = 140;
+};
+};
+[11] = {
+["areaName"] = "village_W";
+["activeArea"] = {
+[1] = 133;
+[2] = 139;
+[3] = 134;
+[4] = 140;
+};
+};
+[12] = {
+["areaName"] = "waterway_I";
+["activeArea"] = {
+[1] = 118;
+[2] = 129;
+[3] = 120;
+[4] = 132;
+};
+};
+[13] = {
+["areaName"] = "powerPlant_S";
+["activeArea"] = {
+[1] = 123;
+[2] = 123;
+[3] = 125;
+[4] = 127;
+};
+};
+[14] = {
+["areaName"] = "cliffTown_NE";
+["activeArea"] = {
+[1] = 140;
+[2] = 121;
+[3] = 144;
+[4] = 123;
+};
+};
+[15] = {
+["areaName"] = "citadel_S";
+["activeArea"] = {
+[1] = 120;
+[2] = 111;
+[3] = 123;
+[4] = 113;
+};
+};
+[16] = {
+["areaName"] = "cliffTown_SE";
+["activeArea"] = {
+[1] = 141;
+[2] = 128;
+[3] = 144;
+[4] = 132;
+};
+};
+[17] = {
+["areaName"] = "cliffTown_WS";
+["activeArea"] = {
+[1] = 133;
+[2] = 125;
+[3] = 137;
+[4] = 128;
+};
+};
+[18] = {
+["areaName"] = "powerPlant_SE";
+["activeArea"] = {
+[1] = 128;
+[2] = 123;
+[3] = 130;
+[4] = 127;
+};
+};
+[19] = {
+["areaName"] = "sovietBase_E";
+["activeArea"] = {
+[1] = 119;
+[2] = 116;
+[3] = 122;
+[4] = 120;
+};
+};
+[20] = {
+["areaName"] = "sovietBase_I";
+["activeArea"] = {
+[1] = 112;
+[2] = 116;
+[3] = 117;
+[4] = 124;
+};
+};
+[21] = {
+["areaName"] = "remnants_NE";
+["activeArea"] = {
+[1] = 126;
+[2] = 144;
+[3] = 133;
+[4] = 150;
+};
+};
+[22] = {
+["areaName"] = "bridge_S";
+["activeArea"] = {
+[1] = 147;
+[2] = 130;
+[3] = 150;
+[4] = 132;
+};
+};
+[23] = {
+["areaName"] = "bridge_N";
+["activeArea"] = {
+[1] = 149;
+[2] = 122;
+[3] = 152;
+[4] = 127;
+};
+};
+[24] = {
+["areaName"] = "tent_N";
+["activeArea"] = {
+[1] = 117;
+[2] = 136;
+[3] = 120;
+[4] = 138;
+};
+};
+[25] = {
+["areaName"] = "blanford";
+["activeArea"] = {
+[1] = 120;
+[2] = 127;
+[3] = 120;
+[4] = 127;
+};
+};
+[26] = {
+["areaName"] = "caracal";
+["activeArea"] = {
+[1] = 122;
+[2] = 140;
+[3] = 122;
+[4] = 140;
+};
+};
+[27] = {
+["areaName"] = "ratel";
+["activeArea"] = {
+[1] = 122;
+[2] = 128;
+[3] = 122;
+[4] = 129;
+};
+};
+[28] = {
+["areaName"] = "hagewashi";
+["activeArea"] = {
+[1] = 139;
+[2] = 124;
+[3] = 139;
+[4] = 124;
+};
+};
+};
+["habitatTable"] = {
+[1] = {
+["areaName"] = "commFacility_E";
+["areaMembers"] = {
+[1] = {
+["iconPos"] = nil --[[userdata]]
+;
+["radius"] = 5;
+["animalGroupId"] = 84;
+};
+};
+};
+[2] = {
+["areaName"] = "commFacility_W";
+["areaMembers"] = {
+[1] = {
+["iconPos"] = nil --[[userdata]]
+;
+["radius"] = 5;
+["animalGroupId"] = 125;
+};
+};
+};
+[3] = {
+["areaName"] = "enemyBase_E";
+["areaMembers"] = {
+[1] = {
+["iconPos"] = nil --[[userdata]]
+;
+["radius"] = 6;
+["animalGroupId"] = 125;
+};
+[2] = {
+["iconPos"] = nil --[[userdata]]
+;
+["radius"] = 8;
+["animalGroupId"] = 95;
+};
+};
+};
+[4] = {
+["areaName"] = "enemyBase_S";
+["areaMembers"] = {
+[1] = {
+["iconPos"] = nil --[[userdata]]
+;
+["radius"] = 5;
+["animalGroupId"] = 97;
+};
+};
+};
+[5] = {
+["areaName"] = "field_N";
+["areaMembers"] = {
+[1] = {
+["iconPos"] = nil --[[userdata]]
+;
+["radius"] = 7;
+["animalGroupId"] = 133;
+};
+};
+};
+[6] = {
+["areaName"] = "remnantsNorth_N";
+["areaMembers"] = {
+[1] = {
+["iconPos"] = nil --[[userdata]]
+;
+["radius"] = 5;
+["animalGroupId"] = 125;
+};
+};
+};
+[7] = {
+["areaName"] = "ruins_N";
+["areaMembers"] = {
+[1] = {
+["iconPos"] = nil --[[userdata]]
+;
+["radius"] = 7;
+["animalGroupId"] = 125;
+};
+};
+};
+[8] = {
+["areaName"] = "ruins_S";
+["areaMembers"] = {
+[1] = {
+["iconPos"] = nil --[[userdata]]
+;
+["radius"] = 6;
+["animalGroupId"] = 133;
+};
+[2] = {
+["iconPos"] = nil --[[userdata]]
+;
+["radius"] = 8;
+["animalGroupId"] = 95;
+};
+};
+};
+[9] = {
+["areaName"] = "slopedTown_S";
+["areaMembers"] = {
+[1] = {
+["iconPos"] = nil --[[userdata]]
+;
+["radius"] = 6;
+["animalGroupId"] = 125;
+};
+};
+};
+[10] = {
+["areaName"] = "village_N";
+["areaMembers"] = {
+[1] = {
+["iconPos"] = nil --[[userdata]]
+;
+["radius"] = 5;
+["animalGroupId"] = 125;
+};
+[2] = {
+["iconPos"] = nil --[[userdata]]
+;
+["radius"] = 5;
+["animalGroupId"] = 180;
+};
+};
+};
+[11] = {
+["areaName"] = "village_W";
+["areaMembers"] = {
+[1] = {
+["iconPos"] = nil --[[userdata]]
+;
+["radius"] = 5;
+["animalGroupId"] = 125;
+};
+};
+};
+[12] = {
+["areaName"] = "waterway_I";
+["areaMembers"] = {
+[1] = {
+["iconPos"] = nil --[[userdata]]
+;
+["radius"] = 7;
+["animalGroupId"] = 133;
+};
+[2] = {
+["iconPos"] = nil --[[userdata]]
+;
+["radius"] = 5;
+["animalGroupId"] = 181;
+};
+};
+};
+[13] = {
+["areaName"] = "powerPlant_S";
+["areaMembers"] = {
+[1] = {
+["iconPos"] = nil --[[userdata]]
+;
+["radius"] = 6;
+["animalGroupId"] = 125;
+};
+[2] = {
+["iconPos"] = nil --[[userdata]]
+;
+["radius"] = 8;
+["animalGroupId"] = 119;
+};
+};
+};
+[14] = {
+["areaName"] = "cliffTown_NE";
+["areaMembers"] = {
+[1] = {
+["iconPos"] = nil --[[userdata]]
+;
+["radius"] = 5;
+["animalGroupId"] = 89;
+};
+};
+};
+[15] = {
+["areaName"] = "citadel_S";
+["areaMembers"] = {
+[1] = {
+["iconPos"] = nil --[[userdata]]
+;
+["radius"] = 5;
+["animalGroupId"] = 84;
+};
+};
+};
+[16] = {
+["areaName"] = "cliffTown_SE";
+["areaMembers"] = {
+[1] = {
+["iconPos"] = nil --[[userdata]]
+;
+["radius"] = 5;
+["animalGroupId"] = 97;
+};
+};
+};
+[17] = {
+["areaName"] = "cliffTown_WS";
+["areaMembers"] = {
+[1] = {
+["iconPos"] = nil --[[userdata]]
+;
+["radius"] = 5;
+["animalGroupId"] = 84;
+};
+};
+};
+[18] = {
+["areaName"] = "powerPlant_SE";
+["areaMembers"] = {
+[1] = {
+["iconPos"] = nil --[[userdata]]
+;
+["radius"] = 5;
+["animalGroupId"] = 84;
+};
+[2] = {
+["iconPos"] = nil --[[userdata]]
+;
+["radius"] = 7;
+["animalGroupId"] = 119;
+};
+};
+};
+[19] = {
+["areaName"] = "sovietBase_E";
+["areaMembers"] = {
+[1] = {
+["iconPos"] = nil --[[userdata]]
+;
+["radius"] = 5;
+["animalGroupId"] = 84;
+};
+};
+};
+[20] = {
+["areaName"] = "sovietBase_I";
+["areaMembers"] = {
+[1] = {
+["iconPos"] = nil --[[userdata]]
+;
+["radius"] = 5;
+["animalGroupId"] = 84;
+};
+};
+};
+[21] = {
+["areaName"] = "remnants_NE";
+["areaMembers"] = {
+[1] = {
+["iconPos"] = nil --[[userdata]]
+;
+["radius"] = 6;
+["animalGroupId"] = 84;
+};
+[2] = {
+["iconPos"] = nil --[[userdata]]
+;
+["radius"] = 8;
+["animalGroupId"] = 111;
+};
+};
+};
+[22] = {
+["areaName"] = "bridge_S";
+["areaMembers"] = {
+[1] = {
+["iconPos"] = nil --[[userdata]]
+;
+["radius"] = 5;
+["animalGroupId"] = 89;
+};
+};
+};
+[23] = {
+["areaName"] = "bridge_N";
+["areaMembers"] = {
+[1] = {
+["iconPos"] = nil --[[userdata]]
+;
+["radius"] = 5;
+["animalGroupId"] = 89;
+};
+};
+};
+[24] = {
+["areaName"] = "tent_N";
+["areaMembers"] = {
+[1] = {
+["iconPos"] = nil --[[userdata]]
+;
+["radius"] = 5;
+["animalGroupId"] = 125;
+};
+};
+};
+[25] = {
+["areaName"] = "hagewashi";
+["areaMembers"] = {
+[1] = {
+["iconPos"] = nil --[[userdata]]
+;
+["radius"] = 5;
+["animalGroupId"] = 108;
+};
+};
+};
+[26] = {
+["areaName"] = "blanford";
+["areaMembers"] = {
+[1] = {
+["iconPos"] = nil --[[userdata]]
+;
+["radius"] = 4;
+["animalGroupId"] = 96;
+};
+};
+};
+[27] = {
+["areaName"] = "caracal";
+["areaMembers"] = {
+[1] = {
+["iconPos"] = nil --[[userdata]]
+;
+["radius"] = 4;
+["animalGroupId"] = 112;
+};
+};
+};
+[28] = {
+["areaName"] = "ratel";
+["areaMembers"] = {
+[1] = {
+["iconPos"] = nil --[[userdata]]
+;
+["radius"] = 4;
+["animalGroupId"] = 175;
+};
+};
+};
+};
+["_scriptInstanceId"] = nil --[[userdata]]
+;
+["animalTypeSetting"] = {
+["tent_N"] = {
+["Goat"] = {
+["groupNumber"] = 4;
+};
+};
+["bridge_N"] = {
+["Zebra"] = {
+["groupNumber"] = 4;
+};
+};
+["enemyBase_S_BuddyPuppy"] = {
+["BuddyPuppy"] = {
+["groupNumber"] = 1;
+};
+};
+["bridge_S"] = {
+["Zebra"] = {
+["groupNumber"] = 4;
+};
+};
+["remnants_NE"] = {
+["Wolf"] = {
+["groupNumber"] = 1;
+};
+};
+["sovietBase_I_AiPod"] = {
+["NoAnimal"] = {
+["groupNumber"] = 1;
+};
+};
+["cliffTown_NE"] = {
+["Zebra"] = {
+["groupNumber"] = 4;
+};
+};
+["waterway_I_Child"] = {
+["Bear"] = {
+["groupNumber"] = 2;
+};
+};
+["commFacility_E"] = {
+["Wolf"] = {
+["groupNumber"] = 1;
+};
+};
+["slopedTown_S"] = {
+["Goat"] = {
+["groupNumber"] = 5;
+};
+};
+["enemyBase_S"] = {
+["Bear"] = {
+["groupNumber"] = 1;
+};
+};
+["sovietBase_I"] = {
+["Wolf"] = {
+["groupNumber"] = 1;
+};
+};
+["remnantsNorth_N_s10052"] = {
+["Goat"] = {
+["groupNumber"] = 1;
+};
+};
+["enemyBase_E"] = {
+["Goat"] = {
+["groupNumber"] = 4;
+};
+};
+["waterway_I_Quiet"] = {
+["NoAnimal"] = {
+["groupNumber"] = 1;
+};
+};
+["commFacility_W"] = {
+["Goat"] = {
+["groupNumber"] = 5;
+};
+};
+["cliffTown_WS"] = {
+["Wolf"] = {
+["groupNumber"] = 1;
+};
+};
+["sovietBase_E"] = {
+["Wolf"] = {
+["groupNumber"] = 1;
+};
+};
+["cliffTown_SE"] = {
+["Bear"] = {
+["groupNumber"] = 1;
+};
+};
+["field_N"] = {
+["Goat"] = {
+["groupNumber"] = 5;
+};
+};
+["powerPlant_SE"] = {
+["Wolf"] = {
+["groupNumber"] = 1;
+};
+};
+["remnantsNorth_N"] = {
+["Goat"] = {
+["groupNumber"] = 4;
+};
+};
+["citadel_S"] = {
+["Wolf"] = {
+["groupNumber"] = 1;
+};
+};
+["waterway_I"] = {
+["Goat"] = {
+["groupNumber"] = 1;
+};
+};
+["powerPlant_S"] = {
+["Goat"] = {
+["groupNumber"] = 4;
+};
+};
+["village_W"] = {
+["Goat"] = {
+["groupNumber"] = 2;
+};
+};
+["village_N"] = {
+["Goat"] = {
+["groupNumber"] = 4;
+};
+};
+["ruins_N_BuddyPuppy"] = {
+["BuddyPuppy"] = {
+["groupNumber"] = 1;
+};
+};
+["slopedTown_S_RescueSpecial"] = {
+["NoAnimal"] = {
+["groupNumber"] = 1;
+};
+};
+["ruins_S"] = {
+["Goat"] = {
+["groupNumber"] = 5;
+};
+};
+["ruins_N"] = {
+["Goat"] = {
+["groupNumber"] = 4;
+};
+};
+["field_N_BuddyPuppy"] = {
+["BuddyPuppy"] = {
+["groupNumber"] = 1;
+};
+};
+};
+["animalInfoList"] = {
+[122] = {
+["name"] = "NANNDA";
+};
+[93] = {
+["name"] = "YOTSUYUBIRIKUGAME";
+};
+[95] = {
+["name"] = "AKAGITSUNE";
+};
+[103] = {
+["name"] = "OBUTOSASORI";
+};
+[175] = {
+["name"] = "RA-TERU";
+};
+[111] = {
+["name"] = "SUNANEKO";
+};
+[113] = {
+["name"] = "ARECHINEZUMI";
+};
+[117] = {
+["name"] = "OOMIMIHARINEZUMI";
+};
+[119] = {
+["name"] = "AFUGANNNAKIUSAGI";
+};
+[176] = {
+["name"] = "WATARIGARASU";
+};
+[180] = {
+["name"] = "NABEKOU";
+};
+[96] = {
+["name"] = "BURANNFO-DOGITSUNE";
+};
+[100] = {
+["name"] = "BEHISHUTAINNHOOHIGEKOUMORI";
+};
+[173] = {
+["name"] = "HYOUMONNTOKAGEMODOKI";
+};
+[108] = {
+["name"] = "SHIROERIHAGEWASHI";
+};
+[112] = {
+["name"] = "KARAKARU";
+};
+[181] = {
+["name"] = "KOUNOTORI";
+};
+};
+["IsChild_q20912"] = loadstring("LuaQ\000\0002\000\000\000\000\000\000\000@/Assets/tpp/script/location/afgh/afgh_animal.lua\000–\000\000ÿ\000\000\000\000\000\000\000\000\000\000\000@@\000AÄ\000\000Ä\000E\000\000\000F¿¿\000\\ÄÄ\000W\000A\000@\000ÄÄ¿\000@\000ÄÇ\000Ä\000û\000\000Ç\000\000\000û\000\000\000Ä\000\000\000\000\000\000\000\000\000\000\000TppQuest\000\000\000\000\000\000\000\000IsActive\000\000\000\000\000\000\000\000sovietBase_q20912\000\000\000\000\000\000\000\000GetCurrentQuestName\000\000\000\000\000\000\000\000—\000\000—\000\000—\000\000—\000\000“\000\000“\000\000“\000\000‘\000\000‘\000\000‘\000\000‘\000\000’\000\000’\000\000◊\000\000◊\000\000ÿ\000\000\000\000\000\000\000\000\000\000\000\000isActive\000\000\000\000\000\000\000\000\000\000\000\000\000\000currentQuestname\000\000\000\000\000\000\000\000\000\000\000");
+["captureAnimalList"] = {
+["ruins_S"] = {
+[1] = 95;
+};
+["powerPlant_SE"] = {
+[1] = 119;
+};
+["powerPlant_S"] = {
+[1] = 119;
+};
+["blanford"] = {
+[1] = 96;
+};
+["waterway_I"] = {
+[1] = 181;
+};
+["ratel"] = {
+[1] = 175;
+};
+["village_N"] = {
+[1] = 180;
+};
+["caracal"] = {
+[1] = 112;
+};
+["wholeArea"] = {
+[1] = 93;
+[2] = 100;
+[3] = 103;
+[4] = 113;
+[5] = 117;
+[6] = 122;
+[7] = 173;
+[8] = 176;
+};
+["cliffTown_SE"] = {
+[1] = 111;
+};
+["enemyBase_E"] = {
+[1] = 95;
+};
+["hagewashi"] = {
+[1] = 108;
+};
+["remnants_NE"] = {
+[1] = 111;
+};
+};
+["IsAiPod"] = loadstring("LuaQ\000\0002\000\000\000\000\000\000\000@/Assets/tpp/script/location/afgh/afgh_animal.lua\000µ\000\000Ω\000\000\000\000\000\000\000\000\000\000\000@@\000AÄ\000\000Ä\000E\000\000\000F¿¿\000\\ÄÄ\000W\000A\000@\000ÄÄ¿\000@\000ÄÇ\000Ä\000û\000\000Ç\000\000\000û\000\000\000Ä\000\000\000\000\000\000\000\000\000\000\000TppQuest\000\000\000\000\000\000\000\000IsActive\000\000\000\000\000\000\000\000sovietBase_q99030\000\000\000\000\000\000\000\000GetCurrentQuestName\000\000\000\000\000\000\000\000∂\000\000∂\000\000∂\000\000∂\000\000∑\000\000∑\000\000∑\000\000π\000\000π\000\000π\000\000π\000\000∫\000\000∫\000\000º\000\000º\000\000Ω\000\000\000\000\000\000\000\000\000\000\000\000isActive\000\000\000\000\000\000\000\000\000\000\000\000\000\000currentQuestname\000\000\000\000\000\000\000\000\000\000\000");
+["animalMaterial"] = {
+[103] = {
+[1] = 57;
+};
+[176] = multiRefObjects[1];
+[111] = {
+[1] = 60;
+};
+[119] = {
+[1] = 74;
+[2] = 48;
+[3] = 57;
+};
+[93] = {
+[1] = 60;
+};
+[112] = {
+[1] = 48;
+[2] = 57;
+[3] = 74;
+};
+[122] = {
+[1] = 48;
+};
+[180] = {
+[1] = 48;
+[2] = 49;
+[3] = 57;
+};
+[173] = {
+[1] = 48;
+[2] = 57;
+};
+[117] = multiRefObjects[1];
+[96] = {
+[1] = 74;
+};
+[95] = {
+[1] = 57;
+[2] = 48;
+};
+[175] = {
+[1] = 57;
+[2] = 48;
+};
+[181] = {
+[1] = 49;
+[2] = 50;
+};
+};
+["animalBlockPackList"] = {
+["enemyBase_S_BuddyPuppy"] = {
+[1] = "/Assets/tpp/pack/mission2/animal/enemyBase_S/anml_enemyBase_S_01.fpk";
+};
+["cliffTown_NE"] = {
+[1] = "/Assets/tpp/pack/mission2/animal/cliffTown_NE/anml_cliffTown_NE_00.fpk";
+};
+["commFacility_E"] = {
+[1] = "/Assets/tpp/pack/mission2/animal/commFacility_E/anml_commFacility_E_00.fpk";
+};
+["slopedTown_S"] = {
+[1] = "/Assets/tpp/pack/mission2/animal/slopedTown_S/anml_slopedTown_S_00.fpk";
+};
+["_openingDemo"] = {
+[1] = "/Assets/tpp/pack/mission2/common/mis_com_opening_demo.fpk";
+};
+["remnantsNorth_N_s10052"] = {
+[1] = "/Assets/tpp/pack/mission2/animal/remnantsNorth_N/anml_remnantsNorth_N_10.fpk";
+};
+["enemyBase_E"] = {
+[1] = "/Assets/tpp/pack/mission2/animal/enemyBase_E/anml_enemyBase_E_00.fpk";
+};
+["tent_N"] = {
+[1] = "/Assets/tpp/pack/mission2/animal/tent_N/anml_tent_N_00.fpk";
+};
+["sovietBase_E"] = {
+[1] = "/Assets/tpp/pack/mission2/animal/sovietBase_E/anml_sovietBase_E_00.fpk";
+};
+["remnantsNorth_N"] = {
+[1] = "/Assets/tpp/pack/mission2/animal/remnantsNorth_N/anml_remnantsNorth_N_00.fpk";
+};
+["waterway_I"] = {
+[1] = "/Assets/tpp/pack/mission2/animal/waterway_I/anml_waterway_I_00.fpk";
+};
+["bridge_S"] = {
+[1] = "/Assets/tpp/pack/mission2/animal/bridge_S/anml_bridge_S_00.fpk";
+};
+["waterway_I_Child"] = {
+[1] = "/Assets/tpp/pack/mission2/animal/sovietBase_E/anml_sovietBase_E_10.fpk";
+};
+["village_N"] = {
+[1] = "/Assets/tpp/pack/mission2/animal/village_N/anml_village_N_00.fpk";
+};
+["enemyBase_S"] = {
+[1] = "/Assets/tpp/pack/mission2/animal/enemyBase_S/anml_enemyBase_S_00.fpk";
+};
+["citadel_S"] = {
+[1] = "/Assets/tpp/pack/mission2/animal/citadel_S/anml_citadel_S_00.fpk";
+};
+["remnants_NE"] = {
+[1] = "/Assets/tpp/pack/mission2/animal/remnants_NE/anml_remnants_NE_00.fpk";
+};
+["waterway_I_Quiet"] = {
+[1] = "/Assets/tpp/pack/mission2/animal/waterway_I/anml_waterway_I_10.fpk";
+};
+["commFacility_W"] = {
+[1] = "/Assets/tpp/pack/mission2/animal/commFacility_W/anml_commFacility_W_00.fpk";
+};
+["cliffTown_WS"] = {
+[1] = "/Assets/tpp/pack/mission2/animal/cliffTown_WS/anml_cliffTown_WS_00.fpk";
+};
+["field_N"] = {
+[1] = "/Assets/tpp/pack/mission2/animal/field_N/anml_field_N_00.fpk";
+};
+["powerPlant_SE"] = {
+[1] = "/Assets/tpp/pack/mission2/animal/powerPlant_SE/anml_powerPlant_SE_00.fpk";
+};
+["powerPlant_S"] = {
+[1] = "/Assets/tpp/pack/mission2/animal/powerPlant_S/anml_powerPlant_S_00.fpk";
+};
+["bridge_N"] = {
+[1] = "/Assets/tpp/pack/mission2/animal/bridge_N/anml_bridge_N_00.fpk";
+};
+["sovietBase_I_AiPod"] = {
+[1] = "/Assets/tpp/pack/mission2/animal/sovietBase_I/anml_sovietBase_I_10.fpk";
+};
+["sovietBase_I"] = {
+[1] = "/Assets/tpp/pack/mission2/animal/sovietBase_I/anml_sovietBase_I_00.fpk";
+};
+["cliffTown_SE"] = {
+[1] = "/Assets/tpp/pack/mission2/animal/cliffTown_SE/anml_cliffTown_SE_00.fpk";
+};
+["village_W"] = {
+[1] = "/Assets/tpp/pack/mission2/animal/village_W/anml_village_W_00.fpk";
+};
+["ruins_N_BuddyPuppy"] = {
+[1] = "/Assets/tpp/pack/mission2/animal/ruins_N/anml_ruins_N_01.fpk";
+};
+["slopedTown_S_RescueSpecial"] = {
+[1] = "/Assets/tpp/pack/mission2/animal/slopedTown_S/anml_slopedTown_S_10.fpk";
+};
+["ruins_S"] = {
+[1] = "/Assets/tpp/pack/mission2/animal/ruins_S/anml_ruins_S_00.fpk";
+};
+["ruins_N"] = {
+[1] = "/Assets/tpp/pack/mission2/animal/ruins_N/anml_ruins_N_00.fpk";
+};
+["field_N_BuddyPuppy"] = {
+[1] = "/Assets/tpp/pack/mission2/animal/field_N/anml_field_N_01.fpk";
+};
+};

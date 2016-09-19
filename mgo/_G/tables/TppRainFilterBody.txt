@@ -1,0 +1,2 @@
+["_className"] = "TppRainFilterBody";
+["SetForceEnableFlag"] = nil --[[functions with upvalue not supported]];

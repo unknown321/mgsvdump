@@ -1,0 +1,2 @@
+["_className"] = "GrPluginRawDecal";
+["__call"] = nil --[[non-lua function not supported]];

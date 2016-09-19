@@ -1,0 +1,4 @@
+["StartAdditionalFogNearDistanceEnvelope"] = nil --[[non-lua function not supported]];
+["RestoreDefaultParameters"] = nil --[[non-lua function not supported]];
+["ReleaseAdditionalFogNearDistanceEnvelope"] = nil --[[non-lua function not supported]];
+["SetParameters"] = nil --[[non-lua function not supported]];

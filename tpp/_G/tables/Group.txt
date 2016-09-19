@@ -1,0 +1,2 @@
+["_className"] = "Group";
+["GetMembers"] = nil --[[functions with upvalue not supported]];

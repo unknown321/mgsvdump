@@ -1,0 +1,5 @@
+[-285212671] = {
+[6390266] = nil --[[functions with upvalue not supported]];
+[158721177] = nil --[[functions with upvalue not supported]];
+};
+[-285212672] = 4;

@@ -1,0 +1,3 @@
+["RequestToCancelAll"] = nil --[[non-lua function not supported]];
+["RequestToCancel"] = nil --[[non-lua function not supported]];
+["RequestEvent"] = nil --[[non-lua function not supported]];

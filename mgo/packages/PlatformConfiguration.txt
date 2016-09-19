@@ -1,0 +1,4 @@
+["SetVideoRecordingEnabled"] = nil --[[non-lua function not supported]];
+["SetScreenShotEnabled"] = nil --[[non-lua function not supported]];
+["SetShareScreenEnabled"] = nil --[[non-lua function not supported]];
+["SetAudioRecordingEnabled"] = nil --[[non-lua function not supported]];

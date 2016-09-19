@@ -1,0 +1,4 @@
+["_className"] = "DesDaemon";
+["GetInstance"] = nil --[[functions with upvalue not supported]];
+["PrintDesObjectAll"] = nil --[[functions with upvalue not supported]];
+["__call"] = nil --[[non-lua function not supported]];

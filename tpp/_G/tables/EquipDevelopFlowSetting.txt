@@ -1,0 +1,3 @@
+["_scriptPath"] = "EquipDevelopFlowSetting";
+["_scriptInstanceId"] = nil --[[userdata]]
+;

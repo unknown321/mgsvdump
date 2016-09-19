@@ -1,0 +1,5 @@
+["SetEnabledOldCharacterSystem"] = nil --[[non-lua function not supported]];
+["IsMissionFullOpen"] = nil --[[non-lua function not supported]];
+["IsCombatTest2"] = nil --[[non-lua function not supported]];
+["UseAiSystem"] = nil --[[non-lua function not supported]];
+["IsCombatTest1"] = nil --[[non-lua function not supported]];

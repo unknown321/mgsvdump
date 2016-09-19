@@ -1,0 +1,7 @@
+["SetLoopMode"] = nil --[[non-lua function not supported]];
+["GetCurrentFrame"] = nil --[[non-lua function not supported]];
+["Restart"] = nil --[[non-lua function not supported]];
+["SetAutoPause"] = nil --[[non-lua function not supported]];
+["Skip"] = nil --[[non-lua function not supported]];
+["Pause"] = nil --[[non-lua function not supported]];
+["SetTransform"] = nil --[[non-lua function not supported]];

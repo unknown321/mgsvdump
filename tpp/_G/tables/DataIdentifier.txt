@@ -1,0 +1,3 @@
+["_className"] = "DataIdentifier";
+["GetDataWithIdentifier"] = nil --[[functions with upvalue not supported]];
+["GetDataBodyWithIdentifier"] = nil --[[functions with upvalue not supported]];

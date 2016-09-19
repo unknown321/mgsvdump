@@ -1,0 +1,58 @@
+["GetButtonLastPressDuration"] = nil --[[functions with upvalue not supported]];
+["GetAxis"] = nil --[[functions with upvalue not supported]];
+["GetButtonStatus"] = nil --[[functions with upvalue not supported]];
+["ClearButtonPressLog"] = nil --[[functions with upvalue not supported]];
+["RegisterTriggerAssign"] = nil --[[functions with upvalue not supported]];
+["SetAxisMask"] = nil --[[functions with upvalue not supported]];
+["RegisterAxisAssign"] = nil --[[functions with upvalue not supported]];
+["RegisterButtonAssignAsNoButton"] = nil --[[functions with upvalue not supported]];
+["RegisterAxisReverse"] = nil --[[functions with upvalue not supported]];
+["ClearButtonAssign"] = nil --[[functions with upvalue not supported]];
+["SetFullMask"] = nil --[[functions with upvalue not supported]];
+["GetAssignedButtonNumber"] = nil --[[functions with upvalue not supported]];
+["DeleteStickAssign"] = nil --[[functions with upvalue not supported]];
+["ClearTriggerAssign"] = nil --[[functions with upvalue not supported]];
+["GetCameraDirection"] = nil --[[functions with upvalue not supported]];
+["GetTrigger"] = nil --[[functions with upvalue not supported]];
+["CalculateStickDirection"] = nil --[[functions with upvalue not supported]];
+["CalculateStickForce"] = nil --[[functions with upvalue not supported]];
+["ClearAxisAssign"] = nil --[[functions with upvalue not supported]];
+["SetTriggerMask"] = nil --[[functions with upvalue not supported]];
+["ConfigDefaultAssigns"] = loadstring("LuaQ\000\000\000\000\000\000\000\000\000@Fox/Scripts/Classes/Pad.lua\000\000\000\000\000\000\000\000\000\000³\000\000\000\000\000\000@@\000A€\000\000…À\000\000†\000A@€\000\000\000@@\000A@\000…À\000\000†€A@€\000\000\000@@\000AÀ\000…À\000\000†\000B@€\000\000\000@@\000A@\000…À\000\000†€B@€\000\000\000@@\000AÀ\000…À\000\000†\000C@€\000\000\000@C\000A€\000…À\000\000†ÀCÂ\000\000\000@\000\000\000\000@C\000A\000\000…À\000\000†@DÂ\000\000\000@\000\000\000\000@C\000A€\000…À\000\000†ÀDÂ\000\000\000@\000\000\000\000@C\000A\000\000…À\000\000†@EÂ\000\000\000@\000\000\000\000@@\000A€\000…À\000\000†ÀE@€\000\000\000@@\000A\000\000…À\000\000†€B@€\000\000\000@@\000A@\000…À\000\000†€F@€\000\000\000@@\000AÀ\000…À\000\000†\000G@€\000\000\000@@\000A@\000…À\000\000†€G@€\000\000\000@@\000AÀ\000…À\000\000†\000C@€\000\000\000@@\000A\000\000…À\000\000†\000G@€\000\000\000@@\000A@\000…À\000\000†\000G@€\000\000\000@@\000A€\000…À\000\000†\000B@€\000\000\000@@\000AÀ\000…À\000\000†€A@€\000\000\000@@\000A\000\000…À\000\000†@I@€\000\000\000@@\000A€\000…À\000\000†@I@€\000\000\000@@\000AÀ\000…À\000\000†€F@€\000\000\000@@\000A\000\
+\000…À\000\000†@J@€\000\000\000@@\000A€\
+\000…À\000\000†ÀJ@€\000\000\000@@\000A\000\000…À\000\000†@K@€\000\000\000@@\000A€\000…À\000\000†ÀK@€\000\000\000@@\000A\000\000…À\000\000†€A@€\000\000\000@@\000A@\000…À\000\000†\000B@€\000\000\000@@\000A€\000…À\000\000†ÀE@€\000€\0003\000\000\000\000\000\000\000\000\000\000Pad\000\000\000\000\000\000\000\000RegisterButtonAssign\000\r\000\000\000\000\000\000\000DEBUG_SELECT\000\000\000\000\000\000\000\000fox\000\000\000\000\000\000\000\000PAD_SELECT\000\000\000\000\000\000\000\000DEBUG_L3\000\000\000\000\000\000\000\000PAD_L3\000\000\000\000\000\000\000\000DEBUG_R3\000\000\000\000\000\000\000\000PAD_R3\000\000\000\000\000\000\000\000OK\000\000\000\000\000\000\000\000PAD_A\000\000\000\000\000\000\000\000CANCEL\000\000\000\000\000\000\000\000PAD_B\000\000\000\000\000\000\000\000RegisterAxisAssign\000\000\000\000\000\000\000\000LSTICK_X\000\000\000\000\000\000\000\000PAD_AXIS_LX\000\000\000\000\000\000\000\000LSTICK_Y\000\000\000\000\000\000\000\000PAD_AXIS_LY\000\000\000\000\000\000\000\000RSTICK_X\000\000\000\000\000\000\000\000PAD_AXIS_RX\000\000\000\000\000\000\000\000RSTICK_Y\000\000\000\000\000\000\000\000PAD_AXIS_RY\000\
+\000\000\000\000\000\000\000PL_ACTION\000\000\000\000\000\000\000\000PAD_Y\000\000\000\000\000\000\000\000PL_SQUAT\000\000\000\000\000\000\000\000PL_HOLD\000\000\000\000\000\000\000\000PAD_L1\000\000\000\000\000\000\000\000PL_SHOT\000\000\000\000\000\000\000\000PAD_R1\000\000\000\000\000\000\000\000PL_SUB_SHOT\000\000\000\000\000\000\000\000PAD_R2\000\
+\000\000\000\000\000\000\000PL_RELOAD\000\000\000\000\000\000\000\000PL_KNOCK\000\000\000\000\000\000\000\000PL_CQC\000\000\000\000\000\000\000\000PL_STOCK\000\000\000\000\000\000\000\000PL_SUB_CAMERA\000\000\000\000\000\000\000\000PL_SHOT_CHANGE\000\000\000\000\000\000\000\000PAD_X\000\000\000\000\000\000\000\000PL_FIRE_TRIGGER\000\000\000\000\000\000\000\000PL_THROW_GRENADE\000\000\000\000\000\000\000\000PL_PICKUP_WEAPON\000\000\000\000\000\000\000\000PAD_U\000\000\000\000\000\000\000\000PL_DROP_WEAPON\000\000\000\000\000\000\000\000PAD_D\000\000\000\000\000\000\000\000PL_PREV_WEAPON\000\000\000\000\000\000\000\000PAD_L\000\000\000\000\000\000\000\000PL_NEXT_WEAPON\000\000\000\000\000\000\000\000PAD_R\000\000\000\000\000\000\000\000PL_TOGGLE_WEAPON\000\000\000\000\000\000\000\000PL_TOGGLE_FLASHLIGHT\000\000\000\000\000\000\000\000PL_RELOAD_WEAPON\000\000\000\000\000³\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000");
+["RegisterStickAssign"] = nil --[[functions with upvalue not supported]];
+["GetButtonLongPress"] = nil --[[functions with upvalue not supported]];
+["GetButtonRelease"] = nil --[[functions with upvalue not supported]];
+["SetPhysicalButtonMask"] = nil --[[functions with upvalue not supported]];
+["SetMainPadIndex"] = nil --[[functions with upvalue not supported]];
+["GetButtonPress"] = nil --[[functions with upvalue not supported]];
+["RegisterButtonAssign"] = nil --[[functions with upvalue not supported]];
+["GetDeviceType"] = nil --[[functions with upvalue not supported]];
+["GetButtonPressCountAsKeyRepeat"] = nil --[[functions with upvalue not supported]];
+["_scriptInstanceId"] = nil --[[userdata]]
+;
+["RegisterAxisAssignAsNoAxis"] = nil --[[functions with upvalue not supported]];
+["DeleteAxisAssign"] = nil --[[functions with upvalue not supported]];
+["SetButtonMask"] = nil --[[functions with upvalue not supported]];
+["RegisterStickAxisReverse"] = nil --[[functions with upvalue not supported]];
+["GetButtonLastReleaseDuration"] = nil --[[functions with upvalue not supported]];
+["__call"] = nil --[[non-lua function not supported]];
+["_className"] = "Pad";
+["ClearAssign"] = nil --[[functions with upvalue not supported]];
+["SetStickAxisMask"] = nil --[[functions with upvalue not supported]];
+["GetMainPadIndex"] = nil --[[functions with upvalue not supported]];
+["_scriptPath"] = "Pad";
+["GetStickTilt"] = nil --[[functions with upvalue not supported]];
+["RegisterStickAssignAsNoStick"] = nil --[[functions with upvalue not supported]];
+["DeleteTriggerAssign"] = nil --[[functions with upvalue not supported]];
+["GetStickDir"] = nil --[[functions with upvalue not supported]];
+["SetStickMask"] = nil --[[functions with upvalue not supported]];
+["GetStickAxis"] = nil --[[functions with upvalue not supported]];
+["GetButtonPressDuration"] = nil --[[functions with upvalue not supported]];
+["DeleteButtonAssign"] = nil --[[functions with upvalue not supported]];
+["GetButtonReleaseDuration"] = nil --[[functions with upvalue not supported]];
+["ClearStickAssign"] = nil --[[functions with upvalue not supported]];
+["RegisterTriggerAssignAsNoTrigger"] = nil --[[functions with upvalue not supported]];

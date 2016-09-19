@@ -1,0 +1,3 @@
+["_scriptPath"] = "WeaponParameterTables";
+["_scriptInstanceId"] = nil --[[userdata]]
+;

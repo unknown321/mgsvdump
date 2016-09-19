@@ -1,0 +1,7 @@
+["_className"] = "TppFootPrintBody";
+["AddPosition"] = nil --[[functions with upvalue not supported]];
+["AddKind"] = nil --[[functions with upvalue not supported]];
+["AddAlpha"] = nil --[[functions with upvalue not supported]];
+["AddEnable"] = nil --[[functions with upvalue not supported]];
+["AddBlood"] = nil --[[functions with upvalue not supported]];
+["AddMatrix"] = nil --[[functions with upvalue not supported]];

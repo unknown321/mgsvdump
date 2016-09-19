@@ -1,0 +1,2 @@
+["_className"] = "GrPluginDeferredRendering";
+["__call"] = nil --[[non-lua function not supported]];

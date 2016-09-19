@@ -1,0 +1,9 @@
+["_className"] = "GeoSearchService";
+["SearchObjectLineInSpecificScene"] = nil --[[functions with upvalue not supported]];
+["SearchObject"] = nil --[[functions with upvalue not supported]];
+["SearchObjectSquarePyramidInSpecificScene"] = nil --[[functions with upvalue not supported]];
+["SearchObjectSphere"] = nil --[[functions with upvalue not supported]];
+["SearchObjectLine"] = nil --[[functions with upvalue not supported]];
+["SearchObjectSphereInSpecificScene"] = nil --[[functions with upvalue not supported]];
+["SearchObjectSquarePyramid"] = nil --[[functions with upvalue not supported]];
+["SearchObjectInSpecificScene"] = nil --[[functions with upvalue not supported]];

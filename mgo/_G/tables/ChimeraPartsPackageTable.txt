@@ -1,0 +1,3 @@
+["_scriptPath"] = "ChimeraPartsPackageTable";
+["_scriptInstanceId"] = nil --[[userdata]]
+;

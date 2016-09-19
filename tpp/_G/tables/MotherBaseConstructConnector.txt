@@ -1,0 +1,10 @@
+["_className"] = "MotherBaseConstructConnector";
+["GetInstance"] = nil --[[functions with upvalue not supported]];
+["SetVariableGimmickList"] = nil --[[functions with upvalue not supported]];
+["GetInitialGimmickCount"] = nil --[[functions with upvalue not supported]];
+["ClearVariableGimmickList"] = nil --[[functions with upvalue not supported]];
+["RefreshGimmicks"] = nil --[[functions with upvalue not supported]];
+["SetSahelanLodVisibility"] = nil --[[functions with upvalue not supported]];
+["Create"] = nil --[[functions with upvalue not supported]];
+["GetContainerResourceId"] = nil --[[functions with upvalue not supported]];
+["GetPlantBridgePosRot"] = nil --[[functions with upvalue not supported]];

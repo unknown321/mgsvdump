@@ -1,3 +1,0 @@
-TppBullet
-	ClearBulletMark()
-	ReloadRecoilMaterials()

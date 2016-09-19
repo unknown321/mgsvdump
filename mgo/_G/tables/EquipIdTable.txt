@@ -1,0 +1,3 @@
+["_scriptPath"] = "EquipIdTable";
+["_scriptInstanceId"] = nil --[[userdata]]
+;

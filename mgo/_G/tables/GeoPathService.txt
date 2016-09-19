@@ -1,0 +1,7 @@
+["_className"] = "GeoPathService";
+["InvalidPath"] = nil --[[functions with upvalue not supported]];
+["BindEdgeTag"] = nil --[[functions with upvalue not supported]];
+["RegisterPathTag"] = nil --[[functions with upvalue not supported]];
+["RegisterEdgeTag"] = nil --[[functions with upvalue not supported]];
+["RegisterNodeTag"] = nil --[[functions with upvalue not supported]];
+["BindNodeTag"] = nil --[[functions with upvalue not supported]];

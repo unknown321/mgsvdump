@@ -1,0 +1,34 @@
+["UpdateLoadAnimalBlock"] = nil --[[functions with upvalue not supported]];
+["StopAnimalBlockLoad"] = loadstring("LuaQ\000\000+\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppAnimalBlock.lua\000\"\000\000\000#\000\000\000\000\000\000\000\000\000\000\000\000Ä¿Ä\000Ä\000\000\000\000\000\000\000\000\000\000\000mvars\000\000\000\000\000\000\000\000anm_stopAnimalBlockLoad\000\000\000\000\000\000\000\000\"\000\000\000\"\000\000\000#\000\000\000\000\000\000\000\000\000\000\000");
+["OnTerminate"] = nil --[[functions with upvalue not supported]];
+["_GetSetupTable"] = nil --[[functions with upvalue not supported]];
+["_SetRoute"] = nil --[[functions with upvalue not supported]];
+["_scriptInstanceId"] = nil --[[userdata]]
+;
+["OnReload"] = nil --[[functions with upvalue not supported]];
+["_scriptPath"] = "TppAnimalBlock";
+["_GetAnimalBlockState"] = nil --[[functions with upvalue not supported]];
+["weatherTable"] = {
+};
+["OnActivateAnimalBlock"] = loadstring("LuaQ\000\000+\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppAnimalBlock.lua\000Ù\000\000\000ˆ\000\000\000\000\000\000\000\000E\000\000\000Ä\000\000\000\\\000¿ˇaÄ\000\000@ˇ\000Ä\000\000\000\000\000\000\000\000\000\000\000pairs\000\000\000\000\000\000\000\000Ù\000\000\000Ù\000\000\000Ù\000\000\000Ù\000\000\000Ù\000\000\000Ù\000\000\000ˆ\000\000\000\000\000\000\000\000\000\000\000\000\000e\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000(for generator)\000\000\000\000\000\000\000\000\000\000\000\000\000\000(for state)\000\000\000\000\000\000\000\000\000\000\000\000\000\000(for control)\000\000\000\000\000\000\000\000\000\000\000\000\000\000e\000\000\000\000\000\000\000\000\000\000\000\000\000\000e\000\000\000\000\000\000\000\000\000\000\000");
+["OnInitializeAnimalBlock"] = nil --[[functions with upvalue not supported]];
+["OnAllocate"] = nil --[[functions with upvalue not supported]];
+["_MakeMessageExecTable"] = loadstring("LuaQ\000\000+\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppAnimalBlock.lua\000Î\000\000\000Î\000\000\000\000\000\000\
+\000\000\000\000\000\000@@\000E¿\000\000F\000¡\000Ö\000\000\000Ü@@Ü@A\\Ä\000@\000Å\000Ä\000\000\000\000\000\000\000\000\000\000\000mvars\000\000\000\000\000\000\000\000animalBlockScript\000\000\000\000\000\000\000\000messageExecTable\000\000\000\000\000\000\000\000Tpp\000\000\000\000\000\000\000\000MakeMessageExecTable\000\000\000\000\000\000\000\000Messages\000\000\000\000\000\
+\000\000\000Î\000\000\000Î\000\000\000Î\000\000\000Î\000\000\000Î\000\000\000Î\000\000\000Î\000\000\000Î\000\000\000Î\000\000\000Î\000\000\000\000\000\000\000\000\000\000\000");
+["InitializeBlockStatus"] = nil --[[functions with upvalue not supported]];
+["_GetAnimalBlockAreaName"] = nil --[[functions with upvalue not supported]];
+["_ChangeRouteAtTime"] = nil --[[functions with upvalue not supported]];
+["_InitializeCommonAnimalSetting"] = nil --[[functions with upvalue not supported]];
+["_SetHerdRoute"] = nil --[[functions with upvalue not supported]];
+["_UpdateActiveAnimalBlock"] = nil --[[functions with upvalue not supported]];
+["_AddClockMessage"] = nil --[[functions with upvalue not supported]];
+["_RegisterClockMessage"] = nil --[[functions with upvalue not supported]];
+["_RegisterWeatherTable"] = nil --[[functions with upvalue not supported]];
+["_ChangeDeadState"] = nil --[[functions with upvalue not supported]];
+["CLOCK_MESSAGE_AT_NIGHT_FORMAT"] = "AnimalRouteChangeAtNight%02d";
+["CLOCK_MESSAGE_AT_MORNING_FORMAT"] = "AnimalRouteChangeAtMorning%02d";
+["GetCurrentAnimalBlockAreaName"] = loadstring("LuaQ\000\000+\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppAnimalBlock.lua\0006\000\000\000:\000\000\000\000\000\000\000\000\000\000\000\000@@\000Ä@\000¿ˇ\000\000\000Ä\000\000\000\000\000\000\000\000\000\000\000mvars\000\000\000\000\000\000\000\000animalBlockAreaName\000\000\000\000\000\000\000\000\0006\000\000\0006\000\000\0007\000\000\0007\000\000\0009\000\000\000:\000\000\000\000\000\000\000\000\000\000\000\000\000e\000\000\000\000\000\000\000\000\000\000\000");
+["_IsNight"] = loadstring("LuaQ\000\000+\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppAnimalBlock.lua\000h\000\000\000i\000\000\000\000\000\000\000\000XÄ\000\000Ä\000ÄY\000Ä\000\000\000Ä¬@\000\000¬\000Ä\000ﬁ\000\000\000Ä\000\000\000\000\000\000\000\000\000\000\000\000h\000\000\000h\000\000\000h\000\000\000h\000\000\000h\000\000\000h\000\000\000h\000\000\000i\000\000\000\000\000\000\000\000\000\000\000\000\000e\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000t\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000a\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000e\000\000\000\000\000\000\000\000\000\000\000");
+["_IsNightForAnimalType"] = nil --[[functions with upvalue not supported]];
+["GetDefaultTimeTable"] = nil --[[functions with upvalue not supported]];

@@ -1,0 +1,4 @@
+["GetDataBaseIdFromAnimaId"] = nil --[[non-lua function not supported]];
+["SetIgnoreDisableNpc"] = nil --[[non-lua function not supported]];
+["GetDataBaseIdFromAnimalId"] = nil --[[non-lua function not supported]];
+["IsIgnoreDisableNpc"] = nil --[[non-lua function not supported]];

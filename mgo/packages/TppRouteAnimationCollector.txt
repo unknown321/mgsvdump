@@ -1,0 +1,2 @@
+["RegisterGaniPath"] = nil --[[non-lua function not supported]];
+["ClearGaniPath"] = nil --[[non-lua function not supported]];

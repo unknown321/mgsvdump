@@ -1,0 +1,15 @@
+["IsActivating"] = nil --[[non-lua function not supported]];
+["SetClusterLodVisibility"] = nil --[[non-lua function not supported]];
+["SetFobClientPlayerRespawnTrg"] = nil --[[non-lua function not supported]];
+["IsOnConnectParts"] = nil --[[non-lua function not supported]];
+["RegisterModifyLayoutCodes"] = nil --[[non-lua function not supported]];
+["GetCurrentLayout"] = nil --[[non-lua function not supported]];
+["ModifyLayoutCode"] = nil --[[non-lua function not supported]];
+["GetDemoCenter"] = nil --[[non-lua function not supported]];
+["IsClientReady"] = nil --[[non-lua function not supported]];
+["IsLoading"] = nil --[[non-lua function not supported]];
+["UnlockCluster"] = nil --[[non-lua function not supported]];
+["LockCluster"] = nil --[[non-lua function not supported]];
+["GetCompletionPlantCount"] = nil --[[non-lua function not supported]];
+["GetCurrentCluster"] = nil --[[non-lua function not supported]];
+["GetFirstCluster"] = nil --[[non-lua function not supported]];

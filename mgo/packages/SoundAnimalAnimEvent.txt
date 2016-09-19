@@ -1,0 +1,2 @@
+["SetupAnimalFootStep"] = nil --[[non-lua function not supported]];
+["SetupAnimalRattleSuit"] = nil --[[non-lua function not supported]];

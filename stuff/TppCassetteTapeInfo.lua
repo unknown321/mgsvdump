@@ -1,2 +1,0 @@
-TppCassetteTapeInfo
-	Setup()

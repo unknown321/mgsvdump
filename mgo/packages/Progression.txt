@@ -1,0 +1,7 @@
+["Config"] = nil --[[non-lua function not supported]];
+["ResetSavedXP"] = nil --[[non-lua function not supported]];
+["HasUnlock"] = nil --[[non-lua function not supported]];
+["DEBUG_GiveUnlock"] = nil --[[non-lua function not supported]];
+["HasEquipUnlock"] = nil --[[non-lua function not supported]];
+["GetUnlockValue"] = nil --[[non-lua function not supported]];
+["DEBUG_GivePurchase"] = nil --[[non-lua function not supported]];

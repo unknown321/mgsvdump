@@ -1,2 +1,0 @@
-DemoxUi
-	SetDemoUiTriggerInvalid()

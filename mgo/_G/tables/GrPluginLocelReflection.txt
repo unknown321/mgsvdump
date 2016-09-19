@@ -1,0 +1,2 @@
+["_className"] = "GrPluginLocelReflection";
+["__call"] = nil --[[non-lua function not supported]];

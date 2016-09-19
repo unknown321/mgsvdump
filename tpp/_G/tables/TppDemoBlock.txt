@@ -1,0 +1,8 @@
+["_scriptInstanceId"] = nil --[[userdata]]
+;
+["_scriptPath"] = "TppDemoBlock";
+["isAllocatedMtbsEnemy"] = false;
+["OnInitialize"] = loadstring("LuaQ\000\000)\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppDemoBlock.lua\000\000\000\000\000\000\000\000\000\000\000\000\000\000€\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000");
+["OnTerminate"] = nil --[[functions with upvalue not supported]];
+["OnAllocate"] = nil --[[functions with upvalue not supported]];
+["OnUpdate"] = nil --[[functions with upvalue not supported]];

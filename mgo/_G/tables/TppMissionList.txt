@@ -1,0 +1,3 @@
+["_scriptPath"] = "TppMissionList";
+["_scriptInstanceId"] = nil --[[userdata]]
+;

@@ -1,0 +1,3 @@
+["_className"] = "DataBodySet";
+["GetDataBodyList"] = nil --[[functions with upvalue not supported]];
+["GetDataBody"] = nil --[[functions with upvalue not supported]];

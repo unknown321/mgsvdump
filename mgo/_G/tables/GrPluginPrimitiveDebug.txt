@@ -1,0 +1,2 @@
+["_className"] = "GrPluginPrimitiveDebug";
+["__call"] = nil --[[non-lua function not supported]];

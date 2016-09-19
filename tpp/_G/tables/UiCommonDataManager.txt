@@ -1,0 +1,13 @@
+["_className"] = "UiCommonDataManager";
+["GetInstance"] = nil --[[functions with upvalue not supported]];
+["StartTitleMenu"] = nil --[[functions with upvalue not supported]];
+["SetUseMbDvcGzBlock"] = nil --[[functions with upvalue not supported]];
+["IsGroundZeroesMode"] = nil --[[functions with upvalue not supported]];
+["Create"] = nil --[[functions with upvalue not supported]];
+["SetGroundZeroesMode"] = nil --[[functions with upvalue not supported]];
+["GzTitleShuffle"] = nil --[[functions with upvalue not supported]];
+["InitDataCreate"] = nil --[[functions with upvalue not supported]];
+["End"] = nil --[[functions with upvalue not supported]];
+["SetTitleType"] = nil --[[functions with upvalue not supported]];
+["GetNclResultCommonData"] = nil --[[functions with upvalue not supported]];
+["GzTitlePreSetting"] = nil --[[functions with upvalue not supported]];

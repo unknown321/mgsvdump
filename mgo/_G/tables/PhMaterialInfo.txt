@@ -1,0 +1,6 @@
+["_className"] = "PhMaterialInfo";
+["SetDensity"] = nil --[[functions with upvalue not supported]];
+["SetName"] = nil --[[functions with upvalue not supported]];
+["SetFriction"] = nil --[[functions with upvalue not supported]];
+["SetRestitution"] = nil --[[functions with upvalue not supported]];
+["__call"] = nil --[[non-lua function not supported]];

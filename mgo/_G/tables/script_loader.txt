@@ -1,0 +1,10 @@
+["OnTerminate"] = loadstring("LuaQ\000\000*\000\000\000\000\000\000\000@/Assets/mgo/script/lib/script_loader.lua\000K\000\000\000K\000\000\000\000\000\000\000\000\000\000€\000\000\000\000\000\000\000\000\000\000\000\000K\000\000\000\000\000\000\000\000\000\000\000");
+["OnInitialize"] = loadstring("LuaQ\000\000*\000\000\000\000\000\000\000@/Assets/mgo/script/lib/script_loader.lua\000-\000\000\000-\000\000\000\000\000\000\000\000\000\000€\000\000\000\000\000\000\000\000\000\000\000\000-\000\000\000\000\000\000\000\000\000\000\000");
+["hold_pressed"] = 85.89478907876;
+["Update"] = nil --[[functions with upvalue not supported]];
+["_scriptInstanceId"] = nil --[[userdata]]
+;
+["bind_keys"] = nil --[[functions with upvalue not supported]];
+["read_config"] = nil --[[functions with upvalue not supported]];
+["OnAllocate"] = loadstring("LuaQ\000\000*\000\000\000\000\000\000\000@/Assets/mgo/script/lib/script_loader.lua\000,\000\000\000,\000\000\000\000\000\000\000\000\000\000€\000\000\000\000\000\000\000\000\000\000\000\000,\000\000\000\000\000\000\000\000\000\000\000");
+["_scriptPath"] = "script_loader";

@@ -1,0 +1,6 @@
+["resume"] = nil --[[non-lua function not supported]];
+["yield"] = nil --[[non-lua function not supported]];
+["status"] = nil --[[non-lua function not supported]];
+["wrap"] = nil --[[non-lua function not supported]];
+["create"] = nil --[[non-lua function not supported]];
+["running"] = nil --[[non-lua function not supported]];

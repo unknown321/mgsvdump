@@ -1,0 +1,2 @@
+["_className"] = "DataSetFile2";
+["Save"] = nil --[[functions with upvalue not supported]];

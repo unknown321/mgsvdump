@@ -1,0 +1,2 @@
+["_className"] = "GrPluginPrimitiveUnfiltered";
+["__call"] = nil --[[non-lua function not supported]];

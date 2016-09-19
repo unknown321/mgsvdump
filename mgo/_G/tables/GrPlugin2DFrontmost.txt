@@ -1,0 +1,2 @@
+["_className"] = "GrPlugin2DFrontmost";
+["__call"] = nil --[[non-lua function not supported]];

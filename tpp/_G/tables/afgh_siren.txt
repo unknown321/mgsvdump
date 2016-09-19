@@ -1,0 +1,43 @@
+["_scriptInstanceId"] = nil --[[userdata]]
+;
+["afgh_powerPlant_cp"] = {
+["sirenType"] = 6;
+["pos"] = {
+[1] = -673.869;
+[2] = 542.132;
+[3] = -1479.298;
+};
+};
+["afgh_enemyBase_cp"] = {
+["sirenType"] = 2;
+["pos"] = {
+[1] = -565.8942;
+[2] = 349.0566;
+[3] = 438.305;
+};
+};
+["_scriptPath"] = "afgh_siren";
+["afgh_citadel_cp"] = {
+["sirenType"] = 1;
+["pos"] = {
+[1] = -1200;
+[2] = 654;
+[3] = -3093;
+};
+};
+["afgh_sovietBase_cp"] = {
+["sirenType"] = 7;
+["pos"] = {
+[1] = -2274.614;
+[2] = 463.806;
+[3] = -1546.025;
+};
+};
+["afgh_tent_cp"] = {
+["sirenType"] = 8;
+["pos"] = {
+[1] = -1725.783;
+[2] = 324.787;
+[3] = 837.797;
+};
+};

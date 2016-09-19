@@ -1,0 +1,512 @@
+["BREAK_MINE"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 30;
+};
+["DISCOVER_ATTACKER"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = "HEROIC_POINT_DISCOVER_ATTACKER";
+};
+["ON_ANNIHILATE_OUTER_BASE"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 30;
+};
+["ON_HELI_LIQUID"] = {
+["ogrePoint"] = -240;
+["heroicPoint"] = 240;
+};
+["FOB_ABORT_BY_MENU"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = "HEROIC_POINT_FOB_ABORT_BY_MENU";
+};
+["BREAK_GIMMICK_BY_TYPE"] = {
+[6] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 0;
+};
+[2] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 0;
+};
+[15] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 0;
+};
+[3] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 0;
+};
+[1] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 0;
+};
+[9] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 0;
+};
+};
+["BREAK_PTW_MORTAR"] = {
+["ogrePoint"] = "OGRE_POINT_BREAK_PTW_MORTAR";
+["heroicPoint"] = "HEROIC_POINT_BREAK_PTW_MORTAR";
+};
+["HorseRided"] = nil --[[functions with upvalue not supported]];
+["KILLED_PLAYER"] = {
+["ogrePoint"] = "OGRE_POINT_KILLED_PLAYER";
+["heroicPoint"] = 0;
+};
+["BREAK_SUPPORT_HELI"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = -30;
+};
+["FIRE_KILL_DD_SOLDIER"] = {
+["ogrePoint"] = 180;
+["heroicPoint"] = -90;
+};
+["DEFENCE_WIN_ELIMINATE"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = "HEROIC_POINT_DEFENSE_WIN_ELIMINATE";
+};
+["QUEST_ALL_CLEAR"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 30000;
+};
+["SUPPORT_HELI_LOST_CONTROLE"] = {
+["ogrePoint"] = 150;
+["heroicPoint"] = -60;
+};
+["HORSE_RIDED"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = -5;
+};
+["BREAK_GIMMICK"] = {
+[82] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 0;
+};
+[80] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 0;
+};
+[81] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 0;
+};
+};
+["KILL_DD_SOLDIER"] = {
+["ogrePoint"] = 180;
+["heroicPoint"] = -60;
+};
+["SetAndAnnounceHeroicOgrePointForQuestClear"] = nil --[[functions with upvalue not supported]];
+["KILL_HOSTAGE"] = {
+["ogrePoint"] = 100;
+["heroicPoint"] = -60;
+};
+["FULTON_SUPPORTER_CONTAINER"] = {
+["ogrePoint"] = "OGRE_POINT_FULTON_CONTAINER";
+["heroicPoint"] = "HEROIC_POINT_FULTON_CONTAINER";
+};
+["FIRE_KILL_SOLDIER_FOB_SNEAK"] = {
+["ogrePoint"] = "OGRE_POINT_FIRE_KILL_SOLDIER_FOB_SNEAK";
+["heroicPoint"] = "HEROIC_POINT_FIRE_KILL_SOLDIER_FOB_SNEAK";
+};
+["CONSTRUCT_FIRST_FOB"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 1000;
+};
+["QUEST_CLEAR"] = {
+[7] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 200;
+};
+[1] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 500;
+};
+[2] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 400;
+};
+[4] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 300;
+};
+[8] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 100;
+};
+[9] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 100;
+};
+[5] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 300;
+};
+[10] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 0;
+};
+[3] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 400;
+};
+[6] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 200;
+};
+};
+["_scriptInstanceId"] = nil --[[userdata]]
+;
+["STARTED_COMBAT"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = -10;
+};
+["OFFENCE_WIN_ON_FOB"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = "HEROIC_POINT_OFFENSE_WIN";
+};
+["BREAK_PTW_ANTIAIR"] = {
+["ogrePoint"] = "OGRE_POINT_BREAK_PTW_ANTIAIR";
+["heroicPoint"] = "HEROIC_POINT_BREAK_PTW_ANTIAIR";
+};
+["KILL_SOLDIER"] = {
+["ogrePoint"] = 60;
+["heroicPoint"] = 0;
+};
+["KILL_SOLDIER_FOB_SNEAK"] = {
+["ogrePoint"] = "OGRE_POINT_KILL_SOLDIER_FOB_SNEAK";
+["heroicPoint"] = "HEROIC_POINT_KILL_SOLDIER_FOB_SNEAK";
+};
+["BREAK_SECURITY_CAMERA"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 0;
+};
+["VEHICLE_BROKEN"] = {
+[6] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 0;
+};
+[2] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 0;
+};
+[8] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 0;
+};
+[3] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 0;
+};
+[1] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 0;
+};
+[4] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 0;
+};
+[5] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 0;
+};
+[7] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 0;
+};
+};
+["ENEMY_HOLD_UP"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 5;
+};
+["KILL_DD_HOSTAGE"] = {
+["ogrePoint"] = 90;
+["heroicPoint"] = -60;
+};
+["FIRE_KILL_SOLDIER"] = {
+["ogrePoint"] = 120;
+["heroicPoint"] = 0;
+};
+["AnnounceFirstMissionClearHeroPoint"] = loadstring("LuaQ\000\000$\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppHero.lua\000]\000\000\000_\000\000\000\000\000\000\000\000\000\000\000\000@@\000\000\000\000¿ˇ\000Ä\000\000\000\000\000\000\000\000\000\000\000mvars\000\000\000\000\000\000\000\000her_reserveFirstMissionClear\000\000\000\000\000\000\000\000]\000\000\000]\000\000\000]\000\000\000]\000\000\000_\000\000\000\000\000\000\000\000\000\000\000");
+["DeclareSVars"] = loadstring("LuaQ\000\000$\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppHero.lua\000\000\000\000\000\000\000\000\000\000\000\
+\000ÄJ¿\000I@@ÄÖ¿\000\000Ü\000AIÄ\000ÅIÄ¡ÇI\000¬ÉIÄ¬ÑIÄ¬ÖÖ¿\000\000Ü@CIÄ\000Üä¿\000âÄCÄ≈¿\000\000∆\000¡â¿\000ÅâÄ¡Çâ\000¬ÉâÄ¬ÑâÄ¬Ö≈¿\000\000∆¿√â¿\000Ü√\000Ä\"@Ä\000\000\000Ä\000\000\000\000\000\000\000\000\000\000\000name\000\000\000\000\000\000\000\000her_missionOgrePoint\000\000\000\000\000\000\000\000type\000\000\000\000\000\000\000\000TppScriptVars\000\000\000\000\000\000\000\000TYPE_INT32\000\000\000\000\000\000\000\000value\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000save\000\000\000\000\000\000\000\000sync\000\000\000\000\000\000\000\000\000wait\000\000\000\000\000\000\000\000category\000\000\000\000\000\000\000\000CATEGORY_MB_MANAGEMENT\000\000\000\000\000\000\000\000her_missionHeroPoint\000\000\000\000\000\000\000\000CATEGORY_MISSION\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000");
+["STARTED_COMBAT_ON_FOB_HERO"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = "HEROIC_POINT_STARTED_COMBAT_ON_FOB_HERO";
+};
+["ON_HELI_DYING_ENEMY"] = {
+["ogrePoint"] = -60;
+["heroicPoint"] = 60;
+};
+["OnMessage"] = nil --[[functions with upvalue not supported]];
+["messageExecTable"] = {
+[3333891920] = {
+[1968634342] = {
+["func"] = nil --[[functions with upvalue not supported]];
+};
+[1536531506] = {
+["func"] = nil --[[functions with upvalue not supported]];
+};
+[3631970040] = {
+["func"] = nil --[[functions with upvalue not supported]];
+};
+[3606603722] = {
+["func"] = nil --[[functions with upvalue not supported]];
+};
+[1078786599] = {
+["func"] = nil --[[functions with upvalue not supported]];
+};
+[3485689046] = {
+["func"] = nil --[[functions with upvalue not supported]];
+};
+[3378835612] = {
+["func"] = nil --[[functions with upvalue not supported]];
+};
+[2422244811] = {
+["func"] = nil --[[functions with upvalue not supported]];
+};
+[2192234054] = {
+["func"] = nil --[[functions with upvalue not supported]];
+};
+};
+[1450877369] = {
+[1117421258] = {
+["func"] = nil --[[functions with upvalue not supported]];
+};
+};
+[3087473413] = {
+[1636592280] = {
+["func"] = nil --[[functions with upvalue not supported]];
+};
+[908065082] = {
+["func"] = nil --[[functions with upvalue not supported]];
+};
+[448956712] = {
+["func"] = nil --[[functions with upvalue not supported]];
+};
+[4181774082] = {
+["func"] = nil --[[functions with upvalue not supported]];
+};
+[4014278575] = {
+["func"] = nil --[[functions with upvalue not supported]];
+};
+};
+};
+["FIRE_KILL_DD_HOSTAGE"] = {
+["ogrePoint"] = 180;
+["heroicPoint"] = -90;
+};
+["ENEMY_HELI_LOST_CONTROLE"] = {
+["ogrePoint"] = 120;
+["heroicPoint"] = 0;
+};
+["UpdateHero"] = loadstring("LuaQ\000\000$\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppHero.lua\000\000\000'\000\000\000\000\000Q\000\000\000\000\000\000@@\000EÄ\000\000F¿¿\000\\ÄÄ\000Ö\000\000Ü@A@\000@\000ÄÖ\000\000\000âÄ¡ÄÖ\000\000Ü¿AÄÄ\000@\000ÄÖ\000\000\000â\000¬ÄÖ@\000ÜÄBúÄÄ\000≈¿\000∆\000√∆@√¿\000@\000ÄÖ\000\000\000â\000¬Ä@\000\000¿ÄÖ\000\000\000Ü@@ö\000\000\000¿\000ÄÖÄ\000Ü¿C¡\000\000ú@\000\000\000\000¿ÄÖ\000\000\000Ü@@ö@\000\000¿\000ÄÖÄ\000Ü¿C¡@\000ú@\000Ö\000\000\000Ü@@ö\000\000\000\000ÄÖÄ\000Ü¿D¡\000\000A\000ú@Ää\000Ä¡Ä\000¡\000A\000ÅA\000¡Å\000¬\000A\000ÅB\000¡Ç\000√\000A\000¢@Ä≈@\000\000\000‹\000\000ÄÇ\000¬H@ÄÇÄ\000BÄ·Ä\000\000\000˛\000Ä\000$\000\000\000\000\000\000\000\000\000\000gvars\000\000\000\000\000\000\000\000isHero\000\000\000\000\000\000\000\000TppMotherBaseManagement\000\000\000\000\000\000\000\000GetHeroicPoint\000\000\000\000\000\000\000\000vars\000\000\000\000\000\000\000\000mbmHeroThreshold\000\000\000\000\000\000\000\000mbmNotHeroThreshold\000\000\000\000\000\000\000\000\000TppStory\000\000\000\000\000\000\000\000GetCurrentStorySequence\000\
+\000\000\000\000\000\000\000TppDefine\000\000\000\000\000\000\000\000STORY_SEQUENCE\000\000\000\000\000\000\000\000CLEARD_OKB_ZERO\000\000\000\000\000\000\000\000TppUI\000\000\000\000\000\000\000\000ShowAnnounceLog\000\000\000\000\000\000\000\000get_hero\000\
+\000\000\000\000\000\000\000lost_hero\000\
+\000\000\000\000\000\000\000TppTrophy\000\000\000\000\000\000\000\000Unlock\000\000\000\000\000\000\000G@\000\000\000\000\000L›@\000\000\000\000\000\000\000word80\000\000\000\000\000\000\000\000word81\000\000\000\000\000\000\000\000word82\000\000\000\000\000\000\000\000word83\000\000\000\000\000\000\000\000word84\000\000\000\000\000\000\000\000word85\000\000\000\000\000\000\000\000word86\000\000\000\000\000\000\000\000word88\000\000\000\000\000\000\000\000word89\000\000\000\000\000\000\000\000front40\000\000\000\000\000\000\000\000front41\000\000\000\000\000\000\000\000ipairs\000\
+\000\000\000\000\000\000\000TppEmblem\000\000\000\000\000\000\000\000Add\000\000\000\000\000Q\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000 \000\000 \000\000 \000\000 \000\000!\000\000!\000\000!\000\000!\000\000!\000\000!\000\000\"\000\000\"\000\000\"\000\000\"\000\000#\000\000#\000\000#\000\000#\000\000$\000\000$\000\000$\000\000$\000\000$\000\000$\000\000$\000\000$\000\000$\000\000$\000\000$\000\000$\000\000$\000\000$\000\000$\000\000$\000\000$\000\000$\000\000$\000\000$\000\000$\000\000$\000\000%\000\000%\000\000%\000\000%\000\000%\000\000$\000\000%\000\000'\000\000\000\000\000\000\000\000\000\000\000\000e\000\000\000\000P\000\000\000\000\000\000\000\000\000\000n\000\000\000\000P\000\000\000\000\000\000\000\000\000\000e\000E\000\000\000P\000\000\000\000\000\000\000\000\000\000(for generator)\000H\000\000\000P\000\000\000\000\000\000\000\000\000\000(for state)\000H\000\000\000P\000\000\000\000\000\000\000\000\000\000(for control)\000H\000\000\000P\000\000\000\000\000\000\000\000\000\000n\000I\000\000\000N\000\000\000\000\000\000\000\000\000\000e\000I\000\000\000N\000\000\000\000\000\000\000");
+["AnnounceVehicleBroken"] = nil --[[functions with upvalue not supported]];
+["Messages"] = nil --[[functions with upvalue not supported]];
+["NuclearAbolition"] = {
+["ogrePoint"] = -500000;
+["heroicPoint"] = 50000;
+};
+["DEFENCE_WIN_FOR_FRIEND"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = "HEROIC_POINT_DEFENSE_WIN_FOR_FRIEND";
+};
+["BREAK_DECOY"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 5;
+};
+["ALL_MISSION_S_RANK_CLEAR"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 50000;
+};
+["Init"] = nil --[[functions with upvalue not supported]];
+["DYING_PARASITE"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 60;
+};
+["BREAK_PTW_MACHINEGUN"] = {
+["ogrePoint"] = "OGRE_POINT_BREAK_PTW_MACHINEGUN";
+["heroicPoint"] = "HEROIC_POINT_BREAK_PTW_MACHINEGUN";
+};
+["OnReload"] = nil --[[functions with upvalue not supported]];
+["_RideOnHeli"] = nil --[[functions with upvalue not supported]];
+["PLAYER_DEAD"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = -30;
+};
+["OnPickUpPlaced"] = nil --[[functions with upvalue not supported]];
+["MissionAbort"] = nil --[[functions with upvalue not supported]];
+["DEAD_DD_SOLDIER"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = -30;
+};
+["ALL_MISSION_CLEAR"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 10000;
+};
+["SetHeroicPoint"] = nil --[[functions with upvalue not supported]];
+["SetAndAnnounceHeroicOgrePointForAnnihilateCp"] = nil --[[functions with upvalue not supported]];
+["SetOgrePoint"] = nil --[[functions with upvalue not supported]];
+["OnHelicopterLostControl"] = nil --[[functions with upvalue not supported]];
+["SetAndAnnounceHeroicOgrePoint"] = nil --[[functions with upvalue not supported]];
+["OFFENCE_WIN_ON_FOB_FOR_FRIEND"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = "HEROIC_POINT_OFFENSE_WIN_ON_FOB_FOR_FRIEND";
+};
+["DEAD_HOSTAGE"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = -30;
+};
+["AddTargetLifesavingHeroicPoint"] = loadstring("LuaQ\000\000$\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppHero.lua\000\
+\000\000\000\000\000\000\000\000\"\000\000\000Z\000\000\000¿Ä\000\000\000ÄÄÖ\000\000\000Ü@@ Ä\000\000…¿@Å…¿@Çú@\000@ÄÖ\000\000\000Ü@@ Ä\000\000…@AÅ…@AÇú@\000ÄÄ\000\000\000ÄÄÖ\000\000\000Ü@@ Ä\000\000…@AÅ…@AÇú@\000@ÄÖ\000\000\000Ü@@ Ä\000\000…ÄAÅ…ÄAÇú@\000\000Ä\000\000\000\000\000\000\000\000\000\000\000TppMotherBaseManagement\000\000\000\000\000\000\000\000AddTempLifesavingLog\000\000\000\000\000\000\000\000heroicPoint\000\000\000\000\000\000\000n@\r\000\000\000\000\000\000\000subOgrePoint\000\000\000\000\000\000\000^@\000\000\000\000\000\000N@\000\000\000\000\"\000\000\000\
+\000\000\000\
+\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\r\000\000\000\r\000\000\000\r\000\000\000\r\000\000\000\r\000\000\000\r\000\000\000\r\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000e\000\000\000\000\000!\000\000\000\000\000\000\000\000\000\000n\000\000\000\000\000!\000\000\000\000\000\000\000");
+["PICK_UP_MINE"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 30;
+};
+["STARTED_COMBAT_ON_FOB"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = "HEROIC_POINT_STARTED_COMBAT_ON_FOB";
+};
+["AnnounceBreakGimmick"] = nil --[[functions with upvalue not supported]];
+["DEFENCE_FULTON_OFFENCE"] = {
+["ogrePoint"] = "OGRE_POINT_FULTONED_PLAYER";
+["heroicPoint"] = "HEROIC_POINT_FULTONED_PLAYER";
+};
+["MissionClear"] = nil --[[functions with upvalue not supported]];
+["AnnounceMissionAbort"] = nil --[[functions with upvalue not supported]];
+["MINE_QUEST_ALL_CLEAR"] = {
+["ogrePoint"] = -5000;
+["heroicPoint"] = 5000;
+};
+["CONSTRUCT_SECOND_FOB"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 2000;
+};
+["AnnounceHeroicPoint"] = nil --[[functions with upvalue not supported]];
+["GetMissionOgrePoint"] = loadstring("LuaQ\000\000$\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppHero.lua\000G\000\000\000H\000\000\000\000\000\000\000\000\000\000\000\000@@\000\000\000\000Ä\000\000\000\000\000\000\000\000\000\000\000svars\000\000\000\000\000\000\000\000her_missionOgrePoint\000\000\000\000\000\000\000\000G\000\000\000G\000\000\000G\000\000\000H\000\000\000\000\000\000\000\000\000\000\000");
+["OFFENCE_FULTONED_BY_DEFENCE"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = "HEROIC_POINT_FULTONED";
+};
+["DEFENCE_LOSE"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = "HEROIC_POINT_DEFENSE_LOSE";
+};
+["OnBreakPlaced"] = nil --[[functions with upvalue not supported]];
+["SetFirstMissionClearHeroPoint"] = loadstring("LuaQ\000\000$\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppHero.lua\000Y\000\000\000\\\000\000\000\000\000\000\
+\000\000\000\000\000\000@@\000EÄ\000\000F¿¿\000Ä\000\000A\000@\000Ä@\000¿AÉ\000Ä\000\000\000\000\000\000\000\000\000\000\000TppStory\000\000\000\000\000\000\000\000IsMissionCleard\000\000\000\000\000\000\000\000vars\000\000\000\000\000\000\000\000missionCode\000\000\000\000\000\000\000\000\000mvars\000\000\000\000\000\000\000\000her_reserveFirstMissionClear\000\000\000\000\000\
+\000\000\000Y\000\000\000Y\000\000\000Y\000\000\000Y\000\000\000Y\000\000\000Y\000\000\000Y\000\000\000Z\000\000\000Z\000\000\000\\\000\000\000\000\000\000\000\000\000\000\000");
+["DYING_SOLDIER"] = {
+["ogrePoint"] = 30;
+["heroicPoint"] = 0;
+};
+["MISSION_CLEAR"] = {
+["A"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 800;
+};
+["S"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 1600;
+};
+["B"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 400;
+};
+["E"] = {
+["ogrepoint"] = 0;
+["heroicPoint"] = 50;
+};
+["D"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 100;
+};
+["C"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 200;
+};
+};
+["OnFultonHostage"] = nil --[[functions with upvalue not supported]];
+["ON_HELI_HOSTAGE"] = {
+["ogrePoint"] = -120;
+["heroicPoint"] = 120;
+};
+["FULTON_DYING_ENEMY"] = {
+["ogrePoint"] = -30;
+["heroicPoint"] = 30;
+};
+["AnnounceBreakGimmickByGimmickType"] = nil --[[functions with upvalue not supported]];
+["CONSTRUCT_FOURTH_FOB"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 4000;
+};
+["KILLED_DDS"] = {
+["ogrePoint"] = "OGRE_POINT_KILLED_DDS";
+["heroicPoint"] = "HEROIC_POINT_KILLED_DDS";
+};
+["NOTICE_CRIME"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = "HEROIC_POINT_NOTICE_CRIME";
+};
+["OnFultonSoldier"] = nil --[[functions with upvalue not supported]];
+["OFFENCE_LOSE_ON_FOB"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = "HEROIC_POINT_OFFENSE_LOSE";
+};
+["RETAKE_STAFF_FROM_FOB"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = "HEROIC_POINT_RETAKE_STAFF_FROM_FOB";
+};
+["PLAYER_ON_INJURY"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = -10;
+};
+["FULTON_HOSTAGE"] = {
+["ogrePoint"] = -60;
+["heroicPoint"] = 60;
+};
+["RECOVERED_SOLDIER"] = {
+["ogrePoint"] = -30;
+["heroicPoint"] = 0;
+};
+["_scriptPath"] = "TppHero";
+["ON_ANNIHILATE_BASE"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 300;
+};
+["GetFobServerParameter"] = nil --[[functions with upvalue not supported]];
+["OnFultonEli"] = loadstring("LuaQ\000\000$\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppHero.lua\0001\000\000\0004\000\000\000\000\000\000\000\000Z\000\000\000ÄÄÖ\000\000\000Ü@@ Ä\000\000…¿@Å…¿@Çú@\000@ÄÖ\000\000\000Ü@@ Ä\000\000…@AÅ…@AÇú@\000\000Ä\000\000\000\000\000\000\000\000\000\000\000TppMotherBaseManagement\000\000\000\000\000\000\000\000AddTempLifesavingLog\000\000\000\000\000\000\000\000heroicPoint\000\000\000\000\000\000\000n@\r\000\000\000\000\000\000\000subOgrePoint\000\000\000\000\000\000\000^@\000\000\000\000\000\000\0001\000\000\0001\000\000\0002\000\000\0002\000\000\0002\000\000\0002\000\000\0002\000\000\0002\000\000\0002\000\000\0003\000\000\0003\000\000\0003\000\000\0003\000\000\0003\000\000\0003\000\000\0004\000\000\000\000\000\000\000\000\000\000\000\000\000n\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000e\000\000\000\000\000\000\000\000\000\000\000\000");
+["DEFENCE_WIN_ABORT"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = "HEROIC_POINT_DEFENSE_WIN_ABORT";
+};
+["BREAK_SECURITY_UAV"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 0;
+};
+["FIRE_KILL_HOSTAGE"] = {
+["ogrePoint"] = 200;
+["heroicPoint"] = -90;
+};
+["MISSION_ABORT"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = -50;
+};
+["CONSTRUCT_THIRD_FOB"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 3000;
+};
+["ENEMY_INTERROGATE"] = {
+["ogrePoint"] = 0;
+["heroicPoint"] = 5;
+};
+["FULTON_PARASITE"] = {
+["ogrePoint"] = -30;
+["heroicPoint"] = 30;
+};
+["IsHero"] = loadstring("LuaQ\000\000$\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppHero.lua\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000@@\000\000\000\000Ä\000\000\000\000\000\000\000\000\000\000\000gvars\000\000\000\000\000\000\000\000isHero\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000");

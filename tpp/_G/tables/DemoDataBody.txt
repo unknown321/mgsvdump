@@ -1,0 +1,6 @@
+["_className"] = "DemoDataBody";
+["StreamPause"] = nil --[[functions with upvalue not supported]];
+["Stop"] = nil --[[functions with upvalue not supported]];
+["SetupPlayback"] = nil --[[functions with upvalue not supported]];
+["Start"] = nil --[[functions with upvalue not supported]];
+["StreamStart"] = nil --[[functions with upvalue not supported]];

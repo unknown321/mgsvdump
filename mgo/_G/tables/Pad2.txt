@@ -1,0 +1,2 @@
+["_className"] = "Pad2";
+["Init"] = nil --[[functions with upvalue not supported]];

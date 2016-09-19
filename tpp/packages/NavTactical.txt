@@ -1,0 +1,2 @@
+["INVALID_TACTICAL_ACTION_ID"] = 1.844674407371e+019;
+["SetTacticalActionSystemScript"] = nil --[[non-lua function not supported]];

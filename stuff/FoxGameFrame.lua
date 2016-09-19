@@ -1,2 +1,0 @@
-FoxGameFrame
-	SetGameFrameWaitType()

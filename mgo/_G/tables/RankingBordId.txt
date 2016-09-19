@@ -1,0 +1,4 @@
+[-285212671] = {
+[6387808] = nil --[[functions with upvalue not supported]];
+};
+[-285212672] = 4;

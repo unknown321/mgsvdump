@@ -1,0 +1,2 @@
+["_className"] = "TppTrapCheckIsPlayerAliveCallbackDataElement";
+["__call"] = nil --[[non-lua function not supported]];

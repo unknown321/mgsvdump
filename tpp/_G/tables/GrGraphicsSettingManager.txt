@@ -1,0 +1,5 @@
+["_className"] = "GrGraphicsSettingManager";
+["SetPluginSettingSelection"] = nil --[[functions with upvalue not supported]];
+["GetError"] = nil --[[functions with upvalue not supported]];
+["GetStatus"] = nil --[[functions with upvalue not supported]];
+["SetEasySetting"] = nil --[[functions with upvalue not supported]];

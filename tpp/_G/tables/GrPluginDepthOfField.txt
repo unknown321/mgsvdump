@@ -1,0 +1,2 @@
+["_className"] = "GrPluginDepthOfField";
+["__call"] = nil --[[non-lua function not supported]];

@@ -1,0 +1,7 @@
+["questPackList"] = {
+};
+["questList"] = {
+};
+["_scriptInstanceId"] = nil --[[userdata]]
+;
+["_scriptPath"] = "afgh_quest";

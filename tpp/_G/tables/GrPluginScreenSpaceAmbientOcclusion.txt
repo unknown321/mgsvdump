@@ -1,0 +1,2 @@
+["_className"] = "GrPluginScreenSpaceAmbientOcclusion";
+["__call"] = nil --[[non-lua function not supported]];

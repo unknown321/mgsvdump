@@ -1,0 +1,1 @@
+["CheckSight"] = nil --[[non-lua function not supported]];

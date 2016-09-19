@@ -1,4 +1,0 @@
-_G["LUA_EXT_BIND_DEBUG_SUPPORT"]
-	[-285212671] = {}
-	[-285212672] = 0
-	dump()

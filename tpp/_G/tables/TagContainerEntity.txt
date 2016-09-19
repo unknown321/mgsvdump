@@ -1,0 +1,12 @@
+["_className"] = "TagContainerEntity";
+["DoesContainPartial"] = nil --[[functions with upvalue not supported]];
+["FindTags"] = nil --[[functions with upvalue not supported]];
+["AddTag"] = nil --[[functions with upvalue not supported]];
+["RemoveTags"] = nil --[[functions with upvalue not supported]];
+["RemoveTag"] = nil --[[functions with upvalue not supported]];
+["DoesContainAll"] = nil --[[functions with upvalue not supported]];
+["Dump"] = nil --[[functions with upvalue not supported]];
+["RemoveAllTags"] = nil --[[functions with upvalue not supported]];
+["FindTag"] = nil --[[functions with upvalue not supported]];
+["AddTags"] = nil --[[functions with upvalue not supported]];
+["__call"] = nil --[[non-lua function not supported]];

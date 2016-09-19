@@ -1,0 +1,3 @@
+["_className"] = "EnvironmentDaemon";
+["GetInstance"] = nil --[[functions with upvalue not supported]];
+["__call"] = nil --[[non-lua function not supported]];

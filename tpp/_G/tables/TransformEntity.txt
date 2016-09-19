@@ -1,0 +1,2 @@
+["_className"] = "TransformEntity";
+["__call"] = nil --[[non-lua function not supported]];

@@ -1,0 +1,5 @@
+["StageLightOff"] = nil --[[functions with upvalue not supported]];
+["StageLightOn"] = nil --[[functions with upvalue not supported]];
+["FadeIn"] = nil --[[functions with upvalue not supported]];
+["FadeOut"] = nil --[[functions with upvalue not supported]];
+["_className"] = "StageLightFadeDataBody";

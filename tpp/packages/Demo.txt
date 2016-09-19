@@ -1,0 +1,4 @@
+["DisableCharacterIntetrp"] = nil --[[non-lua function not supported]];
+["DisableTempCamera"] = nil --[[non-lua function not supported]];
+["EnableCharacterInterpolation"] = nil --[[non-lua function not supported]];
+["EnableTempCamera"] = nil --[[non-lua function not supported]];

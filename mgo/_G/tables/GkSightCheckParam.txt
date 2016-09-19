@@ -1,0 +1,2 @@
+["_className"] = "GkSightCheckParam";
+["__call"] = nil --[[non-lua function not supported]];

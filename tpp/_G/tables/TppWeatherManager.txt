@@ -1,0 +1,13 @@
+["_className"] = "TppWeatherManager";
+["GetInstance"] = nil --[[functions with upvalue not supported]];
+["SwitchWeatherDesc"] = nil --[[functions with upvalue not supported]];
+["PauseNewWeatherChangeRandom"] = nil --[[functions with upvalue not supported]];
+["RequestWeather"] = nil --[[functions with upvalue not supported]];
+["PauseClock"] = nil --[[functions with upvalue not supported]];
+["SetNewWeatherDefault"] = nil --[[functions with upvalue not supported]];
+["SetCurrentClock"] = nil --[[functions with upvalue not supported]];
+["SetNewNextWeatherChangeTime"] = nil --[[functions with upvalue not supported]];
+["SetNewWeatherChangeRandomParameters"] = nil --[[functions with upvalue not supported]];
+["SetNewWeatherProbabilities"] = nil --[[functions with upvalue not supported]];
+["GetCurrentClock"] = nil --[[functions with upvalue not supported]];
+["RequestTag"] = nil --[[functions with upvalue not supported]];

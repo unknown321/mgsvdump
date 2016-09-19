@@ -1,0 +1,4 @@
+["TrophyInstall"] = nil --[[non-lua function not supported]];
+["ShowShop"] = nil --[[non-lua function not supported]];
+["TrophyUnlock"] = nil --[[non-lua function not supported]];
+["TrophyDiskCheck"] = nil --[[non-lua function not supported]];

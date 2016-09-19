@@ -1,3 +1,0 @@
-TppRouteAnimationCollector
-	ClearGaniPath()
-	RegisterGaniPath()

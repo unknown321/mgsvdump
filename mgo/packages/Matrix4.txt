@@ -1,0 +1,12 @@
+["Translation"] = nil --[[non-lua function not supported]];
+["RotationZYX"] = nil --[[non-lua function not supported]];
+["Identity"] = nil --[[non-lua function not supported]];
+["ToString"] = nil --[[non-lua function not supported]];
+["Rotation"] = nil --[[non-lua function not supported]];
+["Scale"] = nil --[[non-lua function not supported]];
+["Inverse"] = nil --[[non-lua function not supported]];
+["RotationX"] = nil --[[non-lua function not supported]];
+["RotationZ"] = nil --[[non-lua function not supported]];
+["RotTranslation"] = nil --[[non-lua function not supported]];
+["RotationY"] = nil --[[non-lua function not supported]];
+["__call"] = nil --[[non-lua function not supported]];

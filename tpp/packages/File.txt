@@ -1,0 +1,6 @@
+["_className"] = "File";
+["GetReferenceCount"] = nil --[[functions with upvalue not supported]];
+["GetBlockPackagePath"] = nil --[[functions with upvalue not supported]];
+["GetFileListTable"] = nil --[[functions with upvalue not supported]];
+["ReloadRequest"] = nil --[[functions with upvalue not supported]];
+["ReloadRequestAll"] = nil --[[functions with upvalue not supported]];

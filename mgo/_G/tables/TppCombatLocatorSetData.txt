@@ -1,0 +1,4 @@
+["_className"] = "TppCombatLocatorSetData";
+["GetLocatorPosition"] = nil --[[functions with upvalue not supported]];
+["GetLocatorRadius"] = nil --[[functions with upvalue not supported]];
+["GetLocatorNum"] = nil --[[functions with upvalue not supported]];

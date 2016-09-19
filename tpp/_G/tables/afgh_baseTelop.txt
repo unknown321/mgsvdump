@@ -1,0 +1,200 @@
+["_scriptPath"] = "afgh_baseTelop";
+["cpLangIdTable"] = {
+[1] = {
+[1] = "afgh_bridge_cp";
+[2] = "tpp_afghan_bridge";
+[3] = "tpp_afghan_en_bridge";
+};
+[2] = {
+[1] = "afgh_waterWay_cp";
+[2] = "tpp_afghan_waterway";
+[3] = "tpp_afghan_en_waterway";
+};
+[3] = {
+[1] = "afgh_remnants_cp";
+[2] = "tpp_afghan_remnant";
+[3] = "tpp_afghan_en_remnant";
+};
+[4] = {
+[1] = "afgh_village_cp";
+[2] = "tpp_afghan_village";
+[3] = "tpp_afghan_en_village";
+};
+[5] = {
+[1] = "afgh_commFacility_cp";
+[2] = "tpp_afghan_commFacility";
+[3] = "tpp_afghan_en_commFacility";
+};
+[6] = {
+[1] = "afgh_slopedTown_cp";
+[2] = "tpp_afghan_slopedTown";
+[3] = "tpp_afghan_en_slopedTown";
+};
+[7] = {
+[1] = "afgh_enemyBase_cp";
+[2] = "tpp_afghan_enemyBase";
+[3] = "tpp_afghan_en_enemyBase";
+};
+[8] = {
+[1] = "afgh_cliffTown_cp";
+[2] = "tpp_afghan_cliffTown";
+[3] = "tpp_afghan_en_cliffTown";
+};
+[9] = {
+[1] = "afgh_tent_cp";
+[2] = "tpp_afghan_tent";
+[3] = "tpp_afghan_en_tent";
+};
+[10] = {
+[1] = "afgh_powerPlant_cp";
+[2] = "tpp_afghan_powerPlant";
+[3] = "tpp_afghan_en_powerPlant";
+};
+[11] = {
+[1] = "afgh_field_cp";
+[2] = "tpp_afghan_field";
+[3] = "tpp_afghan_en_field";
+};
+[12] = {
+[1] = "afgh_fort_cp";
+[2] = "tpp_afghan_fort";
+[3] = "tpp_afghan_en_fort";
+};
+[13] = {
+[1] = "afgh_sovietBase_cp";
+[2] = "tpp_afghan_sovietBase";
+[3] = "tpp_afghan_en_sovietBase";
+};
+[14] = {
+[1] = "afgh_citadel_cp";
+[2] = "tpp_afghan_citadel";
+[3] = "tpp_afghan_en_citadel";
+};
+[15] = {
+[1] = "afgh_commWest_ob";
+[2] = "tpp_afghan_commWest";
+[3] = "tpp_afghan_en_commWest";
+};
+[16] = {
+[1] = "afgh_villageWest_ob";
+[2] = "tpp_afghan_villageWest";
+[3] = "tpp_afghan_en_villageWest";
+};
+[17] = {
+[1] = "afgh_ruinsNorth_ob";
+[2] = "tpp_afghan_ruinsNorth";
+[3] = "tpp_afghan_en_ruinsNorth";
+};
+[18] = {
+[1] = "afgh_villageNorth_ob";
+[2] = "tpp_afghan_villageNorth";
+[3] = "tpp_afghan_en_villageNorth";
+};
+[19] = {
+[1] = "afgh_slopedWest_ob";
+[2] = "tpp_afghan_slopedWest";
+[3] = "tpp_afghan_en_slopedWest";
+};
+[20] = {
+[1] = "afgh_fieldEast_ob";
+[2] = "tpp_afghan_fieldEast";
+[3] = "tpp_afghan_en_fieldEast";
+};
+[21] = {
+[1] = "afgh_fieldWest_ob";
+[2] = "tpp_afghan_fieldWest";
+[3] = "tpp_afghan_en_fieldWest";
+};
+[22] = {
+[1] = "afgh_tentNorth_ob";
+[2] = "tpp_afghan_tentNorth";
+[3] = "tpp_afghan_en_tentNorth";
+};
+[23] = {
+[1] = "afgh_slopedEast_ob";
+[2] = "tpp_afghan_slopedEast";
+[3] = "tpp_afghan_en_slopedEast";
+};
+[24] = {
+[1] = "afgh_villageEast_ob";
+[2] = "tpp_afghan_villageEast";
+[3] = "tpp_afghan_en_villageEast";
+};
+[25] = {
+[1] = "afgh_bridgeWest_ob";
+[2] = "tpp_afghan_bridgeWest";
+[3] = "tpp_afghan_en_bridgeWest";
+};
+[26] = {
+[1] = "afgh_fortSouth_ob";
+[2] = "tpp_afghan_fortSouth";
+[3] = "tpp_afghan_en_fortSouth";
+};
+[27] = {
+[1] = "afgh_fortWest_ob";
+[2] = "tpp_afghan_fortWest";
+[3] = "tpp_afghan_en_fortWest";
+};
+[28] = {
+[1] = "afgh_cliffEast_ob";
+[2] = "tpp_afghan_cliffEast";
+[3] = "tpp_afghan_en_cliffEast";
+};
+[29] = {
+[1] = "afgh_cliffSouth_ob";
+[2] = "tpp_afghan_cliffSouth";
+[3] = "tpp_afghan_en_cliffSouth";
+};
+[30] = {
+[1] = "afgh_enemyNorth_ob";
+[2] = "tpp_afghan_enemyNorth";
+[3] = "tpp_afghan_en_enemyNorth";
+};
+[31] = {
+[1] = "afgh_bridgeNorth_ob";
+[2] = "tpp_afghan_bridgeNorth";
+[3] = "tpp_afghan_en_bridgeNorth";
+};
+[32] = {
+[1] = "afgh_cliffWest_ob";
+[2] = "tpp_afghan_cliffWest";
+[3] = "tpp_afghan_en_cliffWest";
+};
+[33] = {
+[1] = "afgh_enemyEast_ob";
+[2] = "tpp_afghan_enemyEast";
+[3] = "tpp_afghan_en_enemyEast";
+};
+[34] = {
+[1] = "afgh_tentEast_ob";
+[2] = "tpp_afghan_tentEast";
+[3] = "tpp_afghan_en_tentEast";
+};
+[35] = {
+[1] = "afgh_sovietSouth_ob";
+[2] = "tpp_afghan_sovietSouth";
+[3] = "tpp_afghan_en_sovietSouth";
+};
+[36] = {
+[1] = "afgh_plantWest_ob";
+[2] = "tpp_afghan_plantWest";
+[3] = "tpp_afghan_en_plantWest";
+};
+[37] = {
+[1] = "afgh_waterwayEast_ob";
+[2] = "tpp_afghan_waterWayEast";
+[3] = "tpp_afghan_en_waterWayEast";
+};
+[38] = {
+[1] = "afgh_citadelSouth_ob";
+[2] = "tpp_afghan_CitadelSouth";
+[3] = "tpp_afghan_en_CitadelSouth";
+};
+[39] = {
+[1] = "afgh_ruins_cp";
+[2] = "tpp_afghan_ruins";
+[3] = "tpp_afghan_en_ruins";
+};
+};
+["_scriptInstanceId"] = nil --[[userdata]]
+;

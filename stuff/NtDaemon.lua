@@ -1,2 +1,0 @@
-NtDaemon
-	Create()

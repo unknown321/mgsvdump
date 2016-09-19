@@ -1,0 +1,5 @@
+["_className"] = "TppCigaretteSmokeGlobalManager";
+["GetInstance"] = nil --[[functions with upvalue not supported]];
+["SetInitAlphaRate"] = nil --[[functions with upvalue not supported]];
+["ResetInitAlphaRate"] = nil --[[functions with upvalue not supported]];
+["SetBaseColorSmoke"] = nil --[[functions with upvalue not supported]];
