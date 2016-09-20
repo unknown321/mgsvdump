@@ -1,4 +1,3 @@
-{
 	["SetLimitGlobalTimeRate"] = [[non-lua function]];
 	["SetLimitInstanceMemorySize"] = [[non-lua function]];
 	["ResetLimitInstanceMemorySize"] = [[non-lua function]];

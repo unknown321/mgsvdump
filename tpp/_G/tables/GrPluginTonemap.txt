@@ -1,4 +1,3 @@
-{
 	["_className"] = "GrPluginTonemap";
 	["__call"] = [[non-lua function]];
 }

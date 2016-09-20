@@ -1,4 +1,3 @@
-{
 	["IsRequestFobServerParameterBusy"] = [[non-lua function]];
 	["GetEventFobSkullsParam"] = [[non-lua function]];
 	["IsEnableFobDeployDamage"] = [[non-lua function]];

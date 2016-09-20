@@ -1,4 +1,3 @@
-{
 	["_className"] = "ColorInfo";
 	["SetName"] = [[upvalue]];
 	["__call"] = [[non-lua function]];

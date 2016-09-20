@@ -1,4 +1,3 @@
-{
 	["_scriptPath"] = "PlayerDefaults";
 	["Config"] = {
 		[0] = {

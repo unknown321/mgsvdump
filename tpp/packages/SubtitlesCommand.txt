@@ -1,4 +1,3 @@
-{
 	["SetSubpFilePath"] = [[non-lua function]];
 	["SetSubtitlesForceNonDisplay"] = [[non-lua function]];
 	["IsSubtitlesForceNonDisplay"] = [[non-lua function]];

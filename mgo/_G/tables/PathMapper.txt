@@ -1,4 +1,3 @@
-{
 	["_className"] = "PathMapper";
 	["Dump"] = [[upvalue]];
 	["RegisterRealPath"] = [[upvalue]];

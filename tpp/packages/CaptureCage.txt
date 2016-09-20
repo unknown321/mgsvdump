@@ -1,4 +1,3 @@
-{
 	["RegisterCaptureAnimal"] = [[non-lua function]];
 	["GetCaptureAnimalList"] = [[non-lua function]];
 }

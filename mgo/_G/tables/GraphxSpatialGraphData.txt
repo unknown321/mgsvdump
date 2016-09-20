@@ -1,4 +1,3 @@
-{
 	["_className"] = "GraphxSpatialGraphData";
 	["GetGraphNode"] = [[upvalue]];
 }

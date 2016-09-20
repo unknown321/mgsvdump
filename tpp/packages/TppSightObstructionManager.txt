@@ -1,3 +1,2 @@
-{
 	["CheckSight"] = [[non-lua function]];
 }

@@ -1,4 +1,3 @@
-{
 	["EQUIP_FULTON"] = 1;
 	["MODE_COMMAND"] = 1;
 	["EQUIP_BATTLE_DRESS"] = 3;

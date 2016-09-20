@@ -1,4 +1,3 @@
-{
 	["OnEventSignal"] = [[loadstring()]];
 	["notificationGroupIds"] = {
 		["DEFAULT"] = 0;

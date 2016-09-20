@@ -1,4 +1,3 @@
-{
 	["Log"] = [[non-lua function]];
 	["Acos"] = [[non-lua function]];
 	["Saturate"] = [[non-lua function]];

@@ -1,4 +1,3 @@
-{
 	["RequestUpdateAllChecker"] = [[non-lua function]];
 	["SetFlagCompletedOnlineTask"] = [[non-lua function]];
 	["RegisterCheckerFunction"] = [[non-lua function]];

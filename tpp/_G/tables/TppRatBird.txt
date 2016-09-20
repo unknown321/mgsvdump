@@ -1,4 +1,3 @@
-{
 	["Messages"] = [[upvalue]];
 	["RegisterRat"] = [[loadstring()]];
 	["_EnableRats"] = [[loadstring()]];

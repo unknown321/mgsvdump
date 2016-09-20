@@ -1,4 +1,3 @@
-{
 	["SetEnabledOldCharacterSystem"] = [[non-lua function]];
 	["IsMissionFullOpen"] = [[non-lua function]];
 	["IsCombatTest2"] = [[non-lua function]];

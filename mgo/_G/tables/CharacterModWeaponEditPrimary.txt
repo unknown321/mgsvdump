@@ -1,4 +1,3 @@
-{
 	["_scriptPath"] = "CharacterModWeaponEditPrimary";
 	["_scriptInstanceId"] = [[userdata]]
 	["widgets"] = {

@@ -1,4 +1,3 @@
-{
 	["_className"] = "GeoTrapCondition";
 	["AddConditionParam"] = [[upvalue]];
 }

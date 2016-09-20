@@ -1,4 +1,3 @@
-{
 	["GetData"] = [[upvalue]];
 	["_scriptPath"] = "Overflow";
 	["GetTppSimpleMissionBlock"] = [[upvalue]];

@@ -1,3 +1,2 @@
-{
 	["SetVisible"] = [[non-lua function]];
 }

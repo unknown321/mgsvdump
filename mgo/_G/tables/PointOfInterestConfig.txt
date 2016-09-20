@@ -1,4 +1,3 @@
-{
 	["outpostOffsetX_4"] = 0;
 	["_scriptInstanceId"] = [[userdata]]
 	["outpostOffsetY_4"] = 0;

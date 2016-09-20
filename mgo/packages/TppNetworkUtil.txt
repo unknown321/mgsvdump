@@ -1,4 +1,3 @@
-{
 	["GetSessionMemberCount"] = [[non-lua function]];
 	["SessionEnableAccept"] = [[non-lua function]];
 	["EnableMultiPlaySession"] = [[non-lua function]];

@@ -1,4 +1,3 @@
-{
 	["UpdateShootingPracticeClearTime"] = [[upvalue]];
 	["_ShowScoreTimeAnnounceLog"] = [[loadstring()]];
 	["GetScore"] = [[loadstring()]];

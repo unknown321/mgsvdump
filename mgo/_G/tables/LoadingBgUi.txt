@@ -1,4 +1,3 @@
-{
 	["_scriptPath"] = "LoadingBgUi";
 	["_scriptInstanceId"] = [[userdata]]
 	["widgets"] = {

@@ -1,4 +1,3 @@
-{
 	["DBGFontSize"] = [[non-lua function]];
 	["DBGLocate"] = [[non-lua function]];
 	["ModelConvert"] = [[non-lua function]];

@@ -1,4 +1,3 @@
-{
 	[-285212671] = {
 		["BGM_PHASE_SNEAK_1"] = [[upvalue]];
 		["BGM_PHASE_SNEAK_3"] = [[upvalue]];

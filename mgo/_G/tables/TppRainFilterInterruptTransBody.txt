@@ -1,4 +1,3 @@
-{
 	["_className"] = "TppRainFilterInterruptTransBody";
 	["AddMaskTexturePath"] = [[upvalue]];
 	["AddPlaneMatrix"] = [[upvalue]];

@@ -1,4 +1,3 @@
-{
 	["PlayVideo"] = [[non-lua function]];
 	["LoadVideo"] = [[non-lua function]];
 	["IsVideoStopped"] = [[non-lua function]];

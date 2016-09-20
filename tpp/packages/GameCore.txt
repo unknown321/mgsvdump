@@ -1,4 +1,3 @@
-{
 	["StopPlayingRecord"] = [[non-lua function]];
 	["StartRecording"] = [[non-lua function]];
 	["StopRecording"] = [[non-lua function]];

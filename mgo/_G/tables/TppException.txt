@@ -1,4 +1,3 @@
-{
 	["SuspendFobExceptionHandling"] = [[loadstring()]];
 	["OnEndExceptionDialogForSignInUserChange"] = [[upvalue]];
 	["OnDisconnectFromPsn"] = [[upvalue]];

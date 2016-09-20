@@ -1,4 +1,3 @@
-{
 	["GetAngleLeftRight"] = [[upvalue]];
 	["SetAngleUpDown"] = [[upvalue]];
 	["GetRange"] = [[upvalue]];

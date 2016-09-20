@@ -1,4 +1,3 @@
-{
 	["_className"] = "HudCommonDataManager";
 	["GetInstance"] = [[upvalue]];
 	["RulesetMessage"] = [[upvalue]];

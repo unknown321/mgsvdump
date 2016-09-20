@@ -1,4 +1,3 @@
-{
 	["type"] = {
 		["WESTERN_WHEELED_ARMORED_VEHICLE"] = 0;
 		["WESTERN_TRUCK"] = 0;

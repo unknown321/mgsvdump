@@ -1,4 +1,3 @@
-{
 	["SetLUT"] = [[non-lua function]];
 	["RemoveParameter"] = [[non-lua function]];
 	["SetParameter"] = [[non-lua function]];

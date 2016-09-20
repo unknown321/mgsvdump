@@ -1,4 +1,3 @@
-{
 	["_className"] = "CameraSelector";
 	["SetMainListener"] = [[upvalue]];
 	["GetViewportName"] = [[upvalue]];

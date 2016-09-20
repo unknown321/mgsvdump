@@ -1,4 +1,3 @@
-{
 	["Unregister"] = [[non-lua function]];
 	["Register"] = [[non-lua function]];
 	["SearchObjectSquarePyramid"] = [[non-lua function]];

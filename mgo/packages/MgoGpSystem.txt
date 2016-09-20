@@ -1,3 +1,2 @@
-{
 	["GetGp"] = [[non-lua function]];
 }

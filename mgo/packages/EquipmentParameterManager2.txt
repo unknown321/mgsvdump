@@ -1,3 +1,2 @@
-{
 	["ReloadWeaponParameterTables"] = [[non-lua function]];
 }

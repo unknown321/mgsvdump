@@ -1,4 +1,3 @@
-{
 	["UpdateParameter"] = [[upvalue]];
 	["PostSceneSwitchEvent"] = [[upvalue]];
 	["StopHeliMusic"] = [[upvalue]];

@@ -1,4 +1,3 @@
-{
 	["TYPE_HERB_0"] = 108;
 	["TYPE_MATERIAL_MM_7"] = 22;
 	["TYPE_POSTER_SOL_AFGN"] = 47;

@@ -1,4 +1,3 @@
-{
 	["_scriptPath"] = "LevelUpUi";
 	["_scriptInstanceId"] = [[userdata]]
 	["widgets"] = {

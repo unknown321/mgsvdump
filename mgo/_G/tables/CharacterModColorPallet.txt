@@ -1,4 +1,3 @@
-{
 	["_scriptPath"] = "CharacterModColorPallet";
 	["_scriptInstanceId"] = [[userdata]]
 	["widgets"] = {

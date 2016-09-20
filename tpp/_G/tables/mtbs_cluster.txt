@@ -1,4 +1,3 @@
-{
 	["GetCurrentClusterName"] = [[upvalue]];
 	["GetClusterConstruct"] = [[loadstring()]];
 	["GetPosAndRotY"] = [[upvalue]];

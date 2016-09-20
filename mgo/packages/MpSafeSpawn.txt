@@ -1,3 +1,2 @@
-{
 	["Config"] = [[non-lua function]];
 }

@@ -1,4 +1,3 @@
-{
 	["OpenTipsOnStory"] = [[loadstring()]];
 	["AttackVehicleTable"] = {
 		[8] = true;

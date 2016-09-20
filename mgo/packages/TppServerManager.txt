@@ -1,4 +1,3 @@
-{
 	["SynchronizeServer"] = [[non-lua function]];
 	["AbortSneakMotherBase"] = [[non-lua function]];
 	["GetNuclearNum"] = [[non-lua function]];

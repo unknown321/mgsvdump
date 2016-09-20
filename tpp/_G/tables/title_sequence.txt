@@ -1,4 +1,3 @@
-{
 	["GetOnSelectFlag"] = [[loadstring()]];
 	["RecoverSaveDataIfPandemicTutorial"] = [[upvalue]];
 	["RecoverSaveDataIfRetrieveVolgin"] = [[loadstring()]];

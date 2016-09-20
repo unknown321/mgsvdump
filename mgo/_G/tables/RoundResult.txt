@@ -1,4 +1,3 @@
-{
 	["_scriptPath"] = "RoundResult";
 	["_scriptInstanceId"] = [[userdata]]
 	["widgets"] = {

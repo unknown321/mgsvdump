@@ -1,4 +1,3 @@
-{
 	["_className"] = "GrPluginDeferredRendering";
 	["__call"] = [[non-lua function]];
 }

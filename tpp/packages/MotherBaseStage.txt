@@ -1,4 +1,3 @@
-{
 	["IsActivating"] = [[non-lua function]];
 	["SetClusterLodVisibility"] = [[non-lua function]];
 	["SetFobClientPlayerRespawnTrg"] = [[non-lua function]];

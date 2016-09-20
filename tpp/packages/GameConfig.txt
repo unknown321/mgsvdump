@@ -1,4 +1,3 @@
-{
 	["SetStealthAssistEnabled"] = [[non-lua function]];
 	["SetCameraUDIsReversed"] = [[non-lua function]];
 	["SetCameraLRIsReversed"] = [[non-lua function]];

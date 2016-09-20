@@ -1,4 +1,3 @@
-{
 	["dem_demoFuncs"] = {
 	};
 	["gim_isQuestSetup"] = false;

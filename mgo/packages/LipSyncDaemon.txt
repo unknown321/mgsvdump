@@ -1,3 +1,2 @@
-{
 	["Create"] = [[non-lua function]];
 }

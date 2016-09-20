@@ -1,4 +1,3 @@
-{
 	["_className"] = "LangDaemon";
 	["GetInstance"] = [[upvalue]];
 	["GetManager"] = [[upvalue]];

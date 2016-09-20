@@ -1,4 +1,3 @@
-{
 	["SetVisibleEffectFromId"] = [[non-lua function]];
 	["IsValidEffectFromId"] = [[non-lua function]];
 	["SetVector4EffectFromId"] = [[non-lua function]];

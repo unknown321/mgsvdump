@@ -1,4 +1,3 @@
-{
 	["QuietDyingToDead"] = [[non-lua function]];
 	["UnsetBuddyDogGot"] = [[non-lua function]];
 	["SetDogSnarlDecoyFriendlyPoint"] = [[non-lua function]];

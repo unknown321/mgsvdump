@@ -1,4 +1,3 @@
-{
 	["ResetMgoTitleDemoEnvTextureLoadCompleted"] = [[non-lua function]];
 	["IsMgoTitleDemoEnvTextureLoadCompleted"] = [[non-lua function]];
 	["ResetFadeInfo"] = [[non-lua function]];

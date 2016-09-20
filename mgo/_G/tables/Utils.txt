@@ -1,4 +1,3 @@
-{
 	["POIinitialize"] = [[loadstring()]];
 	["LogLineHeight"] = 8;
 	["ASCENSION_LOSS_PENALTY"] = 0;

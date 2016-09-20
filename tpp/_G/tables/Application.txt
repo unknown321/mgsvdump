@@ -1,4 +1,3 @@
-{
 	["_className"] = "Application";
 	["GetGame"] = [[upvalue]];
 	["AddGame"] = [[upvalue]];

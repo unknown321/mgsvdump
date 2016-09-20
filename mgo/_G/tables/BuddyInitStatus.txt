@@ -1,4 +1,3 @@
-{
 	[-285212671] = {
 		["NORMAL"] = [[upvalue]];
 		["HALO"] = [[upvalue]];

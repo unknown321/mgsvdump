@@ -1,4 +1,3 @@
-{
 	["_scriptPath"] = "mbdvc_pause_help_table";
 	["GetHelpTable"] = [[loadstring()]];
 	["_scriptInstanceId"] = [[userdata]]

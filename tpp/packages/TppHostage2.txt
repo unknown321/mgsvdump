@@ -1,4 +1,3 @@
-{
 	["ReloadHostage2ParameterTables"] = [[non-lua function]];
 	["SetHostageType"] = [[non-lua function]];
 	["ClearHostageType"] = [[non-lua function]];

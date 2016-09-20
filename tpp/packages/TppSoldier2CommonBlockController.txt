@@ -1,4 +1,3 @@
-{
 	["RequestToLoadCommonMotionBlock"] = [[non-lua function]];
 	["IsBlockEmpty"] = [[non-lua function]];
 	["CreateCommonMotionBlockGroup"] = [[non-lua function]];

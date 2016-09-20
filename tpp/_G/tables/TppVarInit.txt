@@ -1,4 +1,3 @@
-{
 	["StartInitMission"] = [[loadstring()]];
 	["InitializeForContinue"] = [[loadstring()]];
 	["SetVarsTitleHeliSpace"] = [[loadstring()]];

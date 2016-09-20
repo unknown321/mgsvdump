@@ -1,4 +1,3 @@
-{
 	["DoEventOnRewardEndRadio"] = [[loadstring()]];
 	["IGNORE_COMMON_RADIO"] = [[loadstring()]];
 	["_PlayDebugStart"] = [[loadstring()]];

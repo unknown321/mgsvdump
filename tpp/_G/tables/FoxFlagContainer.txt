@@ -1,4 +1,3 @@
-{
 	["_className"] = "FoxFlagContainer";
 	["AllClear"] = [[upvalue]];
 	["Set"] = [[upvalue]];

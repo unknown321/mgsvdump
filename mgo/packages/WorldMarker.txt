@@ -1,4 +1,3 @@
-{
 	["SetPosition"] = [[non-lua function]];
 	["CreateMarkerControl"] = [[non-lua function]];
 	["SetUserData"] = [[non-lua function]];

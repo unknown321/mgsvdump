@@ -1,4 +1,3 @@
-{
 	["Vector3toTable"] = [[loadstring()]];
 	["DegreeToRadian"] = [[upvalue]];
 	["_scriptInstanceId"] = [[userdata]]

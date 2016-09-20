@@ -1,4 +1,3 @@
-{
 	["ResetFlagHigh"] = [[upvalue]];
 	["AddQuestTable"] = [[upvalue]];
 	["Messages"] = [[upvalue]];

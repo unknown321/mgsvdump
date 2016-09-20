@@ -1,4 +1,3 @@
-{
 	["band"] = [[non-lua function]];
 	["rshift"] = [[non-lua function]];
 	["bor"] = [[non-lua function]];

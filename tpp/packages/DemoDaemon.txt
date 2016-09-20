@@ -1,4 +1,3 @@
-{
 	["RestartAll"] = [[non-lua function]];
 	["IsProceduralDemoPlaying"] = [[non-lua function]];
 	["FindBlockPositionSetter"] = [[non-lua function]];

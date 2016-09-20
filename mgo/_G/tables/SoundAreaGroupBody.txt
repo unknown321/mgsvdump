@@ -1,4 +1,3 @@
-{
 	["_className"] = "SoundAreaGroupBody";
 	["SetActive"] = [[upvalue]];
 	["CancelParameter"] = [[upvalue]];

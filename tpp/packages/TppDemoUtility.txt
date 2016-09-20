@@ -1,4 +1,3 @@
-{
 	["AddSubjectMapping"] = [[non-lua function]];
 	["DisablePadZoom"] = [[non-lua function]];
 	["SetUseBlackDiamond"] = [[non-lua function]];

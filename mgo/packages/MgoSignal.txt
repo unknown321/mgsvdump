@@ -1,3 +1,2 @@
-{
 	["SendSignal"] = [[non-lua function]];
 }

@@ -1,4 +1,3 @@
-{
 	["RegisterCombatSetting"] = [[upvalue]];
 	["IsVehicleBroken"] = [[upvalue]];
 	["OnDeactivateQuest"] = [[upvalue]];

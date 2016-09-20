@@ -1,4 +1,3 @@
-{
 	["OnMissionGameStart"] = [[upvalue]];
 	["Messages"] = [[upvalue]];
 	["OnInitialize"] = [[upvalue]];

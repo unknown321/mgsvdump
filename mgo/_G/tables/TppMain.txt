@@ -1,4 +1,3 @@
-{
 	["EnableAllGameStatus"] = [[loadstring()]];
 	["EnableBlackLoading"] = [[loadstring()]];
 	["OnInitialize"] = [[upvalue]];

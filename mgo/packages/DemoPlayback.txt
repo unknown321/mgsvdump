@@ -1,4 +1,3 @@
-{
 	["SetLoopMode"] = [[non-lua function]];
 	["GetCurrentFrame"] = [[non-lua function]];
 	["Restart"] = [[non-lua function]];

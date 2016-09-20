@@ -1,4 +1,3 @@
-{
 	["IsDynamicBlockLoaded"] = [[non-lua function]];
 	["GetRulesetScriptVarsValueById"] = [[non-lua function]];
 	["SPECIAL_ROLE_NONE"] = 3;

@@ -1,4 +1,3 @@
-{
 	["DisableGameStatusOnFadeOutEnd"] = [[loadstring()]];
 	["EMBLEM_ANNOUNCE_LOG_TYPE"] = {
 		[2361208799] = "find_em_back";

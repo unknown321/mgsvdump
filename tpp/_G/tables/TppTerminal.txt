@@ -1,4 +1,3 @@
-{
 	["ReleaseFunctionOfMbSection"] = [[upvalue]];
 	["PickUpEmblem"] = [[loadstring()]];
 	["GetRecoveredDonkeyCount"] = [[loadstring()]];

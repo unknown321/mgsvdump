@@ -1,4 +1,3 @@
-{
 	["ToString"] = [[non-lua function]];
 	["Inverse"] = [[non-lua function]];
 	["RotationX"] = [[non-lua function]];

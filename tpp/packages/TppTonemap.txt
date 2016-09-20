@@ -1,3 +1,2 @@
-{
 	["SetEnable"] = [[non-lua function]];
 }

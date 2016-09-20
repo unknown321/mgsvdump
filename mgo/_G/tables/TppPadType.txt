@@ -1,4 +1,3 @@
-{
 	["ACTION_B"] = 2;
 	["ACTION_A"] = 0;
 	["SHOOTER_B"] = 3;

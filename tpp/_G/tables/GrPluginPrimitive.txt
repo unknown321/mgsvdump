@@ -1,4 +1,3 @@
-{
 	["_className"] = "GrPluginPrimitive";
 	["__call"] = [[non-lua function]];
 }

@@ -1,4 +1,3 @@
-{
 	["GetMissionParameter2"] = [[loadstring()]];
 	["GetMissionParameter"] = [[upvalue]];
 	["_scriptInstanceId"] = [[userdata]]

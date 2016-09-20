@@ -1,4 +1,3 @@
-{
 	["_className"] = "TerrainBody";
 	["GetNumBlocksHeight"] = [[upvalue]];
 	["GetNumBlocksWidth"] = [[upvalue]];

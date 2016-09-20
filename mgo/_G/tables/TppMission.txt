@@ -1,4 +1,3 @@
-{
 	["ReserveMissionClearOnRideOnFultonContainer"] = [[upvalue]];
 	["_CreateMissionName"] = [[loadstring()]];
 	["DisableAlertOutOfMissionArea"] = [[loadstring()]];

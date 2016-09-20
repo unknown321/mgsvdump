@@ -1,4 +1,3 @@
-{
 	["BeforeRecursively"] = [[loadstring()]];
 	["_scriptPath"] = "vfxTrap";
 	["Exec"] = [[loadstring()]];

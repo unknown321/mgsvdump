@@ -1,4 +1,3 @@
-{
 	["GetW"] = [[non-lua function]];
 	["GetX"] = [[non-lua function]];
 	["RotationY"] = [[non-lua function]];

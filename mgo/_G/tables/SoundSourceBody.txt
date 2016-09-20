@@ -1,4 +1,3 @@
-{
 	["_className"] = "SoundSourceBody";
 	["PostEvent"] = [[upvalue]];
 	["SetSwitch"] = [[upvalue]];

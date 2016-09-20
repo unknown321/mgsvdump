@@ -1,4 +1,3 @@
-{
 	["Register"] = [[upvalue]];
 	["OnDemoDisable"] = [[upvalue]];
 	["_OnDemoSkip"] = [[loadstring()]];

@@ -1,4 +1,3 @@
-{
 	["SetTimeFromHelicopterSpace"] = [[upvalue]];
 	["SaveMissionStartClock"] = [[upvalue]];
 	["DEPLOY_TIME"] = {

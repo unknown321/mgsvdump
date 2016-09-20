@@ -1,4 +1,3 @@
-{
 	["ResetRadioGroupAndGroupSetAlreadyReadFlag"] = [[non-lua function]];
 	["GetMessageBox"] = [[non-lua function]];
 	["SetEnableIgnoreGamePause"] = [[non-lua function]];

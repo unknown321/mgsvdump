@@ -1,4 +1,3 @@
-{
 	["_className"] = "TppRainFilterBody";
 	["SetForceEnableFlag"] = [[upvalue]];
 }

@@ -1,4 +1,3 @@
-{
 	["AddObjectiveBlip"] = [[upvalue]];
 	["DEBUG_NotExistLog"] = [[loadstring()]];
 	["addTeamIcons"] = [[upvalue]];

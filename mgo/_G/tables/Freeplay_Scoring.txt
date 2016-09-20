@@ -1,4 +1,3 @@
-{
 	["UnlockMessaging"] = [[loadstring()]];
 	["owner"] = {
 		["OnEventSignal"] = [[loadstring()]];

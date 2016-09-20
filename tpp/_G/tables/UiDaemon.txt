@@ -1,4 +1,3 @@
-{
 	["SetButtonDecideMap"] = [[upvalue]];
 	["GetManager"] = [[upvalue]];
 	["ReallocPlayControlPool"] = [[upvalue]];

@@ -1,4 +1,3 @@
-{
 	["_className"] = "GeoTrapBody";
 	["SetInvalid"] = [[upvalue]];
 	["GetByName"] = [[upvalue]];

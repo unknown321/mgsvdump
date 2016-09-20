@@ -1,4 +1,3 @@
-{
 	["RespawnVehicles"] = [[upvalue]];
 	["RegisterNotificationGroup"] = [[upvalue]];
 	["SpawnUsingPoiHandle"] = [[upvalue]];

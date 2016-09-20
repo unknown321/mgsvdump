@@ -1,4 +1,3 @@
-{
 	["Sub"] = [[non-lua function]];
 	["Scale"] = [[non-lua function]];
 	["ToString"] = [[non-lua function]];

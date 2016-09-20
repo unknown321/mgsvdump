@@ -1,3 +1,2 @@
-{
 	["CheckAndHandleInvite"] = [[non-lua function]];
 }

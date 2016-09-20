@@ -1,4 +1,3 @@
-{
 	["GEO_COL_F_CHK_ALL"] = 1792;
 	["GEO_COL_ATR_ALL"] = 8;
 	["GEO_COL_F_NORM_CHECK"] = 524288;

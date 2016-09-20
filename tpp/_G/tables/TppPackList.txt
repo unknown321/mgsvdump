@@ -1,4 +1,3 @@
-{
 	["AddLocationCommonMissionAreaPack"] = [[upvalue]];
 	["_scriptInstanceId"] = [[userdata]]
 	["missionPackList"] = {

@@ -1,4 +1,3 @@
-{
 	["_className"] = "CameraPriority";
 	["RegisterPriorities"] = [[upvalue]];
 }

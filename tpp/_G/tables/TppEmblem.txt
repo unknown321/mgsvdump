@@ -1,4 +1,3 @@
-{
 	["AcquireOnSRankClear"] = [[upvalue]];
 	["SetUpCpEmblemTag"] = [[upvalue]];
 	["AcquireOnMissionClear"] = [[upvalue]];

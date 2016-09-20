@@ -1,4 +1,3 @@
-{
 	["RemoveExtraCache"] = [[non-lua function]];
 	["CreateExtraCache"] = [[non-lua function]];
 	["ClearCache"] = [[non-lua function]];

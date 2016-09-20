@@ -1,4 +1,3 @@
-{
 	["IsValidBuddySpawnInfo"] = [[non-lua function]];
 	["OrCheckStatus"] = [[non-lua function]];
 	["GetLocalPlayerIndex"] = [[non-lua function]];

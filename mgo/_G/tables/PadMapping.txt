@@ -1,4 +1,3 @@
-{
 	["_className"] = "PadMapping";
 	["GetInstance"] = [[upvalue]];
 	["SetPad2LogicalNum"] = [[upvalue]];

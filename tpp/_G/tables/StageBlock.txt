@@ -1,4 +1,3 @@
-{
 	[260017749] = [[non-lua function]];
 	[227686467] = [[non-lua function]];
 	[8473319] = [[non-lua function]];

@@ -1,4 +1,3 @@
-{
 	["_className"] = "GrPluginWormhole";
 	["__call"] = [[non-lua function]];
 }

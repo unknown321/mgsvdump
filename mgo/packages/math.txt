@@ -1,4 +1,3 @@
-{
 	["log"] = [[non-lua function]];
 	["max"] = [[non-lua function]];
 	["acos"] = [[non-lua function]];

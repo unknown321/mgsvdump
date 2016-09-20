@@ -1,4 +1,3 @@
-{
 	["CalcTotalScore"] = [[upvalue]];
 	["_CompleteBonus"] = [[loadstring()]];
 	["_AcquireSpecialBonus"] = [[upvalue]];

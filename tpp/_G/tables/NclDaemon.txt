@@ -1,4 +1,3 @@
-{
 	["_className"] = "NclDaemon";
 	["SetWebserver"] = [[upvalue]];
 	["SetLogout"] = [[upvalue]];

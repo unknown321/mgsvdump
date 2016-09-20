@@ -1,4 +1,3 @@
-{
 	["_className"] = "GrPluginThermography";
 	["__call"] = [[non-lua function]];
 }

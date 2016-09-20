@@ -1,4 +1,3 @@
-{
 	["__rt"] = {
 		["rad_radioEspGmIdAssignInfoGroupName"] = {
 			["__vi"] = 24;

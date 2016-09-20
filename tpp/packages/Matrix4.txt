@@ -1,4 +1,3 @@
-{
 	["Translation"] = [[non-lua function]];
 	["RotationZYX"] = [[non-lua function]];
 	["Identity"] = [[non-lua function]];

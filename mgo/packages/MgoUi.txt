@@ -1,4 +1,3 @@
-{
 	["StartNextInFlow"] = [[non-lua function]];
 	["StartParallel"] = [[non-lua function]];
 	["ClearFlow"] = [[non-lua function]];

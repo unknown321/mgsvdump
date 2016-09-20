@@ -1,4 +1,3 @@
-{
 	["AddIcon2"] = [[non-lua function]];
 	["AddIcon"] = [[non-lua function]];
 	["RemoveIcon"] = [[non-lua function]];

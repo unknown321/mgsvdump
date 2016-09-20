@@ -1,3 +1,2 @@
-{
 	["SetupDefaultLoadoutToChar"] = [[non-lua function]];
 }

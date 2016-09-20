@@ -1,4 +1,3 @@
-{
 	["IsLocalPlayer"] = [[loadstring()]];
 	["IsVehicle"] = [[upvalue]];
 	["IsFultonContainer"] = [[upvalue]];

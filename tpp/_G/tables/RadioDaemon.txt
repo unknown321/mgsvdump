@@ -1,4 +1,3 @@
-{
 	["ResetRadioGroupAndGroupSetAlreadyReadFlag"] = [[upvalue]];
 	["RegisterRadioGroupSetInsert"] = [[upvalue]];
 	["GetMessageBox"] = [[upvalue]];

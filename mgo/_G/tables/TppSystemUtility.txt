@@ -1,4 +1,3 @@
-{
 	["SetCurrentGameMode"] = [[upvalue]];
 	["ConfigDefaultPadAssigns"] = [[upvalue]];
 	["_scriptInstanceId"] = [[userdata]]

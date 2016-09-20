@@ -1,4 +1,3 @@
-{
 	["StartWithoutInitializing"] = [[upvalue]];
 	["Create"] = [[upvalue]];
 	["GetWindowNameForPreview"] = [[upvalue]];

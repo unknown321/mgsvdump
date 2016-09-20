@@ -1,4 +1,3 @@
-{
 	["_scriptInstanceId"] = [[userdata]]
 	["TeamSneak"] = {
 		["stats"] = {

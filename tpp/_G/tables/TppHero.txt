@@ -1,4 +1,3 @@
-{
 	["BREAK_MINE"] = {
 		["ogrePoint"] = 0;
 		["heroicPoint"] = 30;

@@ -1,3 +1,2 @@
-{
 	["IsHost"] = [[non-lua function]];
 }

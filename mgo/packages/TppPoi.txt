@@ -1,4 +1,3 @@
-{
 	["RecreateLocatorBasedPOIObjects"] = [[non-lua function]];
 	["Config"] = [[non-lua function]];
 	["POI_TYPE_GENERIC"] = 0;

@@ -1,4 +1,3 @@
-{
 	["_scriptPath"] = "packs_freeplay_afc0";
 	["_scriptInstanceId"] = [[userdata]]
 	["requires"] = {

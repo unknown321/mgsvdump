@@ -1,4 +1,3 @@
-{
 	["AddProperty"] = [[upvalue]];
 	["_scriptPath"] = "Entity";
 	["DebugGetEntityCount"] = [[upvalue]];

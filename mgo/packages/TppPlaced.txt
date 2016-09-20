@@ -1,4 +1,3 @@
-{
 	["StartToCreateFromLocators"] = [[non-lua function]];
 	["GetCaptureCageInfo"] = [[non-lua function]];
 	["IsLocator"] = [[non-lua function]];

@@ -1,4 +1,3 @@
-{
 	["_className"] = "TppVolumetricFogManager";
 	["SetEnableAreaFog"] = [[upvalue]];
 	["SetEnableFog"] = [[upvalue]];

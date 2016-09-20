@@ -1,4 +1,3 @@
-{
 	["StartAdditionalFogNearDistanceEnvelope"] = [[non-lua function]];
 	["RestoreDefaultParameters"] = [[non-lua function]];
 	["ReleaseAdditionalFogNearDistanceEnvelope"] = [[non-lua function]];

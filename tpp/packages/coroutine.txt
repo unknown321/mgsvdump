@@ -1,4 +1,3 @@
-{
 	["resume"] = [[non-lua function]];
 	["yield"] = [[non-lua function]];
 	["status"] = [[non-lua function]];

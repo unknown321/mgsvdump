@@ -1,4 +1,3 @@
-{
 	["TYPE"] = {
 		[1] = "INVITATION_ACCEPT";
 		[2] = "DISCONNECT_FROM_PSN";

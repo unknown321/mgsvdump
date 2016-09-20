@@ -1,4 +1,3 @@
-{
 	["SynchronizeServer"] = [[non-lua function]];
 	["CheckPlayerEquipmentServerItemCorrect"] = [[non-lua function]];
 	["SendNoticeSneakMotherBase"] = [[non-lua function]];

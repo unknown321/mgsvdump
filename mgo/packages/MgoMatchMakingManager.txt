@@ -1,4 +1,3 @@
-{
 	["SetActualMatchmake"] = [[non-lua function]];
 	["WillBeHost"] = [[non-lua function]];
 	["CreateMatch"] = [[non-lua function]];

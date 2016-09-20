@@ -1,4 +1,3 @@
-{
 	["CanUseArmorType"] = [[upvalue]];
 	["InitializeUniqueSetting"] = [[upvalue]];
 	["IsUseGasMaskInMBFree"] = [[loadstring()]];

@@ -1,4 +1,3 @@
-{
 	["AllInitialize"] = [[upvalue]];
 	["_scriptInstanceId"] = [[userdata]]
 	["_scriptPath"] = "TppGVars";

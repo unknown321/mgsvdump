@@ -1,4 +1,3 @@
-{
 	["SetupTypingTextMessages"] = [[upvalue]];
 	["_scriptPath"] = "mtbs_baseTelop";
 	["Messages"] = [[upvalue]];

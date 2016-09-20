@@ -1,4 +1,3 @@
-{
 	["EQP_BL_ms02"] = 307;
 	["EQP_WP_pvp_sm01_v00"] = 608;
 	["EQP_WP_West_thg_020"] = 8;

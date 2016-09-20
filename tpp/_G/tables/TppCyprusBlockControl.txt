@@ -1,4 +1,3 @@
-{
 	["_className"] = "TppCyprusBlockControl";
 	["IsCyprusLoading"] = [[upvalue]];
 	["IsCyprusBlockControllerCreated"] = [[upvalue]];

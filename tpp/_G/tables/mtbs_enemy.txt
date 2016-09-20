@@ -1,4 +1,3 @@
-{
 	["UpdateEnableSoldier"] = [[upvalue]];
 	["StartCheckFocusArea"] = [[upvalue]];
 	["_GetNumOnPlnt"] = [[upvalue]];

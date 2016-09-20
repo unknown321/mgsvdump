@@ -1,3 +1,2 @@
-{
 	["SetBlockInfo"] = [[non-lua function]];
 }

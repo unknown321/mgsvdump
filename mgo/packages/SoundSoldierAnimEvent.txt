@@ -1,4 +1,3 @@
-{
 	["SetupSoldierFootStep"] = [[non-lua function]];
 	["SetupSoldierType"] = [[non-lua function]];
 	["SetupSoldierBodyCollision"] = [[non-lua function]];

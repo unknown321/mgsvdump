@@ -1,4 +1,3 @@
-{
 	["_className"] = "DesDaemon";
 	["GetInstance"] = [[upvalue]];
 	["PrintDesObjectAll"] = [[upvalue]];

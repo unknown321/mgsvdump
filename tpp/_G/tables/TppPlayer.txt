@@ -1,4 +1,3 @@
-{
 	["PlayMissionClearCameraOnFoot"] = [[upvalue]];
 	["SetPlayerKilledChildCamera"] = [[upvalue]];
 	["RestoreChimeraWeaponParameter"] = [[loadstring()]];

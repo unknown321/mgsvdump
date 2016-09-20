@@ -1,4 +1,3 @@
-{
 	["GetMissionBordId"] = [[non-lua function]];
 	["GetMissionLimitBordId"] = [[non-lua function]];
 	["RegistRanking"] = [[non-lua function]];

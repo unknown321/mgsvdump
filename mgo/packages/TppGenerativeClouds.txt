@@ -1,3 +1,2 @@
-{
 	["SetActive"] = [[non-lua function]];
 }

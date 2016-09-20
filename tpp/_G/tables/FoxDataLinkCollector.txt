@@ -1,4 +1,3 @@
-{
 	["_className"] = "FoxDataLinkCollector";
 	["GetData"] = [[upvalue]];
 	["GetDataBody"] = [[upvalue]];

@@ -1,4 +1,3 @@
-{
 	["_className"] = "WindGlobalBody";
 	["SetRotation"] = [[upvalue]];
 	["ResetWind"] = [[upvalue]];

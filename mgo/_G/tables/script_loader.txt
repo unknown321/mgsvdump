@@ -1,4 +1,3 @@
-{
 	["OnTerminate"] = [[loadstring()]];
 	["OnInitialize"] = [[loadstring()]];
 	["hold_pressed"] = 64.006090764429;

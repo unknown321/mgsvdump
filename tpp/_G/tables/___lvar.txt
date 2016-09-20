@@ -1,4 +1,3 @@
-{
 	[2] = {
 		["Update"] = [[upvalue]];
 		["OnMessage"] = [[upvalue]];

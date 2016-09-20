@@ -1,4 +1,3 @@
-{
 	["SetColorCorrectionLut"] = [[upvalue]];
 	["SetOceanWindDirection"] = [[upvalue]];
 	["SetDirtyModelMemoryStrategy"] = [[upvalue]];

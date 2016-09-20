@@ -1,4 +1,3 @@
-{
 	["_scriptPath"] = "TppDevelopFile";
 	["OnMissionCanStart"] = [[loadstring()]];
 	["_scriptInstanceId"] = [[userdata]]

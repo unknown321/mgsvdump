@@ -1,4 +1,3 @@
-{
 	["Config"] = [[non-lua function]];
 	["ResetSavedXP"] = [[non-lua function]];
 	["HasUnlock"] = [[non-lua function]];

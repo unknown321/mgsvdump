@@ -1,4 +1,3 @@
-{
 	["GetPartsFpkPath"] = [[upvalue]];
 	["GetFaceFpkPath"] = [[upvalue]];
 	["_scriptInstanceId"] = [[userdata]]

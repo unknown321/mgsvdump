@@ -1,4 +1,3 @@
-{
 	["DROP_TYPE_SUIT"] = 1;
 	["DROP_TYPE_HAND"] = 2;
 	["DROP_TYPE_AMMO"] = 4;

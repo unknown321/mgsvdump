@@ -1,4 +1,3 @@
-{
 	["battleGearMainWPGrade"] = {
 		[-285212666] = 2;
 		[-285212665] = [[userdata]]

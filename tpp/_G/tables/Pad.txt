@@ -1,4 +1,3 @@
-{
 	["GetButtonLastPressDuration"] = [[upvalue]];
 	["GetAxis"] = [[upvalue]];
 	["GetButtonStatus"] = [[upvalue]];

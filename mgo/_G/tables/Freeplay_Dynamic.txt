@@ -1,4 +1,3 @@
-{
 	["_scriptPath"] = "Freeplay_Dynamic";
 	["_scriptInstanceId"] = [[userdata]]
 	["requires"] = {

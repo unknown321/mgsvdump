@@ -1,4 +1,3 @@
-{
 	["GetRandomFaceId"] = [[non-lua function]];
 	["SetAndConvertExtendFova"] = [[non-lua function]];
 	["SetFaceFovaDefinitionTable"] = [[non-lua function]];

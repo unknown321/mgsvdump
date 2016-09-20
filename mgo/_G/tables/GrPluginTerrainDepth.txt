@@ -1,4 +1,3 @@
-{
 	["_className"] = "GrPluginTerrainDepth";
 	["__call"] = [[non-lua function]];
 }

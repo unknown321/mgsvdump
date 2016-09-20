@@ -1,4 +1,3 @@
-{
 	["_scriptPath"] = "CharacterModWeaponSubItem";
 	["_scriptInstanceId"] = [[userdata]]
 	["widgets"] = {

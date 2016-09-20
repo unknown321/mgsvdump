@@ -1,3 +1,2 @@
-{
 	["MAX_REALIZED_COUNT"] = 0;
 }

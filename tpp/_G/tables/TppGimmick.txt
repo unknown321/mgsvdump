@@ -1,4 +1,3 @@
-{
 	["COLLECTION_REPOP_COUNT_DECREMENT_TABLE"] = {
 		[27] = 100;
 		[2] = 60;

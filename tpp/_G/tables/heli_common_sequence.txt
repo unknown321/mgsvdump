@@ -1,4 +1,3 @@
-{
 	["SetTerminalAttentionIcon"] = [[loadstring()]];
 	["_messageExecTable"] = {
 		[3105039150] = {

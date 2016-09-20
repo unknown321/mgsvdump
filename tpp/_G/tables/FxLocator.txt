@@ -1,4 +1,3 @@
-{
 	["Visible"] = [[upvalue]];
 	["Invisible"] = [[upvalue]];
 	["Destroy"] = [[upvalue]];

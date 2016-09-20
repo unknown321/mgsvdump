@@ -1,4 +1,3 @@
-{
 	["_scriptPath"] = "Random";
 	["Choose"] = [[loadstring()]];
 	["_scriptInstanceId"] = [[userdata]]

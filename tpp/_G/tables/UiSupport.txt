@@ -1,4 +1,3 @@
-{
 	["_className"] = "UiSupport";
 	["GetInstance"] = [[upvalue]];
 	["End"] = [[upvalue]];

@@ -1,4 +1,3 @@
-{
 	["ATK_WalkerGear_Flame"] = 158;
 	["ATK_HoneyBee"] = 320;
 	["ATK_40115"] = 392;

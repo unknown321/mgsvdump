@@ -1,4 +1,3 @@
-{
 	["_className"] = "SubtitlesDaemon";
 	["GetInstance"] = [[upvalue]];
 	["GetDefaultVoiceLanguage"] = [[upvalue]];

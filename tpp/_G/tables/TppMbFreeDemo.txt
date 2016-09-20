@@ -1,4 +1,3 @@
-{
 	["ChangeBlock"] = [[upvalue]];
 	["GetNextDemo"] = [[upvalue]];
 	["_PazPhantomPain4Settings"] = {

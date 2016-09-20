@@ -1,4 +1,3 @@
-{
 	["SetCheckPointPosition"] = [[upvalue]];
 	["Messages"] = [[upvalue]];
 	["_RegisterCheckPoint"] = [[upvalue]];

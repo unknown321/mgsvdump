@@ -1,4 +1,3 @@
-{
 	["BETA_XY_Recon_3"] = {
 		["gearConfig"] = {
 			[1] = {

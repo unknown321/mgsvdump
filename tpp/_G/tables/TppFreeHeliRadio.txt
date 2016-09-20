@@ -1,4 +1,3 @@
-{
 	["OnLeave"] = [[loadstring()]];
 	["_PlayRadio"] = [[loadstring()]];
 	["PANDEMIC_RADIO"] = {

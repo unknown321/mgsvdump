@@ -1,4 +1,3 @@
-{
 	["Messages"] = [[loadstring()]];
 	["CheckQuestAllTarget"] = [[upvalue]];
 	["IsQuestTarget"] = [[loadstring()]];

@@ -1,4 +1,3 @@
-{
 	["NukeCountDownText"] = [[non-lua function]];
 	["EnableTips"] = [[non-lua function]];
 	["DeleteTips"] = [[non-lua function]];

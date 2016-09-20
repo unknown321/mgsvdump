@@ -1,4 +1,3 @@
-{
 	["AcquireOnPickUp"] = [[loadstring()]];
 	["AcquireOnMissionOpen"] = [[upvalue]];
 	["_scriptInstanceId"] = [[userdata]]

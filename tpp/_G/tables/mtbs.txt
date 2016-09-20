@@ -1,4 +1,3 @@
-{
 	["OnReload"] = [[loadstring()]];
 	["_scriptInstanceId"] = [[userdata]]
 	["requires"] = {

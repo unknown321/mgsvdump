@@ -1,4 +1,3 @@
-{
 	["CycleLightType"] = [[loadstring()]];
 	["_scriptPath"] = "LightUtility";
 	["_scriptInstanceId"] = [[userdata]]

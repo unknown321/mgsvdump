@@ -1,4 +1,3 @@
-{
 	["InterCall_slopedTown_009"] = [[upvalue]];
 	["InterCall_field_003"] = [[upvalue]];
 	["InterCall_commFacility_010"] = [[upvalue]];

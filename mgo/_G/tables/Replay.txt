@@ -1,4 +1,3 @@
-{
 	["StartRecord"] = [[upvalue]];
 	["GetInstance"] = [[upvalue]];
 	["StopPlay"] = [[upvalue]];

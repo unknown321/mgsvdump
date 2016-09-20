@@ -1,4 +1,3 @@
-{
 	["DEMO_END_TYPE_SIT"] = 1;
 	["OnLeave"] = [[upvalue]];
 	["GetDemoEndType"] = [[upvalue]];

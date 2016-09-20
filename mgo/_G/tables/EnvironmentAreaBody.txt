@@ -1,4 +1,3 @@
-{
 	["_className"] = "EnvironmentAreaBody";
 	["SetEnable"] = [[upvalue]];
 }

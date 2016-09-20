@@ -1,4 +1,3 @@
-{
 	["_className"] = "TppWeatherManager";
 	["GetInstance"] = [[upvalue]];
 	["SwitchWeatherDesc"] = [[upvalue]];

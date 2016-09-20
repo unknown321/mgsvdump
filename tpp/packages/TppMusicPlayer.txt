@@ -1,4 +1,3 @@
-{
 	["SetStructureDlc"] = [[non-lua function]];
 	["SetTrack"] = [[non-lua function]];
 	["SetAlbum"] = [[non-lua function]];

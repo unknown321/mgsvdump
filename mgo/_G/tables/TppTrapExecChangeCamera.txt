@@ -1,4 +1,3 @@
-{
 	["AddParamBody"] = [[loadstring()]];
 	["AddParam"] = [[loadstring()]];
 	["Exec"] = [[loadstring()]];

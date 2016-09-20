@@ -1,4 +1,3 @@
-{
 	["EnableTextureStreaming"] = [[upvalue]];
 	["IsLowTextureLoaded"] = [[upvalue]];
 	["SetEnvironmentSpecularCubeTexture"] = [[upvalue]];

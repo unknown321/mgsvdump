@@ -1,4 +1,3 @@
-{
 	["AddParam"] = [[loadstring()]];
 	["Exec"] = [[loadstring()]];
 	["_scriptInstanceId"] = [[userdata]]

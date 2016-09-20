@@ -1,4 +1,3 @@
-{
 	["SetMbsOwner"] = [[non-lua function]];
 	["EndPandemicEventMode"] = [[non-lua function]];
 	["GetSecuritySystemLevel"] = [[non-lua function]];

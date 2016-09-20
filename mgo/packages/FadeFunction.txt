@@ -1,4 +1,3 @@
-{
 	["FadeCustomSetting"] = [[non-lua function]];
 	["IsFadeOut"] = [[non-lua function]];
 	["CallStrongFadeOut"] = [[non-lua function]];

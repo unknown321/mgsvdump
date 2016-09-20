@@ -1,3 +1,2 @@
-{
 	["SetDemoUiTriggerInvalid"] = [[non-lua function]];
 }

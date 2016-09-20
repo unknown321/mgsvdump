@@ -1,4 +1,3 @@
-{
 	["RestoreMissionStartWeather"] = [[upvalue]];
 	["RestoreColorCorrectionParameter"] = [[loadstring()]];
 	["OverrideColorCorrectionParameter"] = [[loadstring()]];

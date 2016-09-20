@@ -1,4 +1,3 @@
-{
 	["AFRICA_GRP014_W"] = 44;
 	["AFGAN_GRP_13"] = 13;
 	["AFRICA_GRP002_B"] = 19;

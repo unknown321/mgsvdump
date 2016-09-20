@@ -1,3 +1,2 @@
-{
 	["FireMortar"] = [[non-lua function]];
 }

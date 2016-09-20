@@ -1,4 +1,3 @@
-{
 	["DoOnEndMissionPrepareFunction"] = [[loadstring()]];
 	["OnReload"] = [[upvalue]];
 	["GetCurrentSequenceIndex"] = [[loadstring()]];

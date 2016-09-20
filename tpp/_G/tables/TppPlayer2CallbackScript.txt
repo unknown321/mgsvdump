@@ -1,4 +1,3 @@
-{
 	["StartCureDemoEffectStart"] = [[loadstring()]];
 	["SetCameraNoiseStepJumpEnd"] = [[loadstring()]];
 	["StopCameraAnimation"] = [[loadstring()]];

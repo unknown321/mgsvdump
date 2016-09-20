@@ -1,4 +1,3 @@
-{
 	["preAvatarPlayerPartsType"] = 0;
 	["needToSaveAvatarData"] = false;
 	["sequenceFrameCount"] = 0;

@@ -1,4 +1,3 @@
-{
 	["_className"] = "File";
 	["GetReferenceCount"] = [[upvalue]];
 	["GetBlockPackagePath"] = [[upvalue]];

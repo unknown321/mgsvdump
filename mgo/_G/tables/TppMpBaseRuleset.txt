@@ -1,4 +1,3 @@
-{
 	["SetEnabledToSpawnPlayers"] = [[upvalue]];
 	["RULESET_STATE_ROUND_REGULAR_PLAY"] = 5;
 	["RULESET_STATE_ROUND_COUNTDOWN"] = 4;

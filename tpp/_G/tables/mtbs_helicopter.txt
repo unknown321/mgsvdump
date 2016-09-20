@@ -1,4 +1,3 @@
-{
 	["OnMissionGameStart"] = [[loadstring()]];
 	["_scriptPath"] = "mtbs_helicopter";
 	["Messages"] = [[loadstring()]];

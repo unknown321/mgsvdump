@@ -1,4 +1,3 @@
-{
 	["SetFinishHeliClearJingleName"] = [[loadstring()]];
 	["StopEscapeBGM"] = [[upvalue]];
 	["OnReload"] = [[upvalue]];

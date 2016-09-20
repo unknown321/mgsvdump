@@ -1,4 +1,3 @@
-{
 	["UpdateCameraParameter"] = [[upvalue]];
 	["WarpPlayer"] = [[loadstring()]];
 	["_scriptPath"] = "StageLocation";

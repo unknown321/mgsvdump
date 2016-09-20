@@ -1,4 +1,3 @@
-{
 	["GetLastActiveCharacter"] = [[non-lua function]];
 	["CreateCharacter"] = [[non-lua function]];
 	["CONNECTION_CHECK_LOCAL"] = 0;

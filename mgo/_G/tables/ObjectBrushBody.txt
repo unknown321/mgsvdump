@@ -1,4 +1,3 @@
-{
 	["GetSize"] = [[upvalue]];
 	["GetNumBlocks"] = [[upvalue]];
 	["GetByName"] = [[upvalue]];

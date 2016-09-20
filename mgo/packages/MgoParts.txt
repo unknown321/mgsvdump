@@ -1,4 +1,3 @@
-{
 	["SetVisibility"] = [[non-lua function]];
 	["CreateEffect"] = [[non-lua function]];
 	["SetWorldMatrix"] = [[non-lua function]];

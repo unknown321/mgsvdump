@@ -1,4 +1,3 @@
-{
 	["ResetGlobalSonicSpeed"] = [[non-lua function]];
 	["SetGlobalSonicSpeed"] = [[non-lua function]];
 	["SetRearParameter"] = [[non-lua function]];

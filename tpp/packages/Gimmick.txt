@@ -1,4 +1,3 @@
-{
 	["ResetGimmickData"] = [[non-lua function]];
 	["JoinNewClientSyncRequest"] = [[non-lua function]];
 	["SetOffsetPosition"] = [[non-lua function]];

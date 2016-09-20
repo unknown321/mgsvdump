@@ -1,4 +1,3 @@
-{
 	["JoinNewClientSyncRequest"] = [[non-lua function]];
 	["SetOffsetPosition"] = [[non-lua function]];
 	["InvisibleGimmick"] = [[non-lua function]];

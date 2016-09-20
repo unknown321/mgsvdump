@@ -1,4 +1,3 @@
-{
 	["RegisterObserverScript"] = [[upvalue]];
 	["GetLatestCheckpointTag"] = [[upvalue]];
 	["ClearLatestCheckpointTag"] = [[upvalue]];

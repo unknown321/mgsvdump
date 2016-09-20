@@ -1,4 +1,3 @@
-{
 	["_scriptInstanceId"] = [[userdata]]
 	["GetLocationPackagePath"] = [[upvalue]];
 	["_scriptPath"] = "TppMissionList";

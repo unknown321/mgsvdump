@@ -1,4 +1,3 @@
-{
 	["ForbidSave"] = [[loadstring()]];
 	["CanSaveMbMangementData"] = [[loadstring()]];
 	["VarRestoreOnMissionStart"] = [[loadstring()]];

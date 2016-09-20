@@ -1,4 +1,3 @@
-{
 	["RegisterGaniPath"] = [[non-lua function]];
 	["ClearGaniPath"] = [[non-lua function]];
 }

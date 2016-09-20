@@ -1,4 +1,3 @@
-{
 	["_className"] = "Scene";
 	["GetApplication"] = [[upvalue]];
 	["GetActorsByClassName"] = [[loadstring()]];

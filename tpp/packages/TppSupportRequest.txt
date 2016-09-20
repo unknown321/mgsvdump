@@ -1,4 +1,3 @@
-{
 	["GetCrashRescueHeliGmpCost"] = [[non-lua function]];
 	["RequestDropBullet"] = [[non-lua function]];
 	["GetCallBuddyGmpCost"] = [[non-lua function]];

@@ -1,4 +1,3 @@
-{
 	["SetPhase"] = [[non-lua function]];
 	["BGM_PHASE_EVASION"] = 1;
 	["BGM_TYPE_WIN_JINGLE"] = 5;

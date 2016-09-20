@@ -1,4 +1,3 @@
-{
 	["_scriptPath"] = "MissionResults";
 	["_scriptInstanceId"] = [[userdata]]
 	["widgets"] = {

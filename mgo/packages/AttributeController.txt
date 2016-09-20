@@ -1,4 +1,3 @@
-{
 	["PEER_LOCAL"] = 0;
 	["Remove"] = [[non-lua function]];
 	["PEER_ALL"] = 1;

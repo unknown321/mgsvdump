@@ -1,3 +1,2 @@
-{
 	["SetGameFrameWaitType"] = [[non-lua function]];
 }

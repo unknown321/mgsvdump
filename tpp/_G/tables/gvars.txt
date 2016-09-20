@@ -1,4 +1,3 @@
-{
 	["__rt"] = {
 		["gim_brekableLightName"] = {
 			["__vi"] = 137;

@@ -1,4 +1,3 @@
-{
 	["SetUpEnemy"] = [[upvalue]];
 	["IsUsingStrongSniper"] = [[loadstring()]];
 	["SetUpMineAreaVarsName"] = [[loadstring()]];

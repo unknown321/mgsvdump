@@ -1,4 +1,3 @@
-{
 	["ProceedStorySequence"] = [[upvalue]];
 	["UpdateMissionCleardFlag"] = [[loadstring()]];
 	["DecreaseElapsedMissionClearCount"] = [[upvalue]];

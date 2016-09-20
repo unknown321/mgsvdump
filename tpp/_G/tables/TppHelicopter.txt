@@ -1,4 +1,3 @@
-{
 	["ClearPassengerTable"] = [[upvalue]];
 	["SetNewestPassengerTable"] = [[upvalue]];
 	["SetRouteToHelicopterOnStartMission"] = [[upvalue]];

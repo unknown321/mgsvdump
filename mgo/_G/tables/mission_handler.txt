@@ -1,4 +1,3 @@
-{
 	["OnChangeSVars"] = [[upvalue]];
 	["OnTerminate"] = [[upvalue]];
 	["OnInitialize"] = [[upvalue]];

@@ -1,4 +1,3 @@
-{
 	["RequestToUnloadBlock"] = [[non-lua function]];
 	["CallBuddyWithHalo"] = [[non-lua function]];
 	["RequestChangeSubBlock"] = [[non-lua function]];

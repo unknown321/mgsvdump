@@ -1,4 +1,3 @@
-{
 	["Clear"] = [[non-lua function]];
 	["Override"] = [[non-lua function]];
 	["SetPadSensibility"] = [[non-lua function]];

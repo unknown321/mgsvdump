@@ -1,4 +1,3 @@
-{
 	["OnRestoreSVars"] = [[loadstring()]];
 	["MissionPrepare"] = [[loadstring()]];
 	["Messages"] = [[upvalue]];

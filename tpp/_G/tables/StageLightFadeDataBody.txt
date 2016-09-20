@@ -1,4 +1,3 @@
-{
 	["StageLightOff"] = [[upvalue]];
 	["StageLightOn"] = [[upvalue]];
 	["FadeIn"] = [[upvalue]];

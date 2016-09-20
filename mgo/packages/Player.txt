@@ -1,4 +1,3 @@
-{
 	["GetLocalPlayerHandLevel"] = [[non-lua function]];
 	["RequestToMoveToPosition"] = [[non-lua function]];
 	["IsLoadedPlayerTextures"] = [[non-lua function]];

@@ -1,4 +1,3 @@
-{
 	["Sub"] = [[non-lua function]];
 	["ToString"] = [[non-lua function]];
 	["Normalize"] = [[non-lua function]];

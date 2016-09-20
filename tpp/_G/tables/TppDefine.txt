@@ -1,4 +1,3 @@
-{
 	["SYS_MISSION_ID"] = {
 		["AFGH_FREE"] = 30010;
 		["MTBS_WARD"] = 30250;

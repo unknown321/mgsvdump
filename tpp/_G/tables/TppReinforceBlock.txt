@@ -1,4 +1,3 @@
-{
 	["REINFORCE_TYPE_NAME"] = {
 		[1] = "NONE";
 		[2] = "EAST_WAV";

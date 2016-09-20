@@ -1,4 +1,3 @@
-{
 	["IsExistMarkerLocatorSystem"] = [[upvalue]];
 	["CompleteSearchTarget"] = [[upvalue]];
 	["_OnSearchTarget"] = [[upvalue]];

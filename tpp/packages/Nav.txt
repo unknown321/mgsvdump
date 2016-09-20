@@ -1,4 +1,3 @@
-{
 	["GetNearestWaypointPosition"] = [[non-lua function]];
 	["GetNearestMeshPosition"] = [[non-lua function]];
 	["IsPossibleRectilinearTravelFromPosition"] = [[non-lua function]];

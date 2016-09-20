@@ -1,4 +1,3 @@
-{
 	["InitScriptBlockState"] = [[upvalue]];
 	["ReloadScriptBlock"] = [[upvalue]];
 	["RequestActivateByBlockId"] = [[upvalue]];

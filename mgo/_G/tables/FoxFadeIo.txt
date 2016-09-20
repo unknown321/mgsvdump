@@ -1,4 +1,3 @@
-{
 	["_className"] = "FoxFadeIo";
 	["FadeOut"] = [[upvalue]];
 	["SetPadReleaseMode"] = [[upvalue]];

@@ -1,4 +1,3 @@
-{
 	["SetTargetDirectory"] = [[non-lua function]];
 	["SetPackFileRootDirectory"] = [[non-lua function]];
 	["SetCategory"] = [[non-lua function]];

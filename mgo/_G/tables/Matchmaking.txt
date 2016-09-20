@@ -1,4 +1,3 @@
-{
 	["OnReturnToFreeplay"] = [[loadstring()]];
 	["OnUnloadMission"] = [[loadstring()]];
 	["_scriptPath"] = "Matchmaking";

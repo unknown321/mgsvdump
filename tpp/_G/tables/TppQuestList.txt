@@ -1,4 +1,3 @@
-{
 	["questPackList"] = {
 		["mtbs_q42050"] = {
 			[1] = "/Assets/tpp/pack/mission2/quest/mtbs/Medical/quest_q42050.fpk";

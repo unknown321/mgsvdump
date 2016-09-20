@@ -1,4 +1,3 @@
-{
 	["_className"] = "GkOffenseTargetData";
 	["GetAttackerHandle"] = [[upvalue]];
 	["GetKeyName"] = [[upvalue]];

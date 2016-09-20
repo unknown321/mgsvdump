@@ -1,4 +1,3 @@
-{
 	["optionalRadioList"] = {
 		[1] = "Set_f2000_oprg4010";
 	};

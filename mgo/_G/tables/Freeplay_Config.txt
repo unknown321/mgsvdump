@@ -1,4 +1,3 @@
-{
 	["_scriptPath"] = "Freeplay_Config";
 	["_scriptInstanceId"] = [[userdata]]
 	["SetCloakingConfig"] = [[loadstring()]];
