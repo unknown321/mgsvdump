@@ -1,10 +1,12 @@
-["BOOSTTYPE_PURCHASED"] = 1;
-["BOOSTTYPE_ASCENSION"] = 3;
-["BOOSTSTAT_COUNT"] = 2;
-["BOOSTSTAT_XP"] = 0;
-["BOOSTTYPE_SEASONAL"] = 0;
-["BOOSTTYPE_PROGRESSION"] = 2;
-["BOOSTSTAT_FASHION"] = 1;
-["GiveBoost"] = nil --[[non-lua function not supported]];
-["BOOSTTYPE_COUNT"] = 4;
-["GetBoost"] = nil --[[non-lua function not supported]];
+{
+	["BOOSTTYPE_PURCHASED"] = 1;
+	["BOOSTTYPE_ASCENSION"] = 3;
+	["BOOSTSTAT_COUNT"] = 2;
+	["BOOSTSTAT_XP"] = 0;
+	["BOOSTTYPE_SEASONAL"] = 0;
+	["BOOSTTYPE_PROGRESSION"] = 2;
+	["BOOSTSTAT_FASHION"] = 1;
+	["GiveBoost"] = [[non-lua function]];
+	["BOOSTTYPE_COUNT"] = 4;
+	["GetBoost"] = [[non-lua function]];
+}

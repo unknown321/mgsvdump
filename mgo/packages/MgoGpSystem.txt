@@ -1,1 +1,3 @@
-["GetGp"] = nil --[[non-lua function not supported]];
+{
+	["GetGp"] = [[non-lua function]];
+}

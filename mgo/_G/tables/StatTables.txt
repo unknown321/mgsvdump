@@ -1,3 +1,4 @@
-["_scriptPath"] = "StatTables";
-["_scriptInstanceId"] = nil --[[userdata]]
-;
+{
+	["_scriptPath"] = "StatTables";
+	["_scriptInstanceId"] = [[userdata]]
+}

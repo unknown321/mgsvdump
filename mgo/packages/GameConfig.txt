@@ -1,9 +1,11 @@
-["SetStealthAssistEnabled"] = nil --[[non-lua function not supported]];
-["SetCameraUDIsReversed"] = nil --[[non-lua function not supported]];
-["SetCameraLRIsReversed"] = nil --[[non-lua function not supported]];
-["GetCameraUDIsReversed"] = nil --[[non-lua function not supported]];
-["GetCameraLRIsReversed"] = nil --[[non-lua function not supported]];
-["GetControlType"] = nil --[[non-lua function not supported]];
-["ApplyAllConfig"] = nil --[[non-lua function not supported]];
-["GetStealthAssistEnabled"] = nil --[[non-lua function not supported]];
-["Reset"] = nil --[[non-lua function not supported]];
+{
+	["SetStealthAssistEnabled"] = [[non-lua function]];
+	["SetCameraUDIsReversed"] = [[non-lua function]];
+	["SetCameraLRIsReversed"] = [[non-lua function]];
+	["GetCameraUDIsReversed"] = [[non-lua function]];
+	["GetCameraLRIsReversed"] = [[non-lua function]];
+	["GetControlType"] = [[non-lua function]];
+	["ApplyAllConfig"] = [[non-lua function]];
+	["GetStealthAssistEnabled"] = [[non-lua function]];
+	["Reset"] = [[non-lua function]];
+}

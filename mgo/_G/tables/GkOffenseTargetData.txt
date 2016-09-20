@@ -1,4 +1,8 @@
-["_className"] = "GkOffenseTargetData";
-["GetAttackerHandle"] = nil --[[functions with upvalue not supported]];
-["GetKeyName"] = nil --[[functions with upvalue not supported]];
-["__call"] = nil --[[non-lua function not supported]];
+{
+	["_className"] = "GkOffenseTargetData";
+	["GetAttackerHandle"] = [[upvalue]];
+	["GetKeyName"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__call"] = [[non-lua function]];
+}

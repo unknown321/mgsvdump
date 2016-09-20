@@ -1,1 +1,3 @@
-["IsHost"] = nil --[[non-lua function not supported]];
+{
+	["IsHost"] = [[non-lua function]];
+}

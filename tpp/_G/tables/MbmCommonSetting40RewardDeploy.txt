@@ -1,3 +1,4 @@
-["_scriptPath"] = "MbmCommonSetting40RewardDeploy";
-["_scriptInstanceId"] = nil --[[userdata]]
-;
+{
+	["_scriptPath"] = "MbmCommonSetting40RewardDeploy";
+	["_scriptInstanceId"] = [[userdata]]
+}

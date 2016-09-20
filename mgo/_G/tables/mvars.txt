@@ -1,208 +1,205 @@
-["dem_demoFuncs"] = {
-};
-["dem_invScdDemolist"] = {
-};
-["ply_maxPickableLocatorCount"] = 16;
-["seq_sequenceNames"] = {
-[1] = "Seq_Mission_Prepare";
-[2] = "Seq_Ruleset_Init";
-[3] = "Seq_Ruleset_Main";
-[4] = "Seq_Ruleset_LoadAvatarCommonData";
-[5] = "Seq_Ruleset_LoadAvatarUI";
-[6] = "Seq_Ruleset_StartAvatarEdit";
-[7] = "Seq_Ruleset_FinishAvatarEdit";
-["Seq_Ruleset_FinishAvatarEdit"] = 7;
-["Seq_Ruleset_StartAvatarEdit"] = 6;
-["Seq_Ruleset_Init"] = 2;
-["Seq_Mission_Prepare"] = 1;
-["Seq_Ruleset_LoadAvatarCommonData"] = 4;
-["Seq_Ruleset_LoadAvatarUI"] = 5;
-["Seq_Ruleset_Main"] = 3;
-};
-["seq_missionStartSequence"] = 2;
-["ply_equipMissionBlockGroupSize"] = 1677721;
-["dem_isSkipped"] = {
-};
-["mis_isAlertOutOfMissionArea"] = false;
-["mis_missionStateIsNotInGame"] = false;
-["snd_startHeliClearJingleName"] = "Play_bgm_mission_clear_heli";
-["mis_helicopterDoorOpenTimerTimeSec"] = 15;
-["dem_demoList"] = {
-};
-["snd_finishHeliClearJingleName"] = "Stop_bgm_mission_clear_heli";
-["ply_locationStationTable"] = {
-};
-["demo_finishWaitRequestInfo"] = {
-};
-["seq_sequenceTable"] = {
-["Seq_Ruleset_StartAvatarEdit"] = {
-["OnEnter"] = nil --[[functions with upvalue not supported]];
-["Messages"] = nil --[[functions with upvalue not supported]];
-["_messageExecTable"] = {
-[3105039150] = {
-[190754301] = {
-["func"] = nil --[[functions with upvalue not supported]];
-};
-[824988796] = {
-["senderOption"] = {
-};
-["sender"] = {
-[2260235480] = nil --[[functions with upvalue not supported]];
-};
-};
-};
-};
-};
-["Seq_Ruleset_FinishAvatarEdit"] = {
-["OnUpdate"] = nil --[[functions with upvalue not supported]];
-["OnEnter"] = nil --[[functions with upvalue not supported]];
-};
-["Seq_Ruleset_Init"] = {
-["OnUpdate"] = nil --[[functions with upvalue not supported]];
-["OnEnter"] = loadstring("LuaQ\000\0001\000\000\000\000\000\000\000@/Assets/mgo/script/mission/ruleset_sequence.lua\000%\000\0006\000\000\000\000\000\r\000\000\000\000\000\000@@\000A€\000\000@\000\000\000\000@@\000AÀ\000\000@\000\000\000@A\000A€\000@\000\000€\000\000\000\000\000\000\000\000\000\000\000Fox\000\000\000\000\000\000\000\000Log\000\000\000\000\000\000\000\000Seq_Ruleset_Init:OnEnter\000+\000\000\000\000\000\000\000Seq_Ruleset_Init:Enabling the announce log\000\000\000\000\000\000\000\000TppUiStatusManager\000\000\000\000\000\000\000\000ClearStatus\000\000\000\000\000\000\000\000AnnounceLog\000\000\000\000\000\r\000\000\000&\000\000&\000\000&\000\000&\000\000+\000\000+\000\000+\000\000+\000\000,\000\000,\000\000,\000\000,\000\0006\000\000\000\000\000\000\000\000\000\000");
-};
-["Seq_Mission_Prepare"] = {
-["OnEnter"] = nil --[[functions with upvalue not supported]];
-["Messages"] = nil --[[functions with upvalue not supported]];
-["HelicopterMoveStart"] = loadstring("LuaQ\000\000+\000\000\000\000\000\000\000@/Assets/mgo/script/tpplib/TppSequence.lua\000s\000\000\000u\000\000\000\000\000\000\000\000\000\000\000\000@@\000E€\000\000FÀÀ\000F\000Á\000@\000\000€€@\000€A\000ÀA\000€\000€\000\000@B\000@€\000\000€\000\
-\000\000\000\000\000\000\000\000\000\000gvars\000\000\000\000\000\000\000\000ply_initialPlayerState\000\
-\000\000\000\000\000\000\000TppDefine\000\000\000\000\000\000\000\000INITIAL_PLAYER_STATE\000\000\000\000\000\000\000\000RIDEON_HELICOPTER\000\000\000\000\000\000\000\000svars\000\000\000\000\000\000\000\000ply_isUsedPlayerInitialAction\000\000\000\000\000\000\000\000\000TppHelicopter\000#\000\000\000\000\000\000\000SetRouteToHelicopterOnStartMission\000\000\000\000\000\000\000\000s\000\000\000s\000\000\000s\000\000\000s\000\000\000s\000\000\000s\000\000\000s\000\000\000s\000\000\000s\000\000\000s\000\000\000s\000\000\000t\000\000\000t\000\000\000t\000\000\000u\000\000\000\000\000\000\000\000\000\000\000");
-["_messageExecTable"] = {
-[3105039150] = {
-[2874760715] = {
-["func"] = nil --[[functions with upvalue not supported]];
-["option"] = {
-[1575448960] = true;
-[2357387275] = true;
-[4282425663] = true;
-};
-};
-[1143494975] = {
-["func"] = nil --[[functions with upvalue not supported]];
-["option"] = {
-[1575448960] = true;
-[2357387275] = true;
-[4282425663] = true;
-};
-};
-[2461393688] = {
-["func"] = nil --[[functions with upvalue not supported]];
-["option"] = {
-[1575448960] = true;
-[2357387275] = true;
-[4282425663] = true;
-};
-};
-[244265405] = {
-["senderOption"] = {
-[2813368222] = {
-[1575448960] = true;
-[2357387275] = true;
-[4282425663] = true;
-};
-};
-["sender"] = {
-[2813368222] = loadstring("LuaQ\000\000+\000\000\000\000\000\000\000@/Assets/mgo/script/tpplib/TppSequence.lua\000i\000\000\000i\000\000\000\000\000\000\000\000\000\000€\000\000\000\000\000\000\000\000\000\000\000\000i\000\000\000\000\000\000\000\000\000\000\000");
-};
-};
-};
-[3380938768] = {
-[3709244990] = {
-["senderOption"] = {
-[4175515318] = {
-[1575448960] = true;
-[2357387275] = true;
-[4282425663] = true;
-};
-[3148858291] = {
-[1575448960] = true;
-[2357387275] = true;
-[4282425663] = true;
-};
-[2904893317] = {
-[1575448960] = true;
-[2357387275] = true;
-[4282425663] = true;
-};
-};
-["sender"] = {
-[4175515318] = nil --[[functions with upvalue not supported]];
-[3148858291] = loadstring("LuaQ\000\000+\000\000\000\000\000\000\000@/Assets/mgo/script/tpplib/TppSequence.lua\000s\000\000\000u\000\000\000\000\000\000\000\000\000\000\000\000@@\000E€\000\000FÀÀ\000F\000Á\000@\000\000€€@\000€A\000ÀA\000€\000€\000\000@B\000@€\000\000€\000\
-\000\000\000\000\000\000\000\000\000\000gvars\000\000\000\000\000\000\000\000ply_initialPlayerState\000\
-\000\000\000\000\000\000\000TppDefine\000\000\000\000\000\000\000\000INITIAL_PLAYER_STATE\000\000\000\000\000\000\000\000RIDEON_HELICOPTER\000\000\000\000\000\000\000\000svars\000\000\000\000\000\000\000\000ply_isUsedPlayerInitialAction\000\000\000\000\000\000\000\000\000TppHelicopter\000#\000\000\000\000\000\000\000SetRouteToHelicopterOnStartMission\000\000\000\000\000\000\000\000s\000\000\000s\000\000\000s\000\000\000s\000\000\000s\000\000\000s\000\000\000s\000\000\000s\000\000\000s\000\000\000s\000\000\000s\000\000\000t\000\000\000t\000\000\000t\000\000\000u\000\000\000\000\000\000\000\000\000\000\000");
-[2904893317] = nil --[[functions with upvalue not supported]];
-};
-};
-};
-};
-["FadeInStartOnGameStart"] = nil --[[functions with upvalue not supported]];
-["SkipTextureLoadingWait"] = loadstring("LuaQ\000\000+\000\000\000\000\000\000\000@/Assets/mgo/script/tpplib/TppSequence.lua\000…\000\000\000ˆ\000\000\000\000\000\000\000\000\000\000\000\000@@\000\000\000\000@\000€\000€\000\000\000\000€\000\000\000\000\000\000\000\000\000\000\000mvars\000\000\000\000\000\000\000\000seq_skipTextureLoadingWait\000\000\000\000\000\000\000\000…\000\000\000…\000\000\000…\000\000\000…\000\000\000†\000\000\000†\000\000\000ˆ\000\000\000\000\000\000\000\000\000\000\000");
-["MissionGameStart"] = nil --[[functions with upvalue not supported]];
-["DEBUG_TextPrint"] = loadstring("LuaQ\000\000+\000\000\000\000\000\000\000@/Assets/mgo/script/tpplib/TppSequence.lua\000ˆ\000\000\000ˆ\000\000\000\000\000\r\000\000\000F\000À\000\\€€\000ƒ\000\000†@@À\000€\000\
-€A\000\000\000\000ÁÁ\000\000\"A€@\000\000œ@\000\000€\000\000\000\000\000\000\000\000\000\000\000NewContext\000\000\000\000\000\000\000\000Print\000\000\000\000\000\000\000à?\000\000\000\000\000\000ð?\000\000\000\000\r\000\000\000ˆ\000\000\000ˆ\000\000\000ˆ\000\000\000ˆ\000\000\000ˆ\000\000\000ˆ\000\000\000ˆ\000\000\000ˆ\000\000\000ˆ\000\000\000ˆ\000\000\000ˆ\000\000\000ˆ\000\000\000ˆ\000\000\000\000\000\000\000\000\000\000\000\000\000e\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000n\000\000\000\000\000\000\000\000\000\000\000");
-["OnUpdate"] = nil --[[functions with upvalue not supported]];
-["OnLeave"] = nil --[[functions with upvalue not supported]];
-};
-["Seq_Ruleset_LoadAvatarCommonData"] = {
-["OnUpdate"] = nil --[[functions with upvalue not supported]];
-["OnEnter"] = nil --[[functions with upvalue not supported]];
-};
-["Seq_Ruleset_LoadAvatarUI"] = {
-["OnUpdate"] = nil --[[functions with upvalue not supported]];
-["OnEnter"] = nil --[[functions with upvalue not supported]];
-};
-["Seq_Ruleset_Main"] = {
-["OnUpdate"] = nil --[[functions with upvalue not supported]];
-["OnEnter"] = nil --[[functions with upvalue not supported]];
-["Messages"] = nil --[[functions with upvalue not supported]];
-["_messageExecTable"] = {
-[3333891920] = {
-[3818530376] = {
-["func"] = nil --[[functions with upvalue not supported]];
-};
-};
-[3105039150] = {
-[824988796] = {
-["senderOption"] = {
-};
-["sender"] = {
-[3818530376] = nil --[[functions with upvalue not supported]];
-[3626061547] = loadstring("LuaQ\000\0001\000\000\000\000\000\000\000@/Assets/mgo/script/mission/ruleset_sequence.lua\000l\000\000x\000\000\000\000\000\000\000\000\000\000\000@@\000A€\000\000@\000À\000\000\000A\000@€\000À\000\000@A\000@€\000À\000\000€A\000@€\000À\000\000B\000EÀ\000I€Â„EÀ\000IÀB„B\000\000\000…À\000\000†\000CÅÀ\000Æ\000Â\000\000\000JA\000\000IA€†œ@\000\000€\000\000\000\000\000\000\000\000\000\000\000Fox\000\000\000\000\000\000\000\000Log\0006\000\000\000\000\000\000\000sequences.Seq_Ruleset_Main.Messages(): UI: EndFadeOut\000\000\000\000\000\000\000\000TppMission\000\000\000\000\000\000\000\000ResetIsStartFromHelispace\000\000\000\000\000\000\000\000ResetIsStartFromFreePlay\000\000\000\000\000\000\000\000VarResetOnNewMission\000\000\000\000\000\000\000\000vars\000\000\000\000\000\000\000\000missionCode\000\r\000\000\000\000\000\000\000locationCode\000\000\000\000\000\000\000i@\000\000\000\000\000\000@\000\000\000\000\000\000\000Load\000\000\000\000\000\000\000\000showLoadingTips\000\000\000\000\000\000\000\000m\000\000m\000\000m\000\000m\000\000o\000\000o\000\000o\000\000p\000\000p\000\000p\000\000q\000\000q\000\000q\000\000r\000\000r\000\000t\000\000t\000\000u\000\000u\000\000v\000\000w\000\000w\000\000w\000\000w\000\000w\000\000w\000\000w\000\000w\000\000x\000\000\000\000\000\000\000\000\000\000\000\000currentMissionCode\000\000\000\000\000\000\000\000\000\000\000\000\000\000showLoadingTips\000\000\000\000\000\000\000\000\000\000\000");
-};
-};
-[1916842388] = {
-["func"] = loadstring("LuaQ\000\0001\000\000\000\000\000\000\000@/Assets/mgo/script/mission/ruleset_sequence.lua\000`\000\000h\000\000\000\000\000\000\000\000\000\000\000@@\000A€\000\000@\000\000\000\000À@\000€€\000W\000A\000\000€\000\000\000@@\000A@\000@\000\000€\000€\000ÀA\000E€\000F\000Â\000F@Â\000€\000@€\000€\000\000\000\000\000\000\000\000\000\000\000Fox\000\000\000\000\000\000\000\000Log\000>\000\000\000\000\000\000\000sequences.Seq_Ruleset_Main.Messages(): UI: PauseMenuOpenStore\000\000\000\000\000\000\000\000GetPlatformName\000\000\000\000\000\000\000\000PS3\000R\000\000\000\000\000\000\000sequences.Seq_Ruleset_Main.Messages() : Mission reload for store is only work PS3\000\000\000\000\000\000\000\000TppUI\000\000\000\000\000\000\000\000FadeOut\000\000\000\000\000\000\000\000FADE_SPEED\000\000\000\000\000\000\000\000FADE_NORMALSPEED\000\000\000\000\000\000\000\000FadeOutOpenStore\000\000\000\000\000\000\000\000a\000\000a\000\000a\000\000a\000\000c\000\000c\000\000c\000\000c\000\000c\000\000d\000\000d\000\000d\000\000d\000\000e\000\000g\000\000g\000\000g\000\000g\000\000g\000\000g\000\000g\000\000h\000\000\000\000\000\000\000\000\000\000");
-};
-};
-};
-};
-};
-["seq_textureLoadWaitStartTime"] = 15.790894020209;
-["dem_playedList"] = {
-};
-["dem_demoFlags"] = {
-};
-["ui_onEndFadeInExceptGameStatus"] = {
-["AnnounceLog"] = false;
-};
-["seq_currentSequence"] = "Seq_Ruleset_Main";
-["mis_isOutsideOfHotZone"] = true;
-["seq_isHelicopterStart"] = false;
-["seq_canMissionStartWaitStartTime"] = 15.790894020209;
-["seq_demoSequneceList"] = {
-};
-["dem_invDemoList"] = {
-};
-["ply_stationLocatorList"] = {
-};
-["mis_enableAlertOutOfMissionArea"] = false;
-["seq_missionPrepareState"] = 7;
-["mis_missionName"] = "mgo_mission";
-["ply_maxPlacedLocatorCount"] = 8;
-["mis_isOutsideOfMissionArea"] = false;
-["demo_playRequestInfo"] = {
-["demoBlock"] = {
-};
-["missionBlock"] = {
-};
-};
+{
+	["dem_demoFuncs"] = {
+	};
+	["dem_invScdDemolist"] = {
+	};
+	["ply_maxPickableLocatorCount"] = 16;
+	["seq_sequenceNames"] = {
+		[1] = "Seq_Mission_Prepare";
+		[2] = "Seq_Ruleset_Init";
+		[3] = "Seq_Ruleset_Main";
+		[4] = "Seq_Ruleset_LoadAvatarCommonData";
+		[5] = "Seq_Ruleset_LoadAvatarUI";
+		[6] = "Seq_Ruleset_StartAvatarEdit";
+		[7] = "Seq_Ruleset_FinishAvatarEdit";
+		["Seq_Ruleset_FinishAvatarEdit"] = 7;
+		["Seq_Ruleset_StartAvatarEdit"] = 6;
+		["Seq_Ruleset_Init"] = 2;
+		["Seq_Mission_Prepare"] = 1;
+		["Seq_Ruleset_LoadAvatarCommonData"] = 4;
+		["Seq_Ruleset_LoadAvatarUI"] = 5;
+		["Seq_Ruleset_Main"] = 3;
+	};
+	["seq_missionStartSequence"] = 2;
+	["ply_equipMissionBlockGroupSize"] = 1677721;
+	["dem_isSkipped"] = {
+	};
+	["mis_isAlertOutOfMissionArea"] = false;
+	["mis_missionStateIsNotInGame"] = false;
+	["snd_startHeliClearJingleName"] = "Play_bgm_mission_clear_heli";
+	["mis_helicopterDoorOpenTimerTimeSec"] = 15;
+	["dem_demoList"] = {
+	};
+	["snd_finishHeliClearJingleName"] = "Stop_bgm_mission_clear_heli";
+	["ply_locationStationTable"] = {
+	};
+	["demo_finishWaitRequestInfo"] = {
+	};
+	["seq_sequenceTable"] = {
+		["Seq_Ruleset_StartAvatarEdit"] = {
+			["OnEnter"] = [[upvalue]];
+			["Messages"] = [[upvalue]];
+			["_messageExecTable"] = {
+				[3105039150] = {
+					[190754301] = {
+						["func"] = [[upvalue]];
+					};
+					[824988796] = {
+						["senderOption"] = {
+						};
+						["sender"] = {
+							[2260235480] = [[upvalue]];
+						};
+					};
+				};
+			};
+		};
+		["Seq_Ruleset_FinishAvatarEdit"] = {
+			["OnUpdate"] = [[upvalue]];
+			["OnEnter"] = [[upvalue]];
+		};
+		["Seq_Ruleset_Init"] = {
+			["OnUpdate"] = [[upvalue]];
+			["OnEnter"] = [[loadstring()]];
+		};
+		["Seq_Mission_Prepare"] = {
+			["OnEnter"] = [[upvalue]];
+			["Messages"] = [[upvalue]];
+			["HelicopterMoveStart"] = [[loadstring()]];
+			["_messageExecTable"] = {
+				[3105039150] = {
+					[2874760715] = {
+						["func"] = [[upvalue]];
+						["option"] = {
+							[1575448960] = true;
+							[2357387275] = true;
+							[4282425663] = true;
+						};
+					};
+					[1143494975] = {
+						["func"] = [[upvalue]];
+						["option"] = {
+							[1575448960] = true;
+							[2357387275] = true;
+							[4282425663] = true;
+						};
+					};
+					[2461393688] = {
+						["func"] = [[upvalue]];
+						["option"] = {
+							[1575448960] = true;
+							[2357387275] = true;
+							[4282425663] = true;
+						};
+					};
+					[244265405] = {
+						["senderOption"] = {
+							[2813368222] = {
+								[1575448960] = true;
+								[2357387275] = true;
+								[4282425663] = true;
+							};
+						};
+						["sender"] = {
+							[2813368222] = [[loadstring()]];
+						};
+					};
+				};
+				[3380938768] = {
+					[3709244990] = {
+						["senderOption"] = {
+							[4175515318] = {
+								[1575448960] = true;
+								[2357387275] = true;
+								[4282425663] = true;
+							};
+							[3148858291] = {
+								[1575448960] = true;
+								[2357387275] = true;
+								[4282425663] = true;
+							};
+							[2904893317] = {
+								[1575448960] = true;
+								[2357387275] = true;
+								[4282425663] = true;
+							};
+						};
+						["sender"] = {
+							[4175515318] = [[upvalue]];
+							[3148858291] = [[loadstring()]];
+							[2904893317] = [[upvalue]];
+						};
+					};
+				};
+			};
+			["FadeInStartOnGameStart"] = [[upvalue]];
+			["SkipTextureLoadingWait"] = [[loadstring()]];
+			["MissionGameStart"] = [[upvalue]];
+			["DEBUG_TextPrint"] = [[loadstring()]];
+			["OnUpdate"] = [[upvalue]];
+			["OnLeave"] = [[upvalue]];
+		};
+		["Seq_Ruleset_LoadAvatarCommonData"] = {
+			["OnUpdate"] = [[upvalue]];
+			["OnEnter"] = [[upvalue]];
+		};
+		["Seq_Ruleset_LoadAvatarUI"] = {
+			["OnUpdate"] = [[upvalue]];
+			["OnEnter"] = [[upvalue]];
+		};
+		["Seq_Ruleset_Main"] = {
+			["OnUpdate"] = [[upvalue]];
+			["OnEnter"] = [[upvalue]];
+			["Messages"] = [[upvalue]];
+			["_messageExecTable"] = {
+				[3333891920] = {
+					[3818530376] = {
+						["func"] = [[upvalue]];
+					};
+				};
+				[3105039150] = {
+					[824988796] = {
+						["senderOption"] = {
+						};
+						["sender"] = {
+							[3818530376] = [[upvalue]];
+							[3626061547] = [[loadstring()]];
+						};
+					};
+					[1916842388] = {
+						["func"] = [[loadstring()]];
+					};
+				};
+			};
+		};
+	};
+	["seq_textureLoadWaitStartTime"] = 16.558333137937;
+	["dem_playedList"] = {
+	};
+	["dem_demoFlags"] = {
+	};
+	["ui_onEndFadeInExceptGameStatus"] = {
+		["AnnounceLog"] = false;
+	};
+	["seq_currentSequence"] = "Seq_Ruleset_Main";
+	["mis_isOutsideOfHotZone"] = true;
+	["seq_isHelicopterStart"] = false;
+	["seq_canMissionStartWaitStartTime"] = 16.558333137937;
+	["seq_demoSequneceList"] = {
+	};
+	["dem_invDemoList"] = {
+	};
+	["ply_stationLocatorList"] = {
+	};
+	["mis_enableAlertOutOfMissionArea"] = false;
+	["seq_missionPrepareState"] = 7;
+	["mis_missionName"] = "mgo_mission";
+	["ply_maxPlacedLocatorCount"] = 8;
+	["mis_isOutsideOfMissionArea"] = false;
+	["demo_playRequestInfo"] = {
+		["demoBlock"] = {
+		};
+		["missionBlock"] = {
+		};
+	};
+}

@@ -1,6 +1,10 @@
-["_className"] = "TppDefaultParameter";
-["IsExistingData"] = nil --[[functions with upvalue not supported]];
-["SetGroupName"] = nil --[[functions with upvalue not supported]];
-["AddParam"] = nil --[[functions with upvalue not supported]];
-["GetDataFromGroupName"] = nil --[[functions with upvalue not supported]];
-["GetParam"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "TppDefaultParameter";
+	["IsExistingData"] = [[upvalue]];
+	["SetGroupName"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["AddParam"] = [[upvalue]];
+	["GetDataFromGroupName"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+	["GetParam"] = [[upvalue]];
+}

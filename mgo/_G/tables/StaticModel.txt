@@ -1,2 +1,6 @@
-["_className"] = "StaticModel";
-["GetByName"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "StaticModel";
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["GetByName"] = [[upvalue]];
+}

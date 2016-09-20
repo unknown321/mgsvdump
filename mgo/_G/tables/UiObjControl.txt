@@ -1,8 +1,12 @@
-["StartWithoutInitializing"] = nil --[[functions with upvalue not supported]];
-["Create"] = nil --[[functions with upvalue not supported]];
-["GetWindowNameForPreview"] = nil --[[functions with upvalue not supported]];
-["SetVisible"] = nil --[[functions with upvalue not supported]];
-["Stop"] = nil --[[functions with upvalue not supported]];
-["_className"] = "UiObjControl";
-["Start"] = nil --[[functions with upvalue not supported]];
-["SendTrigger"] = nil --[[functions with upvalue not supported]];
+{
+	["StartWithoutInitializing"] = [[upvalue]];
+	["Create"] = [[upvalue]];
+	["GetWindowNameForPreview"] = [[upvalue]];
+	["SetVisible"] = [[upvalue]];
+	["Stop"] = [[upvalue]];
+	["_className"] = "UiObjControl";
+	["Start"] = [[upvalue]];
+	["SendTrigger"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+}

@@ -1,3 +1,5 @@
-["Vote"] = nil --[[non-lua function not supported]];
-["Create"] = nil --[[non-lua function not supported]];
-["Config"] = nil --[[non-lua function not supported]];
+{
+	["Vote"] = [[non-lua function]];
+	["Create"] = [[non-lua function]];
+	["Config"] = [[non-lua function]];
+}

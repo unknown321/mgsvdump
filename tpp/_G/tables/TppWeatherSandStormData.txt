@@ -1,1 +1,5 @@
-["_className"] = "TppWeatherSandStormData";
+{
+	["_className"] = "TppWeatherSandStormData";
+	["__index"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+}

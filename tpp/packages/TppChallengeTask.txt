@@ -1,6 +1,8 @@
-["RequestUpdateAllChecker"] = nil --[[non-lua function not supported]];
-["SetFlagCompletedOnlineTask"] = nil --[[non-lua function not supported]];
-["RegisterCheckerFunction"] = nil --[[non-lua function not supported]];
-["IsCompletedOnlineTask"] = nil --[[non-lua function not supported]];
-["RequestUpdate"] = nil --[[non-lua function not supported]];
-["RequestUpdateAllChecher"] = nil --[[non-lua function not supported]];
+{
+	["RequestUpdateAllChecker"] = [[non-lua function]];
+	["SetFlagCompletedOnlineTask"] = [[non-lua function]];
+	["RegisterCheckerFunction"] = [[non-lua function]];
+	["IsCompletedOnlineTask"] = [[non-lua function]];
+	["RequestUpdate"] = [[non-lua function]];
+	["RequestUpdateAllChecher"] = [[non-lua function]];
+}

@@ -1,56 +1,52 @@
-["DoOnEndMissionPrepareFunction"] = loadstring("LuaQ\000\000+\000\000\000\000\000\000\000@/Assets/mgo/script/tpplib/TppSequence.lua\000Ë\000\000\000Í\000\000\000\000\000\000\000\000\000\000\000\000@@\000\000\000\000Ä\000Ä\000\000\000@@\000@Ä\000\000Ä\000\000\000\000\000\000\000\000\000\000\000mvars\000 \000\000\000\000\000\000\000seq_onEndMissionPrepareFunction\000\000\000\000\000\000\000\000Ë\000\000\000Ë\000\000\000Ë\000\000\000Ë\000\000\000È\000\000\000È\000\000\000È\000\000\000Í\000\000\000\000\000\000\000\000\000\000\000");
-["OnReload"] = nil --[[functions with upvalue not supported]];
-["GetCurrentSequenceIndex"] = loadstring("LuaQ\000\000+\000\000\000\000\000\000\000@/Assets/mgo/script/tpplib/TppSequence.lua\000C\000\000\000D\000\000\000\000\000\000\000\000\000\000\000\000@@\000\000\000\000Ä\000\000\000\000\000\000\000\000\000\000\000svars\000\r\000\000\000\000\000\000\000seq_sequence\000\000\000\000\000\000\000\000C\000\000\000C\000\000\000C\000\000\000D\000\000\000\000\000\000\000\000\000\000\000");
-["RegisterSequenceTable"] = nil --[[functions with upvalue not supported]];
-["ReserveNextSequence"] = nil --[[functions with upvalue not supported]];
-["GetSequenceNameWithIndex"] = loadstring("LuaQ\000\000+\000\000\000\000\000\000\000@/Assets/mgo/script/tpplib/TppSequence.lua\000I\000\000\000O\000\000\000\000\000\000\000\000E\000\000\000F@¿\000Z\000\000\000¿\000ÄÜ\000Ä\000ö\000\000\000\000\000Äû\000\000ÅÄ\000\000û\000\000\000Ä\000\000\000\000\000\000\000\000\000\000\000mvars\000\000\000\000\000\000\000\000seq_sequenceNames\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000I\000\000\000I\000\000\000J\000\000\000J\000\000\000K\000\000\000K\000\000\000K\000\000\000L\000\000\000O\000\000\000O\000\000\000O\000\000\000\000\000\000\000\000\000\000\000\000\000n\000\000\000\000\000\
-\000\000\000\000\000\000\000\000\000\000e\000\000\000\000\
-\000\000\000\000\000\000\000\000\000\000e\000\000\000\000\000\000\000\000\000\000\000");
-["GetSequenceIndex"] = loadstring("LuaQ\000\000+\000\000\000\000\000\000\000@/Assets/mgo/script/tpplib/TppSequence.lua\000E\000\000\000H\000\000\000\000\000\000\000\000E\000\000\000F@¿\000Z\000\000\000@\000ÄÜ\000Ä\000û\000\000\000Ä\000\000\000\000\000\000\000\000\000\000\000mvars\000\000\000\000\000\000\000\000seq_sequenceNames\000\000\000\000\000\000\000\000E\000\000\000E\000\000\000F\000\000\000F\000\000\000G\000\000\000G\000\000\000H\000\000\000\000\000\000\000\000\000\000\000\000\000n\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000e\000\000\000\000\000\000\000\000\000\000\000");
-["OnChangeSVars"] = nil --[[functions with upvalue not supported]];
-["IsHelicopterStart"] = loadstring("LuaQ\000\000+\000\000\000\000\000\000\000@/Assets/mgo/script/tpplib/TppSequence.lua\000Î\000\000\000Ï\000\000\000\000\000\000\000\000\000\000\000\000@@\000\000\000\000Ä\000\000\000\000\000\000\000\000\000\000\000mvars\000\000\000\000\000\000\000\000seq_isHelicopterStart\000\000\000\000\000\000\000\000Î\000\000\000Î\000\000\000Î\000\000\000Ï\000\000\000\000\000\000\000\000\000\000\000");
-["GetCurrentSequenceName"] = nil --[[functions with upvalue not supported]];
-["SetMissionGameStartSequence"] = nil --[[functions with upvalue not supported]];
-["GetContinueCount"] = loadstring("LuaQ\000\000+\000\000\000\000\000\000\000@/Assets/mgo/script/tpplib/TppSequence.lua\000W\000\000\000X\000\000\000\000\000\000\000\000\000\000\000\000@@\000E\000\000\000FÄ¿\000F\000Ä\000^\000\000\000Ä\000\000\000\000\000\000\000\000\000\000\000svars\000\r\000\000\000\000\000\000\000seq_sequence\000\000\000\000\000\000\000\000seq_sequenceContinueCount\000\000\000\000\000\000\000\000W\000\000\000W\000\000\000X\000\000\000X\000\000\000X\000\000\000X\000\000\000X\000\000\000\000\000\000\000\000\000\000\000\000\000e\000\000\000\000\000\000\000\000\000\000\000");
-["IsLandContinue"] = nil --[[functions with upvalue not supported]];
-["IsEndSaving"] = nil --[[functions with upvalue not supported]];
-["IsMissionPrepareFinished"] = nil --[[functions with upvalue not supported]];
-["DebugUpdate"] = nil --[[functions with upvalue not supported]];
-["Update"] = loadstring("LuaQ\000\000+\000\000\000\000\000\000\000@/Assets/mgo/script/tpplib/TppSequence.lua\0009\000\000D\000\000\000\000\000\000\000\000\000\000\000E@\000\000ÜÄ@\000¿@\000\000Ä\000Ä\000Ü\000A\000∆Ä@\000Ü¿\000¿@\000\000Ä\000Ä\000∆@A⁄\000\000\000Ä\000Ä\000Ä@\000A\000\000Ä\000\000\000\000\000\000\000\000\000\000\000mvars\000\000\000\000\000\000\000\000svars\000\000\000\000\000\000\000\000seq_currentSequence\000\000\000\000\000\000\000\000\000seq_sequenceTable\000\000\000\000\000\000\000\000OnUpdate\000\000\000\000\000\000\000\0009\000\000:\000\000;\000\000;\000\000;\000\000<\000\000>\000\000>\000\000>\000\000>\000\000>\000\000?\000\000A\000\000B\000\000B\000\000C\000\000C\000\000C\000\000D\000\000\000\000\000\000\000\000\000\000\000\000e\000\000\000\000\000\000\000\000\000\000\000\000\000\000n\000\000\000\000\000\000\000\000\000\000\000\000\000\000e\000\000\000\000\000\000\000\000\000\000\000\000\000\000n\000\r\000\000\000\000\000\000\000\000\000\000");
-["MakeSVarsTable"] = nil --[[functions with upvalue not supported]];
-["_scriptInstanceId"] = nil --[[userdata]]
-;
-["GetMissionStartSequenceName"] = nil --[[functions with upvalue not supported]];
-["RegisterSequences"] = nil --[[functions with upvalue not supported]];
-["SetNextSequence"] = nil --[[functions with upvalue not supported]];
-["SaveMissionStartSequence"] = nil --[[functions with upvalue not supported]];
-["Init"] = nil --[[functions with upvalue not supported]];
-["_scriptPath"] = "TppSequence";
-["MISSION_PREPARE_STATE"] = {
-[1] = "START";
-[2] = "WAIT_INITALIZE";
-[3] = "WAIT_TEXTURE_LOADING";
-[4] = "END_TEXTURE_LOADING";
-[5] = "WAIT_SAVING_FILE";
-[6] = "END_SAVING_FILE";
-[7] = "FINISH";
-["WAIT_SAVING_FILE"] = 5;
-["END_TEXTURE_LOADING"] = 4;
-["END_SAVING_FILE"] = 6;
-["FINISH"] = 7;
-["START"] = 1;
-["WAIT_INITALIZE"] = 2;
-["WAIT_TEXTURE_LOADING"] = 3;
-};
-["DeclareSVars"] = nil --[[functions with upvalue not supported]];
-["IsFirstLandStart"] = nil --[[functions with upvalue not supported]];
-["SYS_SEQUENCE_LENGTH"] = 1;
-["OnMessage"] = loadstring("LuaQ\000\000+\000\000\000\000\000\000\000@/Assets/mgo/script/tpplib/TppSequence.lua\0001\000\0008\000\000\000\000\000\000\000≈\000\000∆A¿Ä¿\000\000Ä\000Ä\000≈\000\000∆A¿\000\000¬@∆ÇÄ¿\000\000Ä\000Ä\000¡EB\000FÇ¡Ä\000≈¬\000∆¬\000\000\000@Ä\000Ä\000¿Ä\000\000@ÄÄ\000\\B\000\000Ä\000\000\000\000\000\000\000\000\000\000\000mvars\000\000\000\000\000\000\000\000seq_sequenceTable\000\000\000\000\000\000\000\000\000seq_currentSequence\000\000\000\000\000\000\000\000_messageExecTable\000\000\000\000\000\000\000\000Tpp\000\
-\000\000\000\000\000\000\000DoMessage\000\000\000\000\000\000\000\000TppMission\000\000\000\000\000\000\000\000CheckMessageOption\000\000\000\000\000\000\000\0001\000\0001\000\0001\000\0001\000\0002\000\0004\000\0004\000\0004\000\0004\000\0004\000\0004\000\0004\000\0005\000\0007\000\0008\000\0008\000\0008\000\0008\000\0008\000\0008\000\0008\000\0008\000\0008\000\0008\000\0008\000\0008\000\0008\000\0008\000\000\000\000\000\000\000\000\000\000\000\000o\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000n\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000i\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000r\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000a\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000t\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000s\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000e\000\
-\000\000\000\000\000\000\000\000\000\000\000\000\000e\000\000\000\000\000\000\000\000\000\000\000");
-["CanHandleSignInUserChangedException"] = loadstring("LuaQ\000\000+\000\000\000\000\000\000\000@/Assets/mgo/script/tpplib/TppSequence.lua\000˘\000\000\000\000\000\000\000\000\000\000\000\000\000\000@@\000@\000Ä\000Ä\000\000\000\000\000\000Ä@\000@@\000@\000Ä\000Ä\000\000\000\000\000\000¿@\000E\000\000\000FÄ¿\000@\000\000@@\000@\000ÄB\000Ä\000^\000\000F\000A\000Z\000\000\000Ä\000ÄB\000\000\000^\000\000@\000ÄB\000Ä\000^\000\000\000Ä\000\000\000\000\000\000\000\000\000\000\000mvars\000\000\000\000\000\000\000\000\000seq_currentSequence\000\000\000\000\000\000\000\000seq_sequenceTable\000\000\000\000\000\000\000\000ignoreSignInUserChanged\000\000\000\000\000\000\000\000˘\000\000\000˘\000\000\000˘\000\000\000˙\000\000\000˙\000\000\000¸\000\000\000¸\000\000\000¸\000\000\000¸\000\000\000˝\000\000\000˝\000\000\000ˇ\000\000\000ˇ\000\000\000ˇ\000\000\000ˇ\000\000\000ˇ\000\000\000ˇ\000\000\000ˇ\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000e\000\000\000\000\000\000\000\000\000\000\000");
-["DEBUG_Init"] = loadstring("LuaQ\000\000+\000\000\000\000\000\000\000@/Assets/mgo/script/tpplib/TppSequence.lua\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000");
-["IncrementContinueCount"] = loadstring("LuaQ\000\000+\000\000\000\000\000\000\000@/Assets/mgo/script/tpplib/TppSequence.lua\000\000\000\000\000\000\000\000\r\000\000\000\000\000\000@@\000E\000\000\000FÄ¿\000F\000Ä\000L¿¿\000Å\000\000ÄÄ\000Ä\000Ä≈\000\000\000∆Ä¿…@\000\000\000Ä\000\000\000\000\000\000\000\000\000\000\000svars\000\r\000\000\000\000\000\000\000seq_sequence\000\000\000\000\000\000\000\000seq_sequenceContinueCount\000\000\000\000\000\000\000?\000\000\000\000\000‡o@\000\000\000\000\r\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\
-\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000e\000\000\000\000\000\000\000\000\000\000\000\000\000\000n\000\000\000\000\000\000\000\000\000\000\000\000\000\000s\000\000\000\000\000\000\000\000\000\000\000");
-["SetOnEndMissionPrepareFunction"] = loadstring("LuaQ\000\000+\000\000\000\000\000\000\000@/Assets/mgo/script/tpplib/TppSequence.lua\000Ê\000\000\000Á\000\000\000\000\000\000\000\000E\000\000\000I\000ÄÄ\000Ä\000\000\000\000\000\000\000\000\000\000\000mvars\000 \000\000\000\000\000\000\000seq_onEndMissionPrepareFunction\000\000\000\000\000\000\000\000Ê\000\000\000Ê\000\000\000Á\000\000\000\000\000\000\000\000\000\000\000\000\000e\000\000\000\000\000\000\000\000\000\000\000\000");
-["MakeSequenceMessageExecTable"] = nil --[[functions with upvalue not supported]];
+{
+	["DoOnEndMissionPrepareFunction"] = [[loadstring()]];
+	["OnReload"] = [[upvalue]];
+	["GetCurrentSequenceIndex"] = [[loadstring()]];
+	["RegisterSequenceTable"] = [[upvalue]];
+	["ReserveNextSequence"] = [[upvalue]];
+	["GetSequenceNameWithIndex"] = [[loadstring()]];
+	["GetSequenceIndex"] = [[loadstring()]];
+	["OnChangeSVars"] = [[upvalue]];
+	["IsHelicopterStart"] = [[loadstring()]];
+	["GetCurrentSequenceName"] = [[upvalue]];
+	["SetMissionGameStartSequence"] = [[upvalue]];
+	["GetContinueCount"] = [[loadstring()]];
+	["IsLandContinue"] = [[upvalue]];
+	["IsEndSaving"] = [[upvalue]];
+	["IsMissionPrepareFinished"] = [[upvalue]];
+	["DebugUpdate"] = [[upvalue]];
+	["Update"] = [[loadstring()]];
+	["MakeSVarsTable"] = [[upvalue]];
+	["_scriptInstanceId"] = [[userdata]]
+	["GetMissionStartSequenceName"] = [[upvalue]];
+	["RegisterSequences"] = [[upvalue]];
+	["SetNextSequence"] = [[upvalue]];
+	["SaveMissionStartSequence"] = [[upvalue]];
+	["Init"] = [[upvalue]];
+	["_scriptPath"] = "TppSequence";
+	["MISSION_PREPARE_STATE"] = {
+		[1] = "START";
+		[2] = "WAIT_INITALIZE";
+		[3] = "WAIT_TEXTURE_LOADING";
+		[4] = "END_TEXTURE_LOADING";
+		[5] = "WAIT_SAVING_FILE";
+		[6] = "END_SAVING_FILE";
+		[7] = "FINISH";
+		["WAIT_SAVING_FILE"] = 5;
+		["END_TEXTURE_LOADING"] = 4;
+		["END_SAVING_FILE"] = 6;
+		["FINISH"] = 7;
+		["START"] = 1;
+		["WAIT_INITALIZE"] = 2;
+		["WAIT_TEXTURE_LOADING"] = 3;
+	};
+	["DeclareSVars"] = [[upvalue]];
+	["IsFirstLandStart"] = [[upvalue]];
+	["SYS_SEQUENCE_LENGTH"] = 1;
+	["OnMessage"] = [[loadstring()]];
+	["CanHandleSignInUserChangedException"] = [[loadstring()]];
+	["DEBUG_Init"] = [[loadstring()]];
+	["IncrementContinueCount"] = [[loadstring()]];
+	["SetOnEndMissionPrepareFunction"] = [[loadstring()]];
+	["MakeSequenceMessageExecTable"] = [[upvalue]];
+}

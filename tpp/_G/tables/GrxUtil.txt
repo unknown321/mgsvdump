@@ -1,2 +1,6 @@
-["_className"] = "GrxUtil";
-["CheckFrustumIntersection"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "GrxUtil";
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["CheckFrustumIntersection"] = [[upvalue]];
+}

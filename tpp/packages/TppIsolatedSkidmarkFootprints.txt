@@ -1,1 +1,3 @@
-["SetVisible"] = nil --[[non-lua function not supported]];
+{
+	["SetVisible"] = [[non-lua function]];
+}

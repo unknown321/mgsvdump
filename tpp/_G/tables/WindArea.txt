@@ -1,1 +1,5 @@
-["_className"] = "WindArea";
+{
+	["_className"] = "WindArea";
+	["__index"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+}

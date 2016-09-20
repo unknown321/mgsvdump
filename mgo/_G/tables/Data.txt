@@ -1,6 +1,10 @@
-["_className"] = "Data";
-["IsReference"] = nil --[[functions with upvalue not supported]];
-["GetDataBodyOnEditing"] = nil --[[functions with upvalue not supported]];
-["GetDataSet"] = nil --[[functions with upvalue not supported]];
-["GetDataBody"] = nil --[[functions with upvalue not supported]];
-["GetDataBodyWithReferrer"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "Data";
+	["IsReference"] = [[upvalue]];
+	["GetDataBodyOnEditing"] = [[upvalue]];
+	["GetDataSet"] = [[upvalue]];
+	["GetDataBody"] = [[upvalue]];
+	["GetDataBodyWithReferrer"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+}

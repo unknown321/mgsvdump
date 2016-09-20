@@ -1,2 +1,6 @@
-["_className"] = "TransformData";
-["GetChildren"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "TransformData";
+	["GetChildren"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+}

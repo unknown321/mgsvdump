@@ -1,2 +1,6 @@
-["_className"] = "UiFontGroupData";
-["SetFontDataElement"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "UiFontGroupData";
+	["SetFontDataElement"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+}

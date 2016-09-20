@@ -1,34 +1,28 @@
-["InitScriptBlockState"] = nil --[[functions with upvalue not supported]];
-["ReloadScriptBlock"] = nil --[[functions with upvalue not supported]];
-["RequestActivateByBlockId"] = nil --[[functions with upvalue not supported]];
-["SaveScriptBlockId"] = loadstring("LuaQ\000\000+\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppScriptBlock.lua\000e\000\000\000f\000\000\000\000\000\000\000\000Ö\000\000\000Ü@@¿\000\000\000úÄ\000≈Ä\000\000∆¿¿…ÄÄ\000\000Ä\000\000\000\000\000\000\000\000\000\000\000Fox\000\
-\000\000\000\000\000\000\000StrCode32\000\000\000\000\000\000\000\000svars\000\000\000\000\000\000\000\000sbl_scriptBlockName\000\000\000\000\000\000\000\000e\000\000\000e\000\000\000e\000\000\000e\000\000\000e\000\000\000e\000\000\000e\000\000\000f\000\000\000\000\000\000\000\000\000\000\000\000\000t\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000e\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000t\000\000\000\000\000\000\000\000\000\000\000");
-["FindPackList"] = loadstring("LuaQ\000\000+\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppScriptBlock.lua\000g\000\000\000k\000\000\000\000\000\000\000\000Ö\000\000\000Ü@@≈Ä\000\000∆¿¿úÄ\000ö\000\000\000@ÄÖÄ\000\000Ü¿@Ü\000\000ö\000\000\000\000ÄÖÄ\000\000Ü¿@Ü\000\000Ü@\000û\000\000\000Ä\000\000\000\000\000\000\000\000\000\000\000Tpp\000\000\000\000\000\000\000\000IsTypeTable\000\000\000\000\000\000\000\000mvars\000\000\000\000\000\000\000\000sbl_scriptBlockPackList\000\000\000\000\000\000\000\000g\000\000\000g\000\000\000g\000\000\000g\000\000\000g\000\000\000g\000\000\000g\000\000\000h\000\000\000h\000\000\000h\000\000\000h\000\000\000h\000\000\000i\000\000\000i\000\000\000i\000\000\000i\000\000\000i\000\000\000k\000\000\000\000\000\000\000\000\000\000\000\000\000e\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000t\000\000\000\000\000\000\000\000\000\000\000\000");
-["_scriptInstanceId"] = nil --[[userdata]]
-;
-["LoadDemoBlock"] = nil --[[functions with upvalue not supported]];
-["GetCurrentPackListName"] = loadstring("LuaQ\000\000+\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppScriptBlock.lua\000\000\000\000\000\000\000\000\000%\000\000\000E\000\000\000F@¿\000Ä\000\000\000\\Ä\000Ö\000\000\000ÜÄ@WÄÄ\000@ÄÖ¿\000\000Ü\000AÜ\000\000ö@\000\000\000\000Ä\000Ä\000≈@\000∆Ä¡∆@Ä¿¡\000\000Ä\000Ä\000\000@\000ÄÄEB\000FÇ¬ÄÄ\\Ç\000@Ç\000\000Äﬁ\000!Å\000\000Ä˝@\000ÄÇ\000\000\000û\000\000\000Ä\000\000\000\000\000\000\000\000\000\000\000ScriptBlock\000\000\000\000\000\000\000\000GetScriptBlockId\000\000\000\000\000\000\000\000SCRIPT_BLOCK_ID_INVALID\000\000\000\000\000\000\000\000mvars\000\000\000\000\000\000\000\000sbl_scriptBlockPackList\000\000\000\000\000\000\000\000svars\000\000\000\000\000\000\000\000sbl_scriptBlockPack\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000pairs\000\000\000\000\000\000\000\000Fox\000\
-\000\000\000\000\000\000\000StrCode32\000\000\000\000\000%\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\
-\000\000\000\
-\000\000\000\
-\000\000\000\
-\000\000\000\
-\000\000\000\000\000\000\r\000\000\000\r\000\000\000\r\000\000\000\r\000\000\000\r\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000t\000\000\000\000\000$\000\000\000\000\000\000\000\000\000\000e\000\000\000\000$\000\000\000\000\000\000\000\000\000\000t\000\000\000\000!\000\000\000\000\000\000\000\000\000\000e\000\000\000\000!\000\000\000\000\000\000\000\000\000\000(for generator)\000\000\000\000!\000\000\000\000\000\000\000\000\000\000(for state)\000\000\000\000!\000\000\000\000\000\000\000\000\000\000(for control)\000\000\000\000!\000\000\000\000\000\000\000\000\000\000t\000\000\000\000\000\000\000\000\000\000\000\000\000\000c\000\000\000\000\000\000\000\000\000\000\000");
-["OnAllocate"] = nil --[[functions with upvalue not supported]];
-["_scriptPath"] = "TppScriptBlock";
-["ClearSavedScriptBlockInfo"] = loadstring("LuaQ\000\000+\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppScriptBlock.lua\000µ\000\000\000∑\000\000\000\000\000\000\000\000Ö\000\000\000Ü@@âÄ@\000Ö\000\000\000Ü¿@âÄ@\000\000Ä\000\000\000\000\000\000\000\000\000\000\000svars\000\000\000\000\000\000\000\000sbl_scriptBlockName\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000sbl_scriptBlockPack\000\000\000\000\000\000\000\000µ\000\000\000µ\000\000\000µ\000\000\000∂\000\000\000∂\000\000\000∂\000\000\000∑\000\000\000\000\000\000\000\000\000\000\000\000\000e\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000t\000\000\000\000\000\000\000\000\000\000\000\000");
-["SetScriptBlockState"] = nil --[[functions with upvalue not supported]];
-["ResolveSavedScriptBlockInfo"] = nil --[[functions with upvalue not supported]];
-["DEBUG_PreloadRequest"] = nil --[[functions with upvalue not supported]];
-["DeactivateScriptBlockState"] = nil --[[functions with upvalue not supported]];
-["PreloadSettingOnMissionStart"] = nil --[[functions with upvalue not supported]];
-["DeclareSVars"] = nil --[[functions with upvalue not supported]];
-["RequestActivate"] = nil --[[functions with upvalue not supported]];
-["ActivateScriptBlockState"] = nil --[[functions with upvalue not supported]];
-["DEBUG_ClearPreloadRequest"] = nil --[[functions with upvalue not supported]];
-["PreloadRequestOnMissionStart"] = nil --[[functions with upvalue not supported]];
-["Unload"] = loadstring("LuaQ\000\000+\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppScriptBlock.lua\000_\000\000\000d\000\000\000\000\000\000\000\000E\000\000\000F@¿\000Ä\000\000\000\\Ä\000Ö\000\000\000ÜÄ@WÄÄ\000\000ÄÖ¿\000\000Ü\000Aâ@¡\000Ö\000\000\000ÜÄA¿\000Ä\000¡\000ú@Ä@\000ÄÇ\000\000\000û\000\000\000Ä\000\000\000\000\000\000\000\000\000\000\000ScriptBlock\000\000\000\000\000\000\000\000GetScriptBlockId\000\000\000\000\000\000\000\000SCRIPT_BLOCK_ID_INVALID\000\000\000\000\000\000\000\000svars\000\000\000\000\000\000\000\000sbl_scriptBlockPack\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Load\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000_\000\000\000_\000\000\000_\000\000\000_\000\000\000_\000\000\000_\000\000\000_\000\000\000_\000\000\000`\000\000\000`\000\000\000`\000\000\000a\000\000\000a\000\000\000a\000\000\000a\000\000\000a\000\000\000a\000\000\000b\000\000\000b\000\000\000d\000\000\000\000\000\000\000\000\000\000\000\000\000e\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000e\000\000\000\000\000\000\000\000\000\000\000");
-["RegisterCommonBlockPackList"] = nil --[[functions with upvalue not supported]];
-["FinalizeScriptBlockState"] = nil --[[functions with upvalue not supported]];
-["Load"] = nil --[[functions with upvalue not supported]];
-["IsRequestActivate"] = nil --[[functions with upvalue not supported]];
+{
+	["InitScriptBlockState"] = [[upvalue]];
+	["ReloadScriptBlock"] = [[upvalue]];
+	["RequestActivateByBlockId"] = [[upvalue]];
+	["SaveScriptBlockId"] = [[loadstring()]];
+	["FindPackList"] = [[loadstring()]];
+	["_scriptInstanceId"] = [[userdata]]
+	["LoadDemoBlock"] = [[upvalue]];
+	["GetCurrentPackListName"] = [[loadstring()]];
+	["OnAllocate"] = [[upvalue]];
+	["_scriptPath"] = "TppScriptBlock";
+	["ClearSavedScriptBlockInfo"] = [[loadstring()]];
+	["SetScriptBlockState"] = [[upvalue]];
+	["ResolveSavedScriptBlockInfo"] = [[upvalue]];
+	["DEBUG_PreloadRequest"] = [[upvalue]];
+	["DeactivateScriptBlockState"] = [[upvalue]];
+	["PreloadSettingOnMissionStart"] = [[upvalue]];
+	["DeclareSVars"] = [[upvalue]];
+	["RequestActivate"] = [[upvalue]];
+	["ActivateScriptBlockState"] = [[upvalue]];
+	["DEBUG_ClearPreloadRequest"] = [[upvalue]];
+	["PreloadRequestOnMissionStart"] = [[upvalue]];
+	["Unload"] = [[loadstring()]];
+	["RegisterCommonBlockPackList"] = [[upvalue]];
+	["FinalizeScriptBlockState"] = [[upvalue]];
+	["Load"] = [[upvalue]];
+	["IsRequestActivate"] = [[upvalue]];
+}

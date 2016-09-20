@@ -1,3 +1,5 @@
-["RegisterAnimEvent"] = nil --[[non-lua function not supported]];
-["Create"] = nil --[[non-lua function not supported]];
-["MakeLeftRightAnimEventPair"] = nil --[[non-lua function not supported]];
+{
+	["RegisterAnimEvent"] = [[non-lua function]];
+	["Create"] = [[non-lua function]];
+	["MakeLeftRightAnimEventPair"] = [[non-lua function]];
+}

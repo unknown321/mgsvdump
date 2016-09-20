@@ -1,3 +1,7 @@
-["_className"] = "CallbackProcedureTransformDataBody";
-["GetWorldMatrix"] = nil --[[functions with upvalue not supported]];
-["GetWorldTransform"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "CallbackProcedureTransformDataBody";
+	["GetWorldMatrix"] = [[upvalue]];
+	["GetWorldTransform"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+}

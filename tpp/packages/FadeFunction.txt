@@ -1,14 +1,16 @@
-["FadeCustomSetting"] = nil --[[non-lua function not supported]];
-["IsFadeProcessing"] = nil --[[non-lua function not supported]];
-["IsFadeOut"] = nil --[[non-lua function not supported]];
-["CallStrongFadeOut"] = nil --[[non-lua function not supported]];
-["InitFadeSetting"] = nil --[[non-lua function not supported]];
-["FadeSettingDump"] = nil --[[non-lua function not supported]];
-["CallFadeOut"] = nil --[[non-lua function not supported]];
-["ResetFadeTime"] = nil --[[non-lua function not supported]];
-["SetFadeColor"] = nil --[[non-lua function not supported]];
-["SetFadeCallEnable"] = nil --[[non-lua function not supported]];
-["FadeIgnore"] = nil --[[non-lua function not supported]];
-["ResetFadeColor"] = nil --[[non-lua function not supported]];
-["SetFadeTime"] = nil --[[non-lua function not supported]];
-["CallFadeIn"] = nil --[[non-lua function not supported]];
+{
+	["FadeCustomSetting"] = [[non-lua function]];
+	["IsFadeProcessing"] = [[non-lua function]];
+	["IsFadeOut"] = [[non-lua function]];
+	["CallStrongFadeOut"] = [[non-lua function]];
+	["InitFadeSetting"] = [[non-lua function]];
+	["FadeSettingDump"] = [[non-lua function]];
+	["CallFadeOut"] = [[non-lua function]];
+	["ResetFadeTime"] = [[non-lua function]];
+	["SetFadeColor"] = [[non-lua function]];
+	["SetFadeCallEnable"] = [[non-lua function]];
+	["FadeIgnore"] = [[non-lua function]];
+	["ResetFadeColor"] = [[non-lua function]];
+	["SetFadeTime"] = [[non-lua function]];
+	["CallFadeIn"] = [[non-lua function]];
+}

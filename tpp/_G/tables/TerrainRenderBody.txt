@@ -1,5 +1,9 @@
-["_className"] = "TerrainRenderBody";
-["GetNumBlocksHeight"] = nil --[[functions with upvalue not supported]];
-["ReloadWorldTextures"] = nil --[[functions with upvalue not supported]];
-["GetNumBlocksWidth"] = nil --[[functions with upvalue not supported]];
-["GetSize"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "TerrainRenderBody";
+	["GetNumBlocksHeight"] = [[upvalue]];
+	["ReloadWorldTextures"] = [[upvalue]];
+	["GetNumBlocksWidth"] = [[upvalue]];
+	["GetSize"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+}

@@ -1,5 +1,7 @@
-["SetEnabledOldCharacterSystem"] = nil --[[non-lua function not supported]];
-["IsMissionFullOpen"] = nil --[[non-lua function not supported]];
-["IsCombatTest2"] = nil --[[non-lua function not supported]];
-["UseAiSystem"] = nil --[[non-lua function not supported]];
-["IsCombatTest1"] = nil --[[non-lua function not supported]];
+{
+	["SetEnabledOldCharacterSystem"] = [[non-lua function]];
+	["IsMissionFullOpen"] = [[non-lua function]];
+	["IsCombatTest2"] = [[non-lua function]];
+	["UseAiSystem"] = [[non-lua function]];
+	["IsCombatTest1"] = [[non-lua function]];
+}

@@ -1,2 +1,6 @@
-["_className"] = "TppPauseMenu";
-["SetIgnoreActorPause"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "TppPauseMenu";
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["SetIgnoreActorPause"] = [[upvalue]];
+}

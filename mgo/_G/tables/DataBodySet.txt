@@ -1,3 +1,7 @@
-["_className"] = "DataBodySet";
-["GetDataBodyList"] = nil --[[functions with upvalue not supported]];
-["GetDataBody"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "DataBodySet";
+	["GetDataBodyList"] = [[upvalue]];
+	["GetDataBody"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+}

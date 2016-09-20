@@ -1,10 +1,14 @@
-["GetSize"] = nil --[[functions with upvalue not supported]];
-["GetNumBlocks"] = nil --[[functions with upvalue not supported]];
-["GetByName"] = nil --[[functions with upvalue not supported]];
-["GetBlockInfo"] = nil --[[functions with upvalue not supported]];
-["IsBlockLoaded"] = nil --[[functions with upvalue not supported]];
-["GetNumBlockObjects"] = nil --[[functions with upvalue not supported]];
-["GetBlockDataName"] = nil --[[functions with upvalue not supported]];
-["GetDataName"] = nil --[[functions with upvalue not supported]];
-["_className"] = "ObjectBrushBody";
-["IsExistBlockData"] = nil --[[functions with upvalue not supported]];
+{
+	["GetSize"] = [[upvalue]];
+	["GetNumBlocks"] = [[upvalue]];
+	["GetByName"] = [[upvalue]];
+	["GetBlockInfo"] = [[upvalue]];
+	["IsBlockLoaded"] = [[upvalue]];
+	["GetNumBlockObjects"] = [[upvalue]];
+	["GetBlockDataName"] = [[upvalue]];
+	["GetDataName"] = [[upvalue]];
+	["_className"] = "ObjectBrushBody";
+	["__index"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+	["IsExistBlockData"] = [[upvalue]];
+}

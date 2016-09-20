@@ -1,1 +1,1 @@
-local obj1 = nil --[[non-lua function not supported]]
+[[non-lua function]]

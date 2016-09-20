@@ -1,5 +1,7 @@
-["RemoveExtraCache"] = nil --[[non-lua function not supported]];
-["CreateExtraCache"] = nil --[[non-lua function not supported]];
-["ClearCache"] = nil --[[non-lua function not supported]];
-["DestroyInfoManager"] = nil --[[non-lua function not supported]];
-["CreateInfoManager"] = nil --[[non-lua function not supported]];
+{
+	["RemoveExtraCache"] = [[non-lua function]];
+	["CreateExtraCache"] = [[non-lua function]];
+	["ClearCache"] = [[non-lua function]];
+	["DestroyInfoManager"] = [[non-lua function]];
+	["CreateInfoManager"] = [[non-lua function]];
+}

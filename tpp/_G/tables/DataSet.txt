@@ -1,7 +1,11 @@
-["_className"] = "DataSet";
-["GetData"] = nil --[[functions with upvalue not supported]];
-["GetBucket"] = nil --[[functions with upvalue not supported]];
-["GetDataSetFile"] = nil --[[functions with upvalue not supported]];
-["GetAllDataList"] = nil --[[functions with upvalue not supported]];
-["GetRootTransformData"] = nil --[[functions with upvalue not supported]];
-["GetDataList"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "DataSet";
+	["GetData"] = [[upvalue]];
+	["GetBucket"] = [[upvalue]];
+	["GetDataSetFile"] = [[upvalue]];
+	["GetAllDataList"] = [[upvalue]];
+	["GetRootTransformData"] = [[upvalue]];
+	["GetDataList"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+}

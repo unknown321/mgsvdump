@@ -1,4 +1,8 @@
-["_className"] = "TppCoverPointProvider";
-["ClearAll"] = nil --[[functions with upvalue not supported]];
-["Create"] = nil --[[functions with upvalue not supported]];
-["CheckUsable"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "TppCoverPointProvider";
+	["ClearAll"] = [[upvalue]];
+	["Create"] = [[upvalue]];
+	["CheckUsable"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+}

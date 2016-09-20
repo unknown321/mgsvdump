@@ -1,8 +1,12 @@
-["_className"] = "NclDaemon";
-["SetWebserver"] = nil --[[functions with upvalue not supported]];
-["SetLogout"] = nil --[[functions with upvalue not supported]];
-["SetUrl"] = nil --[[functions with upvalue not supported]];
-["SetLogin"] = nil --[[functions with upvalue not supported]];
-["SetServer"] = nil --[[functions with upvalue not supported]];
-["GetInstance"] = nil --[[functions with upvalue not supported]];
-["IsLogin"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "NclDaemon";
+	["SetWebserver"] = [[upvalue]];
+	["SetLogout"] = [[upvalue]];
+	["SetUrl"] = [[upvalue]];
+	["SetLogin"] = [[upvalue]];
+	["SetServer"] = [[upvalue]];
+	["GetInstance"] = [[upvalue]];
+	["IsLogin"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+}

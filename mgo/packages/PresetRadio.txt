@@ -1,1 +1,3 @@
-["SetConfig"] = nil --[[non-lua function not supported]];
+{
+	["SetConfig"] = [[non-lua function]];
+}

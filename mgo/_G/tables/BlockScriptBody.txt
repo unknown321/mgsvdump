@@ -1,2 +1,6 @@
-["_className"] = "BlockScriptBody";
-["CreateQuark"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "BlockScriptBody";
+	["CreateQuark"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+}

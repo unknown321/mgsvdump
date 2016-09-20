@@ -1,1 +1,3 @@
-["SetGameFrameWaitType"] = nil --[[non-lua function not supported]];
+{
+	["SetGameFrameWaitType"] = [[non-lua function]];
+}

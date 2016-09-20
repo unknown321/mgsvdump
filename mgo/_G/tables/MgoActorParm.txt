@@ -1,3 +1,7 @@
-["_className"] = "MgoActorParm";
-["RemoveDynamicProperty"] = nil --[[functions with upvalue not supported]];
-["AddDynamicProperty"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "MgoActorParm";
+	["RemoveDynamicProperty"] = [[upvalue]];
+	["AddDynamicProperty"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+}

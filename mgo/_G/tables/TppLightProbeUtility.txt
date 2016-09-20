@@ -1,3 +1,7 @@
-["_className"] = "TppLightProbeUtility";
-["DebugSetLightRate"] = nil --[[functions with upvalue not supported]];
-["__call"] = nil --[[non-lua function not supported]];
+{
+	["_className"] = "TppLightProbeUtility";
+	["__newindex"] = [[upvalue]];
+	["DebugSetLightRate"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__call"] = [[non-lua function]];
+}

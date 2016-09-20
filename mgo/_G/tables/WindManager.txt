@@ -1,4 +1,8 @@
-["_className"] = "WindManager";
-["GetInstance"] = nil --[[functions with upvalue not supported]];
-["RestartTimer"] = nil --[[functions with upvalue not supported]];
-["__call"] = nil --[[non-lua function not supported]];
+{
+	["_className"] = "WindManager";
+	["GetInstance"] = [[upvalue]];
+	["RestartTimer"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__call"] = [[non-lua function]];
+}

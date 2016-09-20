@@ -1,1 +1,5 @@
-["_className"] = "EffectDescription";
+{
+	["_className"] = "EffectDescription";
+	["__index"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+}

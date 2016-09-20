@@ -1,35 +1,26 @@
-["SetCheckPointPosition"] = nil --[[functions with upvalue not supported]];
-["Messages"] = nil --[[functions with upvalue not supported]];
-["_RegisterCheckPoint"] = nil --[[functions with upvalue not supported]];
-["Enable"] = nil --[[functions with upvalue not supported]];
-["Update"] = nil --[[functions with upvalue not supported]];
-["RegisterCheckPointList"] = nil --[[functions with upvalue not supported]];
-["OnReload"] = nil --[[functions with upvalue not supported]];
-["IsEnable"] = nil --[[functions with upvalue not supported]];
-["OnAllocate"] = loadstring("LuaQ\000\000*\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppCheckPoint.lua\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000J\000\000\000@ÄÄ\000Ä\000\000\000\000\000\000\000\000\000\000\000mvars\000\000\000\000\000\000\000\000mis_checkPointList\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000");
-["_DoesBaseListInclude"] = loadstring("LuaQ\000\000*\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppCheckPoint.lua\000⁄\000\000\000„\000\000\000\000\000\000\000\000E\000\000\000F@¿\000Ä¿\000\000\000Ä\000Ä\000E¿\000\000Ö\000\000\000Ü@@\\\000¿\000Ä\000Ä@\000ÄÇÄ\000û\000aÄ\000\000@˛B\000\000\000^\000\000\000Ä\000\000\000\000\000\000\000\000\000\000\000mvars\000\r\000\000\000\000\000\000\000mis_baseList\000\000\000\000\000\000\000\000\000pairs\000\000\000\000\000\000\000\000⁄\000\000\000⁄\000\000\000⁄\000\000\000⁄\000\000\000€\000\000\000›\000\000\000›\000\000\000›\000\000\000›\000\000\000›\000\000\000ﬁ\000\000\000ﬁ\000\000\000ﬂ\000\000\000ﬂ\000\000\000›\000\000\000‡\000\000\000‚\000\000\000‚\000\000\000„\000\000\000\000\000\000\000\000\000\000\000\000\000n\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000(for generator)\000\000\000\000\000\000\000\000\000\000\000\000\000\000(for state)\000\000\000\000\000\000\000\000\000\000\000\000\000\000(for control)\000\000\000\000\000\000\000\000\000\000\000\000\000\000t\000\
-\000\000\000\000\000\000\000\000\000\000\000\000\000e\000\
-\000\000\000\000\000\000\000\000\000\000");
-["GetCheckPointLocator"] = nil --[[functions with upvalue not supported]];
-["_scriptInstanceId"] = nil --[[userdata]]
-;
-["Init"] = nil --[[functions with upvalue not supported]];
-["_scriptPath"] = "TppCheckPoint";
-["FindNearestCheckPoint"] = nil --[[functions with upvalue not supported]];
-["DeclareSVars"] = loadstring("LuaQ\000\000*\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppCheckPoint.lua\000\000\000\000\000\000\000\000\000\000#\000\000\000\
-\000ÄJ\000\000I@@ÄÖ¿\000\000Ü\000AIÄ\000ÅÖÄ\000Ü¿AIÄÄÇI@BÑI¿BÖI@CÜI@CáÖÄ\000Ü\000DIÄÄáä\000\000â@DÄ≈¿\000\000∆\000¡â¿\000Å≈Ä\000∆Äƒâ¿ÄÇâ@BÑâ¿BÖâ@CÜâ@Cá≈Ä\000∆\000ƒâ¿Äá√\000Ä\"@Ä\000\000\000Ä\000\000\000\000\000\000\000\000\000\000\000name\000\000\000\000\000\000\000\000chk_checkPointName\000\
-\000\000\000\000\000\000\000arraySize\000\
-\000\000\000\000\000\000\000TppDefine\000\000\000\000\000\000\000\000CHECK_POINT_MAX\000\000\000\000\000\000\000\000type\000\000\000\000\000\000\000\000TppScriptVars\000\000\000\000\000\000\000\000TYPE_UINT32\000\000\000\000\000\000\000\000value\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000save\000\000\000\000\000\000\000\000sync\000\000\000\000\000\000\000\000\000wait\000\000\000\000\000\000\000\000category\000\000\000\000\000\000\000\000CATEGORY_MISSION\000\000\000\000\000\000\000\000chk_checkPointEnable\000\
-\000\000\000\000\000\000\000TYPE_BOOL\000\000\000\000\000#\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000");
-["messageExecTable"] = {
-[2524903270] = {
-};
-};
-["_SetEnable"] = nil --[[functions with upvalue not supported]];
-["DebugUpdate"] = nil --[[functions with upvalue not supported]];
-["OnMessage"] = nil --[[functions with upvalue not supported]];
-["_DoesCheckPointListInclude"] = nil --[[functions with upvalue not supported]];
-["UpdateAtCurrentPosition"] = nil --[[functions with upvalue not supported]];
-["DEBUG_Init"] = loadstring("LuaQ\000\000*\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppCheckPoint.lua\000ò\000\000\000ò\000\000\000\000\000\000\r\000\000\000\000\000\000@@\000¿@Å\000\000\000\000A\000A@\000ÅÄ\000¡¿\000\000\000A@AÅ\000\000@\000\000Ä\000\000\000\000\000\000\000\000\000\000\000mvars\000\000\000\000\000\000\000\000debug\000\000\000\000\000\000\000\000showCheckPointList\000\000\r\000\000\000\000\000\000\000AddDebugMenu\000\000\000\000\000\000\000\000LuaCheckPoint\000\000\000\000\000\000\000\000CHK.showCheckPointList\000\000\000\000\000\000\000\000bool\000\000\000\000\000\r\000\000\000ò\000\000\000ò\000\000\000ò\000\000\000ò\000\000\000ò\000\000\000ò\000\000\000ò\000\000\000ò\000\000\000ò\000\000\000ò\000\000\000ò\000\000\000ò\000\000\000ò\000\000\000\000\000\000\000\000\000\000\000");
-["Reset"] = nil --[[functions with upvalue not supported]];
-["Disable"] = nil --[[functions with upvalue not supported]];
+{
+	["SetCheckPointPosition"] = [[upvalue]];
+	["Messages"] = [[upvalue]];
+	["_RegisterCheckPoint"] = [[upvalue]];
+	["Enable"] = [[upvalue]];
+	["Update"] = [[upvalue]];
+	["RegisterCheckPointList"] = [[upvalue]];
+	["OnReload"] = [[upvalue]];
+	["IsEnable"] = [[upvalue]];
+	["OnAllocate"] = [[loadstring()]];
+	["GetCheckPointLocator"] = [[upvalue]];
+	["_scriptInstanceId"] = [[userdata]]
+	["Init"] = [[upvalue]];
+	["_scriptPath"] = "TppCheckPoint";
+	["FindNearestCheckPoint"] = [[upvalue]];
+	["DeclareSVars"] = [[loadstring()]];
+	["_DoesBaseListInclude"] = [[loadstring()]];
+	["_SetEnable"] = [[upvalue]];
+	["DebugUpdate"] = [[upvalue]];
+	["OnMessage"] = [[upvalue]];
+	["_DoesCheckPointListInclude"] = [[upvalue]];
+	["UpdateAtCurrentPosition"] = [[upvalue]];
+	["DEBUG_Init"] = [[loadstring()]];
+	["Reset"] = [[upvalue]];
+	["Disable"] = [[upvalue]];
+}

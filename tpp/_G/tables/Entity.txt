@@ -1,14 +1,16 @@
-["AddProperty"] = nil --[[functions with upvalue not supported]];
-["_scriptPath"] = "Entity";
-["DebugGetEntityCount"] = nil --[[functions with upvalue not supported]];
-["GetPropertyInfo"] = nil --[[functions with upvalue not supported]];
-["IsMemberOf"] = nil --[[functions with upvalue not supported]];
-["_scriptInstanceId"] = nil --[[userdata]]
-;
-["_className"] = "Entity";
-["GetPropertyList"] = nil --[[functions with upvalue not supported]];
-["IsNull"] = loadstring("LuaQ\000\000 \000\000\000\000\000\000\000@Fox/Scripts/Classes/Entity.lua\000\000\000\000\000\000\000\000\000\000\000\000W\000@\000€\000€E@\000\000@\000\000€\000€B\000€\000^\000\000@\000€B\000\000\000^\000\000\000€\000\000\000\000\000\000\000\000\000\000\000\000NULL\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000n\000\000\000\000\000\
-\000\000\000\000\000\000\000");
-["GetClassName"] = nil --[[functions with upvalue not supported]];
-["IsKindOf"] = nil --[[functions with upvalue not supported]];
-["Null"] = loadstring("LuaQ\000\000 \000\000\000\000\000\000\000@Fox/Scripts/Classes/Entity.lua\000\000\000\000\000\000\000\000\000\000\000\000E\000\000\000^\000\000\000€\000\000\000\000\000\000\000\000\000\000\000NULL\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000n\000\000\000\000\000\000\000\000\000\000\000\000");
+{
+	["AddProperty"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+	["_scriptPath"] = "Entity";
+	["DebugGetEntityCount"] = [[upvalue]];
+	["GetPropertyInfo"] = [[upvalue]];
+	["IsMemberOf"] = [[upvalue]];
+	["_scriptInstanceId"] = [[userdata]]
+	["_className"] = "Entity";
+	["GetPropertyList"] = [[upvalue]];
+	["IsNull"] = [[loadstring()]];
+	["GetClassName"] = [[upvalue]];
+	["IsKindOf"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["Null"] = [[loadstring()]];
+}

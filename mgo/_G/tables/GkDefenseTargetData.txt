@@ -1,3 +1,7 @@
-["_className"] = "GkDefenseTargetData";
-["GetSuffererHandle"] = nil --[[functions with upvalue not supported]];
-["__call"] = nil --[[non-lua function not supported]];
+{
+	["_className"] = "GkDefenseTargetData";
+	["GetSuffererHandle"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__call"] = [[non-lua function]];
+}

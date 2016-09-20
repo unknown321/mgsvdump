@@ -1,2 +1,6 @@
-["_className"] = "GrPluginOpticalCamouflage";
-["__call"] = nil --[[non-lua function not supported]];
+{
+	["_className"] = "GrPluginOpticalCamouflage";
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__call"] = [[non-lua function]];
+}

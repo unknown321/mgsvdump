@@ -1,2 +1,6 @@
-["_className"] = "EnvironmentAreaBody";
-["SetEnable"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "EnvironmentAreaBody";
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["SetEnable"] = [[upvalue]];
+}

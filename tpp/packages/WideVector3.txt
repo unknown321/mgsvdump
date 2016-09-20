@@ -1,3 +1,5 @@
-["ToString"] = nil --[[non-lua function not supported]];
-["Zero"] = nil --[[non-lua function not supported]];
-["__call"] = nil --[[non-lua function not supported]];
+{
+	["ToString"] = [[non-lua function]];
+	["Zero"] = [[non-lua function]];
+	["__call"] = [[non-lua function]];
+}

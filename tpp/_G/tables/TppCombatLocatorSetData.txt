@@ -1,4 +1,8 @@
-["_className"] = "TppCombatLocatorSetData";
-["GetLocatorPosition"] = nil --[[functions with upvalue not supported]];
-["GetLocatorRadius"] = nil --[[functions with upvalue not supported]];
-["GetLocatorNum"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "TppCombatLocatorSetData";
+	["GetLocatorPosition"] = [[upvalue]];
+	["GetLocatorRadius"] = [[upvalue]];
+	["GetLocatorNum"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+}

@@ -1,3 +1,4 @@
-["_scriptPath"] = "MbmCommonSetting20BaseResSec";
-["_scriptInstanceId"] = nil --[[userdata]]
-;
+{
+	["_scriptPath"] = "MbmCommonSetting20BaseResSec";
+	["_scriptInstanceId"] = [[userdata]]
+}

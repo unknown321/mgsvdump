@@ -1,7 +1,11 @@
-["_className"] = "SoundSourceBody";
-["PostEvent"] = nil --[[functions with upvalue not supported]];
-["SetSwitch"] = nil --[[functions with upvalue not supported]];
-["SetRTPC"] = nil --[[functions with upvalue not supported]];
-["IsPlaying"] = nil --[[functions with upvalue not supported]];
-["StopEvent"] = nil --[[functions with upvalue not supported]];
-["ResetRTPC"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "SoundSourceBody";
+	["PostEvent"] = [[upvalue]];
+	["SetSwitch"] = [[upvalue]];
+	["SetRTPC"] = [[upvalue]];
+	["IsPlaying"] = [[upvalue]];
+	["StopEvent"] = [[upvalue]];
+	["ResetRTPC"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+}

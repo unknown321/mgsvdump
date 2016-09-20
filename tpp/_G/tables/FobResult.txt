@@ -1,13 +1,15 @@
-[-285212671] = {
-[255205664] = nil --[[functions with upvalue not supported]];
-[260435174] = nil --[[functions with upvalue not supported]];
-[217109281] = nil --[[functions with upvalue not supported]];
-[53981570] = nil --[[functions with upvalue not supported]];
-[25569531] = nil --[[functions with upvalue not supported]];
-[212307629] = nil --[[functions with upvalue not supported]];
-[151118518] = nil --[[functions with upvalue not supported]];
-[85988659] = nil --[[functions with upvalue not supported]];
-};
-[-285212672] = 4;
-
-
+{
+	[-285212671] = {
+		[255205664] = [[upvalue]];
+		[260435174] = [[upvalue]];
+		[217109281] = [[upvalue]];
+		[53981570] = [[upvalue]];
+		[25569531] = [[upvalue]];
+		[212307629] = [[upvalue]];
+		[151118518] = [[upvalue]];
+		[85988659] = [[upvalue]];
+	};
+	[-285212672] = 4;
+	["__newindex"] = [[non-lua function]];
+	["__index"] = [[non-lua function]];
+}

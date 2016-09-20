@@ -1,232 +1,233 @@
-["UNIT_LIST"] = {
-[27] = {
-[1] = 5;
-};
-[2] = {
-[1] = 1;
-};
-[3] = {
-[1] = 0;
-[2] = 2;
-};
-[4] = {
-[1] = 0;
-[2] = 2;
-[3] = 3;
-};
-[5] = {
-[1] = 0;
-[2] = 2;
-[3] = 3;
-[4] = 4;
-};
-[6] = {
-[1] = 1;
-[2] = 5;
-};
-[7] = {
-[1] = 1;
-[2] = 5;
-[3] = 6;
-};
-[8] = {
-[1] = 0;
-};
-[10] = {
-[1] = 2;
-};
-[12] = {
-[1] = 4;
-};
-[14] = {
-[1] = 6;
-};
-[16] = {
-[1] = 8;
-[2] = 9;
-};
-[20] = {
-[1] = 15;
-};
-[24] = {
-[1] = 1;
-[2] = 2;
-};
-[28] = {
-[1] = 6;
-};
-[32] = {
-[1] = 11;
-};
-[33] = {
-[1] = 12;
-};
-[17] = {
-[1] = 10;
-};
-[21] = {
-[1] = 16;
-};
-[25] = {
-[1] = 3;
-};
-[29] = {
-[1] = 7;
-};
-[34] = {
-[1] = 12;
-[2] = 13;
-};
-[9] = {
-[1] = 1;
-};
-[11] = {
-[1] = 3;
-};
-[13] = {
-[1] = 5;
-};
-[15] = {
-[1] = 7;
-};
-[18] = {
-[1] = 11;
-[2] = 12;
-};
-[22] = {
-[1] = 17;
-};
-[26] = {
-[1] = 4;
-};
-[30] = {
-[1] = 8;
-[2] = 9;
-};
-[36] = {
-[1] = 12;
-[2] = 15;
-};
-[37] = {
-[1] = 12;
-[2] = 16;
-};
-[35] = {
-[1] = 12;
-[2] = 14;
-};
-[1] = {
-[1] = 0;
-};
-[19] = {
-[1] = 13;
-[2] = 14;
-};
-[23] = {
-[1] = 0;
-};
-[31] = {
-[1] = 10;
-};
-};
-["GROUP_ID_LIST"] = {
-[27] = 2;
-[2] = 0;
-[3] = 0;
-[4] = 0;
-[5] = 0;
-[6] = 0;
-[7] = 0;
-[8] = 1;
-[10] = 1;
-[12] = 1;
-[14] = 1;
-[16] = 1;
-[20] = 1;
-[24] = 2;
-[28] = 2;
-[32] = 2;
-[33] = 2;
-[17] = 1;
-[21] = 1;
-[25] = 2;
-[29] = 2;
-[34] = 2;
-[9] = 1;
-[11] = 1;
-[13] = 1;
-[15] = 1;
-[18] = 1;
-[22] = 1;
-[26] = 2;
-[30] = 2;
-[36] = 2;
-[37] = 2;
-[35] = 2;
-[1] = 0;
-[19] = 1;
-[23] = 2;
-[31] = 2;
-};
-["MESH_LIST"] = {
-[40] = "MESH_40";
-[39] = "MESH_39";
-[38] = "MESH_38";
-[41] = "MESH_41";
-};
-["_scriptPath"] = "heli_common_photo";
-["DEBUG_ForceShow"] = nil --[[functions with upvalue not supported]];
-["_scriptInstanceId"] = nil --[[userdata]]
-;
-["OnBuddyBlockLoad"] = nil --[[functions with upvalue not supported]];
-["Show"] = nil --[[functions with upvalue not supported]];
-["HideMESH"] = nil --[[functions with upvalue not supported]];
-["DEBUG_DumpConditionResult"] = nil --[[functions with upvalue not supported]];
-["DEBUG_IsForceShow"] = nil --[[functions with upvalue not supported]];
-["DEBUG_ClearForceShow"] = nil --[[functions with upvalue not supported]];
-["ShowMESH"] = nil --[[functions with upvalue not supported]];
-["OPEN_CONDITION_LIST"] = {
-[27] = nil --[[functions with upvalue not supported]];
-[2] = nil --[[functions with upvalue not supported]];
-[38] = nil --[[functions with upvalue not supported]];
-[3] = nil --[[functions with upvalue not supported]];
-[4] = nil --[[functions with upvalue not supported]];
-[5] = nil --[[functions with upvalue not supported]];
-[6] = nil --[[functions with upvalue not supported]];
-[7] = nil --[[functions with upvalue not supported]];
-[8] = loadstring("LuaQ\000\000>\000\000\000\000\000\000\000@/Assets/tpp/level/mission2/heli/common/heli_common_photo.lua\000¸\000\000\000º\000\000\000\000\000\000\000\000\000\000€\000\000\000\000€\000\000\000\000\000\000\000\000\000\000\000\000¹\000\000\000¹\000\000\000º\000\000\000\000\000\000\000\000\000\000\000");
-[10] = loadstring("LuaQ\000\000>\000\000\000\000\000\000\000@/Assets/tpp/level/mission2/heli/common/heli_common_photo.lua\000¾\000\000\000À\000\000\000\000\000\000\000\000\000\000€\000\000\000\000€\000\000\000\000\000\000\000\000\000\000\000\000¿\000\000\000¿\000\000\000À\000\000\000\000\000\000\000\000\000\000\000");
-[12] = nil --[[functions with upvalue not supported]];
-[14] = nil --[[functions with upvalue not supported]];
-[16] = nil --[[functions with upvalue not supported]];
-[20] = nil --[[functions with upvalue not supported]];
-[24] = nil --[[functions with upvalue not supported]];
-[28] = nil --[[functions with upvalue not supported]];
-[32] = nil --[[functions with upvalue not supported]];
-[40] = nil --[[functions with upvalue not supported]];
-[33] = nil --[[functions with upvalue not supported]];
-[41] = nil --[[functions with upvalue not supported]];
-[17] = nil --[[functions with upvalue not supported]];
-[21] = nil --[[functions with upvalue not supported]];
-[25] = nil --[[functions with upvalue not supported]];
-[29] = loadstring("LuaQ\000\000>\000\000\000\000\000\000\000@/Assets/tpp/level/mission2/heli/common/heli_common_photo.lua\000¡\000\000§\000\000\000\000\000\000\000\000\000\000\000@@\000€€\000\000\000€\000€\000€\000\000\000@\000€\000\000\000\000\000\000€\000\000\000\000\000\000\000\000\000\000\000TppTerminal\000\000\000\000\000\000\000\000GetRecoveredHostageCount\000\000\000\000\000\000\000$@\000\000\000\000\000\000\000¢\000\000¢\000\000¢\000\000¢\000\000¢\000\000£\000\000£\000\000£\000\000¥\000\000¥\000\000§\000\000\000\000\000\000\000\000\000\000");
-[34] = nil --[[functions with upvalue not supported]];
-[42] = nil --[[functions with upvalue not supported]];
-[9] = loadstring("LuaQ\000\000>\000\000\000\000\000\000\000@/Assets/tpp/level/mission2/heli/common/heli_common_photo.lua\000»\000\000\000½\000\000\000\000\000\000\000\000\000\000€\000\000\000\000€\000\000\000\000\000\000\000\000\000\000\000\000¼\000\000\000¼\000\000\000½\000\000\000\000\000\000\000\000\000\000\000");
-[11] = loadstring("LuaQ\000\000>\000\000\000\000\000\000\000@/Assets/tpp/level/mission2/heli/common/heli_common_photo.lua\000Á\000\000\000Ã\000\000\000\000\000\000\000\000\000\000€\000\000\000\000€\000\000\000\000\000\000\000\000\000\000\000\000Â\000\000\000Â\000\000\000Ã\000\000\000\000\000\000\000\000\000\000\000");
-[13] = nil --[[functions with upvalue not supported]];
-[15] = nil --[[functions with upvalue not supported]];
-[18] = nil --[[functions with upvalue not supported]];
-[22] = nil --[[functions with upvalue not supported]];
-[26] = nil --[[functions with upvalue not supported]];
-[30] = nil --[[functions with upvalue not supported]];
-[36] = nil --[[functions with upvalue not supported]];
-[37] = nil --[[functions with upvalue not supported]];
-[39] = nil --[[functions with upvalue not supported]];
-[35] = nil --[[functions with upvalue not supported]];
-[1] = loadstring("LuaQ\000\000>\000\000\000\000\000\000\000@/Assets/tpp/level/mission2/heli/common/heli_common_photo.lua\000e\000\000\000g\000\000\000\000\000\000\000\000\000\000€\000\000\000\000€\000\000\000\000\000\000\000\000\000\000\000\000f\000\000\000f\000\000\000g\000\000\000\000\000\000\000\000\000\000\000");
-[19] = nil --[[functions with upvalue not supported]];
-[23] = nil --[[functions with upvalue not supported]];
-[31] = nil --[[functions with upvalue not supported]];
-};
-["OnRestoreSVars"] = nil --[[functions with upvalue not supported]];
+{
+	["UNIT_LIST"] = {
+		[27] = {
+			[1] = 5;
+		};
+		[2] = {
+			[1] = 1;
+		};
+		[3] = {
+			[1] = 0;
+			[2] = 2;
+		};
+		[4] = {
+			[1] = 0;
+			[2] = 2;
+			[3] = 3;
+		};
+		[5] = {
+			[1] = 0;
+			[2] = 2;
+			[3] = 3;
+			[4] = 4;
+		};
+		[6] = {
+			[1] = 1;
+			[2] = 5;
+		};
+		[7] = {
+			[1] = 1;
+			[2] = 5;
+			[3] = 6;
+		};
+		[8] = {
+			[1] = 0;
+		};
+		[10] = {
+			[1] = 2;
+		};
+		[12] = {
+			[1] = 4;
+		};
+		[14] = {
+			[1] = 6;
+		};
+		[16] = {
+			[1] = 8;
+			[2] = 9;
+		};
+		[20] = {
+			[1] = 15;
+		};
+		[24] = {
+			[1] = 1;
+			[2] = 2;
+		};
+		[28] = {
+			[1] = 6;
+		};
+		[32] = {
+			[1] = 11;
+		};
+		[33] = {
+			[1] = 12;
+		};
+		[17] = {
+			[1] = 10;
+		};
+		[21] = {
+			[1] = 16;
+		};
+		[25] = {
+			[1] = 3;
+		};
+		[29] = {
+			[1] = 7;
+		};
+		[34] = {
+			[1] = 12;
+			[2] = 13;
+		};
+		[9] = {
+			[1] = 1;
+		};
+		[11] = {
+			[1] = 3;
+		};
+		[13] = {
+			[1] = 5;
+		};
+		[15] = {
+			[1] = 7;
+		};
+		[18] = {
+			[1] = 11;
+			[2] = 12;
+		};
+		[22] = {
+			[1] = 17;
+		};
+		[26] = {
+			[1] = 4;
+		};
+		[30] = {
+			[1] = 8;
+			[2] = 9;
+		};
+		[36] = {
+			[1] = 12;
+			[2] = 15;
+		};
+		[37] = {
+			[1] = 12;
+			[2] = 16;
+		};
+		[35] = {
+			[1] = 12;
+			[2] = 14;
+		};
+		[1] = {
+			[1] = 0;
+		};
+		[19] = {
+			[1] = 13;
+			[2] = 14;
+		};
+		[23] = {
+			[1] = 0;
+		};
+		[31] = {
+			[1] = 10;
+		};
+	};
+	["GROUP_ID_LIST"] = {
+		[27] = 2;
+		[2] = 0;
+		[3] = 0;
+		[4] = 0;
+		[5] = 0;
+		[6] = 0;
+		[7] = 0;
+		[8] = 1;
+		[10] = 1;
+		[12] = 1;
+		[14] = 1;
+		[16] = 1;
+		[20] = 1;
+		[24] = 2;
+		[28] = 2;
+		[32] = 2;
+		[33] = 2;
+		[17] = 1;
+		[21] = 1;
+		[25] = 2;
+		[29] = 2;
+		[34] = 2;
+		[9] = 1;
+		[11] = 1;
+		[13] = 1;
+		[15] = 1;
+		[18] = 1;
+		[22] = 1;
+		[26] = 2;
+		[30] = 2;
+		[36] = 2;
+		[37] = 2;
+		[35] = 2;
+		[1] = 0;
+		[19] = 1;
+		[23] = 2;
+		[31] = 2;
+	};
+	["MESH_LIST"] = {
+		[40] = "MESH_40";
+		[39] = "MESH_39";
+		[38] = "MESH_38";
+		[41] = "MESH_41";
+	};
+	["_scriptPath"] = "heli_common_photo";
+	["DEBUG_ForceShow"] = [[upvalue]];
+	["_scriptInstanceId"] = [[userdata]]
+	["OnBuddyBlockLoad"] = [[upvalue]];
+	["Show"] = [[upvalue]];
+	["HideMESH"] = [[upvalue]];
+	["DEBUG_DumpConditionResult"] = [[upvalue]];
+	["DEBUG_IsForceShow"] = [[upvalue]];
+	["DEBUG_ClearForceShow"] = [[upvalue]];
+	["ShowMESH"] = [[upvalue]];
+	["OPEN_CONDITION_LIST"] = {
+		[27] = [[upvalue]];
+		[2] = [[upvalue]];
+		[38] = [[upvalue]];
+		[3] = [[upvalue]];
+		[4] = [[upvalue]];
+		[5] = [[upvalue]];
+		[6] = [[upvalue]];
+		[7] = [[upvalue]];
+		[8] = [[loadstring()]];
+		[10] = [[loadstring()]];
+		[12] = [[upvalue]];
+		[14] = [[upvalue]];
+		[16] = [[upvalue]];
+		[20] = [[upvalue]];
+		[24] = [[upvalue]];
+		[28] = [[upvalue]];
+		[32] = [[upvalue]];
+		[40] = [[upvalue]];
+		[33] = [[upvalue]];
+		[41] = [[upvalue]];
+		[17] = [[upvalue]];
+		[21] = [[upvalue]];
+		[25] = [[upvalue]];
+		[29] = [[loadstring()]];
+		[34] = [[upvalue]];
+		[42] = [[upvalue]];
+		[9] = [[loadstring()]];
+		[11] = [[loadstring()]];
+		[13] = [[upvalue]];
+		[15] = [[upvalue]];
+		[18] = [[upvalue]];
+		[22] = [[upvalue]];
+		[26] = [[upvalue]];
+		[30] = [[upvalue]];
+		[36] = [[upvalue]];
+		[37] = [[upvalue]];
+		[39] = [[upvalue]];
+		[35] = [[upvalue]];
+		[1] = [[loadstring()]];
+		[19] = [[upvalue]];
+		[23] = [[upvalue]];
+		[31] = [[upvalue]];
+	};
+	["OnRestoreSVars"] = [[upvalue]];
+}

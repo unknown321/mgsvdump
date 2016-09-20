@@ -1,5 +1,7 @@
-["Unregister"] = nil --[[non-lua function not supported]];
-["Register"] = nil --[[non-lua function not supported]];
-["SearchObjectSquarePyramid"] = nil --[[non-lua function not supported]];
-["SearchObjectSphere"] = nil --[[non-lua function not supported]];
-["SearchObject"] = nil --[[non-lua function not supported]];
+{
+	["Unregister"] = [[non-lua function]];
+	["Register"] = [[non-lua function]];
+	["SearchObjectSquarePyramid"] = [[non-lua function]];
+	["SearchObjectSphere"] = [[non-lua function]];
+	["SearchObject"] = [[non-lua function]];
+}

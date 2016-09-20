@@ -1,1 +1,5 @@
-["_className"] = "TppLadderEntryPointData";
+{
+	["_className"] = "TppLadderEntryPointData";
+	["__index"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+}

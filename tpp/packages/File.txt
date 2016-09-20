@@ -1,6 +1,10 @@
-["_className"] = "File";
-["GetReferenceCount"] = nil --[[functions with upvalue not supported]];
-["GetBlockPackagePath"] = nil --[[functions with upvalue not supported]];
-["GetFileListTable"] = nil --[[functions with upvalue not supported]];
-["ReloadRequest"] = nil --[[functions with upvalue not supported]];
-["ReloadRequestAll"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "File";
+	["GetReferenceCount"] = [[upvalue]];
+	["GetBlockPackagePath"] = [[upvalue]];
+	["GetFileListTable"] = [[upvalue]];
+	["ReloadRequest"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+	["ReloadRequestAll"] = [[upvalue]];
+}

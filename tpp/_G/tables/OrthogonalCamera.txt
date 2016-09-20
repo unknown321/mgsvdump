@@ -1,2 +1,6 @@
-["_className"] = "OrthogonalCamera";
-["SetProjectionScale"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "OrthogonalCamera";
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["SetProjectionScale"] = [[upvalue]];
+}

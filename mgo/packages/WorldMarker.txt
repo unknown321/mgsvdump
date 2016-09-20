@@ -1,6 +1,8 @@
-["SetPosition"] = nil --[[non-lua function not supported]];
-["CreateMarkerControl"] = nil --[[non-lua function not supported]];
-["SetUserData"] = nil --[[non-lua function not supported]];
-["SetAdditionalFlag"] = nil --[[non-lua function not supported]];
-["EnableMarker"] = nil --[[non-lua function not supported]];
-["DisableMarker"] = nil --[[non-lua function not supported]];
+{
+	["SetPosition"] = [[non-lua function]];
+	["CreateMarkerControl"] = [[non-lua function]];
+	["SetUserData"] = [[non-lua function]];
+	["SetAdditionalFlag"] = [[non-lua function]];
+	["EnableMarker"] = [[non-lua function]];
+	["DisableMarker"] = [[non-lua function]];
+}

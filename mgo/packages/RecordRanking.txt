@@ -1,4 +1,6 @@
-["GetMissionBordId"] = nil --[[non-lua function not supported]];
-["GetMissionLimitBordId"] = nil --[[non-lua function not supported]];
-["RegistRanking"] = nil --[[non-lua function not supported]];
-["IsRankingBusy"] = nil --[[non-lua function not supported]];
+{
+	["GetMissionBordId"] = [[non-lua function]];
+	["GetMissionLimitBordId"] = [[non-lua function]];
+	["RegistRanking"] = [[non-lua function]];
+	["IsRankingBusy"] = [[non-lua function]];
+}

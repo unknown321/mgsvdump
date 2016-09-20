@@ -1,3 +1,5 @@
-["AndCheckStatus"] = nil --[[non-lua function not supported]];
-["OrCheckStatus"] = nil --[[non-lua function not supported]];
-["GetLocalPlayerIndex"] = nil --[[non-lua function not supported]];
+{
+	["AndCheckStatus"] = [[non-lua function]];
+	["OrCheckStatus"] = [[non-lua function]];
+	["GetLocalPlayerIndex"] = [[non-lua function]];
+}

@@ -1,2 +1,4 @@
-["SetReadLpshDebugLogDisable"] = nil --[[non-lua function not supported]];
-["SetReadLpshDebugLogEnable"] = nil --[[non-lua function not supported]];
+{
+	["SetReadLpshDebugLogDisable"] = [[non-lua function]];
+	["SetReadLpshDebugLogEnable"] = [[non-lua function]];
+}

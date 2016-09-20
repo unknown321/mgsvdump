@@ -1,1 +1,1 @@
-local obj1 = nil --[[userdata]]
+[[userdata]]

@@ -1,8 +1,12 @@
-["_className"] = "CameraSelector";
-["SetMainListener"] = nil --[[functions with upvalue not supported]];
-["GetViewportName"] = nil --[[functions with upvalue not supported]];
-["SetMainInstance"] = nil --[[functions with upvalue not supported]];
-["DumpActiveCamera"] = nil --[[functions with upvalue not supported]];
-["GetRenderName"] = nil --[[functions with upvalue not supported]];
-["GetMainInstance"] = nil --[[functions with upvalue not supported]];
-["__call"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "CameraSelector";
+	["SetMainListener"] = [[upvalue]];
+	["GetViewportName"] = [[upvalue]];
+	["SetMainInstance"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+	["DumpActiveCamera"] = [[upvalue]];
+	["GetRenderName"] = [[upvalue]];
+	["GetMainInstance"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__call"] = [[upvalue]];
+}

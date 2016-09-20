@@ -1,1 +1,3 @@
-["SetupDefaultLoadoutToChar"] = nil --[[non-lua function not supported]];
+{
+	["SetupDefaultLoadoutToChar"] = [[non-lua function]];
+}

@@ -1,6 +1,10 @@
-["_className"] = "PhMaterialInfo";
-["SetDensity"] = nil --[[functions with upvalue not supported]];
-["SetName"] = nil --[[functions with upvalue not supported]];
-["SetFriction"] = nil --[[functions with upvalue not supported]];
-["SetRestitution"] = nil --[[functions with upvalue not supported]];
-["__call"] = nil --[[non-lua function not supported]];
+{
+	["_className"] = "PhMaterialInfo";
+	["SetDensity"] = [[upvalue]];
+	["SetName"] = [[upvalue]];
+	["SetFriction"] = [[upvalue]];
+	["SetRestitution"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__call"] = [[non-lua function]];
+}

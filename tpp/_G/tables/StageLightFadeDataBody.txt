@@ -1,5 +1,9 @@
-["StageLightOff"] = nil --[[functions with upvalue not supported]];
-["StageLightOn"] = nil --[[functions with upvalue not supported]];
-["FadeIn"] = nil --[[functions with upvalue not supported]];
-["FadeOut"] = nil --[[functions with upvalue not supported]];
-["_className"] = "StageLightFadeDataBody";
+{
+	["StageLightOff"] = [[upvalue]];
+	["StageLightOn"] = [[upvalue]];
+	["FadeIn"] = [[upvalue]];
+	["FadeOut"] = [[upvalue]];
+	["_className"] = "StageLightFadeDataBody";
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+}

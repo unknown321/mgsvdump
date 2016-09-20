@@ -1,34 +1,36 @@
-[-285212671] = {
-[221490496] = nil --[[functions with upvalue not supported]];
-[157913616] = nil --[[functions with upvalue not supported]];
-[234492273] = nil --[[functions with upvalue not supported]];
-[135245845] = nil --[[functions with upvalue not supported]];
-[162494373] = nil --[[functions with upvalue not supported]];
-[265759892] = nil --[[functions with upvalue not supported]];
-[181488140] = nil --[[functions with upvalue not supported]];
-[153127394] = nil --[[functions with upvalue not supported]];
-[128108682] = nil --[[functions with upvalue not supported]];
-[112246466] = nil --[[functions with upvalue not supported]];
-[103308762] = nil --[[functions with upvalue not supported]];
-[255279206] = nil --[[functions with upvalue not supported]];
-[214742119] = nil --[[functions with upvalue not supported]];
-[237996540] = nil --[[functions with upvalue not supported]];
-[105689516] = nil --[[functions with upvalue not supported]];
-[85558648] = nil --[[functions with upvalue not supported]];
-[267975348] = nil --[[functions with upvalue not supported]];
-[59941020] = nil --[[functions with upvalue not supported]];
-[86042809] = nil --[[functions with upvalue not supported]];
-[93121404] = nil --[[functions with upvalue not supported]];
-[109720908] = nil --[[functions with upvalue not supported]];
-[264400820] = nil --[[functions with upvalue not supported]];
-[149938493] = nil --[[functions with upvalue not supported]];
-[170014834] = nil --[[functions with upvalue not supported]];
-[15142215] = nil --[[functions with upvalue not supported]];
-[207408419] = nil --[[functions with upvalue not supported]];
-[141649608] = nil --[[functions with upvalue not supported]];
-[248023848] = nil --[[functions with upvalue not supported]];
-[39916277] = nil --[[functions with upvalue not supported]];
-};
-[-285212672] = 4;
-
-
+{
+	[-285212671] = {
+		[221490496] = [[upvalue]];
+		[157913616] = [[upvalue]];
+		[234492273] = [[upvalue]];
+		[135245845] = [[upvalue]];
+		[162494373] = [[upvalue]];
+		[265759892] = [[upvalue]];
+		[181488140] = [[upvalue]];
+		[153127394] = [[upvalue]];
+		[128108682] = [[upvalue]];
+		[112246466] = [[upvalue]];
+		[103308762] = [[upvalue]];
+		[255279206] = [[upvalue]];
+		[214742119] = [[upvalue]];
+		[237996540] = [[upvalue]];
+		[105689516] = [[upvalue]];
+		[85558648] = [[upvalue]];
+		[267975348] = [[upvalue]];
+		[59941020] = [[upvalue]];
+		[86042809] = [[upvalue]];
+		[93121404] = [[upvalue]];
+		[109720908] = [[upvalue]];
+		[264400820] = [[upvalue]];
+		[149938493] = [[upvalue]];
+		[170014834] = [[upvalue]];
+		[15142215] = [[upvalue]];
+		[207408419] = [[upvalue]];
+		[141649608] = [[upvalue]];
+		[248023848] = [[upvalue]];
+		[39916277] = [[upvalue]];
+	};
+	[-285212672] = 4;
+	["__newindex"] = [[non-lua function]];
+	["__index"] = [[non-lua function]];
+}

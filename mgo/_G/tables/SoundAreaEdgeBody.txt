@@ -1,3 +1,7 @@
-["OverwriteParameter"] = nil --[[functions with upvalue not supported]];
-["CancelParameter"] = nil --[[functions with upvalue not supported]];
-["_className"] = "SoundAreaEdgeBody";
+{
+	["OverwriteParameter"] = [[upvalue]];
+	["CancelParameter"] = [[upvalue]];
+	["_className"] = "SoundAreaEdgeBody";
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+}

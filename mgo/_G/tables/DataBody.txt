@@ -1,1 +1,5 @@
-["_className"] = "DataBody";
+{
+	["_className"] = "DataBody";
+	["__index"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+}

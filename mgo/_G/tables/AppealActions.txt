@@ -1,3 +1,4 @@
-["_scriptPath"] = "AppealActions";
-["_scriptInstanceId"] = nil --[[userdata]]
-;
+{
+	["_scriptPath"] = "AppealActions";
+	["_scriptInstanceId"] = [[userdata]]
+}

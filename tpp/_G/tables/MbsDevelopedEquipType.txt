@@ -1,33 +1,35 @@
-[-285212671] = {
-["GRENADE"] = nil --[[functions with upvalue not supported]];
-["SG_4020"] = nil --[[functions with upvalue not supported]];
-["FULTON_16001"] = nil --[[functions with upvalue not supported]];
-["SWIMWEAR"] = nil --[[functions with upvalue not supported]];
-["ANTI_SLEEP"] = nil --[[functions with upvalue not supported]];
-["SG_4035_NOKILL"] = nil --[[functions with upvalue not supported]];
-["SM_2014"] = nil --[[functions with upvalue not supported]];
-["SNEAKING_SUIT"] = nil --[[functions with upvalue not supported]];
-["AR_3030"] = nil --[[functions with upvalue not supported]];
-["SR_6030"] = nil --[[functions with upvalue not supported]];
-["SR_6010"] = nil --[[functions with upvalue not supported]];
-["SM_2010"] = nil --[[functions with upvalue not supported]];
-["SD_9000"] = nil --[[functions with upvalue not supported]];
-["SR_6005_NOKILL"] = nil --[[functions with upvalue not supported]];
-["SM_2020"] = nil --[[functions with upvalue not supported]];
-["MS_8013_NOKILL"] = nil --[[functions with upvalue not supported]];
-["AR_3036"] = nil --[[functions with upvalue not supported]];
-["SR_6037_NOKILL"] = nil --[[functions with upvalue not supported]];
-["MG_7000"] = nil --[[functions with upvalue not supported]];
-["BATTLE_DRESS"] = nil --[[functions with upvalue not supported]];
-["SG_4027_NOKILL"] = nil --[[functions with upvalue not supported]];
-["MS_8020"] = nil --[[functions with upvalue not supported]];
-["SG_4040"] = nil --[[functions with upvalue not supported]];
-["FULTON_16008"] = nil --[[functions with upvalue not supported]];
-["STUN_GRENADE"] = nil --[[functions with upvalue not supported]];
-["AR_3060_NOKILL"] = nil --[[functions with upvalue not supported]];
-["SM_2040_NOKILL"] = nil --[[functions with upvalue not supported]];
-["SR_6015_NOKILL"] = nil --[[functions with upvalue not supported]];
-};
-[-285212672] = 0;
-
-
+{
+	[-285212671] = {
+		["GRENADE"] = [[upvalue]];
+		["SG_4020"] = [[upvalue]];
+		["FULTON_16001"] = [[upvalue]];
+		["SWIMWEAR"] = [[upvalue]];
+		["ANTI_SLEEP"] = [[upvalue]];
+		["SG_4035_NOKILL"] = [[upvalue]];
+		["SM_2014"] = [[upvalue]];
+		["SNEAKING_SUIT"] = [[upvalue]];
+		["AR_3030"] = [[upvalue]];
+		["SR_6030"] = [[upvalue]];
+		["SR_6010"] = [[upvalue]];
+		["SM_2010"] = [[upvalue]];
+		["SD_9000"] = [[upvalue]];
+		["SR_6005_NOKILL"] = [[upvalue]];
+		["SM_2020"] = [[upvalue]];
+		["MS_8013_NOKILL"] = [[upvalue]];
+		["AR_3036"] = [[upvalue]];
+		["SR_6037_NOKILL"] = [[upvalue]];
+		["MG_7000"] = [[upvalue]];
+		["BATTLE_DRESS"] = [[upvalue]];
+		["SG_4027_NOKILL"] = [[upvalue]];
+		["MS_8020"] = [[upvalue]];
+		["SG_4040"] = [[upvalue]];
+		["FULTON_16008"] = [[upvalue]];
+		["STUN_GRENADE"] = [[upvalue]];
+		["AR_3060_NOKILL"] = [[upvalue]];
+		["SM_2040_NOKILL"] = [[upvalue]];
+		["SR_6015_NOKILL"] = [[upvalue]];
+	};
+	[-285212672] = 0;
+	["__newindex"] = [[non-lua function]];
+	["__index"] = [[non-lua function]];
+}

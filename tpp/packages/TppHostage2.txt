@@ -1,9 +1,11 @@
-["ReloadHostage2ParameterTables"] = nil --[[non-lua function not supported]];
-["SetHostageType"] = nil --[[non-lua function not supported]];
-["ClearHostageType"] = nil --[[non-lua function not supported]];
-["SetDefaultBodyFovaId"] = nil --[[non-lua function not supported]];
-["SetDefaultPartsPath"] = nil --[[non-lua function not supported]];
-["ClearDefaultBodyFovaId"] = nil --[[non-lua function not supported]];
-["SetUniquePartsPath"] = nil --[[non-lua function not supported]];
-["SetSVarsKeyNames2"] = nil --[[non-lua function not supported]];
-["ClearUniquePartsPath"] = nil --[[non-lua function not supported]];
+{
+	["ReloadHostage2ParameterTables"] = [[non-lua function]];
+	["SetHostageType"] = [[non-lua function]];
+	["ClearHostageType"] = [[non-lua function]];
+	["SetDefaultBodyFovaId"] = [[non-lua function]];
+	["SetDefaultPartsPath"] = [[non-lua function]];
+	["ClearDefaultBodyFovaId"] = [[non-lua function]];
+	["SetUniquePartsPath"] = [[non-lua function]];
+	["SetSVarsKeyNames2"] = [[non-lua function]];
+	["ClearUniquePartsPath"] = [[non-lua function]];
+}

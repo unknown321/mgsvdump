@@ -1,12 +1,16 @@
-["_className"] = "PhDaemon";
-["SetMaxRigidBodyNum"] = nil --[[functions with upvalue not supported]];
-["SetCollisionGroupState"] = nil --[[functions with upvalue not supported]];
-["SetGravity"] = nil --[[functions with upvalue not supported]];
-["SetCollisionGroupCheckIDState"] = nil --[[functions with upvalue not supported]];
-["SetWorldMin"] = nil --[[functions with upvalue not supported]];
-["SetWorldMax"] = nil --[[functions with upvalue not supported]];
-["SetCollisionTypeState"] = nil --[[functions with upvalue not supported]];
-["SetUpdateDtMax"] = nil --[[functions with upvalue not supported]];
-["GetInstance"] = nil --[[functions with upvalue not supported]];
-["SetMemorySize"] = nil --[[functions with upvalue not supported]];
-["__call"] = nil --[[non-lua function not supported]];
+{
+	["_className"] = "PhDaemon";
+	["SetMaxRigidBodyNum"] = [[upvalue]];
+	["SetCollisionGroupState"] = [[upvalue]];
+	["SetGravity"] = [[upvalue]];
+	["SetCollisionGroupCheckIDState"] = [[upvalue]];
+	["SetWorldMin"] = [[upvalue]];
+	["SetWorldMax"] = [[upvalue]];
+	["SetCollisionTypeState"] = [[upvalue]];
+	["SetUpdateDtMax"] = [[upvalue]];
+	["GetInstance"] = [[upvalue]];
+	["SetMemorySize"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__call"] = [[non-lua function]];
+}

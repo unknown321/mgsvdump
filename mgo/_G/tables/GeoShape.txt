@@ -1,1 +1,5 @@
-["_className"] = "GeoShape";
+{
+	["_className"] = "GeoShape";
+	["__index"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+}

@@ -1,2 +1,4 @@
-["AddList"] = nil --[[non-lua function not supported]];
-["Init"] = nil --[[non-lua function not supported]];
+{
+	["AddList"] = [[non-lua function]];
+	["Init"] = [[non-lua function]];
+}

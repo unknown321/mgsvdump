@@ -1,0 +1,444 @@
+{
+	["UpdateEnableSoldier"] = [[upvalue]];
+	["StartCheckFocusArea"] = [[upvalue]];
+	["_GetNumOnPlnt"] = [[upvalue]];
+	["SetDisableSoldierUserSettings"] = [[upvalue]];
+	["SetDisableSoldier"] = [[loadstring()]];
+	["InitDevelopGradeTable"] = [[upvalue]];
+	["soldierSubTypes"] = {
+		["DD_FOB"] = {
+		};
+	};
+	["SetupLayoutSetting"] = [[upvalue]];
+	["OnActivateDemoBlock"] = [[upvalue]];
+	["OnTerminateDemoBlock"] = [[upvalue]];
+	["_FOB_RemoveEnemy"] = [[upvalue]];
+	["messageExecTable"] = {
+		[3380938768] = {
+			[3709244990] = {
+				["senderOption"] = {
+				};
+				["sender"] = {
+					[1711956648] = [[upvalue]];
+				};
+			};
+		};
+		[3333891920] = {
+			[3783362363] = {
+				["func"] = [[upvalue]];
+			};
+			[3485689046] = {
+				["func"] = [[upvalue]];
+			};
+			[3709106506] = {
+				["func"] = [[upvalue]];
+			};
+		};
+	};
+	["cpNameToClsterIdList"] = {
+	};
+	["_GetRouteNameNextDivision"] = [[upvalue]];
+	["_GetRouteSetList"] = [[upvalue]];
+	["_GetSoldierNumOnPlatformFromUiSetting"] = [[upvalue]];
+	["SetupSecurityCamera"] = [[upvalue]];
+	["SetStaffAbirity"] = [[upvalue]];
+	["_GetDecyEquipId"] = [[loadstring()]];
+	["OnAllocateDemoBlock"] = [[loadstring()]];
+	["SoldierCombatAbirity"] = {
+		["SPECIAL1"] = {
+			["notice"] = "high";
+			["hp"] = "high";
+			["reload"] = "high";
+			["fulton"] = "high";
+			["shot"] = "high";
+			["reflex"] = "high";
+			["speed"] = "high";
+			["cure"] = "sp";
+			["holdup"] = "high";
+			["grenade"] = "sp";
+		};
+		["SPECIAL3"] = {
+			["notice"] = "sp";
+			["hp"] = "sp";
+			["reload"] = "sp";
+			["fulton"] = "sp";
+			["shot"] = "sp";
+			["reflex"] = "sp";
+			["speed"] = "sp";
+			["cure"] = "sp";
+			["holdup"] = "sp";
+			["grenade"] = "sp";
+		};
+		["MID2"] = {
+			["notice"] = "high";
+			["hp"] = "mid";
+			["reload"] = "mid";
+			["fulton"] = "high";
+			["shot"] = "high";
+			["reflex"] = "high";
+			["speed"] = "mid";
+			["cure"] = "mid";
+			["holdup"] = "high";
+			["grenade"] = "mid";
+		};
+		["HIGH"] = {
+			["notice"] = "high";
+			["hp"] = "high";
+			["reload"] = "high";
+			["fulton"] = "high";
+			["shot"] = "high";
+			["reflex"] = "high";
+			["speed"] = "high";
+			["cure"] = "high";
+			["holdup"] = "high";
+			["grenade"] = "high";
+		};
+		["SPECIAL2"] = {
+			["notice"] = "sp";
+			["hp"] = "sp";
+			["reload"] = "high";
+			["fulton"] = "sp";
+			["shot"] = "sp";
+			["reflex"] = "high";
+			["speed"] = "high";
+			["cure"] = "sp";
+			["holdup"] = "high";
+			["grenade"] = "sp";
+		};
+		["LOW"] = {
+			["notice"] = "low";
+			["hp"] = "low";
+			["reload"] = "low";
+			["fulton"] = "low";
+			["shot"] = "low";
+			["reflex"] = "low";
+			["speed"] = "low";
+			["cure"] = "low";
+			["holdup"] = "low";
+			["grenade"] = "low";
+		};
+		["MID"] = {
+			["notice"] = "mid";
+			["hp"] = "mid";
+			["reload"] = "mid";
+			["fulton"] = "mid";
+			["shot"] = "mid";
+			["reflex"] = "mid";
+			["speed"] = "mid";
+			["cure"] = "mid";
+			["holdup"] = "mid";
+			["grenade"] = "mid";
+		};
+	};
+	["_HasPlatform"] = [[upvalue]];
+	["_scriptInstanceId"] = [[userdata]]
+	["SetupEmblem"] = [[loadstring()]];
+	["_IsSortieSoldier"] = [[loadstring()]];
+	["SetupFocusArea"] = [[upvalue]];
+	["_GetUavSetting"] = [[loadstring()]];
+	["OnLoad"] = [[upvalue]];
+	["SetSoldierForDemo"] = [[loadstring()]];
+	["_GetSecurityCameraSetting"] = [[loadstring()]];
+	["GetSoldierForQuest"] = [[upvalue]];
+	["SoldierCombatAbirityRank"] = {
+		[0] = "LOW";
+		[7] = "SPECIAL1";
+		[1] = "LOW";
+		[2] = "LOW";
+		[4] = "MID";
+		[8] = "SPECIAL2";
+		[9] = "SPECIAL3";
+		[5] = "MID2";
+		[3] = "MID";
+		[6] = "HIGH";
+	};
+	["plntNameDefine"] = {
+		[1] = "plnt0";
+		[2] = "plnt1";
+		[3] = "plnt2";
+		[4] = "plnt3";
+	};
+	["SetFriendly"] = [[upvalue]];
+	["_SetClusterParam"] = [[upvalue]];
+	["OnInitialize"] = [[upvalue]];
+	["GetSoldierForSalutation"] = [[upvalue]];
+	["SetUseUiSettings"] = [[upvalue]];
+	["OnDeactivateDemoBlock"] = [[upvalue]];
+	["OnReload"] = [[upvalue]];
+	["routeChangeProbability"] = 50;
+	["_GetSecurityCameraNumOnPlnt"] = [[upvalue]];
+	["_GetSolListEquipSort"] = [[upvalue]];
+	["SetStaffId"] = [[upvalue]];
+	["_GetCpNameFromSoldierId"] = [[upvalue]];
+	["InitSecurityNumTableFromRank"] = [[upvalue]];
+	["_SetFocusAreaInPlnt"] = [[upvalue]];
+	["SetupEnemy"] = [[upvalue]];
+	["_GetDecyNumOnPlnt"] = [[upvalue]];
+	["plntParamTable"] = {
+		["plnt3"] = {
+			["uavNum"] = {
+				[1] = 0;
+			};
+			["assets"] = {
+				["soldierList"] = {
+				};
+				["uavSneakRoute"] = {
+				};
+				["uavList"] = {
+				};
+				["decyList"] = {
+				};
+				["soldierRouteList"] = {
+					["Sneak"] = {
+						[1] = {
+							["inPlnt"] = {
+							};
+							["outPlnt"] = {
+							};
+						};
+					};
+					["Night"] = {
+						[1] = {
+							["inPlnt"] = {
+							};
+							["outPlnt"] = {
+							};
+						};
+					};
+					["Caution"] = {
+						[1] = {
+							["inPlnt"] = {
+							};
+							["outPlnt"] = {
+							};
+						};
+					};
+				};
+				["securityCameraList"] = {
+				};
+				["uavCombatRoute"] = {
+				};
+				["mineList"] = {
+				};
+			};
+			["securityCameraNum"] = {
+				[1] = 0;
+			};
+			["soldierNum"] = {
+				[1] = 0;
+			};
+			["placeWepNum"] = {
+				[1] = 0;
+			};
+			["plntDefine"] = "Common3";
+		};
+		["plnt2"] = {
+			["uavNum"] = {
+				[1] = 0;
+			};
+			["assets"] = {
+				["soldierList"] = {
+				};
+				["uavSneakRoute"] = {
+				};
+				["uavList"] = {
+				};
+				["decyList"] = {
+				};
+				["soldierRouteList"] = {
+					["Sneak"] = {
+						[1] = {
+							["inPlnt"] = {
+							};
+							["outPlnt"] = {
+							};
+						};
+					};
+					["Night"] = {
+						[1] = {
+							["inPlnt"] = {
+							};
+							["outPlnt"] = {
+							};
+						};
+					};
+					["Caution"] = {
+						[1] = {
+							["inPlnt"] = {
+							};
+							["outPlnt"] = {
+							};
+						};
+					};
+				};
+				["securityCameraList"] = {
+				};
+				["uavCombatRoute"] = {
+				};
+				["mineList"] = {
+				};
+			};
+			["securityCameraNum"] = {
+				[1] = 0;
+			};
+			["soldierNum"] = {
+				[1] = 0;
+			};
+			["placeWepNum"] = {
+				[1] = 0;
+			};
+			["plntDefine"] = "Common2";
+		};
+		["plnt0"] = {
+			["uavNum"] = {
+				[1] = 0;
+			};
+			["assets"] = {
+				["soldierList"] = {
+				};
+				["uavSneakRoute"] = {
+				};
+				["uavList"] = {
+				};
+				["decyList"] = {
+				};
+				["soldierRouteList"] = {
+					["Sneak"] = {
+						[1] = {
+							["inPlnt"] = {
+							};
+							["outPlnt"] = {
+							};
+						};
+					};
+					["Night"] = {
+						[1] = {
+							["inPlnt"] = {
+							};
+							["outPlnt"] = {
+							};
+						};
+					};
+					["Caution"] = {
+						[1] = {
+							["inPlnt"] = {
+							};
+							["outPlnt"] = {
+							};
+						};
+					};
+				};
+				["securityCameraList"] = {
+				};
+				["uavCombatRoute"] = {
+				};
+				["mineList"] = {
+				};
+			};
+			["securityCameraNum"] = {
+				[1] = 0;
+			};
+			["soldierNum"] = {
+				[1] = 0;
+			};
+			["placeWepNum"] = {
+				[1] = 0;
+			};
+			["plntDefine"] = "Special";
+		};
+		["plnt1"] = {
+			["uavNum"] = {
+				[1] = 0;
+			};
+			["assets"] = {
+				["soldierList"] = {
+				};
+				["uavSneakRoute"] = {
+				};
+				["uavList"] = {
+				};
+				["decyList"] = {
+				};
+				["soldierRouteList"] = {
+					["Sneak"] = {
+						[1] = {
+							["inPlnt"] = {
+							};
+							["outPlnt"] = {
+							};
+						};
+					};
+					["Night"] = {
+						[1] = {
+							["inPlnt"] = {
+							};
+							["outPlnt"] = {
+							};
+						};
+					};
+					["Caution"] = {
+						[1] = {
+							["inPlnt"] = {
+							};
+							["outPlnt"] = {
+							};
+						};
+					};
+				};
+				["securityCameraList"] = {
+				};
+				["uavCombatRoute"] = {
+				};
+				["mineList"] = {
+				};
+			};
+			["securityCameraNum"] = {
+				[1] = 0;
+			};
+			["soldierNum"] = {
+				[1] = 0;
+			};
+			["placeWepNum"] = {
+				[1] = 0;
+			};
+			["plntDefine"] = "Common1";
+		};
+	};
+	["SetupDecy"] = [[upvalue]];
+	["SetupUAV"] = [[upvalue]];
+	["soldierNameToCpName"] = {
+	};
+	["SetupSoldierListFovaApplyPriority"] = [[upvalue]];
+	["_GetMineNumOnPlnt"] = [[upvalue]];
+	["_SetAssetsTable"] = [[upvalue]];
+	["SetEnemyLocationType"] = [[upvalue]];
+	["InitEnemy"] = [[upvalue]];
+	["_GetRouteGroupName"] = [[upvalue]];
+	["UnregisterDisableSoldierForQuest"] = [[loadstring()]];
+	["SetupMine"] = [[upvalue]];
+	["RegisterDisableSoldierForQuest"] = [[loadstring()]];
+	["GetRouteSetPriority"] = [[upvalue]];
+	["GetSecurityStaffIdList"] = [[loadstring()]];
+	["GetSortieSniperNumInPlnt"] = [[upvalue]];
+	["SetForceBalaclavaLocator"] = [[loadstring()]];
+	["OnMessage"] = [[upvalue]];
+	["SetSecurityStaffIdList"] = [[loadstring()]];
+	["Messages"] = [[upvalue]];
+	["IsForceBalaclava"] = [[loadstring()]];
+	["SetEnableSoldierInCluster"] = [[upvalue]];
+	["_scriptPath"] = "mtbs_enemy";
+	["_GetEquipTable"] = [[upvalue]];
+	["SetupSortieSoldiers"] = [[upvalue]];
+	["_GetMineEquipId"] = [[upvalue]];
+	["_ChangeAssetsFromCpName"] = [[upvalue]];
+	["_GetArrayIndexFromDefine"] = [[loadstring()]];
+	["routeSets"] = {
+	};
+	["useUiSetting"] = true;
+	["combatSetting"] = {
+	};
+	["soldierDefine"] = {
+	};
+	["_GetUavNumOnPlnt"] = [[upvalue]];
+	["SetupClusterParam"] = [[loadstring()]];
+}

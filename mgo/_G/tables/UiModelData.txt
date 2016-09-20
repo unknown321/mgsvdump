@@ -1,2 +1,6 @@
-["_className"] = "UiModelData";
-["SetModelNodeElement"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "UiModelData";
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["SetModelNodeElement"] = [[upvalue]];
+}

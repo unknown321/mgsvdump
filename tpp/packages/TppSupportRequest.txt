@@ -1,6 +1,8 @@
-["GetCrashRescueHeliGmpCost"] = nil --[[non-lua function not supported]];
-["RequestDropBullet"] = nil --[[non-lua function not supported]];
-["GetCallBuddyGmpCost"] = nil --[[non-lua function not supported]];
-["RequestSupportAttack"] = nil --[[non-lua function not supported]];
-["GetCallRescueHeliGmpCost"] = nil --[[non-lua function not supported]];
-["RegisterSupportAttackGmpCostTable"] = nil --[[non-lua function not supported]];
+{
+	["GetCrashRescueHeliGmpCost"] = [[non-lua function]];
+	["RequestDropBullet"] = [[non-lua function]];
+	["GetCallBuddyGmpCost"] = [[non-lua function]];
+	["RequestSupportAttack"] = [[non-lua function]];
+	["GetCallRescueHeliGmpCost"] = [[non-lua function]];
+	["RegisterSupportAttackGmpCostTable"] = [[non-lua function]];
+}

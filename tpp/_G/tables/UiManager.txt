@@ -1,5 +1,9 @@
-["_className"] = "UiManager";
-["ScrollUpDebugPrint"] = nil --[[functions with upvalue not supported]];
-["DumpEntryUig"] = nil --[[functions with upvalue not supported]];
-["ScrollDownDebugPrint"] = nil --[[functions with upvalue not supported]];
-["ResetScrollDebugPrint"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "UiManager";
+	["ScrollUpDebugPrint"] = [[upvalue]];
+	["DumpEntryUig"] = [[upvalue]];
+	["ScrollDownDebugPrint"] = [[upvalue]];
+	["ResetScrollDebugPrint"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+}

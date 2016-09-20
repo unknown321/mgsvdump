@@ -1,1 +1,5 @@
-["_className"] = "TppNoiseAreaBody2";
+{
+	["_className"] = "TppNoiseAreaBody2";
+	["__index"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+}

@@ -1,3 +1,7 @@
-["_className"] = "ObjectBrushBlock";
-["Activate"] = nil --[[functions with upvalue not supported]];
-["__call"] = nil --[[non-lua function not supported]];
+{
+	["_className"] = "ObjectBrushBlock";
+	["Activate"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__call"] = [[non-lua function]];
+}

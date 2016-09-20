@@ -1,1 +1,1 @@
-local obj1 = nil --[[functions with upvalue not supported]]
+[[upvalue]]

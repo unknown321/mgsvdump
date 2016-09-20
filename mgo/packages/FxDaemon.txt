@@ -1,2 +1,4 @@
-["InitializeReserveObject"] = nil --[[non-lua function not supported]];
-["Initialize"] = nil --[[non-lua function not supported]];
+{
+	["InitializeReserveObject"] = [[non-lua function]];
+	["Initialize"] = [[non-lua function]];
+}

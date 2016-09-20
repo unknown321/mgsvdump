@@ -1,1 +1,3 @@
-["Start"] = nil --[[non-lua function not supported]];
+{
+	["Start"] = [[non-lua function]];
+}

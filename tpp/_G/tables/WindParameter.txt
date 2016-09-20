@@ -1,1 +1,5 @@
-["_className"] = "WindParameter";
+{
+	["_className"] = "WindParameter";
+	["__index"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+}

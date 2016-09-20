@@ -1,15 +1,17 @@
-["SetPhase"] = nil --[[non-lua function not supported]];
-["BGM_PHASE_EVASION"] = 1;
-["BGM_TYPE_WIN_JINGLE"] = 5;
-["SetConfig"] = nil --[[non-lua function not supported]];
-["BGM_TYPE_START_JINGLE"] = 4;
-["BGM_PHASE_SNEAK"] = 3;
-["BGM_TYPE_TITLE"] = 1;
-["BGM_PHASE_CAUTION"] = 2;
-["BGM_TYPE_LOSE_JINGLE"] = 6;
-["Stop"] = nil --[[non-lua function not supported]];
-["BGM_TYPE_RESULT_NORMAL"] = 2;
-["BGM_TYPE_RESULT_VICTORY"] = 3;
-["BGM_PHASE_ALERT"] = 0;
-["Play"] = nil --[[non-lua function not supported]];
-["BGM_TYPE_PHASE"] = 0;
+{
+	["SetPhase"] = [[non-lua function]];
+	["BGM_PHASE_EVASION"] = 1;
+	["BGM_TYPE_WIN_JINGLE"] = 5;
+	["SetConfig"] = [[non-lua function]];
+	["BGM_TYPE_START_JINGLE"] = 4;
+	["BGM_PHASE_SNEAK"] = 3;
+	["BGM_TYPE_TITLE"] = 1;
+	["BGM_PHASE_CAUTION"] = 2;
+	["BGM_TYPE_LOSE_JINGLE"] = 6;
+	["Stop"] = [[non-lua function]];
+	["BGM_TYPE_RESULT_NORMAL"] = 2;
+	["BGM_TYPE_RESULT_VICTORY"] = 3;
+	["BGM_PHASE_ALERT"] = 0;
+	["Play"] = [[non-lua function]];
+	["BGM_TYPE_PHASE"] = 0;
+}

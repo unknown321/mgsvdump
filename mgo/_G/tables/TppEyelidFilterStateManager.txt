@@ -1,3 +1,7 @@
-["_className"] = "TppEyelidFilterStateManager";
-["GetInstance"] = nil --[[functions with upvalue not supported]];
-["SetEventStatus"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "TppEyelidFilterStateManager";
+	["GetInstance"] = [[upvalue]];
+	["SetEventStatus"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+}

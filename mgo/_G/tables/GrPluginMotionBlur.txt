@@ -1,2 +1,6 @@
-["_className"] = "GrPluginMotionBlur";
-["__call"] = nil --[[non-lua function not supported]];
+{
+	["_className"] = "GrPluginMotionBlur";
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__call"] = [[non-lua function]];
+}

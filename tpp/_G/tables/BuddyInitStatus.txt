@@ -1,10 +1,12 @@
-[-285212671] = {
-["NORMAL"] = nil --[[functions with upvalue not supported]];
-["HALO"] = nil --[[functions with upvalue not supported]];
-["ESPIONAGE"] = nil --[[functions with upvalue not supported]];
-["RIDE"] = nil --[[functions with upvalue not supported]];
-["ENTRY_GATE"] = nil --[[functions with upvalue not supported]];
-};
-[-285212672] = 0;
-
-
+{
+	[-285212671] = {
+		["NORMAL"] = [[upvalue]];
+		["HALO"] = [[upvalue]];
+		["ESPIONAGE"] = [[upvalue]];
+		["RIDE"] = [[upvalue]];
+		["ENTRY_GATE"] = [[upvalue]];
+	};
+	[-285212672] = 0;
+	["__newindex"] = [[non-lua function]];
+	["__index"] = [[non-lua function]];
+}

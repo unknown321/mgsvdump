@@ -1,3 +1,4 @@
-["_scriptPath"] = "EquipDevelopSettingMgo";
-["_scriptInstanceId"] = nil --[[userdata]]
-;
+{
+	["_scriptPath"] = "EquipDevelopSettingMgo";
+	["_scriptInstanceId"] = [[userdata]]
+}

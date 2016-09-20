@@ -1,2 +1,4 @@
-["SetVoiceTypePriority"] = nil --[[non-lua function not supported]];
-["SetVoiceEventType"] = nil --[[non-lua function not supported]];
+{
+	["SetVoiceTypePriority"] = [[non-lua function]];
+	["SetVoiceEventType"] = [[non-lua function]];
+}

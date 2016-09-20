@@ -1,3 +1,4 @@
-["_scriptPath"] = "Soundtrack2Config";
-["_scriptInstanceId"] = nil --[[userdata]]
-;
+{
+	["_scriptPath"] = "Soundtrack2Config";
+	["_scriptInstanceId"] = [[userdata]]
+}

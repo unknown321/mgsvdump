@@ -1,1 +1,3 @@
-["CheckAndHandleInvite"] = nil --[[non-lua function not supported]];
+{
+	["CheckAndHandleInvite"] = [[non-lua function]];
+}

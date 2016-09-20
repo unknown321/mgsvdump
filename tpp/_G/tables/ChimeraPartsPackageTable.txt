@@ -1,3 +1,4 @@
-["_scriptPath"] = "ChimeraPartsPackageTable";
-["_scriptInstanceId"] = nil --[[userdata]]
-;
+{
+	["_scriptPath"] = "ChimeraPartsPackageTable";
+	["_scriptInstanceId"] = [[userdata]]
+}

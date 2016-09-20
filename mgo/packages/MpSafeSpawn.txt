@@ -1,1 +1,3 @@
-["Config"] = nil --[[non-lua function not supported]];
+{
+	["Config"] = [[non-lua function]];
+}

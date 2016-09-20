@@ -1,1 +1,5 @@
-["_className"] = "EnvironmentGlobalBody";
+{
+	["_className"] = "EnvironmentGlobalBody";
+	["__index"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+}

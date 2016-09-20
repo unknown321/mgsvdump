@@ -1,2 +1,6 @@
-["_className"] = "Pad2";
-["Init"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "Pad2";
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["Init"] = [[upvalue]];
+}

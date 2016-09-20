@@ -1,3 +1,5 @@
-["TrophyInstall"] = nil --[[non-lua function not supported]];
-["TrophyUnlock"] = nil --[[non-lua function not supported]];
-["TrophyDiskCheck"] = nil --[[non-lua function not supported]];
+{
+	["TrophyInstall"] = [[non-lua function]];
+	["TrophyUnlock"] = [[non-lua function]];
+	["TrophyDiskCheck"] = [[non-lua function]];
+}

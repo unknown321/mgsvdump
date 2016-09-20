@@ -1,1 +1,3 @@
-["FireMortar"] = nil --[[non-lua function not supported]];
+{
+	["FireMortar"] = [[non-lua function]];
+}

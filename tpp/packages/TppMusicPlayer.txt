@@ -1,4 +1,6 @@
-["SetStructureDlc"] = nil --[[non-lua function not supported]];
-["SetTrack"] = nil --[[non-lua function not supported]];
-["SetAlbum"] = nil --[[non-lua function not supported]];
-["SetStructure"] = nil --[[non-lua function not supported]];
+{
+	["SetStructureDlc"] = [[non-lua function]];
+	["SetTrack"] = [[non-lua function]];
+	["SetAlbum"] = [[non-lua function]];
+	["SetStructure"] = [[non-lua function]];
+}

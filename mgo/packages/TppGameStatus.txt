@@ -1,3 +1,5 @@
-["IsSet"] = nil --[[non-lua function not supported]];
-["Reset"] = nil --[[non-lua function not supported]];
-["Set"] = nil --[[non-lua function not supported]];
+{
+	["IsSet"] = [[non-lua function]];
+	["Reset"] = [[non-lua function]];
+	["Set"] = [[non-lua function]];
+}

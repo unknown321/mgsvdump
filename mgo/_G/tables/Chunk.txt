@@ -1,21 +1,25 @@
-[239023043] = nil --[[non-lua function not supported]];
-[9286413] = nil --[[non-lua function not supported]];
-[36496878] = nil --[[non-lua function not supported]];
-[243672702] = nil --[[non-lua function not supported]];
-[-285212671] = {
-[252759998] = nil --[[functions with upvalue not supported]];
-[213394284] = nil --[[functions with upvalue not supported]];
-[13116004] = nil --[[functions with upvalue not supported]];
-[97345749] = nil --[[functions with upvalue not supported]];
-[174488719] = nil --[[functions with upvalue not supported]];
-[235426633] = nil --[[functions with upvalue not supported]];
-[16805715] = nil --[[functions with upvalue not supported]];
-[254205292] = nil --[[functions with upvalue not supported]];
-[29642732] = nil --[[functions with upvalue not supported]];
-[265336480] = nil --[[functions with upvalue not supported]];
-};
-[229747828] = nil --[[non-lua function not supported]];
-[-285212672] = 4;
-[261085673] = nil --[[non-lua function not supported]];
-[229747784] = nil --[[non-lua function not supported]];
-[146347062] = nil --[[non-lua function not supported]];
+{
+	[239023043] = [[non-lua function]];
+	[9286413] = [[non-lua function]];
+	[36496878] = [[non-lua function]];
+	[243672702] = [[non-lua function]];
+	[-285212671] = {
+		[252759998] = [[upvalue]];
+		[213394284] = [[upvalue]];
+		[13116004] = [[upvalue]];
+		[97345749] = [[upvalue]];
+		[174488719] = [[upvalue]];
+		[235426633] = [[upvalue]];
+		[16805715] = [[upvalue]];
+		[254205292] = [[upvalue]];
+		[29642732] = [[upvalue]];
+		[265336480] = [[upvalue]];
+	};
+	[229747828] = [[non-lua function]];
+	[-285212672] = 4;
+	[261085673] = [[non-lua function]];
+	[229747784] = [[non-lua function]];
+	[146347062] = [[non-lua function]];
+	["__newindex"] = [[non-lua function]];
+	["__index"] = [[non-lua function]];
+}

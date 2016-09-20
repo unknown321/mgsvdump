@@ -1,4 +1,8 @@
-["_className"] = "TppSystemUtility";
-["GetCurrentGameMode"] = nil --[[functions with upvalue not supported]];
-["ConfigDefaultPadAssigns"] = nil --[[functions with upvalue not supported]];
-["SetCurrentGameMode"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "TppSystemUtility";
+	["GetCurrentGameMode"] = [[upvalue]];
+	["ConfigDefaultPadAssigns"] = [[upvalue]];
+	["SetCurrentGameMode"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+}

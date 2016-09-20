@@ -1,1 +1,3 @@
-["SetEnable"] = nil --[[non-lua function not supported]];
+{
+	["SetEnable"] = [[non-lua function]];
+}

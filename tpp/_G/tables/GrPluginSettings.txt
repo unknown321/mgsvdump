@@ -1,2 +1,6 @@
-["_className"] = "GrPluginSettings";
-["SetRenderName"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "GrPluginSettings";
+	["SetRenderName"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+}

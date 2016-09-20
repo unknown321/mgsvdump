@@ -1,2 +1,4 @@
-["DumpStack"] = nil --[[non-lua function not supported]];
-["Dump"] = nil --[[non-lua function not supported]];
+{
+	["DumpStack"] = [[non-lua function]];
+	["Dump"] = [[non-lua function]];
+}

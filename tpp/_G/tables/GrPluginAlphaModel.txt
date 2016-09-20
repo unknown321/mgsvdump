@@ -1,2 +1,6 @@
-["_className"] = "GrPluginAlphaModel";
-["__call"] = nil --[[non-lua function not supported]];
+{
+	["_className"] = "GrPluginAlphaModel";
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__call"] = [[non-lua function]];
+}

@@ -1,1 +1,3 @@
-["NewStream"] = nil --[[non-lua function not supported]];
+{
+	["NewStream"] = [[non-lua function]];
+}

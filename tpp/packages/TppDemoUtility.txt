@@ -1,8 +1,10 @@
-["AddSubjectMapping"] = nil --[[non-lua function not supported]];
-["DisablePadZoom"] = nil --[[non-lua function not supported]];
-["SetUseBlackDiamond"] = nil --[[non-lua function not supported]];
-["SetEnableDemoZoomSound"] = nil --[[non-lua function not supported]];
-["ResetFadeInfo"] = nil --[[non-lua function not supported]];
-["IsFadeOut"] = nil --[[non-lua function not supported]];
-["EnablePadZoom"] = nil --[[non-lua function not supported]];
-["SetInvisibleUniqueCharacter"] = nil --[[non-lua function not supported]];
+{
+	["AddSubjectMapping"] = [[non-lua function]];
+	["DisablePadZoom"] = [[non-lua function]];
+	["SetUseBlackDiamond"] = [[non-lua function]];
+	["SetEnableDemoZoomSound"] = [[non-lua function]];
+	["ResetFadeInfo"] = [[non-lua function]];
+	["IsFadeOut"] = [[non-lua function]];
+	["EnablePadZoom"] = [[non-lua function]];
+	["SetInvisibleUniqueCharacter"] = [[non-lua function]];
+}

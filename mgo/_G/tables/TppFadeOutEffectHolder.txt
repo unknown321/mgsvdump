@@ -1,2 +1,6 @@
-["_className"] = "TppFadeOutEffectHolder";
-["Create"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "TppFadeOutEffectHolder";
+	["Create"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+}

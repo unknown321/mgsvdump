@@ -1,12 +1,14 @@
-[-285212671] = {
-["NONE"] = nil --[[functions with upvalue not supported]];
-["DISABLE"] = nil --[[functions with upvalue not supported]];
-["BATTLE_GEAR"] = nil --[[functions with upvalue not supported]];
-["QUIET"] = nil --[[functions with upvalue not supported]];
-["HORSE"] = nil --[[functions with upvalue not supported]];
-["WALKER_GEAR"] = nil --[[functions with upvalue not supported]];
-["DOG"] = nil --[[functions with upvalue not supported]];
-};
-[-285212672] = 0;
-
-
+{
+	[-285212671] = {
+		["NONE"] = [[upvalue]];
+		["DISABLE"] = [[upvalue]];
+		["BATTLE_GEAR"] = [[upvalue]];
+		["QUIET"] = [[upvalue]];
+		["HORSE"] = [[upvalue]];
+		["WALKER_GEAR"] = [[upvalue]];
+		["DOG"] = [[upvalue]];
+	};
+	[-285212672] = 0;
+	["__newindex"] = [[non-lua function]];
+	["__index"] = [[non-lua function]];
+}

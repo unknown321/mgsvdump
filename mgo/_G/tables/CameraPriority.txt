@@ -1,2 +1,6 @@
-["_className"] = "CameraPriority";
-["RegisterPriorities"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "CameraPriority";
+	["RegisterPriorities"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+}

@@ -1,2 +1,6 @@
-["_className"] = "DataSetFile2";
-["Save"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "DataSetFile2";
+	["Save"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+}

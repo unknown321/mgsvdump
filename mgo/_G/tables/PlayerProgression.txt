@@ -1,3 +1,4 @@
-["_scriptPath"] = "PlayerProgression";
-["_scriptInstanceId"] = nil --[[userdata]]
-;
+{
+	["_scriptPath"] = "PlayerProgression";
+	["_scriptInstanceId"] = [[userdata]]
+}

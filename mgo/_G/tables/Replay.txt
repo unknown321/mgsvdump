@@ -1,7 +1,11 @@
-["StartRecord"] = nil --[[functions with upvalue not supported]];
-["GetInstance"] = nil --[[functions with upvalue not supported]];
-["StopPlay"] = nil --[[functions with upvalue not supported]];
-["StopRecord"] = nil --[[functions with upvalue not supported]];
-["StartPlay"] = nil --[[functions with upvalue not supported]];
-["_className"] = "Replay";
-["__call"] = nil --[[functions with upvalue not supported]];
+{
+	["StartRecord"] = [[upvalue]];
+	["GetInstance"] = [[upvalue]];
+	["StopPlay"] = [[upvalue]];
+	["StopRecord"] = [[upvalue]];
+	["StartPlay"] = [[upvalue]];
+	["_className"] = "Replay";
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__call"] = [[upvalue]];
+}

@@ -1,2 +1,4 @@
-["SetupAnimalFootStep"] = nil --[[non-lua function not supported]];
-["SetupAnimalRattleSuit"] = nil --[[non-lua function not supported]];
+{
+	["SetupAnimalFootStep"] = [[non-lua function]];
+	["SetupAnimalRattleSuit"] = [[non-lua function]];
+}

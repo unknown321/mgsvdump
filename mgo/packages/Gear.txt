@@ -1,1 +1,3 @@
-["RegisterFova2PackagePath"] = nil --[[non-lua function not supported]];
+{
+	["RegisterFova2PackagePath"] = [[non-lua function]];
+}

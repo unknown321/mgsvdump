@@ -1,2 +1,6 @@
-["_className"] = "DemoBlockPositionSetterBody";
-["SetEnable"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "DemoBlockPositionSetterBody";
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["SetEnable"] = [[upvalue]];
+}

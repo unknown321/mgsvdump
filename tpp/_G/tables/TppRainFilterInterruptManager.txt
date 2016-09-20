@@ -1,7 +1,11 @@
-["_className"] = "TppRainFilterInterruptManager";
-["ResetStartEndFadeInDistanceDemo"] = nil --[[functions with upvalue not supported]];
-["SetStartEndFadeInDistanceDemo"] = nil --[[functions with upvalue not supported]];
-["FadeOutFxFallRainOutside"] = nil --[[functions with upvalue not supported]];
-["FadeInFxFallRainOutside"] = nil --[[functions with upvalue not supported]];
-["SwitchEnableInterruptData"] = nil --[[functions with upvalue not supported]];
-["GetInstance"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "TppRainFilterInterruptManager";
+	["ResetStartEndFadeInDistanceDemo"] = [[upvalue]];
+	["SetStartEndFadeInDistanceDemo"] = [[upvalue]];
+	["FadeOutFxFallRainOutside"] = [[upvalue]];
+	["FadeInFxFallRainOutside"] = [[upvalue]];
+	["SwitchEnableInterruptData"] = [[upvalue]];
+	["GetInstance"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+}

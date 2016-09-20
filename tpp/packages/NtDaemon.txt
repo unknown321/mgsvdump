@@ -1,1 +1,3 @@
-["Create"] = nil --[[non-lua function not supported]];
+{
+	["Create"] = [[non-lua function]];
+}

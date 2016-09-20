@@ -1,4 +1,8 @@
-["_className"] = "SoundAreaGroupBody";
-["SetActive"] = nil --[[functions with upvalue not supported]];
-["CancelParameter"] = nil --[[functions with upvalue not supported]];
-["OverwriteParameter"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "SoundAreaGroupBody";
+	["SetActive"] = [[upvalue]];
+	["CancelParameter"] = [[upvalue]];
+	["OverwriteParameter"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+}

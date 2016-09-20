@@ -1,3 +1,7 @@
-["_className"] = "TerrainRender";
-["ExportPackedMaterialTexture"] = nil --[[functions with upvalue not supported]];
-["ClearPackedMaterialTexture"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "TerrainRender";
+	["__index"] = [[upvalue]];
+	["ExportPackedMaterialTexture"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+	["ClearPackedMaterialTexture"] = [[upvalue]];
+}

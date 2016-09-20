@@ -1,1 +1,3 @@
-["SetDemoUiTriggerInvalid"] = nil --[[non-lua function not supported]];
+{
+	["SetDemoUiTriggerInvalid"] = [[non-lua function]];
+}

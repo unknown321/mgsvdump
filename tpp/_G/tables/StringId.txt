@@ -1,8 +1,10 @@
-[-285212672] = 0;
-["IsEqual32"] = nil --[[functions with upvalue not supported]];
-["IsEqual"] = nil --[[functions with upvalue not supported]];
-[-285212671] = {
-["Null"] = nil --[[functions with upvalue not supported]];
-};
-
-
+{
+	[-285212672] = 0;
+	["IsEqual32"] = [[upvalue]];
+	["IsEqual"] = [[upvalue]];
+	[-285212671] = {
+		["Null"] = [[upvalue]];
+	};
+	["__index"] = [[non-lua function]];
+	["__newindex"] = [[non-lua function]];
+}

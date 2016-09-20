@@ -1,1 +1,3 @@
-["CheckSight"] = nil --[[non-lua function not supported]];
+{
+	["CheckSight"] = [[non-lua function]];
+}

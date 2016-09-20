@@ -1,15 +1,17 @@
-["IsActivating"] = nil --[[non-lua function not supported]];
-["SetClusterLodVisibility"] = nil --[[non-lua function not supported]];
-["SetFobClientPlayerRespawnTrg"] = nil --[[non-lua function not supported]];
-["IsOnConnectParts"] = nil --[[non-lua function not supported]];
-["RegisterModifyLayoutCodes"] = nil --[[non-lua function not supported]];
-["GetCurrentLayout"] = nil --[[non-lua function not supported]];
-["ModifyLayoutCode"] = nil --[[non-lua function not supported]];
-["GetDemoCenter"] = nil --[[non-lua function not supported]];
-["IsClientReady"] = nil --[[non-lua function not supported]];
-["IsLoading"] = nil --[[non-lua function not supported]];
-["UnlockCluster"] = nil --[[non-lua function not supported]];
-["LockCluster"] = nil --[[non-lua function not supported]];
-["GetCompletionPlantCount"] = nil --[[non-lua function not supported]];
-["GetCurrentCluster"] = nil --[[non-lua function not supported]];
-["GetFirstCluster"] = nil --[[non-lua function not supported]];
+{
+	["IsActivating"] = [[non-lua function]];
+	["SetClusterLodVisibility"] = [[non-lua function]];
+	["SetFobClientPlayerRespawnTrg"] = [[non-lua function]];
+	["IsOnConnectParts"] = [[non-lua function]];
+	["RegisterModifyLayoutCodes"] = [[non-lua function]];
+	["GetCurrentLayout"] = [[non-lua function]];
+	["ModifyLayoutCode"] = [[non-lua function]];
+	["GetDemoCenter"] = [[non-lua function]];
+	["IsClientReady"] = [[non-lua function]];
+	["IsLoading"] = [[non-lua function]];
+	["UnlockCluster"] = [[non-lua function]];
+	["LockCluster"] = [[non-lua function]];
+	["GetCompletionPlantCount"] = [[non-lua function]];
+	["GetCurrentCluster"] = [[non-lua function]];
+	["GetFirstCluster"] = [[non-lua function]];
+}

@@ -1,5 +1,9 @@
-["_className"] = "UiSupport";
-["GetInstance"] = nil --[[functions with upvalue not supported]];
-["End"] = nil --[[functions with upvalue not supported]];
-["Create"] = nil --[[functions with upvalue not supported]];
-["CreateLoginPrint"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "UiSupport";
+	["GetInstance"] = [[upvalue]];
+	["End"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["Create"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+	["CreateLoginPrint"] = [[upvalue]];
+}

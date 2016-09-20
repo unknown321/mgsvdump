@@ -1,1 +1,3 @@
-["GetRankXp"] = nil --[[non-lua function not supported]];
+{
+	["GetRankXp"] = [[non-lua function]];
+}

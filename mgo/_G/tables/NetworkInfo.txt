@@ -1,3 +1,7 @@
-["_className"] = "NetworkInfo";
-["GetInstance"] = nil --[[functions with upvalue not supported]];
-["IsNuclearAbolition"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "NetworkInfo";
+	["GetInstance"] = [[upvalue]];
+	["IsNuclearAbolition"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+}

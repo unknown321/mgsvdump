@@ -1,25 +1,22 @@
-["AddLocationCommonMissionAreaPack"] = nil --[[functions with upvalue not supported]];
-["_scriptInstanceId"] = nil --[[userdata]]
-;
-["IsMissionPackLabelList"] = nil --[[functions with upvalue not supported]];
-["MakeDefaultMissionPackList"] = nil --[[functions with upvalue not supported]];
-["IsMissionPackLabel"] = loadstring("LuaQ\000\000+\000\000\000\000\000\000\000@/Assets/mgo/script/tpplib/TppPackList.lua\0000\000\000\0008\000\000\000\000\000\000\000\000E\000\000\000F@¿\000Ä\000\000\000\\Ä\000Z@\000\000\000\000Ä\000Ä\000EÄ\000\000F¿¿\000Ö\000\000Ü@A¿\000\000\000úÄ\000ÄÄ\000Ä\000ÄB\000Ä\000^\000\000@\000ÄB\000\000\000^\000\000\000Ä\000\000\000\000\000\000\000\000\000\000\000Tpp\000\r\000\000\000\000\000\000\000IsTypeString\000\000\000\000\000\000\000\000gvars\000\000\000\000\000\000\000\000pck_missionPackLabelName\000\000\000\000\000\000\000\000Fox\000\
-\000\000\000\000\000\000\000StrCode32\000\000\000\000\000\000\000\0000\000\000\0000\000\000\0000\000\000\0000\000\000\0000\000\000\0000\000\000\0001\000\000\0003\000\000\0003\000\000\0003\000\000\0003\000\000\0003\000\000\0003\000\000\0003\000\000\0003\000\000\0004\000\000\0004\000\000\0004\000\000\0006\000\000\0006\000\000\0008\000\000\000\000\000\000\000\000\000\000\000\000\000e\000\000\000\000\000\000\000\000\000\000\000\000");
-["SetMissionPackLabelName"] = loadstring("LuaQ\000\000+\000\000\000\000\000\000\000@/Assets/mgo/script/tpplib/TppPackList.lua\000T\000\000\000V\000\000\000\000\000\r\000\000\000E\000\000\000F@¿\000Ä\000\000\000\\Ä\000Z\000\000\000@ÄEÄ\000\000Ö\000\000Ü@A¿\000\000\000úÄ\000IÄÄÅ\000Ä\000\000\000\000\000\000\000\000\000\000\000Tpp\000\r\000\000\000\000\000\000\000IsTypeString\000\000\000\000\000\000\000\000gvars\000\000\000\000\000\000\000\000pck_missionPackLabelName\000\000\000\000\000\000\000\000Fox\000\
-\000\000\000\000\000\000\000StrCode32\000\000\000\000\000\r\000\000\000T\000\000\000T\000\000\000T\000\000\000T\000\000\000T\000\000\000T\000\000\000U\000\000\000U\000\000\000U\000\000\000U\000\000\000U\000\000\000U\000\000\000V\000\000\000\000\000\000\000\000\000\000\000\000\000e\000\000\000\000\000\000\000\000\000\000\000\000");
-["_scriptPath"] = "TppPackList";
-["AddColoringPack"] = nil --[[functions with upvalue not supported]];
-["MakeMissionPackList"] = nil --[[functions with upvalue not supported]];
-["AddAvatarEditPack"] = nil --[[functions with upvalue not supported]];
-["DeleteMissionPack"] = nil --[[functions with upvalue not supported]];
-["AddFOBLayoutPack"] = nil --[[functions with upvalue not supported]];
-["GetLocationNameFormMissionCode"] = loadstring("LuaQ\000\000+\000\000\000\000\000\000\000@/Assets/mgo/script/tpplib/TppPackList.lua\000h\000\000\000u\000\000\000\000\000\r\000\000\000Ö\000\000\000≈@\000\000∆Ä¿ú\000\000Ä≈\000\000\000\000‹¿\000Ä\000Ä@\000Ä@\000Ä@\000Ä·Å\000\000@˛Z\000\000\000\000\000Ä@\000Ä°Ä\000\000\000¸^\000\000\000Ä\000\000\000\000\000\000\000\000\000\000\000pairs\000\
-\000\000\000\000\000\000\000TppDefine\000\000\000\000\000\000\000\000LOCATION_HAVE_MISSION_LIST\000\000\000\000\000\000\000\000i\000\000\000i\000\000\000i\000\000\000i\000\000\000i\000\000\000j\000\000\000j\000\000\000j\000\000\000j\000\000\000k\000\000\000k\000\000\000l\000\000\000m\000\000\000j\000\000\000n\000\000\000p\000\000\000p\000\000\000q\000\000\000i\000\000\000r\000\000\000t\000\000\000u\000\000\000\000\000\000\000\000\000\000\000\000\000n\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000e\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000(for generator)\000\000\000\000\000\000\000\000\000\000\000\000\000\000(for state)\000\000\000\000\000\000\000\000\000\000\000\000\000\000(for control)\000\000\000\000\000\000\000\000\000\000\000\000\000\000i\000\000\000\000\000\000\000\000\000\000\000\000\000\000s\000\000\000\000\000\000\000\000\000\000\000\000\000\000(for generator)\000\000\000\000\000\000\000\000\000\000\000\000\000\000(for state)\000\000\000\000\000\000\000\000\000\000\000\000\000\000(for control)\000\000\000\000\000\000\000\000\000\000\000\000\000\000a\000\000\000\000\r\000\000\000\000\000\000\000\000\000\000s\000\000\000\000\r\000\000\000\000\000\000\000");
-["GetMissionTypeAndMissionName"] = nil --[[functions with upvalue not supported]];
-["AddLocationCommonScriptPack"] = nil --[[functions with upvalue not supported]];
-["AddMissionPack"] = nil --[[functions with upvalue not supported]];
-["AddDefaultMissionAreaPack"] = nil --[[functions with upvalue not supported]];
-["MakeDefaultMissionAreaPackPath"] = nil --[[functions with upvalue not supported]];
-["SetDefaultMissionPackLabelName"] = nil --[[functions with upvalue not supported]];
-["SetUseDdEmblemFova"] = loadstring("LuaQ\000\000+\000\000\000\000\000\000\000@/Assets/mgo/script/tpplib/TppPackList.lua\000M\000\000\000S\000\000\000\000\000\000\000\000W\000@\000¿\000ÄW@@\000@\000ÄÄ@\000@ÄE¿\000\000F\000¡\000ä@\000\000âÄ¡Ç\\@\000\000Ä\000E¿\000F\000¬\000Z\000\000\000@ÄE¿\000\000F\000¡\000ä@\000\000â@¬Ç\\@\000\000ÄE¿\000\000F\000¡\000ä@\000\000âÄ¡Ç\\@\000\000Ä\000\
-\000\000\000\000\000\000\000\000ó√@\000\000\000\000\000°√@\000\000\000\000\000\000ƒ@\000\000\000\000\000\000\000TppSoldierFace\000\000\000\000\000\000\000\000SetUseBlackDdFova\000\000\000\000\000\000\000\000enabled\000\000\000\000\000\000\000\000\000gvars\000\000\000\000\000\000\000\000s10240_isPlayedFuneralDemo\000\000\000\000\000\000\000\000M\000\000\000M\000\000\000M\000\000\000M\000\000\000M\000\000\000M\000\000\000N\000\000\000N\000\000\000N\000\000\000N\000\000\000N\000\000\000N\000\000\000P\000\000\000P\000\000\000P\000\000\000P\000\000\000Q\000\000\000Q\000\000\000Q\000\000\000Q\000\000\000Q\000\000\000Q\000\000\000R\000\000\000R\000\000\000R\000\000\000R\000\000\000R\000\000\000S\000\000\000\000\000\000\000\000\000\000\000\000\000e\000\000\000\000\000\000\000\000\000\000\000\000");
+{
+	["AddLocationCommonMissionAreaPack"] = [[upvalue]];
+	["_scriptInstanceId"] = [[userdata]]
+	["IsMissionPackLabelList"] = [[upvalue]];
+	["MakeDefaultMissionPackList"] = [[upvalue]];
+	["IsMissionPackLabel"] = [[loadstring()]];
+	["SetMissionPackLabelName"] = [[loadstring()]];
+	["_scriptPath"] = "TppPackList";
+	["AddColoringPack"] = [[upvalue]];
+	["MakeMissionPackList"] = [[upvalue]];
+	["AddAvatarEditPack"] = [[upvalue]];
+	["DeleteMissionPack"] = [[upvalue]];
+	["AddFOBLayoutPack"] = [[upvalue]];
+	["GetLocationNameFormMissionCode"] = [[loadstring()]];
+	["GetMissionTypeAndMissionName"] = [[upvalue]];
+	["AddLocationCommonScriptPack"] = [[upvalue]];
+	["AddMissionPack"] = [[upvalue]];
+	["AddDefaultMissionAreaPack"] = [[upvalue]];
+	["MakeDefaultMissionAreaPackPath"] = [[upvalue]];
+	["SetDefaultMissionPackLabelName"] = [[upvalue]];
+	["SetUseDdEmblemFova"] = [[loadstring()]];
+}

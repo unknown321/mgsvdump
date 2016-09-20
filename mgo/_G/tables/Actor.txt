@@ -1,2 +1,6 @@
-["_className"] = "Actor";
-["AddToScene"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "Actor";
+	["AddToScene"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+}

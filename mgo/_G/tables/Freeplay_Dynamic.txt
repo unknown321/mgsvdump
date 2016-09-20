@@ -1,10 +1,9 @@
-["_scriptPath"] = "Freeplay_Dynamic";
-["_scriptInstanceId"] = nil --[[userdata]]
-;
-["requires"] = {
-[1] = "/Assets/mgo/script/utils/Random.lua";
-[2] = "/Assets/mgo/script/utils/Table.lua";
-};
-["GenerateDynamicPackTable"] = loadstring("LuaQ\000\000:\000\000\000\000\000\000\000@/Assets/mgo/script/ruleset/freeplay/Freeplay_Dynamic.lua\000\000\000\000\000\000\000\000\000\000\r\000\000\000\
-\000\000\000E\000\000\000F@À\000€\000\000\000Á€\000\000\\@€EÀ\000\000F\000Á\000€\000\000\000\\€\000\000\000€\000\000\000\000€\000\000\000\000\000\000\000\000\000\000\000table\000\000\000\000\000\000\000\000insert\000\000\000\000\000\000\000\000core\000\000\000\000\000\000\000\000Table\000\000\000\000\000\000\000\000Uniquify\000\000\000\000\000\r\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\
-\000\000\000\000\000\000\000PackTable\000\000\000\000\000\000\000\000\000\000\000");
+{
+	["_scriptPath"] = "Freeplay_Dynamic";
+	["_scriptInstanceId"] = [[userdata]]
+	["requires"] = {
+		[1] = "/Assets/mgo/script/utils/Random.lua";
+		[2] = "/Assets/mgo/script/utils/Table.lua";
+	};
+	["GenerateDynamicPackTable"] = [[loadstring()]];
+}

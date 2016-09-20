@@ -1,2 +1,6 @@
-["_className"] = "GrRenderPlugin";
-["AddPlugin"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "GrRenderPlugin";
+	["AddPlugin"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+}

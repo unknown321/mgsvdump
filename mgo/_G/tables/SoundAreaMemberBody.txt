@@ -1,3 +1,7 @@
-["_className"] = "SoundAreaMemberBody";
-["ResetOverWrite"] = nil --[[functions with upvalue not supported]];
-["SetOverWrite"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "SoundAreaMemberBody";
+	["ResetOverWrite"] = [[upvalue]];
+	["SetOverWrite"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+}

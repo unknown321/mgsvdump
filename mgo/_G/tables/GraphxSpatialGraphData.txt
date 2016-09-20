@@ -1,2 +1,6 @@
-["_className"] = "GraphxSpatialGraphData";
-["GetGraphNode"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "GraphxSpatialGraphData";
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["GetGraphNode"] = [[upvalue]];
+}

@@ -1,1 +1,3 @@
-["RegisterCombatLocatorSetToCpforLua"] = nil --[[non-lua function not supported]];
+{
+	["RegisterCombatLocatorSetToCpforLua"] = [[non-lua function]];
+}

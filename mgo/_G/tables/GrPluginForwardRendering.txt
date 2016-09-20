@@ -1,2 +1,6 @@
-["_className"] = "GrPluginForwardRendering";
-["__call"] = nil --[[non-lua function not supported]];
+{
+	["_className"] = "GrPluginForwardRendering";
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__call"] = [[non-lua function]];
+}

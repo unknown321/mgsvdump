@@ -1,11 +1,13 @@
-["SetVisibility"] = nil --[[non-lua function not supported]];
-["CreateEffect"] = nil --[[non-lua function not supported]];
-["SetWorldMatrix"] = nil --[[non-lua function not supported]];
-["TearDown"] = nil --[[non-lua function not supported]];
-["DetachEffects"] = nil --[[non-lua function not supported]];
-["StopEffect"] = nil --[[non-lua function not supported]];
-["Realize"] = nil --[[non-lua function not supported]];
-["SendMessageVector4"] = nil --[[non-lua function not supported]];
-["TearDownAll"] = nil --[[non-lua function not supported]];
-["CreateEffectOneShot"] = nil --[[non-lua function not supported]];
-["SetVisibilityMesh"] = nil --[[non-lua function not supported]];
+{
+	["SetVisibility"] = [[non-lua function]];
+	["CreateEffect"] = [[non-lua function]];
+	["SetWorldMatrix"] = [[non-lua function]];
+	["TearDown"] = [[non-lua function]];
+	["DetachEffects"] = [[non-lua function]];
+	["StopEffect"] = [[non-lua function]];
+	["Realize"] = [[non-lua function]];
+	["SendMessageVector4"] = [[non-lua function]];
+	["TearDownAll"] = [[non-lua function]];
+	["CreateEffectOneShot"] = [[non-lua function]];
+	["SetVisibilityMesh"] = [[non-lua function]];
+}

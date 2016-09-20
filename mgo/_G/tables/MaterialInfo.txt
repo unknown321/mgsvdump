@@ -1,5 +1,9 @@
-["_className"] = "MaterialInfo";
-["SetName"] = nil --[[functions with upvalue not supported]];
-["SetRestitutionCoefficient"] = nil --[[functions with upvalue not supported]];
-["SetFrictionCoefficient"] = nil --[[functions with upvalue not supported]];
-["__call"] = nil --[[non-lua function not supported]];
+{
+	["_className"] = "MaterialInfo";
+	["SetName"] = [[upvalue]];
+	["SetRestitutionCoefficient"] = [[upvalue]];
+	["SetFrictionCoefficient"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__call"] = [[non-lua function]];
+}

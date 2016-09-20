@@ -1,4 +1,8 @@
-["_className"] = "TerrainBody";
-["GetNumBlocksHeight"] = nil --[[functions with upvalue not supported]];
-["GetNumBlocksWidth"] = nil --[[functions with upvalue not supported]];
-["GetSize"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "TerrainBody";
+	["GetNumBlocksHeight"] = [[upvalue]];
+	["GetNumBlocksWidth"] = [[upvalue]];
+	["GetSize"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+}

@@ -1,1 +1,5 @@
-["_className"] = "EnvironmentParameter";
+{
+	["_className"] = "EnvironmentParameter";
+	["__index"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+}

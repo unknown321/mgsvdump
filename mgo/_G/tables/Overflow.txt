@@ -1,10 +1,11 @@
-["GetData"] = nil --[[functions with upvalue not supported]];
-["_scriptPath"] = "Overflow";
-["GetTppSimpleMissionBlock"] = nil --[[functions with upvalue not supported]];
-["_scriptInstanceId"] = nil --[[userdata]]
-;
-["GetRulesetString"] = nil --[[functions with upvalue not supported]];
-["GetSimpleStageBlockSize"] = loadstring("LuaQ\000\000'\000\000\000\000\000\000\000@Tpp/Scripts/System/Block/Overflow.lua\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000€\000\000\000\000\000\000\000\000 á@\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000");
-["GetAdjustedBlockSize"] = nil --[[functions with upvalue not supported]];
-["GetLocationString"] = nil --[[functions with upvalue not supported]];
-["GetCommonBlock"] = nil --[[functions with upvalue not supported]];
+{
+	["GetData"] = [[upvalue]];
+	["_scriptPath"] = "Overflow";
+	["GetTppSimpleMissionBlock"] = [[upvalue]];
+	["_scriptInstanceId"] = [[userdata]]
+	["GetRulesetString"] = [[upvalue]];
+	["GetSimpleStageBlockSize"] = [[loadstring()]];
+	["GetAdjustedBlockSize"] = [[upvalue]];
+	["GetLocationString"] = [[upvalue]];
+	["GetCommonBlock"] = [[upvalue]];
+}

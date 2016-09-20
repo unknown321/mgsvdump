@@ -1,2 +1,4 @@
-["RegisterCaptureAnimal"] = nil --[[non-lua function not supported]];
-["GetCaptureAnimalList"] = nil --[[non-lua function not supported]];
+{
+	["RegisterCaptureAnimal"] = [[non-lua function]];
+	["GetCaptureAnimalList"] = [[non-lua function]];
+}

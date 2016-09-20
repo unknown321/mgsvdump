@@ -1,4 +1,8 @@
-["_className"] = "IntervalRegulator";
-["SetInterval"] = nil --[[functions with upvalue not supported]];
-["IsReady"] = nil --[[functions with upvalue not supported]];
-["__call"] = nil --[[non-lua function not supported]];
+{
+	["_className"] = "IntervalRegulator";
+	["SetInterval"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+	["IsReady"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__call"] = [[non-lua function]];
+}

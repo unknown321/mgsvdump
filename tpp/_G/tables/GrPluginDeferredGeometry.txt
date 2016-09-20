@@ -1,2 +1,6 @@
-["_className"] = "GrPluginDeferredGeometry";
-["__call"] = nil --[[non-lua function not supported]];
+{
+	["_className"] = "GrPluginDeferredGeometry";
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__call"] = [[non-lua function]];
+}

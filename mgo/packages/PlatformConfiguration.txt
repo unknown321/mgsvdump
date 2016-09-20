@@ -1,4 +1,6 @@
-["SetVideoRecordingEnabled"] = nil --[[non-lua function not supported]];
-["SetScreenShotEnabled"] = nil --[[non-lua function not supported]];
-["SetShareScreenEnabled"] = nil --[[non-lua function not supported]];
-["SetAudioRecordingEnabled"] = nil --[[non-lua function not supported]];
+{
+	["SetVideoRecordingEnabled"] = [[non-lua function]];
+	["SetScreenShotEnabled"] = [[non-lua function]];
+	["SetShareScreenEnabled"] = [[non-lua function]];
+	["SetAudioRecordingEnabled"] = [[non-lua function]];
+}

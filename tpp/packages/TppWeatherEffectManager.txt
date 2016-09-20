@@ -1,4 +1,6 @@
-["SetCloudShadowVisibility"] = nil --[[non-lua function not supported]];
-["SetSunMoonDecorationDistance"] = nil --[[non-lua function not supported]];
-["SetSunMoonDecorationVisible"] = nil --[[non-lua function not supported]];
-["SetWeatherThunderAutoGeneration"] = nil --[[non-lua function not supported]];
+{
+	["SetCloudShadowVisibility"] = [[non-lua function]];
+	["SetSunMoonDecorationDistance"] = [[non-lua function]];
+	["SetSunMoonDecorationVisible"] = [[non-lua function]];
+	["SetWeatherThunderAutoGeneration"] = [[non-lua function]];
+}

@@ -1,6 +1,8 @@
-[-285212672] = 0;
-["dump"] = nil --[[functions with upvalue not supported]];
-[-285212671] = {
-};
-
-
+{
+	[-285212672] = 0;
+	["dump"] = [[upvalue]];
+	[-285212671] = {
+	};
+	["__index"] = [[non-lua function]];
+	["__newindex"] = [[non-lua function]];
+}

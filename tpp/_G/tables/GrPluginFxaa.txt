@@ -1,2 +1,6 @@
-["_className"] = "GrPluginFxaa";
-["__call"] = nil --[[non-lua function not supported]];
+{
+	["_className"] = "GrPluginFxaa";
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__call"] = [[non-lua function]];
+}

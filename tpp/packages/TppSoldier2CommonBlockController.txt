@@ -1,8 +1,10 @@
-["RequestToLoadCommonMotionBlock"] = nil --[[non-lua function not supported]];
-["IsBlockEmpty"] = nil --[[non-lua function not supported]];
-["CreateCommonMotionBlockGroup"] = nil --[[non-lua function not supported]];
-["RegisterCommonMotionPackagePath"] = nil --[[non-lua function not supported]];
-["IsBlockActive"] = nil --[[non-lua function not supported]];
-["IsReady"] = nil --[[non-lua function not supported]];
-["RequestToUnloadCommonMotionBlock"] = nil --[[non-lua function not supported]];
-["SetPackagePathWithPrerequisites"] = nil --[[non-lua function not supported]];
+{
+	["RequestToLoadCommonMotionBlock"] = [[non-lua function]];
+	["IsBlockEmpty"] = [[non-lua function]];
+	["CreateCommonMotionBlockGroup"] = [[non-lua function]];
+	["RegisterCommonMotionPackagePath"] = [[non-lua function]];
+	["IsBlockActive"] = [[non-lua function]];
+	["IsReady"] = [[non-lua function]];
+	["RequestToUnloadCommonMotionBlock"] = [[non-lua function]];
+	["SetPackagePathWithPrerequisites"] = [[non-lua function]];
+}

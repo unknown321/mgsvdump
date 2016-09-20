@@ -1,24 +1,24 @@
-["RestoreMissionStartWeather"] = nil --[[functions with upvalue not supported]];
-["RestoreColorCorrectionParameter"] = loadstring("LuaQ\000\000'\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppWeather.lua\000T\000\000\000T\000\000\000\000\000\000\000\000\000\000\000\000@@\000@€\000\000€\000\000\000\000\000\000\000\000\000\000\000TppColorCorrection\000\000\000\000\000\000\000\000RemoveParameter\000\000\000\000\000\000\000\000T\000\000\000T\000\000\000T\000\000\000T\000\000\000\000\000\000\000\000\000\000\000");
-["OverrideColorCorrectionParameter"] = loadstring("LuaQ\000\000'\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppWeather.lua\000S\000\000\000S\000\000\000\000\000\000\000\000Å\000\000\000Æ@À\000\000\000@€\000€\000Ü@\000\000€\000\000\000\000\000\000\000\000\000\000\000TppColorCorrection\000\r\000\000\000\000\000\000\000SetParameter\000\000\000\000\000\000\000\000S\000\000\000S\000\000\000S\000\000\000S\000\000\000S\000\000\000S\000\000\000S\000\000\000\000\000\000\000\000\000\000\000\000\000t\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000e\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000r\000\000\000\000\000\000\000\000\000\000\000\000");
-["SetDefaultWeatherDurations"] = nil --[[functions with upvalue not supported]];
-["SetDefaultWeatherProbabilities"] = nil --[[functions with upvalue not supported]];
-["OnMissionCanStart"] = loadstring("LuaQ\000\000'\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppWeather.lua\000c\000\000\000f\000\000\000\000\000\000\000\000\000\000\000\000@@\000E€\000\000FÀÀ\000€\000\000\000\000À€\000\000@A\000JÀ\000\000IÀAƒI@B„IÀB…@\000€\000€\000\000\000C\000@€\000\000€\000\r\000\000\000\000\000\000\000\000\000\000TppMission\000\000\000\000\000\000\000\000IsHelicopterSpace\000\000\000\000\000\000\000\000vars\000\000\000\000\000\000\000\000missionCode\000\"\000\000\000\000\000\000\000TppEffectWeatherParameterMediator\000\000\000\000\000\000\000\000SetParameters\000\000\000\000\000\000\000\000addTppSkyOffsetY\000\000\000\000\000\000 ”@\000\000\000\000\000\000\000setTppSkyScale\000š™™™™™¹?\000\000\000\000\000\000\000setTppSkyScrollSpeedRate\000\000\000\000\000\000\0004À\000\000\000\000\000\000\000RestoreDefaultParameters\000\000\000\000\000\000\000\000c\000\000\000c\000\000\000c\000\000\000c\000\000\000c\000\000\000c\000\000\000c\000\000\000d\000\000\000d\000\000\000d\000\000\000d\000\000\000d\000\000\000d\000\000\000d\000\000\000d\000\000\000e\000\000\000e\000\000\000e\000\000\000f\000\000\000\000\000\000\000\000\000\000\000");
-["OverrideColorCorrectionLUT"] = loadstring("LuaQ\000\000'\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppWeather.lua\000Q\000\000\000Q\000\000\000\000\000\000\000\000E\000\000\000F@À\000€\000\000\000\\@\000\000€\000\000\000\000\000\000\000\000\000\000\000TppColorCorrection\000\000\000\000\000\000\000\000SetLUT\000\000\000\000\000\000\000\000Q\000\000\000Q\000\000\000Q\000\000\000Q\000\000\000Q\000\000\000\000\000\000\000\000\000\000\000\000\000e\000\000\000\000\000\000\000\000\000\000\000\000");
-["CancelRequestWeather"] = nil --[[functions with upvalue not supported]];
-["ForceRequestWeather"] = nil --[[functions with upvalue not supported]];
-["SaveMissionStartWeather"] = nil --[[functions with upvalue not supported]];
-["SetMissionStartWeather"] = loadstring("LuaQ\000\000'\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppWeather.lua\000;\000\000\000<\000\000\000\000\000\000\000\000E\000\000\000I\000€€\000€\000\000\000\000\000\000\000\000\000\000\000mvars\000\000\000\000\000\000\000\000missionStartWeatherScript\000\000\000\000\000\000\000\000;\000\000\000;\000\000\000<\000\000\000\000\000\000\000\000\000\000\000\000\000e\000\000\000\000\000\000\000\000\000\000\000\000");
-["SetWeatherProbabilitiesAfghNoSandStorm"] = nil --[[functions with upvalue not supported]];
-["OnEndMissionPrepareFunction"] = nil --[[functions with upvalue not supported]];
-["_scriptInstanceId"] = nil --[[userdata]]
-;
-["_scriptPath"] = "TppWeather";
-["_GetRequestWeatherArgs"] = loadstring("LuaQ\000\000'\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppWeather.lua\000l\000\000\000r\000\000\000\000\000\000\000\000…\000\000\000†@@À\000\000\000œ€\000š\000\000\000À\000€ƒ\000\000À\000\000\000ž\000€\000€…\000\000\000†@@À\000€\000œ€\000š\000\000\000À\000€€\000\000\000À\000€\000ž\000€€\000€€\000\000\000Ê\000\000\000ž\000€\000€\000\000\000\000\000\000\000\000\000\000\000Tpp\000\000\000\000\000\000\000\000IsTypeTable\000\000\000\000\000\000\000\000l\000\000\000l\000\000\000l\000\000\000l\000\000\000l\000\000\000l\000\000\000m\000\000\000m\000\000\000m\000\000\000m\000\000\000n\000\000\000n\000\000\000n\000\000\000n\000\000\000n\000\000\000n\000\000\000o\000\000\000o\000\000\000o\000\000\000o\000\000\000q\000\000\000q\000\000\000q\000\000\000r\000\000\000\000\000\000\000\000\000\000\000\000\000e\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000t\000\000\000\000\000\000\000\000\000\000\000\000");
-["Init"] = loadstring("LuaQ\000\000'\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppWeather.lua\000b\000\000\000b\000\000\000\000\000\000\000\000\000\000\000\000@@\000@€\000\000\000\000€@\000@€\000\000€\000\000\000\000\000\000\000\000\000\000\000TppEffectUtility\000\000\000\000\000\000\000\000RemoveColorCorrectionLut\000\000\000\000\000\000\000\000RemoveColorCorrectionParameter\000\000\000\000\000\000\000\000b\000\000\000b\000\000\000b\000\000\000b\000\000\000b\000\000\000b\000\000\000b\000\000\000\000\000\000\000\000\000\000\000");
-["RestoreFromSVars"] = nil --[[functions with upvalue not supported]];
-["RestoreColorCorrectionLUT"] = loadstring("LuaQ\000\000'\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppWeather.lua\000R\000\000\000R\000\000\000\000\000\000\000\000\000\000\000\000@@\000@€\000\000€\000\000\000\000\000\000\000\000\000\000\000TppColorCorrection\000\
-\000\000\000\000\000\000\000RemoveLUT\000\000\000\000\000\000\000\000R\000\000\000R\000\000\000R\000\000\000R\000\000\000\000\000\000\000\000\000\000\000");
-["StoreToSVars"] = loadstring("LuaQ\000\000'\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppWeather.lua\000U\000\000\000U\000\000\000\000\000\000\000\000\000\000\000\000@@\000@€\000\000€\000\000\000\000\000\000\000\000\000\000\000WeatherManager\000\r\000\000\000\000\000\000\000StoreToSVars\000\000\000\000\000\000\000\000U\000\000\000U\000\000\000U\000\000\000U\000\000\000\000\000\000\000\000\000\000\000");
-["CancelForceRequestWeather"] = nil --[[functions with upvalue not supported]];
-["RequestWeather"] = nil --[[functions with upvalue not supported]];
+{
+	["RestoreMissionStartWeather"] = [[upvalue]];
+	["RestoreColorCorrectionParameter"] = [[loadstring()]];
+	["OverrideColorCorrectionParameter"] = [[loadstring()]];
+	["SetDefaultWeatherDurations"] = [[upvalue]];
+	["SetDefaultWeatherProbabilities"] = [[upvalue]];
+	["OnMissionCanStart"] = [[loadstring()]];
+	["OverrideColorCorrectionLUT"] = [[loadstring()]];
+	["CancelRequestWeather"] = [[upvalue]];
+	["ForceRequestWeather"] = [[upvalue]];
+	["SaveMissionStartWeather"] = [[upvalue]];
+	["SetMissionStartWeather"] = [[loadstring()]];
+	["SetWeatherProbabilitiesAfghNoSandStorm"] = [[upvalue]];
+	["OnEndMissionPrepareFunction"] = [[upvalue]];
+	["_scriptInstanceId"] = [[userdata]]
+	["_scriptPath"] = "TppWeather";
+	["_GetRequestWeatherArgs"] = [[loadstring()]];
+	["Init"] = [[loadstring()]];
+	["RestoreFromSVars"] = [[upvalue]];
+	["RestoreColorCorrectionLUT"] = [[loadstring()]];
+	["StoreToSVars"] = [[loadstring()]];
+	["CancelForceRequestWeather"] = [[upvalue]];
+	["RequestWeather"] = [[upvalue]];
+}

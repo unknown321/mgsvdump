@@ -1,5 +1,7 @@
-["AddIcon2"] = nil --[[non-lua function not supported]];
-["AddIcon"] = nil --[[non-lua function not supported]];
-["RemoveIcon"] = nil --[[non-lua function not supported]];
-["UnJam"] = nil --[[non-lua function not supported]];
-["Jam"] = nil --[[non-lua function not supported]];
+{
+	["AddIcon2"] = [[non-lua function]];
+	["AddIcon"] = [[non-lua function]];
+	["RemoveIcon"] = [[non-lua function]];
+	["UnJam"] = [[non-lua function]];
+	["Jam"] = [[non-lua function]];
+}

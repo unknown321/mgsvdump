@@ -1,23 +1,27 @@
-[252514290] = nil --[[non-lua function not supported]];
-[244538799] = nil --[[non-lua function not supported]];
-[171411639] = nil --[[non-lua function not supported]];
-[206416479] = nil --[[non-lua function not supported]];
-[264346203] = nil --[[non-lua function not supported]];
-[204978932] = nil --[[non-lua function not supported]];
-[-285212671] = {
-[32442344] = nil --[[functions with upvalue not supported]];
-[186295917] = nil --[[functions with upvalue not supported]];
-[100788423] = nil --[[functions with upvalue not supported]];
-[18679250] = nil --[[functions with upvalue not supported]];
-};
-[244194554] = nil --[[non-lua function not supported]];
-[227898294] = nil --[[non-lua function not supported]];
-[7800338] = nil --[[non-lua function not supported]];
-[197489862] = nil --[[non-lua function not supported]];
-[207735041] = nil --[[non-lua function not supported]];
-[18149960] = nil --[[non-lua function not supported]];
-[157550995] = nil --[[non-lua function not supported]];
-[162427208] = nil --[[non-lua function not supported]];
-[149837717] = nil --[[non-lua function not supported]];
-[14430574] = nil --[[non-lua function not supported]];
-[-285212672] = 4;
+{
+	[252514290] = [[non-lua function]];
+	[244538799] = [[non-lua function]];
+	[171411639] = [[non-lua function]];
+	[206416479] = [[non-lua function]];
+	[264346203] = [[non-lua function]];
+	[204978932] = [[non-lua function]];
+	["__index"] = [[non-lua function]];
+	[-285212671] = {
+		[32442344] = [[upvalue]];
+		[186295917] = [[upvalue]];
+		[100788423] = [[upvalue]];
+		[18679250] = [[upvalue]];
+	};
+	[244194554] = [[non-lua function]];
+	[227898294] = [[non-lua function]];
+	[7800338] = [[non-lua function]];
+	[197489862] = [[non-lua function]];
+	[207735041] = [[non-lua function]];
+	[18149960] = [[non-lua function]];
+	[157550995] = [[non-lua function]];
+	[162427208] = [[non-lua function]];
+	[149837717] = [[non-lua function]];
+	[14430574] = [[non-lua function]];
+	[-285212672] = 4;
+	["__newindex"] = [[non-lua function]];
+}

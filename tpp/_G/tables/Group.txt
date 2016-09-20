@@ -1,2 +1,6 @@
-["_className"] = "Group";
-["GetMembers"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "Group";
+	["GetMembers"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+}

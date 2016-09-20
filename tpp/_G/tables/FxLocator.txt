@@ -1,5 +1,9 @@
-["Visible"] = nil --[[functions with upvalue not supported]];
-["Invisible"] = nil --[[functions with upvalue not supported]];
-["Destroy"] = nil --[[functions with upvalue not supported]];
-["Create"] = nil --[[functions with upvalue not supported]];
-["_className"] = "FxLocator";
+{
+	["Visible"] = [[upvalue]];
+	["Invisible"] = [[upvalue]];
+	["Destroy"] = [[upvalue]];
+	["Create"] = [[upvalue]];
+	["_className"] = "FxLocator";
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+}

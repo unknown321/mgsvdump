@@ -1,9 +1,13 @@
-[257340098] = nil --[[non-lua function not supported]];
-[153929146] = nil --[[non-lua function not supported]];
-[-285212671] = {
-};
-[171420882] = nil --[[non-lua function not supported]];
-[-285212672] = 4;
-[48442708] = nil --[[non-lua function not supported]];
-[235108139] = nil --[[non-lua function not supported]];
-[214299721] = nil --[[non-lua function not supported]];
+{
+	[257340098] = [[non-lua function]];
+	[153929146] = [[non-lua function]];
+	[-285212671] = {
+	};
+	[171420882] = [[non-lua function]];
+	[-285212672] = 4;
+	[48442708] = [[non-lua function]];
+	[235108139] = [[non-lua function]];
+	[214299721] = [[non-lua function]];
+	["__newindex"] = [[non-lua function]];
+	["__index"] = [[non-lua function]];
+}

@@ -1,1 +1,3 @@
-["RegistPlayRecord"] = nil --[[non-lua function not supported]];
+{
+	["RegistPlayRecord"] = [[non-lua function]];
+}

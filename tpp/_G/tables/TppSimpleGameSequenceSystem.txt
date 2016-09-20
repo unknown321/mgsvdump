@@ -1,2 +1,6 @@
-["_className"] = "TppSimpleGameSequenceSystem";
-["Start"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "TppSimpleGameSequenceSystem";
+	["Start"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+}

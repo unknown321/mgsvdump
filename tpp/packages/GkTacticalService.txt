@@ -1,1 +1,3 @@
-["GetTacticalActionEdge"] = nil --[[non-lua function not supported]];
+{
+	["GetTacticalActionEdge"] = [[non-lua function]];
+}

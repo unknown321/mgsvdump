@@ -1,5 +1,7 @@
-["IsValidBuddySpawnInfo"] = nil --[[non-lua function not supported]];
-["OrCheckStatus"] = nil --[[non-lua function not supported]];
-["GetLocalPlayerIndex"] = nil --[[non-lua function not supported]];
-["AndCheckStatus"] = nil --[[non-lua function not supported]];
-["CanSpawnAtBuddy"] = nil --[[non-lua function not supported]];
+{
+	["IsValidBuddySpawnInfo"] = [[non-lua function]];
+	["OrCheckStatus"] = [[non-lua function]];
+	["GetLocalPlayerIndex"] = [[non-lua function]];
+	["AndCheckStatus"] = [[non-lua function]];
+	["CanSpawnAtBuddy"] = [[non-lua function]];
+}

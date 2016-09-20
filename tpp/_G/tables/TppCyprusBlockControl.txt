@@ -1,6 +1,10 @@
-["_className"] = "TppCyprusBlockControl";
-["IsCyprusLoading"] = nil --[[functions with upvalue not supported]];
-["IsCyprusBlockControllerCreated"] = nil --[[functions with upvalue not supported]];
-["SetCyprusStep"] = nil --[[functions with upvalue not supported]];
-["GetCyprusStep"] = nil --[[functions with upvalue not supported]];
-["__call"] = nil --[[non-lua function not supported]];
+{
+	["_className"] = "TppCyprusBlockControl";
+	["IsCyprusLoading"] = [[upvalue]];
+	["IsCyprusBlockControllerCreated"] = [[upvalue]];
+	["SetCyprusStep"] = [[upvalue]];
+	["GetCyprusStep"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__call"] = [[non-lua function]];
+}

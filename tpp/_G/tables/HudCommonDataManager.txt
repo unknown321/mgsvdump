@@ -1,6 +1,10 @@
-["_className"] = "HudCommonDataManager";
-["GetInstance"] = nil --[[functions with upvalue not supported]];
-["RulesetMessage"] = nil --[[functions with upvalue not supported]];
-["CombatMessage"] = nil --[[functions with upvalue not supported]];
-["Create"] = nil --[[functions with upvalue not supported]];
-["CallMessage"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "HudCommonDataManager";
+	["GetInstance"] = [[upvalue]];
+	["RulesetMessage"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["CombatMessage"] = [[upvalue]];
+	["Create"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+	["CallMessage"] = [[upvalue]];
+}

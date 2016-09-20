@@ -1,3 +1,5 @@
-["Start"] = nil --[[non-lua function not supported]];
-["SetEndsFile"] = nil --[[non-lua function not supported]];
-["Stop"] = nil --[[non-lua function not supported]];
+{
+	["Start"] = [[non-lua function]];
+	["SetEndsFile"] = [[non-lua function]];
+	["Stop"] = [[non-lua function]];
+}

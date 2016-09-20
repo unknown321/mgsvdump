@@ -1,1 +1,3 @@
-["SendSignal"] = nil --[[non-lua function not supported]];
+{
+	["SendSignal"] = [[non-lua function]];
+}

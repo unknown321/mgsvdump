@@ -1,3 +1,4 @@
-["_scriptPath"] = "EquipParameters";
-["_scriptInstanceId"] = nil --[[userdata]]
-;
+{
+	["_scriptPath"] = "EquipParameters";
+	["_scriptInstanceId"] = [[userdata]]
+}

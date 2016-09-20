@@ -1,12 +1,14 @@
-["Translation"] = nil --[[non-lua function not supported]];
-["RotationZYX"] = nil --[[non-lua function not supported]];
-["Identity"] = nil --[[non-lua function not supported]];
-["ToString"] = nil --[[non-lua function not supported]];
-["Rotation"] = nil --[[non-lua function not supported]];
-["Scale"] = nil --[[non-lua function not supported]];
-["Inverse"] = nil --[[non-lua function not supported]];
-["RotationX"] = nil --[[non-lua function not supported]];
-["RotationZ"] = nil --[[non-lua function not supported]];
-["RotTranslation"] = nil --[[non-lua function not supported]];
-["RotationY"] = nil --[[non-lua function not supported]];
-["__call"] = nil --[[non-lua function not supported]];
+{
+	["Translation"] = [[non-lua function]];
+	["RotationZYX"] = [[non-lua function]];
+	["Identity"] = [[non-lua function]];
+	["ToString"] = [[non-lua function]];
+	["Rotation"] = [[non-lua function]];
+	["Scale"] = [[non-lua function]];
+	["Inverse"] = [[non-lua function]];
+	["RotationX"] = [[non-lua function]];
+	["RotationZ"] = [[non-lua function]];
+	["RotTranslation"] = [[non-lua function]];
+	["RotationY"] = [[non-lua function]];
+	["__call"] = [[non-lua function]];
+}

@@ -1,2 +1,6 @@
-["_className"] = "NavNavigationParameterHolder";
-["InsertNavigationParameter"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "NavNavigationParameterHolder";
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["InsertNavigationParameter"] = [[upvalue]];
+}

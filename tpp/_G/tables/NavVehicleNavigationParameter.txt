@@ -1,2 +1,6 @@
-["_className"] = "NavVehicleNavigationParameter";
-["__call"] = nil --[[non-lua function not supported]];
+{
+	["_className"] = "NavVehicleNavigationParameter";
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__call"] = [[non-lua function]];
+}

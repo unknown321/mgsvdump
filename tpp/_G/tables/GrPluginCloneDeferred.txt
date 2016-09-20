@@ -1,2 +1,6 @@
-["_className"] = "GrPluginCloneDeferred";
-["__call"] = nil --[[non-lua function not supported]];
+{
+	["_className"] = "GrPluginCloneDeferred";
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__call"] = [[non-lua function]];
+}

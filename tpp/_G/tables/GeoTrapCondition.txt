@@ -1,2 +1,6 @@
-["_className"] = "GeoTrapCondition";
-["AddConditionParam"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "GeoTrapCondition";
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["AddConditionParam"] = [[upvalue]];
+}

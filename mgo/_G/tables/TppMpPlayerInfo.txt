@@ -1,3 +1,7 @@
-["_className"] = "TppMpPlayerInfo";
-["GetGameObjectId"] = nil --[[functions with upvalue not supported]];
-["GetPosRotY"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "TppMpPlayerInfo";
+	["__index"] = [[upvalue]];
+	["GetGameObjectId"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+	["GetPosRotY"] = [[upvalue]];
+}

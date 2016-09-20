@@ -1,6 +1,10 @@
-["_className"] = "DemoDataBody";
-["StreamPause"] = nil --[[functions with upvalue not supported]];
-["Stop"] = nil --[[functions with upvalue not supported]];
-["SetupPlayback"] = nil --[[functions with upvalue not supported]];
-["Start"] = nil --[[functions with upvalue not supported]];
-["StreamStart"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "DemoDataBody";
+	["StreamPause"] = [[upvalue]];
+	["Stop"] = [[upvalue]];
+	["SetupPlayback"] = [[upvalue]];
+	["Start"] = [[upvalue]];
+	["StreamStart"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+}

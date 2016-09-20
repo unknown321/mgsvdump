@@ -1,2 +1,6 @@
-["_className"] = "TppTrapCheckIsPlayerAndLocalCallbackDataElement";
-["__call"] = nil --[[non-lua function not supported]];
+{
+	["_className"] = "TppTrapCheckIsPlayerAndLocalCallbackDataElement";
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__call"] = [[non-lua function]];
+}

@@ -1,82 +1,77 @@
-["IsExistMarkerLocatorSystem"] = nil --[[functions with upvalue not supported]];
-["CompleteSearchTarget"] = nil --[[functions with upvalue not supported]];
-["_OnSearchTarget"] = nil --[[functions with upvalue not supported]];
-["OnReload"] = nil --[[functions with upvalue not supported]];
-["GoalTypes"] = {
-["moving"] = "GOAL_MOVE";
-["moving_fix"] = "GOAL_MOVE_FIX";
-["attack"] = "GOAL_ATTACK";
-["defend"] = "GOAL_DEFENSE";
-["none"] = "GOAL_NONE";
-};
-["_CallSearchTargetEnabledRadio"] = nil --[[functions with upvalue not supported]];
-["GetSearchTargetIsFound"] = nil --[[functions with upvalue not supported]];
-["SetQuestMarker"] = nil --[[functions with upvalue not supported]];
-["DisableAll"] = loadstring("LuaQ\000\000&\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppMarker.lua\000P\000\000\000P\000\000\000\000\000\000\000\000\000\000\000\000@@\000@Ä\000\000Ä\000\000\000\000\000\000\000\000\000\000\000TppMarker2System\000\000\000\000\000\000\000\000DisableAllMarker\000\000\000\000\000\000\000\000P\000\000\000P\000\000\000P\000\000\000P\000\000\000\000\000\000\000\000\000\000\000");
-["_GetStrCode32SearchTargetName"] = nil --[[functions with upvalue not supported]];
-["_OnMarkerChangeToEnable"] = nil --[[functions with upvalue not supported]];
-["_IsRadioTarget"] = loadstring("LuaQ\000\000&\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppMarker.lua\000˙\000\000\000˛\000\000\000\000\000\000\000\000E\000\000\000F@¿\000Ä\000\000\000\\Ä\000Ö\000\000\000ÜÄ@¿\000\000\000úÄ\000Z@\000\000¿\000Äö@\000\000@\000Ä¬\000\000\000ﬁ\000\000¬\000Ä\000ﬁ\000\000\000Ä\000\000\000\000\000\000\000\000\000\000\000TppEnemy\000\000\000\000\000\000\000\000IsEliminateTarget\000\000\000\000\000\000\000\000IsRescueTarget\000\000\000\000\000\000\000\000˙\000\000\000˙\000\000\000˙\000\000\000˙\000\000\000˙\000\000\000˙\000\000\000˙\000\000\000˙\000\000\000˙\000\000\000˙\000\000\000˙\000\000\000˙\000\000\000˚\000\000\000˚\000\000\000˝\000\000\000˝\000\000\000˛\000\000\000\000\000\000\000\000\000\000\000\000\000e\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000a\000\000\000\000\000\000\000\000\000\000\000\000\000\000e\000\000\000\000\000\000\000\000\000\000\000");
-["Disable"] = nil --[[functions with upvalue not supported]];
-["Messages"] = nil --[[functions with upvalue not supported]];
-["_scriptInstanceId"] = nil --[[userdata]]
-;
-["DisableSearchTarget"] = nil --[[functions with upvalue not supported]];
-["OnMissionCanStart"] = nil --[[functions with upvalue not supported]];
-["OnAllocate"] = loadstring("LuaQ\000\000&\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppMarker.lua\000ç\000\000\000ç\000\000\000\000\000\000\000\000\000\000\000\000J\000\000\000@ÄÄ\000\000\000J\000\000\000@\000Å\000Ä\000\000\000\000\000\000\000\000\000\000\000mvars\000\000\000\000\000\000\000\000mar_searchTargetList\000\000\000\000\000\000\000\000mar_searchTargetPrePareList\000\000\000\000\000\000\000\000ç\000\000\000ç\000\000\000ç\000\000\000ç\000\000\000ç\000\000\000ç\000\000\000ç\000\000\000\000\000\000\000\000\000\000\000");
-["_IsCheckSVarsSearchTargetName"] = nil --[[functions with upvalue not supported]];
-["messageExecTable"] = {
-[3333891920] = {
-[1506468712] = {
-["func"] = nil --[[functions with upvalue not supported]];
-};
-[2173099421] = {
-["func"] = nil --[[functions with upvalue not supported]];
-};
-};
-[3087473413] = {
-[3754835175] = {
-["func"] = nil --[[functions with upvalue not supported]];
-};
-};
-[2541390487] = {
-[605795362] = {
-["func"] = nil --[[functions with upvalue not supported]];
-};
-};
-};
-["_CanSetMarker"] = loadstring("LuaQ\000\000&\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppMarker.lua\000ˇ\000\000\000\000\000\000\000\000\000\000E\000\000\000F@¿\000Ä\000\000\000\\Ä\000Z\000\000\000@ÄEÄ\000\000F¿¿\000Ä\000\000\000]\000\000^\000\000\000@\000ÄB\000Ä\000^\000\000\000Ä\000\000\000\000\000\000\000\000\000\000\000Tpp\000\
-\000\000\000\000\000\000\000IsVehicle\000\000\000\000\000\000\000\000TppEnemy\000\000\000\000\000\000\000\000IsVehicleAlive\000\000\000\000\000\000\000\000ˇ\000\000\000ˇ\000\000\000ˇ\000\000\000ˇ\000\000\000ˇ\000\000\000ˇ\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000e\000\000\000\000\000\000\000\000\000\000\000\000");
-["EnableSearchTarget"] = nil --[[functions with upvalue not supported]];
-["Init"] = nil --[[functions with upvalue not supported]];
-["_scriptPath"] = "TppMarker";
-["Enable"] = nil --[[functions with upvalue not supported]];
-["DeclareSVars"] = loadstring("LuaQ\000\000&\000\000\000\000\000\000\000@/Assets/tpp/script/lib/TppMarker.lua\000å\000\000\000å\000\000\000\000\000\000?\000\000\000\
-\000ÄJ\000\000I@@ÄÖ¿\000\000Ü\000AIÄ\000ÅÖÄ\000Ü¿AIÄÄÇI@BÑI¿BÖI@CÜI@CáÖÄ\000Ü\000DIÄÄáä\000\000â@DÄ≈¿\000\000∆\000¡â¿\000Å≈Ä\000∆Äƒâ¿ÄÇâ@CÑâ¿BÖâ@CÜâ@Cá≈Ä\000∆\000ƒâ¿Äá \000\000…¿DÄ¡\000\000A…\000ÅÅ\000ÅD…\000ÅÇ…@CÑ…¿BÖ…@CÜ…@CáÅ\000D…\000Åá\
-\000EÄAEÅEÅ\000F¡¡AÅÇABÑ¡BÖACÜACáEÅ\000FƒAÅáCÄ\"@Ä\000\000\000Ä\000\000\000\000\000\000\000\000\000\000\000name\000\000\000\000\000\000\000\000mar_searchTargetName\000\
-\000\000\000\000\000\000\000arraySize\000\
-\000\000\000\000\000\000\000TppDefine\000\000\000\000\000\000\000\000SEARCH_TARGET_COUNT\000\000\000\000\000\000\000\000type\000\000\000\000\000\000\000\000TppScriptVars\000\000\000\000\000\000\000\000TYPE_UINT32\000\000\000\000\000\000\000\000value\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000save\000\000\000\000\000\000\000\000sync\000\000\000\000\000\000\000\000\000wait\000\000\000\000\000\000\000\000category\000\000\000\000\000\000\000\000CATEGORY_MISSION\000\000\000\000\000\000\000\000mar_searchTargeEnable\000\
-\000\000\000\000\000\000\000TYPE_BOOL\000\000\000\000\000\000\000\000mar_searchTargeIsFound\000\000\000\000\000\000\000\000mar_locatorMarker\000\000\000\000\000\000\000Y@\000\000\000\000?\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000å\000\000\000\000\000\000\000\000\000\000\000");
-["ViewTypes"] = {
-["map"] = {
-[1] = "VIEW_MAP_GOAL";
-};
-["all"] = {
-[1] = "VIEW_MAP_GOAL";
-[2] = "VIEW_WORLD_GOAL";
-};
-["map_and_world_only_icon"] = {
-[1] = "VIEW_MAP_ICON";
-[2] = "VIEW_WORLD_ICON";
-};
-["map_only_icon"] = {
-[1] = "VIEW_MAP_ICON";
-};
-};
-["RestoreMarkerLocator"] = nil --[[functions with upvalue not supported]];
-["_CallMarkerRadio"] = nil --[[functions with upvalue not supported]];
-["OnMessage"] = nil --[[functions with upvalue not supported]];
-["_IsCheckSVarsSearchTarget"] = nil --[[functions with upvalue not supported]];
-["EnableQuestTargetMarker"] = nil --[[functions with upvalue not supported]];
-["SetUpSearchTarget"] = nil --[[functions with upvalue not supported]];
-["SetQuestMarkerGimmick"] = nil --[[functions with upvalue not supported]];
-["StoreMarkerLocator"] = nil --[[functions with upvalue not supported]];
+{
+	["IsExistMarkerLocatorSystem"] = [[upvalue]];
+	["CompleteSearchTarget"] = [[upvalue]];
+	["_OnSearchTarget"] = [[upvalue]];
+	["OnReload"] = [[upvalue]];
+	["GoalTypes"] = {
+		["moving"] = "GOAL_MOVE";
+		["moving_fix"] = "GOAL_MOVE_FIX";
+		["attack"] = "GOAL_ATTACK";
+		["defend"] = "GOAL_DEFENSE";
+		["none"] = "GOAL_NONE";
+	};
+	["_CallSearchTargetEnabledRadio"] = [[upvalue]];
+	["GetSearchTargetIsFound"] = [[upvalue]];
+	["SetQuestMarker"] = [[upvalue]];
+	["DisableAll"] = [[loadstring()]];
+	["_GetStrCode32SearchTargetName"] = [[upvalue]];
+	["_OnMarkerChangeToEnable"] = [[upvalue]];
+	["_IsRadioTarget"] = [[loadstring()]];
+	["Disable"] = [[upvalue]];
+	["Messages"] = [[upvalue]];
+	["_scriptInstanceId"] = [[userdata]]
+	["DisableSearchTarget"] = [[upvalue]];
+	["OnMissionCanStart"] = [[upvalue]];
+	["OnAllocate"] = [[loadstring()]];
+	["_IsCheckSVarsSearchTargetName"] = [[upvalue]];
+	["messageExecTable"] = {
+		[3333891920] = {
+			[1506468712] = {
+				["func"] = [[upvalue]];
+			};
+			[2173099421] = {
+				["func"] = [[upvalue]];
+			};
+		};
+		[3087473413] = {
+			[3754835175] = {
+				["func"] = [[upvalue]];
+			};
+		};
+		[2541390487] = {
+			[605795362] = {
+				["func"] = [[upvalue]];
+			};
+		};
+	};
+	["_CanSetMarker"] = [[loadstring()]];
+	["EnableSearchTarget"] = [[upvalue]];
+	["Init"] = [[upvalue]];
+	["_scriptPath"] = "TppMarker";
+	["Enable"] = [[upvalue]];
+	["DeclareSVars"] = [[loadstring()]];
+	["ViewTypes"] = {
+		["map"] = {
+			[1] = "VIEW_MAP_GOAL";
+		};
+		["all"] = {
+			[1] = "VIEW_MAP_GOAL";
+			[2] = "VIEW_WORLD_GOAL";
+		};
+		["map_and_world_only_icon"] = {
+			[1] = "VIEW_MAP_ICON";
+			[2] = "VIEW_WORLD_ICON";
+		};
+		["map_only_icon"] = {
+			[1] = "VIEW_MAP_ICON";
+		};
+	};
+	["RestoreMarkerLocator"] = [[upvalue]];
+	["_CallMarkerRadio"] = [[upvalue]];
+	["OnMessage"] = [[upvalue]];
+	["_IsCheckSVarsSearchTarget"] = [[upvalue]];
+	["EnableQuestTargetMarker"] = [[upvalue]];
+	["SetUpSearchTarget"] = [[upvalue]];
+	["SetQuestMarkerGimmick"] = [[upvalue]];
+	["StoreMarkerLocator"] = [[upvalue]];
+}

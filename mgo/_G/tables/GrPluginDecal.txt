@@ -1,2 +1,6 @@
-["_className"] = "GrPluginDecal";
-["__call"] = nil --[[non-lua function not supported]];
+{
+	["_className"] = "GrPluginDecal";
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__call"] = [[non-lua function]];
+}

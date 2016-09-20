@@ -1,2 +1,6 @@
-["_className"] = "PauseController";
-["Create"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "PauseController";
+	["Create"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+}

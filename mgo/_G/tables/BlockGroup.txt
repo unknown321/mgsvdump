@@ -1,2 +1,6 @@
-["_className"] = "BlockGroup";
-["FindInstance"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "BlockGroup";
+	["FindInstance"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+}

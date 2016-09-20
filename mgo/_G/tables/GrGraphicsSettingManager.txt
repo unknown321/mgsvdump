@@ -1,5 +1,9 @@
-["_className"] = "GrGraphicsSettingManager";
-["SetPluginSettingSelection"] = nil --[[functions with upvalue not supported]];
-["GetError"] = nil --[[functions with upvalue not supported]];
-["GetStatus"] = nil --[[functions with upvalue not supported]];
-["SetEasySetting"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "GrGraphicsSettingManager";
+	["SetPluginSettingSelection"] = [[upvalue]];
+	["GetError"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["GetStatus"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+	["SetEasySetting"] = [[upvalue]];
+}

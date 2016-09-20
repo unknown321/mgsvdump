@@ -1,14 +1,16 @@
-["ResetGlobalSonicSpeed"] = nil --[[non-lua function not supported]];
-["SetGlobalSonicSpeed"] = nil --[[non-lua function not supported]];
-["SetRearParameter"] = nil --[[non-lua function not supported]];
-["SetState"] = nil --[[non-lua function not supported]];
-["Create"] = nil --[[non-lua function not supported]];
-["SetGlobalRTPC"] = nil --[[non-lua function not supported]];
-["SetAssetPath"] = nil --[[non-lua function not supported]];
-["SetInterferenceRTPCName"] = nil --[[non-lua function not supported]];
-["SetDopplerRTPCName"] = nil --[[non-lua function not supported]];
-["ResetGlobalAttenuationRate"] = nil --[[non-lua function not supported]];
-["ResetState"] = nil --[[non-lua function not supported]];
-["SetGlobalAttenuationRate"] = nil --[[non-lua function not supported]];
-["ResetGlobalRTPC"] = nil --[[non-lua function not supported]];
-["WaitAsync"] = nil --[[non-lua function not supported]];
+{
+	["ResetGlobalSonicSpeed"] = [[non-lua function]];
+	["SetGlobalSonicSpeed"] = [[non-lua function]];
+	["SetRearParameter"] = [[non-lua function]];
+	["SetState"] = [[non-lua function]];
+	["Create"] = [[non-lua function]];
+	["SetGlobalRTPC"] = [[non-lua function]];
+	["SetAssetPath"] = [[non-lua function]];
+	["SetInterferenceRTPCName"] = [[non-lua function]];
+	["SetDopplerRTPCName"] = [[non-lua function]];
+	["ResetGlobalAttenuationRate"] = [[non-lua function]];
+	["ResetState"] = [[non-lua function]];
+	["SetGlobalAttenuationRate"] = [[non-lua function]];
+	["ResetGlobalRTPC"] = [[non-lua function]];
+	["WaitAsync"] = [[non-lua function]];
+}

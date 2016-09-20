@@ -1,7 +1,11 @@
-["_className"] = "SimDaemon";
-["GetInstance"] = nil --[[functions with upvalue not supported]];
-["SetForceSimLocalMode"] = nil --[[functions with upvalue not supported]];
-["SetForceSimNotActiveMode"] = nil --[[functions with upvalue not supported]];
-["SetSimWorkSize"] = nil --[[functions with upvalue not supported]];
-["SetForceStopSimWindEffect"] = nil --[[functions with upvalue not supported]];
-["__call"] = nil --[[non-lua function not supported]];
+{
+	["_className"] = "SimDaemon";
+	["GetInstance"] = [[upvalue]];
+	["SetForceSimLocalMode"] = [[upvalue]];
+	["SetForceSimNotActiveMode"] = [[upvalue]];
+	["SetSimWorkSize"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+	["SetForceStopSimWindEffect"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__call"] = [[non-lua function]];
+}

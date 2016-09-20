@@ -1,8 +1,12 @@
-["_className"] = "SyncUniqueId";
-["GetInstance"] = nil --[[functions with upvalue not supported]];
-["RegistSyncUniqueIdTable"] = nil --[[functions with upvalue not supported]];
-["EraseInstance"] = nil --[[functions with upvalue not supported]];
-["GetSyncUniqueId"] = nil --[[functions with upvalue not supported]];
-["GetDataSyncUniqueIdTable"] = nil --[[functions with upvalue not supported]];
-["ExceptSyncUniqueId"] = nil --[[functions with upvalue not supported]];
-["__call"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "SyncUniqueId";
+	["GetInstance"] = [[upvalue]];
+	["RegistSyncUniqueIdTable"] = [[upvalue]];
+	["EraseInstance"] = [[upvalue]];
+	["GetSyncUniqueId"] = [[upvalue]];
+	["GetDataSyncUniqueIdTable"] = [[upvalue]];
+	["ExceptSyncUniqueId"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__call"] = [[upvalue]];
+}

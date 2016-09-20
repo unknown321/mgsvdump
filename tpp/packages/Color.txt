@@ -1,5 +1,7 @@
-["Sub"] = nil --[[non-lua function not supported]];
-["Scale"] = nil --[[non-lua function not supported]];
-["ToString"] = nil --[[non-lua function not supported]];
-["Add"] = nil --[[non-lua function not supported]];
-["__call"] = nil --[[non-lua function not supported]];
+{
+	["Sub"] = [[non-lua function]];
+	["Scale"] = [[non-lua function]];
+	["ToString"] = [[non-lua function]];
+	["Add"] = [[non-lua function]];
+	["__call"] = [[non-lua function]];
+}

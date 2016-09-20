@@ -1,14 +1,18 @@
-[-285212671] = {
-["BGM_PHASE_SNEAK_1"] = nil --[[functions with upvalue not supported]];
-["BGM_PHASE_SNEAK_3"] = nil --[[functions with upvalue not supported]];
-["BGM_PHASE_CAUTION"] = nil --[[functions with upvalue not supported]];
-["BGM_PHASE_SNEAK_2"] = nil --[[functions with upvalue not supported]];
-["BGM_PHASE_NONE"] = nil --[[functions with upvalue not supported]];
-["BGM_PHASE_ALERT_CP"] = nil --[[functions with upvalue not supported]];
-["BGM_PHASE_EVASION"] = nil --[[functions with upvalue not supported]];
-["BGM_PHASE_ALERT_LOST"] = nil --[[functions with upvalue not supported]];
-["BGM_PHASE_ALERT"] = nil --[[functions with upvalue not supported]];
-["BGM_PHASE_ALERT_REINFORCE"] = nil --[[functions with upvalue not supported]];
-["BGM_PHASE_ALERT_BATTLE"] = nil --[[functions with upvalue not supported]];
-};
-[-285212672] = 0;
+{
+	[-285212671] = {
+		["BGM_PHASE_SNEAK_1"] = [[upvalue]];
+		["BGM_PHASE_SNEAK_3"] = [[upvalue]];
+		["BGM_PHASE_CAUTION"] = [[upvalue]];
+		["BGM_PHASE_SNEAK_2"] = [[upvalue]];
+		["BGM_PHASE_NONE"] = [[upvalue]];
+		["BGM_PHASE_ALERT_CP"] = [[upvalue]];
+		["BGM_PHASE_EVASION"] = [[upvalue]];
+		["BGM_PHASE_ALERT_LOST"] = [[upvalue]];
+		["BGM_PHASE_ALERT"] = [[upvalue]];
+		["BGM_PHASE_ALERT_REINFORCE"] = [[upvalue]];
+		["BGM_PHASE_ALERT_BATTLE"] = [[upvalue]];
+	};
+	[-285212672] = 0;
+	["__newindex"] = [[non-lua function]];
+	["__index"] = [[non-lua function]];
+}

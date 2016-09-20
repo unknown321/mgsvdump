@@ -1,4 +1,8 @@
-["_className"] = "WindGlobalBody";
-["SetRotation"] = nil --[[functions with upvalue not supported]];
-["ResetWind"] = nil --[[functions with upvalue not supported]];
-["SetSpeed"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "WindGlobalBody";
+	["SetRotation"] = [[upvalue]];
+	["ResetWind"] = [[upvalue]];
+	["SetSpeed"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+}

@@ -1,7 +1,9 @@
-[-285212672] = 0;
-[-285212671] = {
-};
-["Print"] = nil --[[functions with upvalue not supported]];
-["Assert"] = nil --[[functions with upvalue not supported]];
-
-
+{
+	[-285212672] = 0;
+	[-285212671] = {
+	};
+	["Print"] = [[upvalue]];
+	["Assert"] = [[upvalue]];
+	["__index"] = [[non-lua function]];
+	["__newindex"] = [[non-lua function]];
+}

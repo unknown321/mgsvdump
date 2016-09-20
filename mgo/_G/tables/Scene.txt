@@ -1,13 +1,13 @@
-["_className"] = "Scene";
-["GetApplication"] = nil --[[functions with upvalue not supported]];
-["GetActorsByClassName"] = loadstring("LuaQ\000\000\000\000\000\000\000\000\000@Fox/Scripts/Classes/Scene.lua\000\000\000\000\000\000\000\000\000\
-\000\000\000ã@@\000úÄ\000á\000\000\000ÖÄ\000\000Ü¿@≈\000\000\000\000Ä\000ù\000Äû\000\000\000\000Ä\000\000\000\000\000\000\000\000\000\000\000actors\000\r\000\000\000\000\000\000\000GetActorList\000\
-\000\000\000\000\000\000\000DataActor\000\000\000\000\000\000\000\000GetActorsByClassName\000\000\000\000\000\
-\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000t\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000e\000\000\000\000\000\000\000\000\000\000\000\000");
-["_scriptInstanceId"] = nil --[[userdata]]
-;
-["RemoveActor"] = nil --[[functions with upvalue not supported]];
-["AddActor"] = nil --[[functions with upvalue not supported]];
-["_scriptPath"] = "Scene";
-["GetActorList"] = nil --[[functions with upvalue not supported]];
-["FindActor"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "Scene";
+	["GetApplication"] = [[upvalue]];
+	["GetActorsByClassName"] = [[loadstring()]];
+	["_scriptInstanceId"] = [[userdata]]
+	["RemoveActor"] = [[upvalue]];
+	["AddActor"] = [[upvalue]];
+	["_scriptPath"] = "Scene";
+	["GetActorList"] = [[upvalue]];
+	["FindActor"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+}

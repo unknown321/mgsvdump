@@ -1,1 +1,3 @@
-["LoadParams"] = nil --[[non-lua function not supported]];
+{
+	["LoadParams"] = [[non-lua function]];
+}

@@ -1,3 +1,7 @@
-["_className"] = "EntityClassDictionary";
-["GetCategoryList"] = nil --[[functions with upvalue not supported]];
-["GetClassNameList"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "EntityClassDictionary";
+	["GetCategoryList"] = [[upvalue]];
+	["GetClassNameList"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+}

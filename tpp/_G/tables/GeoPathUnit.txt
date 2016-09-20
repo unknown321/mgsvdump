@@ -1,2 +1,6 @@
-["_className"] = "GeoPathUnit";
-["ClearTags"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "GeoPathUnit";
+	["ClearTags"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+}

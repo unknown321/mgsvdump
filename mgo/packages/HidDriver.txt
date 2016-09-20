@@ -1,10 +1,12 @@
-["Clear"] = nil --[[non-lua function not supported]];
-["Override"] = nil --[[non-lua function not supported]];
-["SetPadSensibility"] = nil --[[non-lua function not supported]];
-["ResetDefaultPadSensibility"] = nil --[[non-lua function not supported]];
-["SetPadDataCacheCapacity"] = nil --[[non-lua function not supported]];
-["IRelease"] = nil --[[non-lua function not supported]];
-["Input"] = nil --[[non-lua function not supported]];
-["Frame"] = nil --[[non-lua function not supported]];
-["Release"] = nil --[[non-lua function not supported]];
-["Sleep"] = nil --[[non-lua function not supported]];
+{
+	["Clear"] = [[non-lua function]];
+	["Override"] = [[non-lua function]];
+	["SetPadSensibility"] = [[non-lua function]];
+	["ResetDefaultPadSensibility"] = [[non-lua function]];
+	["SetPadDataCacheCapacity"] = [[non-lua function]];
+	["IRelease"] = [[non-lua function]];
+	["Input"] = [[non-lua function]];
+	["Frame"] = [[non-lua function]];
+	["Release"] = [[non-lua function]];
+	["Sleep"] = [[non-lua function]];
+}

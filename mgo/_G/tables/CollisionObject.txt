@@ -1,3 +1,7 @@
-["_className"] = "CollisionObject";
-["SetValidRequest"] = nil --[[functions with upvalue not supported]];
-["SetInvalidRequest"] = nil --[[functions with upvalue not supported]];
+{
+	["_className"] = "CollisionObject";
+	["SetValidRequest"] = [[upvalue]];
+	["SetInvalidRequest"] = [[upvalue]];
+	["__index"] = [[upvalue]];
+	["__newindex"] = [[upvalue]];
+}

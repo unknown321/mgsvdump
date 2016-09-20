@@ -1,5 +1,7 @@
-["SetStatus"] = nil --[[non-lua function not supported]];
-["CheckStatus"] = nil --[[non-lua function not supported]];
-["UnsetStatus"] = nil --[[non-lua function not supported]];
-["ClearAllStatus"] = nil --[[non-lua function not supported]];
-["ClearStatus"] = nil --[[non-lua function not supported]];
+{
+	["SetStatus"] = [[non-lua function]];
+	["CheckStatus"] = [[non-lua function]];
+	["UnsetStatus"] = [[non-lua function]];
+	["ClearAllStatus"] = [[non-lua function]];
+	["ClearStatus"] = [[non-lua function]];
+}

@@ -1,4 +1,6 @@
-["Enable"] = nil --[[non-lua function not supported]];
-["SetControlEnable"] = nil --[[non-lua function not supported]];
-["SetupInterp"] = nil --[[non-lua function not supported]];
-["Disable"] = nil --[[non-lua function not supported]];
+{
+	["Enable"] = [[non-lua function]];
+	["SetControlEnable"] = [[non-lua function]];
+	["SetupInterp"] = [[non-lua function]];
+	["Disable"] = [[non-lua function]];
+}

@@ -1,4 +1,6 @@
-["SetupPlayerFootStep"] = nil --[[non-lua function not supported]];
-["SetupPlayerType"] = nil --[[non-lua function not supported]];
-["SetupPlayerRattleSuit"] = nil --[[non-lua function not supported]];
-["SetupPlayerRattleWeapon"] = nil --[[non-lua function not supported]];
+{
+	["SetupPlayerFootStep"] = [[non-lua function]];
+	["SetupPlayerType"] = [[non-lua function]];
+	["SetupPlayerRattleSuit"] = [[non-lua function]];
+	["SetupPlayerRattleWeapon"] = [[non-lua function]];
+}

@@ -1,8 +1,10 @@
-[214299721] = nil --[[non-lua function not supported]];
-[-285212672] = 4;
-[257340098] = nil --[[non-lua function not supported]];
-[235108139] = nil --[[non-lua function not supported]];
-[-285212671] = {
-};
-
-
+{
+	[214299721] = [[non-lua function]];
+	[-285212672] = 4;
+	[257340098] = [[non-lua function]];
+	[235108139] = [[non-lua function]];
+	[-285212671] = {
+	};
+	["__index"] = [[non-lua function]];
+	["__newindex"] = [[non-lua function]];
+}

@@ -1,1719 +1,1999 @@
-["battleGearMainWPGrade"] = {
-[-285212666] = 2;
-[-285212665] = nil --[[userdata]]
-;
-};
-["emblemColorL"] = {
-[-285212666] = 4;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmDeployMissionAveRanksSvars"] = {
-[-285212666] = 71;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmDeployTeamSubPoints"] = {
-[-285212666] = 11;
-[-285212665] = nil --[[userdata]]
-;
-};
-["userPresetBuddyHorseParts"] = {
-[-285212666] = 3;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmClusterTimeMinutes"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["personalName"] = {
-[-285212666] = 64;
-[-285212665] = nil --[[userdata]]
-;
-};
-["suitDevelopLevel"] = {
-[-285212666] = 38;
-[-285212665] = nil --[[userdata]]
-;
-};
-["emblemRotate"] = {
-[-285212666] = 4;
-[-285212665] = nil --[[userdata]]
-;
-};
-["loadoutColor"] = {
-[-285212666] = 336;
-[-285212665] = nil --[[userdata]]
-;
-};
-["droppedWeaponPos"] = {
-[-285212666] = 9;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmPdTotalAddedResourceCounts"] = {
-[-285212666] = 59;
-[-285212665] = nil --[[userdata]]
-;
-};
-["savedPeakXP"] = {
-[-285212666] = 8;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmSecurityCommonPlatform1MineCounts"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["placedPos"] = {
-[-285212666] = 96;
-[-285212665] = nil --[[userdata]]
-;
-};
-["checkPointGimmickPermanentGimmickSaveData"] = {
-[-285212666] = 2592;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmDeployTeamSvarsTankEastCount"] = {
-[-285212666] = 22;
-[-285212665] = nil --[[userdata]]
-;
-};
-["userPresetDWalkerAdditionalPartsLevel"] = {
-[-285212666] = 12;
-[-285212665] = nil --[[userdata]]
-;
-};
-["loadoutSupport"] = {
-[-285212666] = 224;
-[-285212665] = nil --[[userdata]]
-;
-};
-["buddyFriendlyPointMissionStart"] = {
-[-285212666] = 8;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mgoAvatarEbrwWide"] = {
-[-285212666] = 8;
-[-285212665] = nil --[[userdata]]
-;
-};
-["dlcPermittedFlag"] = {
-[-285212666] = 2;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmDeployTeamSvarsTruckWestCount"] = {
-[-285212666] = 22;
-[-285212665] = nil --[[userdata]]
-;
-};
-["initChimeraColorIndex"] = {
-[-285212666] = 3;
-[-285212665] = nil --[[userdata]]
-;
-};
-["requestWeatherUserId"] = {
-[-285212666] = 5;
-[-285212665] = nil --[[userdata]]
-;
-};
-["ammoSubInWeapons"] = {
-[-285212665] = nil --[[userdata]]
-;
-[-285212666] = 3;
-};
-["importantItemPos"] = {
-[-285212666] = 96;
-[-285212665] = nil --[[userdata]]
-;
-};
-["optionSelectedIndices"] = {
-[-285212666] = 32;
-[-285212665] = nil --[[userdata]]
-;
-};
-["gearState"] = {
-[-285212666] = 15;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mgoAvatarLeftEyeColorIndex"] = {
-[-285212666] = 8;
-[-285212665] = nil --[[userdata]]
-;
-};
-["ammoStockCounts"] = {
-[-285212665] = nil --[[userdata]]
-;
-[-285212666] = 19;
-};
-["suppressorLives"] = {
-[-285212666] = 3;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmSecurityCommonPlatform2MineCounts"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mgoAvatarHairStyleIndex"] = {
-[-285212666] = 8;
-[-285212665] = nil --[[userdata]]
-;
-};
-["emblemTextureTag"] = {
-[-285212666] = 4;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmSecurityCommonPlatform1Svars"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmSecuritySpecialPlatformUavCounts"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["numLoadout"] = {
-[-285212666] = 8;
-[-285212665] = nil --[[userdata]]
-;
-};
-["buddyFriendlyMaxPoint"] = {
-[-285212666] = 8;
-[-285212665] = nil --[[userdata]]
-;
-};
-["chimeraParts"] = {
-[-285212665] = nil --[[userdata]]
-;
-[-285212666] = 36;
-};
-["mbmSecurityCommonPlatform3CameraCounts"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmResourceSvars1Fix"] = {
-[-285212666] = 59;
-[-285212665] = nil --[[userdata]]
-;
-};
-["keybordNo"] = {
-[-285212666] = 120;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmWhiteContainerCountsSvarsDiff"] = {
-[-285212666] = 5;
-[-285212665] = nil --[[userdata]]
-;
-};
-["appealActionSlots"] = {
-[-285212666] = 40;
-[-285212665] = nil --[[userdata]]
-;
-};
-["playerDecoyInstanceIndicies"] = {
-[-285212666] = 12;
-[-285212665] = nil --[[userdata]]
-;
-};
-["droppedWeaponStatus"] = {
-[-285212666] = 3;
-[-285212665] = nil --[[userdata]]
-;
-};
-["userPresetHeliParts"] = {
-[-285212666] = 5;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mgoAvatarVoicePitch"] = {
-[-285212666] = 8;
-[-285212665] = nil --[[userdata]]
-;
-};
-["buddyFriendlyCount"] = {
-[-285212666] = 64;
-[-285212665] = nil --[[userdata]]
-;
-};
-["userPresetChimeraParts"] = {
-[-285212666] = 288;
-[-285212665] = nil --[[userdata]]
-;
-};
-["emblemScale"] = {
-[-285212666] = 4;
-[-285212665] = nil --[[userdata]]
-;
-};
-["initialBuddyPosMissionStart"] = {
-[-285212666] = 3;
-[-285212665] = nil --[[userdata]]
-;
-};
-["captureAreaName"] = {
-[-285212666] = 16;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmClusterSvars"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mgoAvatarAcceFlag"] = {
-[-285212666] = 8;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmRedContainerCountsSvarsFix"] = {
-[-285212666] = 5;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmStaffSkillGots"] = {
-[-285212666] = 69;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmSecuritySpecialPlatformSoldierCounts"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmDeployTeamSvarsWalkerGearCfaBattleCount"] = {
-[-285212666] = 22;
-[-285212665] = nil --[[userdata]]
-;
-};
-["cboxPosterIndices"] = {
-[-285212666] = 8;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mgoAvatarMotionFrames"] = {
-[-285212666] = 480;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmDeployTeamSvars4wdWestCount"] = {
-[-285212666] = 22;
-[-285212665] = nil --[[userdata]]
-;
-};
-["isInitialWeapon"] = {
-[-285212665] = nil --[[userdata]]
-;
-[-285212666] = 3;
-};
-["mbmSecurityCommonPlatform1UavCounts"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["userPresetChimeraColorIndex"] = {
-[-285212666] = 24;
-[-285212665] = nil --[[userdata]]
-;
-};
-["loadoutInfoU32buf"] = {
-[-285212666] = 68;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmWeaponPartsSightStatus"] = {
-[-285212666] = 25;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmDeployTeamSvarsTruckEastCount"] = {
-[-285212666] = 22;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmOnlineOffsetEquipParamStatus"] = {
-[-285212666] = 768;
-[-285212665] = nil --[[userdata]]
-;
-};
-["importantItemRot"] = {
-[-285212666] = 128;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmResourceSvars2Diff"] = {
-[-285212666] = 59;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmSecurityCommonPlatform2IrSensorCounts"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["missionStartGimmickIndelibleName"] = {
-[-285212666] = 64;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmStaffSvarsStatusesNoSync"] = {
-[-285212666] = 3500;
-[-285212665] = nil --[[userdata]]
-;
-};
-["droppedSuppressorLife"] = {
-[-285212666] = 3;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmSecurityCommonPlatform2CameraCounts"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["placedAttachTargetGameObjectType"] = {
-[-285212666] = 32;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmWeaponPartsMuzzleStatus"] = {
-[-285212666] = 29;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmRemoverSvarsStatusesNoSync"] = {
-[-285212666] = 64;
-[-285212665] = nil --[[userdata]]
-;
-};
-["ammoStockIds"] = {
-[-285212665] = nil --[[userdata]]
-;
-[-285212666] = 19;
-};
-["mbmDeployTeamSvars4wdEastCount"] = {
-[-285212666] = 22;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mgoAvatarTatoColorIndex"] = {
-[-285212666] = 8;
-[-285212665] = nil --[[userdata]]
-;
-};
-[-285212671] = {
-["weatherNextTime"] = nil --[[functions with upvalue not supported]];
-["personalBirthdayMonth"] = nil --[[functions with upvalue not supported]];
-["buddyQuietCostumeType"] = nil --[[functions with upvalue not supported]];
-["mbmPdTotalAddedSoldierStaffCount"] = nil --[[functions with upvalue not supported]];
-["totalMarkingCount"] = nil --[[functions with upvalue not supported]];
-["isInitialTutorialFinished"] = nil --[[functions with upvalue not supported]];
-["totalTakeHitCount"] = nil --[[functions with upvalue not supported]];
-["totalMovingDistanceOnVehicle"] = nil --[[functions with upvalue not supported]];
-["infoIdForMGO"] = nil --[[functions with upvalue not supported]];
-["mbmTppTotalIncomeGmp"] = nil --[[functions with upvalue not supported]];
-["mbmPreciousMetalProcessingElapsedTimeMinute"] = nil --[[functions with upvalue not supported]];
-["userMarkerSaveCount"] = nil --[[functions with upvalue not supported]];
-["mbmPandemicElapsedTimeMinuteSvars"] = nil --[[functions with upvalue not supported]];
-["mbmDeploySequentialMissionIdLimitSvars"] = nil --[[functions with upvalue not supported]];
-["inquiryId"] = nil --[[functions with upvalue not supported]];
-["isKikongoTranslatable"] = nil --[[functions with upvalue not supported]];
-["memberMin"] = nil --[[functions with upvalue not supported]];
-["mbmStaffSyncVersion"] = nil --[[functions with upvalue not supported]];
-["avatarHeadPresetID"] = nil --[[functions with upvalue not supported]];
-["mbmLanguageElapsedTimeMinuteSvars"] = nil --[[functions with upvalue not supported]];
-["roundTickets"] = nil --[[functions with upvalue not supported]];
-["mbmCompAnimal"] = nil --[[functions with upvalue not supported]];
-["avatarAccessoryPresetID"] = nil --[[functions with upvalue not supported]];
-["playerPosX"] = nil --[[functions with upvalue not supported]];
-["sortieBuddyTypeMissionStart"] = nil --[[functions with upvalue not supported]];
-["mbmDisableKikongoFirst"] = nil --[[functions with upvalue not supported]];
-["mbmPdTotalAddedGmpT"] = nil --[[functions with upvalue not supported]];
-["mbmBecomeMedicalSectionLvMax"] = nil --[[functions with upvalue not supported]];
-["playerMarkingCountInMission"] = nil --[[functions with upvalue not supported]];
-["buddyHorseColorType"] = nil --[[functions with upvalue not supported]];
-["buddyGearMainWPGrade"] = nil --[[functions with upvalue not supported]];
-["avatarVoicePitch"] = nil --[[functions with upvalue not supported]];
-["shootHitCountInMission"] = nil --[[functions with upvalue not supported]];
-["buddyDogEyeType"] = nil --[[functions with upvalue not supported]];
-["mbmTppHeroicPoint"] = nil --[[functions with upvalue not supported]];
-["mbmPandemicSpreadAttackCount"] = nil --[[functions with upvalue not supported]];
-["avatarHairColor"] = nil --[[functions with upvalue not supported]];
-["isRussianTranslatable"] = nil --[[functions with upvalue not supported]];
-["mbmBecomeAllSectionLvMax"] = nil --[[functions with upvalue not supported]];
-["avatarBeardPresetID"] = nil --[[functions with upvalue not supported]];
-["infoId"] = nil --[[functions with upvalue not supported]];
-["mbmPdTotalAddedVolunteerStaffCount"] = nil --[[functions with upvalue not supported]];
-["avatarCheekPresetID"] = nil --[[functions with upvalue not supported]];
-["isAfrikaansTranslatable"] = nil --[[functions with upvalue not supported]];
-["avatarChinPresetID"] = nil --[[functions with upvalue not supported]];
-["mbmAutoGmpElapsedTimeMinuteSvars"] = nil --[[functions with upvalue not supported]];
-["initialPlayerPosZ"] = nil --[[functions with upvalue not supported]];
-["buddyDogFlag"] = nil --[[functions with upvalue not supported]];
-["emblemSyncFailed2"] = nil --[[functions with upvalue not supported]];
-["mbmLockedTanFlag"] = nil --[[functions with upvalue not supported]];
-["dlcFlags"] = nil --[[functions with upvalue not supported]];
-["avatarReserve1"] = nil --[[functions with upvalue not supported]];
-["mbmS10081CaptiveStaffSvarsStatusSync"] = nil --[[functions with upvalue not supported]];
-["totalMovingDistanceAtStand"] = nil --[[functions with upvalue not supported]];
-["mbmInitializedServerWalletFlagDay1"] = nil --[[functions with upvalue not supported]];
-["buddyGearHeadGrade"] = nil --[[functions with upvalue not supported]];
-["sahelanBrokenMesh"] = nil --[[functions with upvalue not supported]];
-["buddyCommonFlagMissionStart"] = nil --[[functions with upvalue not supported]];
-["initialBuddyRotYMissionStart"] = nil --[[functions with upvalue not supported]];
-["playerVehicleGameObjectId"] = nil --[[functions with upvalue not supported]];
-["mbmOpenedRRandomMission"] = nil --[[functions with upvalue not supported]];
-["rulesetDynamicPackIndices"] = nil --[[functions with upvalue not supported]];
-["fobPickup"] = nil --[[functions with upvalue not supported]];
-["emblemVersion"] = nil --[[functions with upvalue not supported]];
-["buddyGearArmGrade"] = nil --[[functions with upvalue not supported]];
-["avatarFaceTypeIndex"] = nil --[[functions with upvalue not supported]];
-["initialPlayerRotY"] = nil --[[functions with upvalue not supported]];
-["mbmBecomeBaseDevSectionLvMax"] = nil --[[functions with upvalue not supported]];
-["handEquip"] = nil --[[functions with upvalue not supported]];
-["missionCodeMarkingsOfPlaced"] = nil --[[functions with upvalue not supported]];
-["totalAlertCount"] = nil --[[functions with upvalue not supported]];
-["obtainedBuddyType"] = nil --[[functions with upvalue not supported]];
-["mbmPandemicSpreadAttackLimitCount"] = nil --[[functions with upvalue not supported]];
-["initialPlayerPairGameObjectId"] = nil --[[functions with upvalue not supported]];
-["survivalRoomId"] = nil --[[functions with upvalue not supported]];
-["initialBuddyStatus"] = nil --[[functions with upvalue not supported]];
-["avatarMouthPresetID"] = nil --[[functions with upvalue not supported]];
-["avatarSkinColorPresetID"] = nil --[[functions with upvalue not supported]];
-["totalMovingDistanceOnHorse"] = nil --[[functions with upvalue not supported]];
-["mbmBipedalismWeaponDevelopmentSkill"] = nil --[[functions with upvalue not supported]];
-["lastUsedChar"] = nil --[[functions with upvalue not supported]];
-["playerLifeMax"] = nil --[[functions with upvalue not supported]];
-["extraWeatherInterval"] = nil --[[functions with upvalue not supported]];
-["buddyType"] = nil --[[functions with upvalue not supported]];
-["avatarSaveIsValid"] = nil --[[functions with upvalue not supported]];
-["playerCamoType"] = nil --[[functions with upvalue not supported]];
-["mbmPdTotalDefectionCount"] = nil --[[functions with upvalue not supported]];
-["sortiePrepPlayerSnakeSuitLevel"] = nil --[[functions with upvalue not supported]];
-["buddyDogColorType"] = nil --[[functions with upvalue not supported]];
-["locationCode"] = nil --[[functions with upvalue not supported]];
-["userPresetBattleGearCurrentSlot"] = nil --[[functions with upvalue not supported]];
-["buddyDogEquipType"] = nil --[[functions with upvalue not supported]];
-["fobIsSneak"] = nil --[[functions with upvalue not supported]];
-["totalReflexCount"] = nil --[[functions with upvalue not supported]];
-["disableCallBuddyType"] = nil --[[functions with upvalue not supported]];
-["avatarFaceRaceIndex"] = nil --[[functions with upvalue not supported]];
-["mbmIsOpenedMedicalSection"] = nil --[[functions with upvalue not supported]];
-["avatarRightEyeColorIndex"] = nil --[[functions with upvalue not supported]];
-["deadBuddyTypeMissionStart"] = nil --[[functions with upvalue not supported]];
-["initialBuddyRotY"] = nil --[[functions with upvalue not supported]];
-["battleGearColoring1"] = nil --[[functions with upvalue not supported]];
-["avatarBerdLength"] = nil --[[functions with upvalue not supported]];
-["buddyHorseHeadDesignType"] = nil --[[functions with upvalue not supported]];
-["mbmStaffListAssignListModeSvars"] = nil --[[functions with upvalue not supported]];
-["totalChickenCapTime"] = nil --[[functions with upvalue not supported]];
-["playerDisableActionFlag"] = nil --[[functions with upvalue not supported]];
-["initialPlayerPosX"] = nil --[[functions with upvalue not supported]];
-["pfRatingPoint"] = nil --[[functions with upvalue not supported]];
-["fobSneakMode"] = nil --[[functions with upvalue not supported]];
-["padType"] = nil --[[functions with upvalue not supported]];
-["mbmBecomeSecuritySectionLvMax"] = nil --[[functions with upvalue not supported]];
-["mbmHighestTotalSectionLv"] = nil --[[functions with upvalue not supported]];
-["mgoEulaVersion"] = nil --[[functions with upvalue not supported]];
-["mbmEnmityElapsedTimeMinuteSvars"] = nil --[[functions with upvalue not supported]];
-["isNight"] = nil --[[functions with upvalue not supported]];
-["avatarEbrwWide"] = nil --[[functions with upvalue not supported]];
-["mbmIsOpenedHospitalSection"] = nil --[[functions with upvalue not supported]];
-["playerPhase"] = nil --[[functions with upvalue not supported]];
-["totalMovingDistanceAtSquat"] = nil --[[functions with upvalue not supported]];
-["userPresetDWalkerCurrentSlot"] = nil --[[functions with upvalue not supported]];
-["mbmAutoResourceElapsedTimeMinuteSvars"] = nil --[[functions with upvalue not supported]];
-["totalDiscoveredCount"] = nil --[[functions with upvalue not supported]];
-["mbClusterId"] = nil --[[functions with upvalue not supported]];
-["sortiePrepPlayerSnakeCamoType"] = nil --[[functions with upvalue not supported]];
-["playerLife"] = nil --[[functions with upvalue not supported]];
-["stealthAssistLeftCount"] = nil --[[functions with upvalue not supported]];
-["playerShootCountInMission"] = nil --[[functions with upvalue not supported]];
-["playerRecoveryCountFromOgre"] = nil --[[functions with upvalue not supported]];
-["battleGearSubWPType"] = nil --[[functions with upvalue not supported]];
-["sortiePrepPlayerSnakeFaceEquipId"] = nil --[[functions with upvalue not supported]];
-["mbmTreatmentElapsedTimeMinute"] = nil --[[functions with upvalue not supported]];
-["mbmFuelResourceProcessingElapsedTimeMinute"] = nil --[[functions with upvalue not supported]];
-["avatarReserve2"] = nil --[[functions with upvalue not supported]];
-["buddyGearBodyGrade"] = nil --[[functions with upvalue not supported]];
-["loadoutInfoSaveFormVersion"] = nil --[[functions with upvalue not supported]];
-["buddyHorseType"] = nil --[[functions with upvalue not supported]];
-["mbmIsOpenedPrisonSection"] = nil --[[functions with upvalue not supported]];
-["mbmS10081CaptiveStaffSvarsHeader"] = nil --[[functions with upvalue not supported]];
-["mbmBanHeuy"] = nil --[[functions with upvalue not supported]];
-["mbmNRandomMissionClearedCount"] = nil --[[functions with upvalue not supported]];
-["mbmBecomeSpySectionLvMax"] = nil --[[functions with upvalue not supported]];
-["clockTimeScale"] = nil --[[functions with upvalue not supported]];
-["isCustomizeMenu"] = nil --[[functions with upvalue not supported]];
-["avatarEyebrowPresetID"] = nil --[[functions with upvalue not supported]];
-["battleGearColoring0"] = nil --[[functions with upvalue not supported]];
-["deadBuddyType"] = nil --[[functions with upvalue not supported]];
-["mbmTppOgrePoint"] = nil --[[functions with upvalue not supported]];
-["cancelAvatarEdit"] = nil --[[functions with upvalue not supported]];
-["gamePlayTutorialCount"] = nil --[[functions with upvalue not supported]];
-["hasDisplayedTitleScreen"] = nil --[[functions with upvalue not supported]];
-["avatarHairPresetID"] = nil --[[functions with upvalue not supported]];
-["mbmBattleGearDeployingTeam"] = nil --[[functions with upvalue not supported]];
-["rulesetId"] = nil --[[functions with upvalue not supported]];
-["isAvatarPlayerEnable"] = nil --[[functions with upvalue not supported]];
-["playerRetryFlag"] = nil --[[functions with upvalue not supported]];
-["avatarFaceVariationIndex"] = nil --[[functions with upvalue not supported]];
-["sortiePrepPlayerDDSuitLevel"] = nil --[[functions with upvalue not supported]];
-["returnStaffHeader"] = nil --[[functions with upvalue not supported]];
-["mbmDeployRandomMissionSeedSvars"] = nil --[[functions with upvalue not supported]];
-["mbmIsOpenedBaseDevSection"] = nil --[[functions with upvalue not supported]];
-["buddyGearArmType"] = nil --[[functions with upvalue not supported]];
-["initialPlayerAction"] = nil --[[functions with upvalue not supported]];
-["initialPlayerFlag"] = nil --[[functions with upvalue not supported]];
-["rentalLoadoutPlayerId"] = nil --[[functions with upvalue not supported]];
-["mbmIsNuclearDeveloped"] = nil --[[functions with upvalue not supported]];
-["userMarkerLocationId"] = nil --[[functions with upvalue not supported]];
-["sortiePrepPlayerDDCamoType"] = nil --[[functions with upvalue not supported]];
-["mbmCommonMetalProcessingElapsedTimeMinute"] = nil --[[functions with upvalue not supported]];
-["isNoContest"] = nil --[[functions with upvalue not supported]];
-["missionStartGimmickIndelibleCount"] = nil --[[functions with upvalue not supported]];
-["armRocketYIsReverse"] = nil --[[functions with upvalue not supported]];
-["buddyGearSubWPType"] = nil --[[functions with upvalue not supported]];
-["doesNeedToRespawnOnceInCustomize"] = nil --[[functions with upvalue not supported]];
-["isPlayerInCustomizeMenu"] = nil --[[functions with upvalue not supported]];
-["buddyQuietEquipType"] = nil --[[functions with upvalue not supported]];
-["playerRotY"] = nil --[[functions with upvalue not supported]];
-["buddyGearMainWPType"] = nil --[[functions with upvalue not supported]];
-["numChar"] = nil --[[functions with upvalue not supported]];
-["uniqueCharacterSelect"] = nil --[[functions with upvalue not supported]];
-["avatarHairStyleIndex"] = nil --[[functions with upvalue not supported]];
-["mbDvcTopMenuFlag"] = nil --[[functions with upvalue not supported]];
-["specialRole"] = nil --[[functions with upvalue not supported]];
-["walkerGear"] = nil --[[functions with upvalue not supported]];
-["briefingTime"] = nil --[[functions with upvalue not supported]];
-["mbmPandemicEventMode"] = nil --[[functions with upvalue not supported]];
-["mbmEnableStaffInitLangKikongo"] = nil --[[functions with upvalue not supported]];
-["isAvatarEditMode"] = nil --[[functions with upvalue not supported]];
-["battleGearAmmoCountSub"] = nil --[[functions with upvalue not supported]];
-["obtainedBuddyTypeMissionStart"] = nil --[[functions with upvalue not supported]];
-["avatarVoiceIndex"] = nil --[[functions with upvalue not supported]];
-["missionCode"] = nil --[[functions with upvalue not supported]];
-["survivalHostCommentIndex"] = nil --[[functions with upvalue not supported]];
-["avatarHairColorPresetID"] = nil --[[functions with upvalue not supported]];
-["mbmAddRemoverIndexSvars"] = nil --[[functions with upvalue not supported]];
-["searchSettingsSurvival"] = nil --[[functions with upvalue not supported]];
-["searchSettingsOthers"] = nil --[[functions with upvalue not supported]];
-["checkPointGimmickIndelibleCount"] = nil --[[functions with upvalue not supported]];
-["mbmAssignableMiller"] = nil --[[functions with upvalue not supported]];
-["mbmIsEnableNuclearDevelop"] = nil --[[functions with upvalue not supported]];
-["optionShowCombatInfo"] = nil --[[functions with upvalue not supported]];
-["mbmIsNuclearDeveloping"] = nil --[[functions with upvalue not supported]];
-["optionShowMissionInfo"] = nil --[[functions with upvalue not supported]];
-["mbmIsOpenedCombatSection"] = nil --[[functions with upvalue not supported]];
-["selectedBGM"] = nil --[[functions with upvalue not supported]];
-["isGameplayHost"] = nil --[[functions with upvalue not supported]];
-["heliMusicTrackID"] = nil --[[functions with upvalue not supported]];
-["heliMusicType"] = nil --[[functions with upvalue not supported]];
-["mbDvcTutorialFlag"] = nil --[[functions with upvalue not supported]];
-["tppTransferAcquiredFlag"] = nil --[[functions with upvalue not supported]];
-["tppTransferFlag"] = nil --[[functions with upvalue not supported]];
-["buddyGearSubWPGrade"] = nil --[[functions with upvalue not supported]];
-["totalChickCapTime"] = nil --[[functions with upvalue not supported]];
-["initialBuddyStatusMissionStart"] = nil --[[functions with upvalue not supported]];
-["totalMovingDistanceOnWalkerGear"] = nil --[[functions with upvalue not supported]];
-["mbmIsOpenedSeparationSection"] = nil --[[functions with upvalue not supported]];
-["searchSettingsRuleIndex"] = nil --[[functions with upvalue not supported]];
-["pushToTalk"] = nil --[[functions with upvalue not supported]];
-["mbmS10081CaptiveStaffSvarsSeed"] = nil --[[functions with upvalue not supported]];
-["armRocketXIsReverse"] = nil --[[functions with upvalue not supported]];
-["mbmFobDefenseWinCount"] = nil --[[functions with upvalue not supported]];
-["mbmPdTotalSubtractedHeroicPoint"] = nil --[[functions with upvalue not supported]];
-["mbmPdTotalAddedHeroicPoint"] = nil --[[functions with upvalue not supported]];
-["emblemSyncFailed"] = nil --[[functions with upvalue not supported]];
-["mbmPdTotalSubtractedGmp"] = nil --[[functions with upvalue not supported]];
-["avatarAcceFlag"] = nil --[[functions with upvalue not supported]];
-["initialPlayerPosY"] = nil --[[functions with upvalue not supported]];
-["mbmPdTotalAddedGmp"] = nil --[[functions with upvalue not supported]];
-["mbmPdTotalFireCount"] = nil --[[functions with upvalue not supported]];
-["buddyGearHeadType"] = nil --[[functions with upvalue not supported]];
-["mbmFobDefenseLoseCount"] = nil --[[functions with upvalue not supported]];
-["mbmPdTotalAddedHostageStaffCount"] = nil --[[functions with upvalue not supported]];
-["mbmNuclearDevelopMaxTime"] = nil --[[functions with upvalue not supported]];
-["mbmNuclearDevelopTime"] = nil --[[functions with upvalue not supported]];
-["optionShowTmpInfo"] = nil --[[functions with upvalue not supported]];
-["mbmIsNuclearDiscarded"] = nil --[[functions with upvalue not supported]];
-["mbmRequestDemoAttackedFromOtherPlayer"] = nil --[[functions with upvalue not supported]];
-["playerType"] = nil --[[functions with upvalue not supported]];
-["mbmDemoAttackedFromOtherPlayerKnowWhereFrom"] = nil --[[functions with upvalue not supported]];
-["shootHitCountEliminatedInMission"] = nil --[[functions with upvalue not supported]];
-["mbmIsContractOutDisplayed"] = nil --[[functions with upvalue not supported]];
-["sortieBuddyType"] = nil --[[functions with upvalue not supported]];
-["mbmIsOpenedSecuritySection"] = nil --[[functions with upvalue not supported]];
-["mbmUserPresetBaseColor"] = nil --[[functions with upvalue not supported]];
-["isSavedHostCommentV110"] = nil --[[functions with upvalue not supported]];
-["mbmS10081CaptiveStaffSvarsStatusNoSync"] = nil --[[functions with upvalue not supported]];
-["bgmVolume"] = nil --[[functions with upvalue not supported]];
-["initHandEquip"] = nil --[[functions with upvalue not supported]];
-["mbmPoolRewardsSyncVersion"] = nil --[[functions with upvalue not supported]];
-["playerStamina"] = nil --[[functions with upvalue not supported]];
-["isPersonalDirty"] = nil --[[functions with upvalue not supported]];
-["useBlackDiamondEmblem"] = nil --[[functions with upvalue not supported]];
-["mbmIsCancelAllDeploy"] = nil --[[functions with upvalue not supported]];
-["avatarEyePresetID"] = nil --[[functions with upvalue not supported]];
-["avatarTatoColorIndex"] = nil --[[functions with upvalue not supported]];
-["initLoadoutInfo"] = nil --[[functions with upvalue not supported]];
-["buddyTypeMissionStart"] = nil --[[functions with upvalue not supported]];
-["mbmIsOccupation"] = nil --[[functions with upvalue not supported]];
-["avatarGashOrTatoVariationIndex"] = nil --[[functions with upvalue not supported]];
-["currentForRentLoadoutSlotIndex"] = nil --[[functions with upvalue not supported]];
-["avatarRightEyeBrightnessIndex"] = nil --[[functions with upvalue not supported]];
-["mbmNewestNRandomMissionId"] = nil --[[functions with upvalue not supported]];
-["returnStaffSeeds"] = nil --[[functions with upvalue not supported]];
-["mbmCompSequential"] = nil --[[functions with upvalue not supported]];
-["avatarLeftEyeBrightnessIndex"] = nil --[[functions with upvalue not supported]];
-["personalBirthdayDay"] = nil --[[functions with upvalue not supported]];
-["mbmAddDeployLogIndex"] = nil --[[functions with upvalue not supported]];
-["fobIsEvent"] = nil --[[functions with upvalue not supported]];
-["avatarAllPartsPresetID"] = nil --[[functions with upvalue not supported]];
-["sortieLoadoutInfoSaveFormVersion"] = nil --[[functions with upvalue not supported]];
-["mbmBecomeCombatSectionLvMax"] = nil --[[functions with upvalue not supported]];
-["mbmBecomeSupportSectionLvMax"] = nil --[[functions with upvalue not supported]];
-["buddyHorseFootDesignType"] = nil --[[functions with upvalue not supported]];
-["sortiePrepPlayerDDPartsType"] = nil --[[functions with upvalue not supported]];
-["captureAnimalIndex"] = nil --[[functions with upvalue not supported]];
-["mbmCompDesign"] = nil --[[functions with upvalue not supported]];
-["mbmDeploySequentialMissionIdSvars"] = nil --[[functions with upvalue not supported]];
-["playerPlayFlag"] = nil --[[functions with upvalue not supported]];
-["avatarFaceColorIndex"] = nil --[[functions with upvalue not supported]];
-["mbmCompPhoto"] = nil --[[functions with upvalue not supported]];
-["missionCodeMarkingsOfPickable"] = nil --[[functions with upvalue not supported]];
-["playerOgrePointOnStartMission"] = nil --[[functions with upvalue not supported]];
-["clock"] = nil --[[functions with upvalue not supported]];
-["mbmPdTotalSubtractedGmpT"] = nil --[[functions with upvalue not supported]];
-["mbmCompMb"] = nil --[[functions with upvalue not supported]];
-["maxPhase"] = nil --[[functions with upvalue not supported]];
-["avatarNosePresetID"] = nil --[[functions with upvalue not supported]];
-["weather"] = nil --[[functions with upvalue not supported]];
-["mbmTppGmp"] = nil --[[functions with upvalue not supported]];
-["mbmPdTotalDeadStaffCount"] = nil --[[functions with upvalue not supported]];
-["totalMovingDistanceAtCrawl"] = nil --[[functions with upvalue not supported]];
-["prevMissionCode"] = nil --[[functions with upvalue not supported]];
-["playerHandType"] = nil --[[functions with upvalue not supported]];
-["vehicleGameObjectIdOnPlayerOnCargo"] = nil --[[functions with upvalue not supported]];
-["currentLoadoutSlot"] = nil --[[functions with upvalue not supported]];
-["mbmResourceSyncVersion"] = nil --[[functions with upvalue not supported]];
-["sortiePrepPlayerSnakePartsType"] = nil --[[functions with upvalue not supported]];
-["mbmNewestRRandomMissionId"] = nil --[[functions with upvalue not supported]];
-["weatherAddDensity"] = nil --[[functions with upvalue not supported]];
-["playerPosY"] = nil --[[functions with upvalue not supported]];
-["buddyGearColoring0"] = nil --[[functions with upvalue not supported]];
-["mbLayoutCode"] = nil --[[functions with upvalue not supported]];
-["battleGearStockAmmoCountSub"] = nil --[[functions with upvalue not supported]];
-["didCancelFobPatchDlcDownloadRequest"] = nil --[[functions with upvalue not supported]];
-["mbmDeployableBattleGear"] = nil --[[functions with upvalue not supported]];
-["buddyCommonFlag"] = nil --[[functions with upvalue not supported]];
-["avatarReserve0"] = nil --[[functions with upvalue not supported]];
-["mbmBecomeDevelopSectionLvMax"] = nil --[[functions with upvalue not supported]];
-["playerPosZ"] = nil --[[functions with upvalue not supported]];
-["isPashtoTranslatable"] = nil --[[functions with upvalue not supported]];
-["mbmOpenedWalkerGear"] = nil --[[functions with upvalue not supported]];
-["buddyGearEquipGrade"] = nil --[[functions with upvalue not supported]];
-["sortiePrepPlayerDDFaceEquipId"] = nil --[[functions with upvalue not supported]];
-["mbmBioticResourceProcessingElapsedTimeMinute"] = nil --[[functions with upvalue not supported]];
-["prevLocationCode"] = nil --[[functions with upvalue not supported]];
-["playerPartsType"] = nil --[[functions with upvalue not supported]];
-["eulaVersion"] = nil --[[functions with upvalue not supported]];
-["mbmMinorMetalProcessingElapsedTimeMinute"] = nil --[[functions with upvalue not supported]];
-["didSurvivalTicketNotice"] = nil --[[functions with upvalue not supported]];
-["isDefaultDisconnected"] = nil --[[functions with upvalue not supported]];
-["avatarLeftEyeColorIndex"] = nil --[[functions with upvalue not supported]];
-["mbmMasterGunsmithSkill"] = nil --[[functions with upvalue not supported]];
-["mbmIsOpenedSpySection"] = nil --[[functions with upvalue not supported]];
-["mbmStaffInitEnmityLv"] = nil --[[functions with upvalue not supported]];
-["searchSettingsMapIndex"] = nil --[[functions with upvalue not supported]];
-["roundTimeLimit"] = nil --[[functions with upvalue not supported]];
-["avatarBerdStyle"] = nil --[[functions with upvalue not supported]];
-["mbmStaffListMainListModeSvars"] = nil --[[functions with upvalue not supported]];
-["supportHeliCustomize"] = nil --[[functions with upvalue not supported]];
-["avatarEbrwStyle"] = nil --[[functions with upvalue not supported]];
-["totalMovingDistanceOnBattleGear"] = nil --[[functions with upvalue not supported]];
-["battleGearSubWPGrade"] = nil --[[functions with upvalue not supported]];
-["mbmMoraleElapsedTimeMinuteSvars"] = nil --[[functions with upvalue not supported]];
-["buddyGearColoring1"] = nil --[[functions with upvalue not supported]];
-["buddyGearReloadGrade"] = nil --[[functions with upvalue not supported]];
-["buddyDogMode"] = nil --[[functions with upvalue not supported]];
-["buddyMissionFlag"] = nil --[[functions with upvalue not supported]];
-};
-["placedAttachTargetNames"] = {
-[-285212666] = 64;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmStaffSortKeysSvars"] = {
-[-285212666] = 13;
-[-285212665] = nil --[[userdata]]
-;
-};
-["requestWeatherParam"] = {
-[-285212666] = 5;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmSecurityCommonPlatform3MineCounts"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmEquipDevelopTimes"] = {
-[-285212666] = 10;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmDeployTeamCombatPoints"] = {
-[-285212666] = 11;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmDeployTeamCombatStaffRankBottoms"] = {
-[-285212666] = 11;
-[-285212665] = nil --[[userdata]]
-;
-};
-["initialBuddyPos"] = {
-[-285212666] = 3;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmWeaponPartsMuzzleOptionStatus"] = {
-[-285212666] = 10;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmSecurityCommonPlatform3IrSensorCounts"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["customizedWeapon"] = {
-[-285212665] = nil --[[userdata]]
-;
-[-285212666] = 3;
-};
-["mbmWeaponPartsMagazineStatus"] = {
-[-285212666] = 46;
-[-285212665] = nil --[[userdata]]
-;
-};
-["userPresetVehiclePaintType"] = {
-[-285212666] = 10;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmAnimalHabitatMafrSvars"] = {
-[-285212666] = 64;
-[-285212665] = nil --[[userdata]]
-;
-};
-["missionStartGimmickPermanentGimmickSaveData"] = {
-[-285212666] = 2592;
-[-285212665] = nil --[[userdata]]
-;
-};
-[-285212672] = 0;
-["mbmSecurityClusterSvars"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmSecurityCommonPlatform1IrSensorCounts"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmRemoverSvarsHeaders"] = {
-[-285212666] = 64;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmDataBaseSvars"] = {
-[-285212666] = 459;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmDeployTeamCombatStaffCounts"] = {
-[-285212666] = 11;
-[-285212665] = nil --[[userdata]]
-;
-};
-["userPresetChimeraPaintType"] = {
-[-285212666] = 24;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mgoAvatarRightEyeBrightnessIndex"] = {
-[-285212666] = 8;
-[-285212665] = nil --[[userdata]]
-;
-};
-["items"] = {
-[-285212665] = nil --[[userdata]]
-;
-[-285212666] = 8;
-};
-["mbmPoolRewardSeeds"] = {
-[-285212666] = 200;
-[-285212665] = nil --[[userdata]]
-;
-};
-["battleGearAmmoCountMain"] = {
-[-285212666] = 2;
-[-285212665] = nil --[[userdata]]
-;
-};
-["userPresetBattleGearParts"] = {
-[-285212666] = 27;
-[-285212665] = nil --[[userdata]]
-;
-};
-["placedOwnerIds"] = {
-[-285212666] = 32;
-[-285212665] = nil --[[userdata]]
-;
-};
-["utcTime"] = {
-[-285212666] = 8;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mgoAvatarFaceTypeIndex"] = {
-[-285212666] = 8;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmSecuritySpecialPlatformCameraCounts"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["droppedCarrierPlaceNo"] = {
-[-285212666] = 3;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmSecurityCommonPlatform3DecoyCounts"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["playerTypes"] = {
-[-285212666] = 8;
-[-285212665] = nil --[[userdata]]
-;
-};
-["loadoutName"] = {
-[-285212666] = 3584;
-[-285212665] = nil --[[userdata]]
-;
-};
-["initChimeraPaintType"] = {
-[-285212666] = 3;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmStaffSortDirsSvars"] = {
-[-285212666] = 13;
-[-285212665] = nil --[[userdata]]
-;
-};
-["initItems"] = {
-[-285212665] = nil --[[userdata]]
-;
-[-285212666] = 8;
-};
-["mgoAvatarRightEyeColorIndex"] = {
-[-285212666] = 8;
-[-285212665] = nil --[[userdata]]
-;
-};
-["ammoInWeapons"] = {
-[-285212665] = nil --[[userdata]]
-;
-[-285212666] = 3;
-};
-["battleGearMainWPType"] = {
-[-285212666] = 2;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmDeployTeamCombatStaffRankTops"] = {
-[-285212666] = 11;
-[-285212665] = nil --[[userdata]]
-;
-};
-["buttonNo"] = {
-[-285212666] = 120;
-[-285212665] = nil --[[userdata]]
-;
-};
-["userPresetDWalkerAdditionalParts"] = {
-[-285212666] = 12;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmResourceSvars1Diff"] = {
-[-285212666] = 59;
-[-285212665] = nil --[[userdata]]
-;
-};
-["gearData"] = {
-[-285212666] = 120;
-[-285212665] = nil --[[userdata]]
-;
-};
-["savedXP"] = {
-[-285212666] = 8;
-[-285212665] = nil --[[userdata]]
-;
-};
-["userPresetBuddyDogParts"] = {
-[-285212666] = 2;
-[-285212665] = nil --[[userdata]]
-;
-};
-["userPresetDWalkerPartsLevel"] = {
-[-285212666] = 24;
-[-285212665] = nil --[[userdata]]
-;
-};
-["placedStatus"] = {
-[-285212666] = 32;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmDeployTeamSubStaffRankTops"] = {
-[-285212666] = 11;
-[-285212665] = nil --[[userdata]]
-;
-};
-["supportWeapons"] = {
-[-285212665] = nil --[[userdata]]
-;
-[-285212666] = 4;
-};
-["mbmResourceSvars2Fix"] = {
-[-285212666] = 59;
-[-285212665] = nil --[[userdata]]
-;
-};
-["placedRot"] = {
-[-285212666] = 128;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmSecurityCommonPlatform3CautionAreaSvars"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["chimeraPaintType"] = {
-[-285212666] = 3;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmRemoverReasons"] = {
-[-285212666] = 64;
-[-285212665] = nil --[[userdata]]
-;
-};
-["chimeraColorIndex"] = {
-[-285212666] = 3;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmEquipDevelopIndices"] = {
-[-285212666] = 10;
-[-285212665] = nil --[[userdata]]
-;
-};
-["placedAttachPoints"] = {
-[-285212666] = 64;
-[-285212665] = nil --[[userdata]]
-;
-};
-["initWeapons"] = {
-[-285212665] = nil --[[userdata]]
-;
-[-285212666] = 3;
-};
-["importantItemNumber"] = {
-[-285212666] = 32;
-[-285212665] = nil --[[userdata]]
-;
-};
-["markingsOfPickable"] = {
-[-285212666] = 33;
-[-285212665] = nil --[[userdata]]
-;
-};
-["checkPointGimmickIndelibleState"] = {
-[-285212666] = 32;
-[-285212665] = nil --[[userdata]]
-;
-};
-["developedItemLevels"] = {
-[-285212666] = 74;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mgoAvatarEbrwStyle"] = {
-[-285212666] = 8;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mgoAvatarFaceVariationIndex"] = {
-[-285212666] = 8;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mgoAvatarFaceRaceIndex"] = {
-[-285212666] = 8;
-[-285212665] = nil --[[userdata]]
-;
-};
-["presetRadioMarkers"] = {
-[-285212666] = 15;
-[-285212665] = nil --[[userdata]]
-;
-};
-["presetRadio"] = {
-[-285212666] = 50;
-[-285212665] = nil --[[userdata]]
-;
-};
-["appealActionSoundType"] = {
-[-285212666] = 8;
-[-285212665] = nil --[[userdata]]
-;
-};
-["upgrades"] = {
-[-285212666] = 8;
-[-285212665] = nil --[[userdata]]
-;
-};
-["loadoutSkill"] = {
-[-285212666] = 224;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmRemoverSvarsStatusesSync"] = {
-[-285212666] = 64;
-[-285212665] = nil --[[userdata]]
-;
-};
-["loadoutInfoU16buf"] = {
-[-285212666] = 128;
-[-285212665] = nil --[[userdata]]
-;
-};
-["initSupportWeapons"] = {
-[-285212665] = nil --[[userdata]]
-;
-[-285212666] = 4;
-};
-["loadoutParts"] = {
-[-285212666] = 1008;
-[-285212665] = nil --[[userdata]]
-;
-};
-["loadoutSecondary"] = {
-[-285212666] = 56;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmDeployTeamSvarsWalkerGearSovietBattleCount"] = {
-[-285212666] = 22;
-[-285212665] = nil --[[userdata]]
-;
-};
-["loadoutPrimary1"] = {
-[-285212666] = 56;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mgoAvatarVoiceIndex"] = {
-[-285212666] = 8;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mgoAvatarGashOrTatoVariationIndex"] = {
-[-285212666] = 8;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mgoAvatarBerdLength"] = {
-[-285212666] = 8;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mgoAvatarBerdStyle"] = {
-[-285212666] = 8;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmEquipParamStatus"] = {
-[-285212666] = 768;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmWeaponPartsReceiverStatus"] = {
-[-285212666] = 100;
-[-285212665] = nil --[[userdata]]
-;
-};
-["keyStr"] = {
-[-285212666] = 120;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mgoAvatarHairColor"] = {
-[-285212666] = 8;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmSecurityCommonPlatform2SoldierCounts"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mgoAvatarLeftEyeBrightnessIndex"] = {
-[-285212666] = 8;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmWeaponPartsUnderBarrelStatus"] = {
-[-285212666] = 7;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmSectionFuncSvars"] = {
-[-285212666] = 42;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmDeployTeamSvarsWalkerGearCfaSupportCount"] = {
-[-285212666] = 22;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmWeaponPartsLightStatus"] = {
-[-285212666] = 5;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmClearedDeployRevengeMissionFlags"] = {
-[-285212666] = 14;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mgoAvatarFaceColorIndex"] = {
-[-285212666] = 8;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmSecuritySpecialPlatformDecoyCounts"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["buddyEspionageCpNames"] = {
-[-285212666] = 8;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmSecuritySpecialPlatformAntitheftCounts"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["isUseSuppressor"] = {
-[-285212666] = 3;
-[-285212665] = nil --[[userdata]]
-;
-};
-["dlcAcquiredFlag"] = {
-[-285212666] = 2;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmStaffSvarsHeaders"] = {
-[-285212666] = 3500;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmDeployTeamSvarsTimeMinute"] = {
-[-285212666] = 11;
-[-285212665] = nil --[[userdata]]
-;
-};
-["placedWeapons"] = {
-[-285212666] = 32;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmDeployTeamSubStaffRankBottoms"] = {
-[-285212666] = 11;
-[-285212665] = nil --[[userdata]]
-;
-};
-["charClass"] = {
-[-285212666] = 8;
-[-285212665] = nil --[[userdata]]
-;
-};
-["rentalLoadoutPlayerName"] = {
-[-285212666] = 100;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmWhiteContainerCountsSvarsFix"] = {
-[-285212666] = 5;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmSecuritySpecialPlatformCautionAreaSvars"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["placedCorrelationId"] = {
-[-285212666] = 32;
-[-285212665] = nil --[[userdata]]
-;
-};
-["savedPrestige"] = {
-[-285212666] = 8;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmDeployTeamSubStaffCounts"] = {
-[-285212666] = 11;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmSecuritySpecialPlatformSvars"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["initChimeraParts"] = {
-[-285212666] = 36;
-[-285212665] = nil --[[userdata]]
-;
-};
-["charName"] = {
-[-285212666] = 512;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmSecurityCommonPlatform3Svars"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["itemLevelsDeveloped"] = {
-[-285212666] = 74;
-[-285212665] = nil --[[userdata]]
-;
-};
-["dominatedCpFlagsAfgh"] = {
-[-285212666] = 16;
-[-285212665] = nil --[[userdata]]
-;
-};
-["markingsOfPlaced"] = {
-[-285212666] = 33;
-[-285212665] = nil --[[userdata]]
-;
-};
-["savedPermanents"] = {
-[-285212666] = 16;
-[-285212665] = nil --[[userdata]]
-;
-};
-["buddyGearAmmoCount"] = {
-[-285212666] = 2;
-[-285212665] = nil --[[userdata]]
-;
-};
-["missionStartGimmickIndelibleState"] = {
-[-285212666] = 32;
-[-285212665] = nil --[[userdata]]
-;
-};
-["cloakEnabled"] = {
-[-285212666] = 1;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmSecurityCommonPlatform1DecoyCounts"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmSecurityCommonPlatform2DecoyCounts"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["checkPointGimmickIndelibleName"] = {
-[-285212666] = 64;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmDeployTeamSvarsArmoredVehicleEastRocketCount"] = {
-[-285212666] = 22;
-[-285212665] = nil --[[userdata]]
-;
-};
-["playerCameraPosition"] = {
-[-285212666] = 3;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmDeployTeamSvarsWalkerGearProtoHeuyCount"] = {
-[-285212666] = 22;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmPdTotalAddedAnimalCounts"] = {
-[-285212666] = 99;
-[-285212665] = nil --[[userdata]]
-;
-};
-["loadoutInfoU8buf"] = {
-[-285212666] = 444;
-[-285212665] = nil --[[userdata]]
-;
-};
-["buddyFriendlyPoint"] = {
-[-285212666] = 8;
-[-285212665] = nil --[[userdata]]
-;
-};
-["emblemFlag"] = {
-[-285212666] = 680;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmPoolRewardValues"] = {
-[-285212666] = 200;
-[-285212665] = nil --[[userdata]]
-;
-};
-["loadoutItem"] = {
-[-285212666] = 448;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmPoolRewardSourceIds"] = {
-[-285212666] = 200;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmPoolRewardsSvars"] = {
-[-285212666] = 200;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmWeaponPartsStockStatus"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["userPresetBattleGearPartsLevel"] = {
-[-285212666] = 27;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmSecurityCommonPlatform1AntitheftCounts"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["lastLoadout"] = {
-[-285212666] = 8;
-[-285212665] = nil --[[userdata]]
-;
-};
-["playerDecoyAngleBallon"] = {
-[-285212666] = 12;
-[-285212665] = nil --[[userdata]]
-;
-};
-["isUseFlashLight"] = {
-[-285212666] = 3;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmDeployTeamSvarsWalkerGearSovietSupportCount"] = {
-[-285212666] = 22;
-[-285212665] = nil --[[userdata]]
-;
-};
-["loadoutPrimary2"] = {
-[-285212666] = 56;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmDeployTeamSvarsArmoredVehicleWestCount"] = {
-[-285212666] = 22;
-[-285212665] = nil --[[userdata]]
-;
-};
-["droppedAmmo"] = {
-[-285212666] = 6;
-[-285212665] = nil --[[userdata]]
-;
-};
-["emblemY"] = {
-[-285212666] = 4;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmDeployTeamSvarsTankWestCount"] = {
-[-285212666] = 22;
-[-285212665] = nil --[[userdata]]
-;
-};
-["initCustomizedWeapon"] = {
-[-285212666] = 3;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmSecurityCommonPlatform1CameraCounts"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["caputreAnimalId"] = {
-[-285212666] = 16;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmDeployTeamSvarsWheeledArmoredVehicleWestCount"] = {
-[-285212666] = 22;
-[-285212665] = nil --[[userdata]]
-;
-};
-["droppedWeaponRot"] = {
-[-285212666] = 12;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmSecuritySystemLevelsDeveloped"] = {
-[-285212666] = 16;
-[-285212665] = nil --[[userdata]]
-;
-};
-["importantItemStatus"] = {
-[-285212666] = 32;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmSecuritySpecialPlatformIrSensorCounts"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmStaffSvarsStatusesSync"] = {
-[-285212666] = 3500;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmDeployTeamSvarsArmoredVehicleEastCount"] = {
-[-285212666] = 22;
-[-285212665] = nil --[[userdata]]
-;
-};
-["requestWeatherType"] = {
-[-285212666] = 5;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmWeaponPartsBarrelStatus"] = {
-[-285212666] = 32;
-[-285212665] = nil --[[userdata]]
-;
-};
-["battleGearStockAmmoCountMain"] = {
-[-285212666] = 2;
-[-285212665] = nil --[[userdata]]
-;
-};
-["userPresetCustomizedWeapon"] = {
-[-285212666] = 24;
-[-285212665] = nil --[[userdata]]
-;
-};
-["requestWeatherInterp"] = {
-[-285212666] = 5;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmSecurityCommonPlatform2Svars"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmRedContainerCountsSvarsDiff"] = {
-[-285212666] = 5;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmSecurityCommonPlatform1SoldierCounts"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmSecurityCommonPlatform3AntitheftCounts"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["placedTargetGroupBlast"] = {
-[-285212666] = 32;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmSecurityCommonPlatform2UavCounts"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmDeployMissionsSvars"] = {
-[-285212666] = 71;
-[-285212665] = nil --[[userdata]]
-;
-};
-["weapons"] = {
-[-285212665] = nil --[[userdata]]
-;
-[-285212666] = 3;
-};
-["mbmAnimalHabitatAfghSvars"] = {
-[-285212666] = 64;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmStaffSvarsSeeds"] = {
-[-285212666] = 3500;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmRemoverSvarsSeeds"] = {
-[-285212666] = 64;
-[-285212665] = nil --[[userdata]]
-;
-};
-["buddyFriendlyTimer"] = {
-[-285212666] = 8;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmSecurityCommonPlatform3UavCounts"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["placedAttachTargetIndex"] = {
-[-285212666] = 32;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmSecurityCommonPlatform3SoldierCounts"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmSecurityCommonPlatform2CautionAreaSvars"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["emblemX"] = {
-[-285212666] = 4;
-[-285212665] = nil --[[userdata]]
-;
-};
-["totalPlayTime"] = {
-[-285212666] = 8;
-[-285212665] = nil --[[userdata]]
-;
-};
-["droppedCarrier"] = {
-[-285212666] = 3;
-[-285212665] = nil --[[userdata]]
-;
-};
-["buddyGearStockAmmoCount"] = {
-[-285212666] = 2;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmSecurityCommonPlatform2AntitheftCounts"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmSecurityCommonPlatform1CautionAreaSvars"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmSecuritySpecialPlatformMineCounts"] = {
-[-285212666] = 35;
-[-285212665] = nil --[[userdata]]
-;
-};
-["mbmFobSvars"] = {
-[-285212666] = 4;
-[-285212665] = nil --[[userdata]]
-;
-};
-["emblemColorH"] = {
-[-285212666] = 4;
-[-285212665] = nil --[[userdata]]
-;
-};
-["userPresetDWalkerParts"] = {
-[-285212666] = 24;
-[-285212665] = nil --[[userdata]]
-;
-};
-["dominatedCpFlagsMafr"] = {
-[-285212666] = 16;
-[-285212665] = nil --[[userdata]]
-;
-};
-["avatarMotionFrame"] = {
-[-285212666] = 60;
-[-285212665] = nil --[[userdata]]
-;
-};
-["droppedCount"] = {
-[-285212666] = 6;
-[-285212665] = nil --[[userdata]]
-;
-};
-["buddyCallCount"] = {
-[-285212666] = 7;
-[-285212665] = nil --[[userdata]]
-;
-};
+{
+	["battleGearMainWPGrade"] = {
+		[-285212666] = 2;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["emblemColorL"] = {
+		[-285212666] = 4;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmDeployMissionAveRanksSvars"] = {
+		[-285212666] = 71;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmDeployTeamSubPoints"] = {
+		[-285212666] = 11;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["userPresetBuddyHorseParts"] = {
+		[-285212666] = 3;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmClusterTimeMinutes"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["personalName"] = {
+		[-285212666] = 64;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["suitDevelopLevel"] = {
+		[-285212666] = 38;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["emblemRotate"] = {
+		[-285212666] = 4;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["loadoutColor"] = {
+		[-285212666] = 336;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["droppedWeaponPos"] = {
+		[-285212666] = 9;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmPdTotalAddedResourceCounts"] = {
+		[-285212666] = 59;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["savedPeakXP"] = {
+		[-285212666] = 8;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmSecurityCommonPlatform1MineCounts"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["placedPos"] = {
+		[-285212666] = 96;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["checkPointGimmickPermanentGimmickSaveData"] = {
+		[-285212666] = 2592;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmDeployTeamSvarsTankEastCount"] = {
+		[-285212666] = 22;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["userPresetDWalkerAdditionalPartsLevel"] = {
+		[-285212666] = 12;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["loadoutSupport"] = {
+		[-285212666] = 224;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["buddyFriendlyPointMissionStart"] = {
+		[-285212666] = 8;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mgoAvatarEbrwWide"] = {
+		[-285212666] = 8;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["dlcPermittedFlag"] = {
+		[-285212666] = 2;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmDeployTeamSvarsTruckWestCount"] = {
+		[-285212666] = 22;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["initChimeraColorIndex"] = {
+		[-285212666] = 3;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["requestWeatherUserId"] = {
+		[-285212666] = 5;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["ammoSubInWeapons"] = {
+		[-285212665] = [[userdata]]
+		[-285212666] = 3;
+		["__index"] = [[non-lua function]];
+		["__newindex"] = [[non-lua function]];
+	};
+	["importantItemPos"] = {
+		[-285212666] = 96;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["optionSelectedIndices"] = {
+		[-285212666] = 32;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["gearState"] = {
+		[-285212666] = 15;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mgoAvatarLeftEyeColorIndex"] = {
+		[-285212666] = 8;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["ammoStockCounts"] = {
+		[-285212665] = [[userdata]]
+		[-285212666] = 19;
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["suppressorLives"] = {
+		[-285212666] = 3;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmSecurityCommonPlatform2MineCounts"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mgoAvatarHairStyleIndex"] = {
+		[-285212666] = 8;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["emblemTextureTag"] = {
+		[-285212666] = 4;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmSecurityCommonPlatform1Svars"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmSecuritySpecialPlatformUavCounts"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["numLoadout"] = {
+		[-285212666] = 8;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["buddyFriendlyMaxPoint"] = {
+		[-285212666] = 8;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["chimeraParts"] = {
+		[-285212665] = [[userdata]]
+		[-285212666] = 36;
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmSecurityCommonPlatform3CameraCounts"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmResourceSvars1Fix"] = {
+		[-285212666] = 59;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["keybordNo"] = {
+		[-285212666] = 120;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["__index"] = [[non-lua function]];
+	["mbmWhiteContainerCountsSvarsDiff"] = {
+		[-285212666] = 5;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["appealActionSlots"] = {
+		[-285212666] = 40;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["playerDecoyInstanceIndicies"] = {
+		[-285212666] = 12;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["droppedWeaponStatus"] = {
+		[-285212666] = 3;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["userPresetHeliParts"] = {
+		[-285212666] = 5;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mgoAvatarVoicePitch"] = {
+		[-285212666] = 8;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["buddyFriendlyCount"] = {
+		[-285212666] = 64;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["userPresetChimeraParts"] = {
+		[-285212666] = 288;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["emblemScale"] = {
+		[-285212666] = 4;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["initialBuddyPosMissionStart"] = {
+		[-285212666] = 3;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["captureAreaName"] = {
+		[-285212666] = 16;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmClusterSvars"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mgoAvatarAcceFlag"] = {
+		[-285212666] = 8;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmRedContainerCountsSvarsFix"] = {
+		[-285212666] = 5;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmStaffSkillGots"] = {
+		[-285212666] = 69;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmSecuritySpecialPlatformSoldierCounts"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmDeployTeamSvarsWalkerGearCfaBattleCount"] = {
+		[-285212666] = 22;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["cboxPosterIndices"] = {
+		[-285212666] = 8;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mgoAvatarMotionFrames"] = {
+		[-285212666] = 480;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmDeployTeamSvars4wdWestCount"] = {
+		[-285212666] = 22;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["isInitialWeapon"] = {
+		[-285212665] = [[userdata]]
+		[-285212666] = 3;
+		["__index"] = [[non-lua function]];
+		["__newindex"] = [[non-lua function]];
+	};
+	["mbmSecurityCommonPlatform1UavCounts"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["userPresetChimeraColorIndex"] = {
+		[-285212666] = 24;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["loadoutInfoU32buf"] = {
+		[-285212666] = 68;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmWeaponPartsSightStatus"] = {
+		[-285212666] = 25;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmDeployTeamSvarsTruckEastCount"] = {
+		[-285212666] = 22;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmOnlineOffsetEquipParamStatus"] = {
+		[-285212666] = 768;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["importantItemRot"] = {
+		[-285212666] = 128;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmResourceSvars2Diff"] = {
+		[-285212666] = 59;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmSecurityCommonPlatform2IrSensorCounts"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["missionStartGimmickIndelibleName"] = {
+		[-285212666] = 64;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmStaffSvarsStatusesNoSync"] = {
+		[-285212666] = 3500;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["droppedSuppressorLife"] = {
+		[-285212666] = 3;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmSecurityCommonPlatform2CameraCounts"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["placedAttachTargetGameObjectType"] = {
+		[-285212666] = 32;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmWeaponPartsMuzzleStatus"] = {
+		[-285212666] = 29;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmRemoverSvarsStatusesNoSync"] = {
+		[-285212666] = 64;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["ammoStockIds"] = {
+		[-285212665] = [[userdata]]
+		[-285212666] = 19;
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmDeployTeamSvars4wdEastCount"] = {
+		[-285212666] = 22;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mgoAvatarTatoColorIndex"] = {
+		[-285212666] = 8;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	[-285212671] = {
+		["weatherNextTime"] = [[upvalue]];
+		["personalBirthdayMonth"] = [[upvalue]];
+		["buddyQuietCostumeType"] = [[upvalue]];
+		["mbmPdTotalAddedSoldierStaffCount"] = [[upvalue]];
+		["totalMarkingCount"] = [[upvalue]];
+		["isInitialTutorialFinished"] = [[upvalue]];
+		["totalTakeHitCount"] = [[upvalue]];
+		["totalMovingDistanceOnVehicle"] = [[upvalue]];
+		["infoIdForMGO"] = [[upvalue]];
+		["mbmTppTotalIncomeGmp"] = [[upvalue]];
+		["mbmPreciousMetalProcessingElapsedTimeMinute"] = [[upvalue]];
+		["userMarkerSaveCount"] = [[upvalue]];
+		["mbmPandemicElapsedTimeMinuteSvars"] = [[upvalue]];
+		["mbmDeploySequentialMissionIdLimitSvars"] = [[upvalue]];
+		["inquiryId"] = [[upvalue]];
+		["isKikongoTranslatable"] = [[upvalue]];
+		["memberMin"] = [[upvalue]];
+		["mbmStaffSyncVersion"] = [[upvalue]];
+		["avatarHeadPresetID"] = [[upvalue]];
+		["mbmLanguageElapsedTimeMinuteSvars"] = [[upvalue]];
+		["roundTickets"] = [[upvalue]];
+		["mbmCompAnimal"] = [[upvalue]];
+		["avatarAccessoryPresetID"] = [[upvalue]];
+		["playerPosX"] = [[upvalue]];
+		["sortieBuddyTypeMissionStart"] = [[upvalue]];
+		["mbmDisableKikongoFirst"] = [[upvalue]];
+		["mbmPdTotalAddedGmpT"] = [[upvalue]];
+		["mbmBecomeMedicalSectionLvMax"] = [[upvalue]];
+		["playerMarkingCountInMission"] = [[upvalue]];
+		["buddyHorseColorType"] = [[upvalue]];
+		["buddyGearMainWPGrade"] = [[upvalue]];
+		["avatarVoicePitch"] = [[upvalue]];
+		["shootHitCountInMission"] = [[upvalue]];
+		["buddyDogEyeType"] = [[upvalue]];
+		["mbmTppHeroicPoint"] = [[upvalue]];
+		["mbmPandemicSpreadAttackCount"] = [[upvalue]];
+		["avatarHairColor"] = [[upvalue]];
+		["isRussianTranslatable"] = [[upvalue]];
+		["mbmBecomeAllSectionLvMax"] = [[upvalue]];
+		["avatarBeardPresetID"] = [[upvalue]];
+		["infoId"] = [[upvalue]];
+		["mbmPdTotalAddedVolunteerStaffCount"] = [[upvalue]];
+		["avatarCheekPresetID"] = [[upvalue]];
+		["isAfrikaansTranslatable"] = [[upvalue]];
+		["avatarChinPresetID"] = [[upvalue]];
+		["mbmAutoGmpElapsedTimeMinuteSvars"] = [[upvalue]];
+		["initialPlayerPosZ"] = [[upvalue]];
+		["buddyDogFlag"] = [[upvalue]];
+		["emblemSyncFailed2"] = [[upvalue]];
+		["mbmLockedTanFlag"] = [[upvalue]];
+		["dlcFlags"] = [[upvalue]];
+		["avatarReserve1"] = [[upvalue]];
+		["mbmS10081CaptiveStaffSvarsStatusSync"] = [[upvalue]];
+		["totalMovingDistanceAtStand"] = [[upvalue]];
+		["mbmInitializedServerWalletFlagDay1"] = [[upvalue]];
+		["buddyGearHeadGrade"] = [[upvalue]];
+		["sahelanBrokenMesh"] = [[upvalue]];
+		["buddyCommonFlagMissionStart"] = [[upvalue]];
+		["initialBuddyRotYMissionStart"] = [[upvalue]];
+		["playerVehicleGameObjectId"] = [[upvalue]];
+		["mbmOpenedRRandomMission"] = [[upvalue]];
+		["rulesetDynamicPackIndices"] = [[upvalue]];
+		["fobPickup"] = [[upvalue]];
+		["emblemVersion"] = [[upvalue]];
+		["buddyGearArmGrade"] = [[upvalue]];
+		["avatarFaceTypeIndex"] = [[upvalue]];
+		["initialPlayerRotY"] = [[upvalue]];
+		["mbmBecomeBaseDevSectionLvMax"] = [[upvalue]];
+		["handEquip"] = [[upvalue]];
+		["missionCodeMarkingsOfPlaced"] = [[upvalue]];
+		["totalAlertCount"] = [[upvalue]];
+		["obtainedBuddyType"] = [[upvalue]];
+		["mbmPandemicSpreadAttackLimitCount"] = [[upvalue]];
+		["initialPlayerPairGameObjectId"] = [[upvalue]];
+		["survivalRoomId"] = [[upvalue]];
+		["initialBuddyStatus"] = [[upvalue]];
+		["avatarMouthPresetID"] = [[upvalue]];
+		["avatarSkinColorPresetID"] = [[upvalue]];
+		["totalMovingDistanceOnHorse"] = [[upvalue]];
+		["mbmBipedalismWeaponDevelopmentSkill"] = [[upvalue]];
+		["lastUsedChar"] = [[upvalue]];
+		["playerLifeMax"] = [[upvalue]];
+		["extraWeatherInterval"] = [[upvalue]];
+		["buddyType"] = [[upvalue]];
+		["avatarSaveIsValid"] = [[upvalue]];
+		["playerCamoType"] = [[upvalue]];
+		["mbmPdTotalDefectionCount"] = [[upvalue]];
+		["sortiePrepPlayerSnakeSuitLevel"] = [[upvalue]];
+		["buddyDogColorType"] = [[upvalue]];
+		["locationCode"] = [[upvalue]];
+		["userPresetBattleGearCurrentSlot"] = [[upvalue]];
+		["buddyDogEquipType"] = [[upvalue]];
+		["fobIsSneak"] = [[upvalue]];
+		["totalReflexCount"] = [[upvalue]];
+		["disableCallBuddyType"] = [[upvalue]];
+		["avatarFaceRaceIndex"] = [[upvalue]];
+		["mbmIsOpenedMedicalSection"] = [[upvalue]];
+		["avatarRightEyeColorIndex"] = [[upvalue]];
+		["deadBuddyTypeMissionStart"] = [[upvalue]];
+		["initialBuddyRotY"] = [[upvalue]];
+		["battleGearColoring1"] = [[upvalue]];
+		["avatarBerdLength"] = [[upvalue]];
+		["buddyHorseHeadDesignType"] = [[upvalue]];
+		["mbmStaffListAssignListModeSvars"] = [[upvalue]];
+		["totalChickenCapTime"] = [[upvalue]];
+		["playerDisableActionFlag"] = [[upvalue]];
+		["initialPlayerPosX"] = [[upvalue]];
+		["pfRatingPoint"] = [[upvalue]];
+		["fobSneakMode"] = [[upvalue]];
+		["padType"] = [[upvalue]];
+		["mbmBecomeSecuritySectionLvMax"] = [[upvalue]];
+		["mbmHighestTotalSectionLv"] = [[upvalue]];
+		["mgoEulaVersion"] = [[upvalue]];
+		["mbmEnmityElapsedTimeMinuteSvars"] = [[upvalue]];
+		["isNight"] = [[upvalue]];
+		["avatarEbrwWide"] = [[upvalue]];
+		["mbmIsOpenedHospitalSection"] = [[upvalue]];
+		["playerPhase"] = [[upvalue]];
+		["totalMovingDistanceAtSquat"] = [[upvalue]];
+		["userPresetDWalkerCurrentSlot"] = [[upvalue]];
+		["mbmAutoResourceElapsedTimeMinuteSvars"] = [[upvalue]];
+		["totalDiscoveredCount"] = [[upvalue]];
+		["mbClusterId"] = [[upvalue]];
+		["sortiePrepPlayerSnakeCamoType"] = [[upvalue]];
+		["playerLife"] = [[upvalue]];
+		["stealthAssistLeftCount"] = [[upvalue]];
+		["playerShootCountInMission"] = [[upvalue]];
+		["playerRecoveryCountFromOgre"] = [[upvalue]];
+		["battleGearSubWPType"] = [[upvalue]];
+		["sortiePrepPlayerSnakeFaceEquipId"] = [[upvalue]];
+		["mbmTreatmentElapsedTimeMinute"] = [[upvalue]];
+		["mbmFuelResourceProcessingElapsedTimeMinute"] = [[upvalue]];
+		["avatarReserve2"] = [[upvalue]];
+		["buddyGearBodyGrade"] = [[upvalue]];
+		["loadoutInfoSaveFormVersion"] = [[upvalue]];
+		["buddyHorseType"] = [[upvalue]];
+		["mbmIsOpenedPrisonSection"] = [[upvalue]];
+		["mbmS10081CaptiveStaffSvarsHeader"] = [[upvalue]];
+		["mbmBanHeuy"] = [[upvalue]];
+		["mbmNRandomMissionClearedCount"] = [[upvalue]];
+		["mbmBecomeSpySectionLvMax"] = [[upvalue]];
+		["clockTimeScale"] = [[upvalue]];
+		["isCustomizeMenu"] = [[upvalue]];
+		["avatarEyebrowPresetID"] = [[upvalue]];
+		["battleGearColoring0"] = [[upvalue]];
+		["deadBuddyType"] = [[upvalue]];
+		["mbmTppOgrePoint"] = [[upvalue]];
+		["cancelAvatarEdit"] = [[upvalue]];
+		["gamePlayTutorialCount"] = [[upvalue]];
+		["hasDisplayedTitleScreen"] = [[upvalue]];
+		["avatarHairPresetID"] = [[upvalue]];
+		["mbmBattleGearDeployingTeam"] = [[upvalue]];
+		["rulesetId"] = [[upvalue]];
+		["isAvatarPlayerEnable"] = [[upvalue]];
+		["playerRetryFlag"] = [[upvalue]];
+		["avatarFaceVariationIndex"] = [[upvalue]];
+		["sortiePrepPlayerDDSuitLevel"] = [[upvalue]];
+		["returnStaffHeader"] = [[upvalue]];
+		["mbmDeployRandomMissionSeedSvars"] = [[upvalue]];
+		["mbmIsOpenedBaseDevSection"] = [[upvalue]];
+		["buddyGearArmType"] = [[upvalue]];
+		["initialPlayerAction"] = [[upvalue]];
+		["initialPlayerFlag"] = [[upvalue]];
+		["rentalLoadoutPlayerId"] = [[upvalue]];
+		["mbmIsNuclearDeveloped"] = [[upvalue]];
+		["userMarkerLocationId"] = [[upvalue]];
+		["sortiePrepPlayerDDCamoType"] = [[upvalue]];
+		["mbmCommonMetalProcessingElapsedTimeMinute"] = [[upvalue]];
+		["isNoContest"] = [[upvalue]];
+		["missionStartGimmickIndelibleCount"] = [[upvalue]];
+		["armRocketYIsReverse"] = [[upvalue]];
+		["buddyGearSubWPType"] = [[upvalue]];
+		["doesNeedToRespawnOnceInCustomize"] = [[upvalue]];
+		["isPlayerInCustomizeMenu"] = [[upvalue]];
+		["buddyQuietEquipType"] = [[upvalue]];
+		["playerRotY"] = [[upvalue]];
+		["buddyGearMainWPType"] = [[upvalue]];
+		["numChar"] = [[upvalue]];
+		["uniqueCharacterSelect"] = [[upvalue]];
+		["avatarHairStyleIndex"] = [[upvalue]];
+		["mbDvcTopMenuFlag"] = [[upvalue]];
+		["specialRole"] = [[upvalue]];
+		["walkerGear"] = [[upvalue]];
+		["briefingTime"] = [[upvalue]];
+		["mbmPandemicEventMode"] = [[upvalue]];
+		["mbmEnableStaffInitLangKikongo"] = [[upvalue]];
+		["isAvatarEditMode"] = [[upvalue]];
+		["battleGearAmmoCountSub"] = [[upvalue]];
+		["obtainedBuddyTypeMissionStart"] = [[upvalue]];
+		["avatarVoiceIndex"] = [[upvalue]];
+		["missionCode"] = [[upvalue]];
+		["survivalHostCommentIndex"] = [[upvalue]];
+		["avatarHairColorPresetID"] = [[upvalue]];
+		["mbmAddRemoverIndexSvars"] = [[upvalue]];
+		["searchSettingsSurvival"] = [[upvalue]];
+		["searchSettingsOthers"] = [[upvalue]];
+		["checkPointGimmickIndelibleCount"] = [[upvalue]];
+		["mbmAssignableMiller"] = [[upvalue]];
+		["mbmIsEnableNuclearDevelop"] = [[upvalue]];
+		["optionShowCombatInfo"] = [[upvalue]];
+		["mbmIsNuclearDeveloping"] = [[upvalue]];
+		["optionShowMissionInfo"] = [[upvalue]];
+		["mbmIsOpenedCombatSection"] = [[upvalue]];
+		["selectedBGM"] = [[upvalue]];
+		["isGameplayHost"] = [[upvalue]];
+		["heliMusicTrackID"] = [[upvalue]];
+		["heliMusicType"] = [[upvalue]];
+		["mbDvcTutorialFlag"] = [[upvalue]];
+		["tppTransferAcquiredFlag"] = [[upvalue]];
+		["tppTransferFlag"] = [[upvalue]];
+		["buddyGearSubWPGrade"] = [[upvalue]];
+		["totalChickCapTime"] = [[upvalue]];
+		["initialBuddyStatusMissionStart"] = [[upvalue]];
+		["totalMovingDistanceOnWalkerGear"] = [[upvalue]];
+		["mbmIsOpenedSeparationSection"] = [[upvalue]];
+		["searchSettingsRuleIndex"] = [[upvalue]];
+		["pushToTalk"] = [[upvalue]];
+		["mbmS10081CaptiveStaffSvarsSeed"] = [[upvalue]];
+		["armRocketXIsReverse"] = [[upvalue]];
+		["mbmFobDefenseWinCount"] = [[upvalue]];
+		["mbmPdTotalSubtractedHeroicPoint"] = [[upvalue]];
+		["mbmPdTotalAddedHeroicPoint"] = [[upvalue]];
+		["emblemSyncFailed"] = [[upvalue]];
+		["mbmPdTotalSubtractedGmp"] = [[upvalue]];
+		["avatarAcceFlag"] = [[upvalue]];
+		["initialPlayerPosY"] = [[upvalue]];
+		["mbmPdTotalAddedGmp"] = [[upvalue]];
+		["mbmPdTotalFireCount"] = [[upvalue]];
+		["buddyGearHeadType"] = [[upvalue]];
+		["mbmFobDefenseLoseCount"] = [[upvalue]];
+		["mbmPdTotalAddedHostageStaffCount"] = [[upvalue]];
+		["mbmNuclearDevelopMaxTime"] = [[upvalue]];
+		["mbmNuclearDevelopTime"] = [[upvalue]];
+		["optionShowTmpInfo"] = [[upvalue]];
+		["mbmIsNuclearDiscarded"] = [[upvalue]];
+		["mbmRequestDemoAttackedFromOtherPlayer"] = [[upvalue]];
+		["playerType"] = [[upvalue]];
+		["mbmDemoAttackedFromOtherPlayerKnowWhereFrom"] = [[upvalue]];
+		["shootHitCountEliminatedInMission"] = [[upvalue]];
+		["mbmIsContractOutDisplayed"] = [[upvalue]];
+		["sortieBuddyType"] = [[upvalue]];
+		["mbmIsOpenedSecuritySection"] = [[upvalue]];
+		["mbmUserPresetBaseColor"] = [[upvalue]];
+		["isSavedHostCommentV110"] = [[upvalue]];
+		["mbmS10081CaptiveStaffSvarsStatusNoSync"] = [[upvalue]];
+		["bgmVolume"] = [[upvalue]];
+		["initHandEquip"] = [[upvalue]];
+		["mbmPoolRewardsSyncVersion"] = [[upvalue]];
+		["playerStamina"] = [[upvalue]];
+		["isPersonalDirty"] = [[upvalue]];
+		["useBlackDiamondEmblem"] = [[upvalue]];
+		["mbmIsCancelAllDeploy"] = [[upvalue]];
+		["avatarEyePresetID"] = [[upvalue]];
+		["avatarTatoColorIndex"] = [[upvalue]];
+		["initLoadoutInfo"] = [[upvalue]];
+		["buddyTypeMissionStart"] = [[upvalue]];
+		["mbmIsOccupation"] = [[upvalue]];
+		["avatarGashOrTatoVariationIndex"] = [[upvalue]];
+		["currentForRentLoadoutSlotIndex"] = [[upvalue]];
+		["avatarRightEyeBrightnessIndex"] = [[upvalue]];
+		["mbmNewestNRandomMissionId"] = [[upvalue]];
+		["returnStaffSeeds"] = [[upvalue]];
+		["mbmCompSequential"] = [[upvalue]];
+		["avatarLeftEyeBrightnessIndex"] = [[upvalue]];
+		["personalBirthdayDay"] = [[upvalue]];
+		["mbmAddDeployLogIndex"] = [[upvalue]];
+		["fobIsEvent"] = [[upvalue]];
+		["avatarAllPartsPresetID"] = [[upvalue]];
+		["sortieLoadoutInfoSaveFormVersion"] = [[upvalue]];
+		["mbmBecomeCombatSectionLvMax"] = [[upvalue]];
+		["mbmBecomeSupportSectionLvMax"] = [[upvalue]];
+		["buddyHorseFootDesignType"] = [[upvalue]];
+		["sortiePrepPlayerDDPartsType"] = [[upvalue]];
+		["captureAnimalIndex"] = [[upvalue]];
+		["mbmCompDesign"] = [[upvalue]];
+		["mbmDeploySequentialMissionIdSvars"] = [[upvalue]];
+		["playerPlayFlag"] = [[upvalue]];
+		["avatarFaceColorIndex"] = [[upvalue]];
+		["mbmCompPhoto"] = [[upvalue]];
+		["missionCodeMarkingsOfPickable"] = [[upvalue]];
+		["playerOgrePointOnStartMission"] = [[upvalue]];
+		["clock"] = [[upvalue]];
+		["mbmPdTotalSubtractedGmpT"] = [[upvalue]];
+		["mbmCompMb"] = [[upvalue]];
+		["maxPhase"] = [[upvalue]];
+		["avatarNosePresetID"] = [[upvalue]];
+		["weather"] = [[upvalue]];
+		["mbmTppGmp"] = [[upvalue]];
+		["mbmPdTotalDeadStaffCount"] = [[upvalue]];
+		["totalMovingDistanceAtCrawl"] = [[upvalue]];
+		["prevMissionCode"] = [[upvalue]];
+		["playerHandType"] = [[upvalue]];
+		["vehicleGameObjectIdOnPlayerOnCargo"] = [[upvalue]];
+		["currentLoadoutSlot"] = [[upvalue]];
+		["mbmResourceSyncVersion"] = [[upvalue]];
+		["sortiePrepPlayerSnakePartsType"] = [[upvalue]];
+		["mbmNewestRRandomMissionId"] = [[upvalue]];
+		["weatherAddDensity"] = [[upvalue]];
+		["playerPosY"] = [[upvalue]];
+		["buddyGearColoring0"] = [[upvalue]];
+		["mbLayoutCode"] = [[upvalue]];
+		["battleGearStockAmmoCountSub"] = [[upvalue]];
+		["didCancelFobPatchDlcDownloadRequest"] = [[upvalue]];
+		["mbmDeployableBattleGear"] = [[upvalue]];
+		["buddyCommonFlag"] = [[upvalue]];
+		["avatarReserve0"] = [[upvalue]];
+		["mbmBecomeDevelopSectionLvMax"] = [[upvalue]];
+		["playerPosZ"] = [[upvalue]];
+		["isPashtoTranslatable"] = [[upvalue]];
+		["mbmOpenedWalkerGear"] = [[upvalue]];
+		["buddyGearEquipGrade"] = [[upvalue]];
+		["sortiePrepPlayerDDFaceEquipId"] = [[upvalue]];
+		["mbmBioticResourceProcessingElapsedTimeMinute"] = [[upvalue]];
+		["prevLocationCode"] = [[upvalue]];
+		["playerPartsType"] = [[upvalue]];
+		["eulaVersion"] = [[upvalue]];
+		["mbmMinorMetalProcessingElapsedTimeMinute"] = [[upvalue]];
+		["didSurvivalTicketNotice"] = [[upvalue]];
+		["isDefaultDisconnected"] = [[upvalue]];
+		["avatarLeftEyeColorIndex"] = [[upvalue]];
+		["mbmMasterGunsmithSkill"] = [[upvalue]];
+		["mbmIsOpenedSpySection"] = [[upvalue]];
+		["mbmStaffInitEnmityLv"] = [[upvalue]];
+		["searchSettingsMapIndex"] = [[upvalue]];
+		["roundTimeLimit"] = [[upvalue]];
+		["avatarBerdStyle"] = [[upvalue]];
+		["mbmStaffListMainListModeSvars"] = [[upvalue]];
+		["supportHeliCustomize"] = [[upvalue]];
+		["avatarEbrwStyle"] = [[upvalue]];
+		["totalMovingDistanceOnBattleGear"] = [[upvalue]];
+		["battleGearSubWPGrade"] = [[upvalue]];
+		["mbmMoraleElapsedTimeMinuteSvars"] = [[upvalue]];
+		["buddyGearColoring1"] = [[upvalue]];
+		["buddyGearReloadGrade"] = [[upvalue]];
+		["buddyDogMode"] = [[upvalue]];
+		["buddyMissionFlag"] = [[upvalue]];
+	};
+	["placedAttachTargetNames"] = {
+		[-285212666] = 64;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmStaffSortKeysSvars"] = {
+		[-285212666] = 13;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["requestWeatherParam"] = {
+		[-285212666] = 5;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmSecurityCommonPlatform3MineCounts"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmEquipDevelopTimes"] = {
+		[-285212666] = 10;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmDeployTeamCombatPoints"] = {
+		[-285212666] = 11;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmDeployTeamCombatStaffRankBottoms"] = {
+		[-285212666] = 11;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["initialBuddyPos"] = {
+		[-285212666] = 3;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmWeaponPartsMuzzleOptionStatus"] = {
+		[-285212666] = 10;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmSecurityCommonPlatform3IrSensorCounts"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["customizedWeapon"] = {
+		[-285212665] = [[userdata]]
+		[-285212666] = 3;
+		["__index"] = [[non-lua function]];
+		["__newindex"] = [[non-lua function]];
+	};
+	["mbmWeaponPartsMagazineStatus"] = {
+		[-285212666] = 46;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["userPresetVehiclePaintType"] = {
+		[-285212666] = 10;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmAnimalHabitatMafrSvars"] = {
+		[-285212666] = 64;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["missionStartGimmickPermanentGimmickSaveData"] = {
+		[-285212666] = 2592;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	[-285212672] = 0;
+	["mbmSecurityClusterSvars"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmSecurityCommonPlatform1IrSensorCounts"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmRemoverSvarsHeaders"] = {
+		[-285212666] = 64;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmDataBaseSvars"] = {
+		[-285212666] = 459;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmDeployTeamCombatStaffCounts"] = {
+		[-285212666] = 11;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["userPresetChimeraPaintType"] = {
+		[-285212666] = 24;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mgoAvatarRightEyeBrightnessIndex"] = {
+		[-285212666] = 8;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["items"] = {
+		[-285212665] = [[userdata]]
+		[-285212666] = 8;
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmPoolRewardSeeds"] = {
+		[-285212666] = 200;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["battleGearAmmoCountMain"] = {
+		[-285212666] = 2;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["userPresetBattleGearParts"] = {
+		[-285212666] = 27;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["placedOwnerIds"] = {
+		[-285212666] = 32;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["utcTime"] = {
+		[-285212666] = 8;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mgoAvatarFaceTypeIndex"] = {
+		[-285212666] = 8;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmSecuritySpecialPlatformCameraCounts"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["droppedCarrierPlaceNo"] = {
+		[-285212666] = 3;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmSecurityCommonPlatform3DecoyCounts"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["playerTypes"] = {
+		[-285212666] = 8;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["loadoutName"] = {
+		[-285212666] = 3584;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["initChimeraPaintType"] = {
+		[-285212666] = 3;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmStaffSortDirsSvars"] = {
+		[-285212666] = 13;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["initItems"] = {
+		[-285212665] = [[userdata]]
+		[-285212666] = 8;
+		["__index"] = [[non-lua function]];
+		["__newindex"] = [[non-lua function]];
+	};
+	["mgoAvatarRightEyeColorIndex"] = {
+		[-285212666] = 8;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["ammoInWeapons"] = {
+		[-285212665] = [[userdata]]
+		[-285212666] = 3;
+		["__index"] = [[non-lua function]];
+		["__newindex"] = [[non-lua function]];
+	};
+	["battleGearMainWPType"] = {
+		[-285212666] = 2;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmDeployTeamCombatStaffRankTops"] = {
+		[-285212666] = 11;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["buttonNo"] = {
+		[-285212666] = 120;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["userPresetDWalkerAdditionalParts"] = {
+		[-285212666] = 12;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmResourceSvars1Diff"] = {
+		[-285212666] = 59;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["gearData"] = {
+		[-285212666] = 120;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["savedXP"] = {
+		[-285212666] = 8;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["userPresetBuddyDogParts"] = {
+		[-285212666] = 2;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["userPresetDWalkerPartsLevel"] = {
+		[-285212666] = 24;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["placedStatus"] = {
+		[-285212666] = 32;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmDeployTeamSubStaffRankTops"] = {
+		[-285212666] = 11;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["supportWeapons"] = {
+		[-285212665] = [[userdata]]
+		[-285212666] = 4;
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmResourceSvars2Fix"] = {
+		[-285212666] = 59;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["placedRot"] = {
+		[-285212666] = 128;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmSecurityCommonPlatform3CautionAreaSvars"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["chimeraPaintType"] = {
+		[-285212666] = 3;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmRemoverReasons"] = {
+		[-285212666] = 64;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["chimeraColorIndex"] = {
+		[-285212666] = 3;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmEquipDevelopIndices"] = {
+		[-285212666] = 10;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["placedAttachPoints"] = {
+		[-285212666] = 64;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["initWeapons"] = {
+		[-285212665] = [[userdata]]
+		[-285212666] = 3;
+		["__index"] = [[non-lua function]];
+		["__newindex"] = [[non-lua function]];
+	};
+	["importantItemNumber"] = {
+		[-285212666] = 32;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["markingsOfPickable"] = {
+		[-285212666] = 33;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["checkPointGimmickIndelibleState"] = {
+		[-285212666] = 32;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["developedItemLevels"] = {
+		[-285212666] = 74;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mgoAvatarEbrwStyle"] = {
+		[-285212666] = 8;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mgoAvatarFaceVariationIndex"] = {
+		[-285212666] = 8;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mgoAvatarFaceRaceIndex"] = {
+		[-285212666] = 8;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["presetRadioMarkers"] = {
+		[-285212666] = 15;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["presetRadio"] = {
+		[-285212666] = 50;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["appealActionSoundType"] = {
+		[-285212666] = 8;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["upgrades"] = {
+		[-285212666] = 8;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["loadoutSkill"] = {
+		[-285212666] = 224;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmRemoverSvarsStatusesSync"] = {
+		[-285212666] = 64;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["loadoutInfoU16buf"] = {
+		[-285212666] = 128;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["initSupportWeapons"] = {
+		[-285212665] = [[userdata]]
+		[-285212666] = 4;
+		["__index"] = [[non-lua function]];
+		["__newindex"] = [[non-lua function]];
+	};
+	["loadoutParts"] = {
+		[-285212666] = 1008;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["loadoutSecondary"] = {
+		[-285212666] = 56;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmDeployTeamSvarsWalkerGearSovietBattleCount"] = {
+		[-285212666] = 22;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["loadoutPrimary1"] = {
+		[-285212666] = 56;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mgoAvatarVoiceIndex"] = {
+		[-285212666] = 8;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mgoAvatarGashOrTatoVariationIndex"] = {
+		[-285212666] = 8;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mgoAvatarBerdLength"] = {
+		[-285212666] = 8;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mgoAvatarBerdStyle"] = {
+		[-285212666] = 8;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmEquipParamStatus"] = {
+		[-285212666] = 768;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmWeaponPartsReceiverStatus"] = {
+		[-285212666] = 100;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["keyStr"] = {
+		[-285212666] = 120;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mgoAvatarHairColor"] = {
+		[-285212666] = 8;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmSecurityCommonPlatform2SoldierCounts"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mgoAvatarLeftEyeBrightnessIndex"] = {
+		[-285212666] = 8;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmWeaponPartsUnderBarrelStatus"] = {
+		[-285212666] = 7;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmSectionFuncSvars"] = {
+		[-285212666] = 42;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmDeployTeamSvarsWalkerGearCfaSupportCount"] = {
+		[-285212666] = 22;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmWeaponPartsLightStatus"] = {
+		[-285212666] = 5;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmClearedDeployRevengeMissionFlags"] = {
+		[-285212666] = 14;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mgoAvatarFaceColorIndex"] = {
+		[-285212666] = 8;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmSecuritySpecialPlatformDecoyCounts"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["buddyEspionageCpNames"] = {
+		[-285212666] = 8;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmSecuritySpecialPlatformAntitheftCounts"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["isUseSuppressor"] = {
+		[-285212666] = 3;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["dlcAcquiredFlag"] = {
+		[-285212666] = 2;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmStaffSvarsHeaders"] = {
+		[-285212666] = 3500;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmDeployTeamSvarsTimeMinute"] = {
+		[-285212666] = 11;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["placedWeapons"] = {
+		[-285212666] = 32;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmDeployTeamSubStaffRankBottoms"] = {
+		[-285212666] = 11;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["charClass"] = {
+		[-285212666] = 8;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["rentalLoadoutPlayerName"] = {
+		[-285212666] = 100;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmWhiteContainerCountsSvarsFix"] = {
+		[-285212666] = 5;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmSecuritySpecialPlatformCautionAreaSvars"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["placedCorrelationId"] = {
+		[-285212666] = 32;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["savedPrestige"] = {
+		[-285212666] = 8;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmDeployTeamSubStaffCounts"] = {
+		[-285212666] = 11;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmSecuritySpecialPlatformSvars"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["initChimeraParts"] = {
+		[-285212666] = 36;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["charName"] = {
+		[-285212666] = 512;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmSecurityCommonPlatform3Svars"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["itemLevelsDeveloped"] = {
+		[-285212666] = 74;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["dominatedCpFlagsAfgh"] = {
+		[-285212666] = 16;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["markingsOfPlaced"] = {
+		[-285212666] = 33;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["savedPermanents"] = {
+		[-285212666] = 16;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["buddyGearAmmoCount"] = {
+		[-285212666] = 2;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["missionStartGimmickIndelibleState"] = {
+		[-285212666] = 32;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["cloakEnabled"] = {
+		[-285212666] = 1;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmSecurityCommonPlatform1DecoyCounts"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmSecurityCommonPlatform2DecoyCounts"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["checkPointGimmickIndelibleName"] = {
+		[-285212666] = 64;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmDeployTeamSvarsArmoredVehicleEastRocketCount"] = {
+		[-285212666] = 22;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["playerCameraPosition"] = {
+		[-285212666] = 3;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmDeployTeamSvarsWalkerGearProtoHeuyCount"] = {
+		[-285212666] = 22;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmPdTotalAddedAnimalCounts"] = {
+		[-285212666] = 99;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["loadoutInfoU8buf"] = {
+		[-285212666] = 444;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["buddyFriendlyPoint"] = {
+		[-285212666] = 8;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["emblemFlag"] = {
+		[-285212666] = 680;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmPoolRewardValues"] = {
+		[-285212666] = 200;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["loadoutItem"] = {
+		[-285212666] = 448;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmPoolRewardSourceIds"] = {
+		[-285212666] = 200;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmPoolRewardsSvars"] = {
+		[-285212666] = 200;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmWeaponPartsStockStatus"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["userPresetBattleGearPartsLevel"] = {
+		[-285212666] = 27;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmSecurityCommonPlatform1AntitheftCounts"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["lastLoadout"] = {
+		[-285212666] = 8;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["playerDecoyAngleBallon"] = {
+		[-285212666] = 12;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["isUseFlashLight"] = {
+		[-285212666] = 3;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmDeployTeamSvarsWalkerGearSovietSupportCount"] = {
+		[-285212666] = 22;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["loadoutPrimary2"] = {
+		[-285212666] = 56;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["__newindex"] = [[non-lua function]];
+	["mbmDeployTeamSvarsArmoredVehicleWestCount"] = {
+		[-285212666] = 22;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["droppedAmmo"] = {
+		[-285212666] = 6;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["emblemY"] = {
+		[-285212666] = 4;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmDeployTeamSvarsTankWestCount"] = {
+		[-285212666] = 22;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["initCustomizedWeapon"] = {
+		[-285212666] = 3;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmSecurityCommonPlatform1CameraCounts"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["caputreAnimalId"] = {
+		[-285212666] = 16;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmDeployTeamSvarsWheeledArmoredVehicleWestCount"] = {
+		[-285212666] = 22;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["droppedWeaponRot"] = {
+		[-285212666] = 12;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmSecuritySystemLevelsDeveloped"] = {
+		[-285212666] = 16;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["importantItemStatus"] = {
+		[-285212666] = 32;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmSecuritySpecialPlatformIrSensorCounts"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmStaffSvarsStatusesSync"] = {
+		[-285212666] = 3500;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmDeployTeamSvarsArmoredVehicleEastCount"] = {
+		[-285212666] = 22;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["requestWeatherType"] = {
+		[-285212666] = 5;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmWeaponPartsBarrelStatus"] = {
+		[-285212666] = 32;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["battleGearStockAmmoCountMain"] = {
+		[-285212666] = 2;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["userPresetCustomizedWeapon"] = {
+		[-285212666] = 24;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["requestWeatherInterp"] = {
+		[-285212666] = 5;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmSecurityCommonPlatform2Svars"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmRedContainerCountsSvarsDiff"] = {
+		[-285212666] = 5;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmSecurityCommonPlatform1SoldierCounts"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmSecurityCommonPlatform3AntitheftCounts"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["placedTargetGroupBlast"] = {
+		[-285212666] = 32;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmSecurityCommonPlatform2UavCounts"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmDeployMissionsSvars"] = {
+		[-285212666] = 71;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["weapons"] = {
+		[-285212665] = [[userdata]]
+		[-285212666] = 3;
+		["__index"] = [[non-lua function]];
+		["__newindex"] = [[non-lua function]];
+	};
+	["mbmAnimalHabitatAfghSvars"] = {
+		[-285212666] = 64;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmStaffSvarsSeeds"] = {
+		[-285212666] = 3500;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmRemoverSvarsSeeds"] = {
+		[-285212666] = 64;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["buddyFriendlyTimer"] = {
+		[-285212666] = 8;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmSecurityCommonPlatform3UavCounts"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["placedAttachTargetIndex"] = {
+		[-285212666] = 32;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmSecurityCommonPlatform3SoldierCounts"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmSecurityCommonPlatform2CautionAreaSvars"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["emblemX"] = {
+		[-285212666] = 4;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["totalPlayTime"] = {
+		[-285212666] = 8;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["droppedCarrier"] = {
+		[-285212666] = 3;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["buddyGearStockAmmoCount"] = {
+		[-285212666] = 2;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmSecurityCommonPlatform2AntitheftCounts"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmSecurityCommonPlatform1CautionAreaSvars"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmSecuritySpecialPlatformMineCounts"] = {
+		[-285212666] = 35;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["mbmFobSvars"] = {
+		[-285212666] = 4;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["emblemColorH"] = {
+		[-285212666] = 4;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["userPresetDWalkerParts"] = {
+		[-285212666] = 24;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["dominatedCpFlagsMafr"] = {
+		[-285212666] = 16;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["avatarMotionFrame"] = {
+		[-285212666] = 60;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["droppedCount"] = {
+		[-285212666] = 6;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+	["buddyCallCount"] = {
+		[-285212666] = 7;
+		[-285212665] = [[userdata]]
+		["__newindex"] = [[non-lua function]];
+		["__index"] = [[non-lua function]];
+	};
+}
