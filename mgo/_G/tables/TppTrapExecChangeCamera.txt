@@ -3,4 +3,3 @@
 	["Exec"] = [[loadstring()]];
 	["_scriptInstanceId"] = [[userdata]]
 	["_scriptPath"] = "TppTrapExecChangeCamera";
-}

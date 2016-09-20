@@ -10,4 +10,3 @@
 	["WhiteFadeOut"] = [[upvalue]];
 	["EditModeDisregard"] = [[upvalue]];
 	["FadeIn"] = [[upvalue]];
-}

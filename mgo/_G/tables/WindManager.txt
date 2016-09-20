@@ -2,4 +2,3 @@
 	["GetInstance"] = [[upvalue]];
 	["RestartTimer"] = [[upvalue]];
 	["__call"] = [[non-lua function]];
-}

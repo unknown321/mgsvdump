@@ -7,4 +7,3 @@
 	["read_config"] = [[upvalue]];
 	["OnAllocate"] = [[loadstring()]];
 	["_scriptPath"] = "script_loader";
-}

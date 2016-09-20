@@ -28,4 +28,3 @@
 	["MakeDefaultMissionAreaPackPath"] = [[upvalue]];
 	["SetDefaultMissionPackLabelName"] = [[upvalue]];
 	["SetUseDdEmblemFova"] = [[loadstring()]];
-}

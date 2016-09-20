@@ -66,4 +66,3 @@
 	["SkipDecendingLandingZoneWithOutCanMissionClearJingle"] = [[loadstring()]];
 	["StartEscapeBGM"] = [[upvalue]];
 	["StopSceneBGM"] = [[upvalue]];
-}

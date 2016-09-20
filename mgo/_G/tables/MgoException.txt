@@ -12,4 +12,3 @@
 		[5] = [[loadstring()]];
 		[7] = [[loadstring()]];
 	};
-}

@@ -170,4 +170,3 @@
 	["SetCallMenuEventCategoryType"] = [[non-lua function]];
 	["RequestToPlayCameraAnimation"] = [[non-lua function]];
 	["SetWetEffect"] = [[non-lua function]];
-}

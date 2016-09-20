@@ -3,4 +3,3 @@
 	["StopRecording"] = [[non-lua function]];
 	["WriteEvent"] = [[non-lua function]];
 	["PauseRecording"] = [[non-lua function]];
-}

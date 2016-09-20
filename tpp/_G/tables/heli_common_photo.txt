@@ -229,4 +229,3 @@
 		[31] = [[upvalue]];
 	};
 	["OnRestoreSVars"] = [[upvalue]];
-}

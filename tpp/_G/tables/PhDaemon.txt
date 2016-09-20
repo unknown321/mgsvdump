@@ -10,4 +10,3 @@
 	["GetInstance"] = [[upvalue]];
 	["SetMemorySize"] = [[upvalue]];
 	["__call"] = [[non-lua function]];
-}

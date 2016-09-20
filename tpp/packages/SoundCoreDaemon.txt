@@ -12,4 +12,3 @@
 	["SetGlobalAttenuationRate"] = [[non-lua function]];
 	["ResetGlobalRTPC"] = [[non-lua function]];
 	["WaitAsync"] = [[non-lua function]];
-}

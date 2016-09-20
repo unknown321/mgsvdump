@@ -1,3 +1,2 @@
 	["_className"] = "GrPluginSky";
 	["__call"] = [[non-lua function]];
-}

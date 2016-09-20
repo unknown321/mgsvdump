@@ -8,4 +8,3 @@
 	["GiveBoost"] = [[non-lua function]];
 	["BOOSTTYPE_COUNT"] = 4;
 	["GetBoost"] = [[non-lua function]];
-}

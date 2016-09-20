@@ -3,4 +3,3 @@
 	["IsCombatTest2"] = [[non-lua function]];
 	["UseAiSystem"] = [[non-lua function]];
 	["IsCombatTest1"] = [[non-lua function]];
-}

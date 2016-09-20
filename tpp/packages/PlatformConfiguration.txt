@@ -2,4 +2,3 @@
 	["SetScreenShotEnabled"] = [[non-lua function]];
 	["SetShareScreenEnabled"] = [[non-lua function]];
 	["SetAudioRecordingEnabled"] = [[non-lua function]];
-}

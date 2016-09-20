@@ -2,4 +2,3 @@
 	["SetControlEnable"] = [[non-lua function]];
 	["SetupInterp"] = [[non-lua function]];
 	["Disable"] = [[non-lua function]];
-}

@@ -20,4 +20,3 @@
 	["StoreToSVars"] = [[loadstring()]];
 	["CancelForceRequestWeather"] = [[upvalue]];
 	["RequestWeather"] = [[upvalue]];
-}

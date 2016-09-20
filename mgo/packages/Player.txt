@@ -173,4 +173,3 @@
 	["SetCallMenuEventCategoryType"] = [[non-lua function]];
 	["RequestToPlayCameraAnimation"] = [[non-lua function]];
 	["RequestToUnloadCommonMotionBlock"] = [[non-lua function]];
-}

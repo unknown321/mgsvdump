@@ -2,4 +2,3 @@
 	["Remove"] = [[non-lua function]];
 	["PEER_ALL"] = 1;
 	["Apply"] = [[non-lua function]];
-}

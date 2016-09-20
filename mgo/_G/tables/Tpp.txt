@@ -111,4 +111,3 @@
 	["MergeTable"] = [[loadstring()]];
 	["StrCode32Table"] = [[upvalue]];
 	["IsQARelease"] = [[loadstring()]];
-}

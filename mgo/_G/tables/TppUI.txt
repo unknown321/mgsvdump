@@ -288,4 +288,3 @@
 	["ShowColorJoinAnnounceLog"] = [[upvalue]];
 	["EnableGameStatusOnFade"] = [[upvalue]];
 	["DisableMissionPhoto"] = [[loadstring()]];
-}

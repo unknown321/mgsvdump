@@ -8,4 +8,3 @@
 	["Frame"] = [[non-lua function]];
 	["Release"] = [[non-lua function]];
 	["Sleep"] = [[non-lua function]];
-}

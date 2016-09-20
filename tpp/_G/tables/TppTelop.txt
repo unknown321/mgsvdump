@@ -16,4 +16,3 @@
 	["GetRandomStartSide"] = [[loadstring()]];
 	["PostDirectedBy"] = [[upvalue]];
 	["GetFirstLangId"] = [[loadstring()]];
-}

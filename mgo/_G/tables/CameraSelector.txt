@@ -6,4 +6,3 @@
 	["GetRenderName"] = [[upvalue]];
 	["GetMainInstance"] = [[upvalue]];
 	["__call"] = [[upvalue]];
-}

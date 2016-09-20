@@ -862,4 +862,3 @@
 	["DecideMissionClearRank"] = [[upvalue]];
 	["SaveBestCount"] = [[upvalue]];
 	["UpdateGmpOnMissionClear"] = [[upvalue]];
-}

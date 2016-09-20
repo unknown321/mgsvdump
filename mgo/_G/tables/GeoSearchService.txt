@@ -7,4 +7,3 @@
 	["SearchObjectSphereInSpecificScene"] = [[upvalue]];
 	["SearchObjectSquarePyramid"] = [[upvalue]];
 	["SearchObjectInSpecificScene"] = [[upvalue]];
-}

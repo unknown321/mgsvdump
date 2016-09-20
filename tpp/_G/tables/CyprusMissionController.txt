@@ -10,4 +10,3 @@
 	[205835] = [[non-lua function]];
 	["__newindex"] = [[non-lua function]];
 	["__index"] = [[non-lua function]];
-}

@@ -29,4 +29,3 @@
 	["exp"] = [[non-lua function]];
 	["sin"] = [[non-lua function]];
 	["atan"] = [[non-lua function]];
-}

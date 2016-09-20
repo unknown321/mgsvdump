@@ -7,4 +7,3 @@
 	["_scriptPath"] = "Scene";
 	["GetActorList"] = [[upvalue]];
 	["FindActor"] = [[upvalue]];
-}

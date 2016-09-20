@@ -33,4 +33,3 @@
 	["SetFova"] = [[upvalue]];
 	["SetEnabled"] = [[upvalue]];
 	["OnTerminateQuest"] = [[loadstring()]];
-}

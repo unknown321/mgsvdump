@@ -45,4 +45,3 @@
 			["source"] = "mgo_ruleset_winner";
 		};
 	};
-}

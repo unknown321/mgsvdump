@@ -1,3 +1,2 @@
 	["_className"] = "GrPluginViewCallback";
 	["__call"] = [[non-lua function]];
-}

@@ -1,3 +1,2 @@
 	["_className"] = "GrPluginCloneWireframe";
 	["__call"] = [[non-lua function]];
-}

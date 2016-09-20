@@ -5,4 +5,3 @@
 	["Skip"] = [[non-lua function]];
 	["Pause"] = [[non-lua function]];
 	["SetTransform"] = [[non-lua function]];
-}

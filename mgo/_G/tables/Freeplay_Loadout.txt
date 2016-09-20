@@ -258,4 +258,3 @@
 			["DisplayName"] = "mgo_default_loadout_assault";
 		};
 	};
-}

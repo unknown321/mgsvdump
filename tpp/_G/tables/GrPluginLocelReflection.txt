@@ -1,3 +1,2 @@
 	["_className"] = "GrPluginLocelReflection";
 	["__call"] = [[non-lua function]];
-}

@@ -17,4 +17,3 @@
 	["StartNextMatch"] = [[non-lua function]];
 	["StartMatch"] = [[non-lua function]];
 	["IsBusy"] = [[non-lua function]];
-}

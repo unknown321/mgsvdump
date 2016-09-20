@@ -1,3 +1,2 @@
 	["_className"] = "TppTrapCheckIsEnemyCallbackDataElement";
 	["__call"] = [[non-lua function]];
-}

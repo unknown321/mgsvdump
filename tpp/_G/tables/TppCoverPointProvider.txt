@@ -2,4 +2,3 @@
 	["ClearAll"] = [[upvalue]];
 	["Create"] = [[upvalue]];
 	["CheckUsable"] = [[upvalue]];
-}

@@ -2,4 +2,3 @@
 	["AddScene"] = [[upvalue]];
 	["AddWorld"] = [[upvalue]];
 	["__call"] = [[non-lua function]];
-}

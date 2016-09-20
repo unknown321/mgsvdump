@@ -3,4 +3,3 @@
 	["UnsetStatus"] = [[non-lua function]];
 	["ClearAllStatus"] = [[non-lua function]];
 	["ClearStatus"] = [[non-lua function]];
-}

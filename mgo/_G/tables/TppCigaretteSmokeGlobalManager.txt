@@ -3,4 +3,3 @@
 	["SetInitAlphaRate"] = [[upvalue]];
 	["ResetInitAlphaRate"] = [[upvalue]];
 	["SetBaseColorSmoke"] = [[upvalue]];
-}

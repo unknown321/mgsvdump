@@ -13,4 +13,3 @@
 	["GetCompletionPlantCount"] = [[non-lua function]];
 	["GetCurrentCluster"] = [[non-lua function]];
 	["GetFirstCluster"] = [[non-lua function]];
-}

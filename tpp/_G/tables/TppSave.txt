@@ -132,4 +132,3 @@
 	["ReserveVarRestoreForMissionStart"] = [[loadstring()]];
 	["_SaveRetryData"] = [[upvalue]];
 	["_SaveMissionData"] = [[upvalue]];
-}

@@ -5,4 +5,3 @@
 	["StartPlay"] = [[upvalue]];
 	["_className"] = "Replay";
 	["__call"] = [[upvalue]];
-}

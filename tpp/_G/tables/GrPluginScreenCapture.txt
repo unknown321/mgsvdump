@@ -1,3 +1,2 @@
 	["_className"] = "GrPluginScreenCapture";
 	["__call"] = [[non-lua function]];
-}

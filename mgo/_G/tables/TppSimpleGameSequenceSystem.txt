@@ -4,4 +4,3 @@
 	["SetEventualMissionCode"] = [[upvalue]];
 	["Start"] = [[upvalue]];
 	["CheckHostConnection"] = [[upvalue]];
-}

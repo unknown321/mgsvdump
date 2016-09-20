@@ -417,4 +417,3 @@
 	["IsChangeLanguage"] = [[non-lua function]];
 	["SetMissionPrepVehicleVehiclePreviewPosition"] = [[non-lua function]];
 	["SetVarsLanguage"] = [[non-lua function]];
-}

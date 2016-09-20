@@ -440,4 +440,3 @@
 	};
 	["_GetUavNumOnPlnt"] = [[upvalue]];
 	["SetupClusterParam"] = [[loadstring()]];
-}

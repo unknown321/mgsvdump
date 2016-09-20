@@ -1,3 +1,2 @@
 	["_className"] = "StaticModel";
 	["GetByName"] = [[upvalue]];
-}

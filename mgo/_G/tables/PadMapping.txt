@@ -12,4 +12,3 @@
 	["GetPad3LogicalNum"] = [[upvalue]];
 	["GetPhysicalPadNum"] = [[upvalue]];
 	["__call"] = [[upvalue]];
-}

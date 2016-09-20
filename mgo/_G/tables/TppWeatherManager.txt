@@ -11,4 +11,3 @@
 	["SetNewWeatherProbabilities"] = [[upvalue]];
 	["GetCurrentClock"] = [[upvalue]];
 	["RequestTag"] = [[upvalue]];
-}

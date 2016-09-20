@@ -4,4 +4,3 @@
 	["SetAdditionalFlag"] = [[non-lua function]];
 	["EnableMarker"] = [[non-lua function]];
 	["DisableMarker"] = [[non-lua function]];
-}

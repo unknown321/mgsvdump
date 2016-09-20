@@ -9,4 +9,3 @@
 	["Reset"] = [[upvalue]];
 	["Check"] = [[upvalue]];
 	["__call"] = [[upvalue]];
-}

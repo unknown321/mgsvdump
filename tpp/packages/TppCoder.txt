@@ -1,3 +1,2 @@
 	["SetWorldCenter"] = [[non-lua function]];
 	["GetWorldCenter"] = [[non-lua function]];
-}

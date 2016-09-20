@@ -1,3 +1,2 @@
 	["SetGroupUnit"] = [[non-lua function]];
 	["ClearGroupSetting"] = [[non-lua function]];
-}

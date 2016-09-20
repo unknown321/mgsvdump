@@ -24,4 +24,3 @@
 	["RegisterMessageFunction"] = [[loadstring()]];
 	["RecoverSaveDataIfForceGoToMbDemo"] = [[upvalue]];
 	["StartPressStartMenu"] = [[loadstring()]];
-}

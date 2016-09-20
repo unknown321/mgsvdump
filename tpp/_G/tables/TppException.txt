@@ -197,4 +197,3 @@
 	["UpdateMgoChunkInstallingPopup"] = [[loadstring()]];
 	["DisablePause"] = [[loadstring()]];
 	["UpdateMgoPatchDlcCheckingPopup"] = [[loadstring()]];
-}

@@ -4,4 +4,3 @@
 	["GetFileListTable"] = [[upvalue]];
 	["ReloadRequest"] = [[upvalue]];
 	["ReloadRequestAll"] = [[upvalue]];
-}

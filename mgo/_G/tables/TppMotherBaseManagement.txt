@@ -347,4 +347,3 @@
 	["CanOpenS10081"] = [[non-lua function]];
 	["RegisterMissionLrrpStaffTypes"] = [[non-lua function]];
 	["IsResultRankLimitedItem"] = [[non-lua function]];
-}

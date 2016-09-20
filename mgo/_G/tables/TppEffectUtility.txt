@@ -55,4 +55,3 @@
 	["SetColorCorrectionParameter"] = [[upvalue]];
 	["SetFxCutLevelMaximum"] = [[upvalue]];
 	["EmitCameraShake"] = [[upvalue]];
-}

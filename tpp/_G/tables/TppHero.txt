@@ -499,4 +499,3 @@
 		["heroicPoint"] = 30;
 	};
 	["IsHero"] = [[loadstring()]];
-}

@@ -57,4 +57,3 @@
 	["STAT_DOM"] = 16;
 	["STAT_MISSILE_FULTON"] = 37;
 	["STAT_DM_TICKET"] = 15;
-}

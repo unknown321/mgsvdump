@@ -740,4 +740,3 @@
 	["OnRecoverByHelicopterAlreadyGetPassengerList"] = [[upvalue]];
 	["HasVehicle"] = [[loadstring()]];
 	["VarSaveMbMissionStartSyncEnd"] = [[loadstring()]];
-}

@@ -41,4 +41,3 @@
 	["PostInitialize"] = [[loadstring()]];
 	["OnUpdate"] = [[upvalue]];
 	["OnTextureLoadingWaitStart"] = [[loadstring()]];
-}

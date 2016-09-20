@@ -597,4 +597,3 @@
 	["ReserveMissionStartRecoverSoundDemo"] = [[upvalue]];
 	["StartJingleOnHelicopterClear"] = [[loadstring()]];
 	["GetMissionClearType"] = [[loadstring()]];
-}

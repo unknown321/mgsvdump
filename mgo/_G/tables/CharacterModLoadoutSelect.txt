@@ -969,4 +969,3 @@
 			["source"] = "mgo_idroid_char_desc";
 		};
 	};
-}

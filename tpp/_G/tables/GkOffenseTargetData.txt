@@ -2,4 +2,3 @@
 	["GetAttackerHandle"] = [[upvalue]];
 	["GetKeyName"] = [[upvalue]];
 	["__call"] = [[non-lua function]];
-}

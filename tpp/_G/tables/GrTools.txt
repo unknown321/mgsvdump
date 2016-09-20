@@ -53,4 +53,3 @@
 	["SetShaderTechniqueReplaceInfoTable"] = [[upvalue]];
 	["SetTerrainMaterialTexture"] = [[upvalue]];
 	["SetShaderParameterPackingTable"] = [[upvalue]];
-}

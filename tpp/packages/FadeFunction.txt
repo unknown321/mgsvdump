@@ -12,4 +12,3 @@
 	["ResetFadeColor"] = [[non-lua function]];
 	["SetFadeTime"] = [[non-lua function]];
 	["CallFadeIn"] = [[non-lua function]];
-}

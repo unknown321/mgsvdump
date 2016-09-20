@@ -297,4 +297,3 @@
 	["_scriptPath"] = "TppDbgStr32";
 	["DEBUG_RegisterStrcode32invert"] = [[upvalue]];
 	["DEBUG_StrCode32ToString"] = [[upvalue]];
-}

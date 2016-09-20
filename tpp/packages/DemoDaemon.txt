@@ -20,4 +20,3 @@
 	["SetDemoTransform"] = [[non-lua function]];
 	["IsDemoPlaying"] = [[non-lua function]];
 	["FindDemoBody"] = [[non-lua function]];
-}

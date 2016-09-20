@@ -1,3 +1,2 @@
 	["_className"] = "TransformEntity";
 	["__call"] = [[non-lua function]];
-}

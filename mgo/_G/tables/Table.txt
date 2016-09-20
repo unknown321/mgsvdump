@@ -3,4 +3,3 @@
 	["_scriptPath"] = "Table";
 	["Uniquify"] = [[upvalue]];
 	["Merge"] = [[loadstring()]];
-}

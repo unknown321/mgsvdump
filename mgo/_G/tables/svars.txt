@@ -76,4 +76,3 @@
 		["mis_gameOverType"] = 1;
 		["trp_variableTrapEnable"] = 64;
 	};
-}

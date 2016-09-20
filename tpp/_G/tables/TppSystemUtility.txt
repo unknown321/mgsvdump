@@ -2,4 +2,3 @@
 	["GetCurrentGameMode"] = [[upvalue]];
 	["ConfigDefaultPadAssigns"] = [[upvalue]];
 	["SetCurrentGameMode"] = [[upvalue]];
-}

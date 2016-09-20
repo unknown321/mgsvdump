@@ -2,4 +2,3 @@
 	["GetInstance"] = [[upvalue]];
 	["GetManager"] = [[upvalue]];
 	["__call"] = [[non-lua function]];
-}

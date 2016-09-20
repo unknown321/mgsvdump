@@ -22,4 +22,3 @@
 	["GetSupportHeliGameObjectId"] = [[loadstring()]];
 	["CallToLandingZone"] = [[upvalue]];
 	["GetLandingZoneExists"] = [[upvalue]];
-}

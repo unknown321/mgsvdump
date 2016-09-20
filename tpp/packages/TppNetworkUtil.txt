@@ -21,4 +21,3 @@
 	["IsSessionConnect"] = [[non-lua function]];
 	["StartNetSynchronizer"] = [[non-lua function]];
 	["IsHost"] = [[non-lua function]];
-}

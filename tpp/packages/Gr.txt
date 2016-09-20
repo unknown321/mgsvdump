@@ -3,4 +3,3 @@
 	["ModelConvert"] = [[non-lua function]];
 	["DBGColor"] = [[non-lua function]];
 	["DBGPrint"] = [[non-lua function]];
-}

@@ -1758,4 +1758,3 @@
 	["CalcAllMissionTaskCompletedCount"] = [[loadstring()]];
 	["UpdateDemoFlagQuietWishGoMission"] = [[upvalue]];
 	["IsMissionCleard"] = [[loadstring()]];
-}

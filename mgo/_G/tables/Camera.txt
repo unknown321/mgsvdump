@@ -1,4 +1,3 @@
 	["_className"] = "Camera";
 	["SetTransform"] = [[upvalue]];
 	["GetTransform"] = [[upvalue]];
-}

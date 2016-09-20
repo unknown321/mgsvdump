@@ -6,4 +6,3 @@
 	["SetSimWorkSize"] = [[upvalue]];
 	["SetForceStopSimWindEffect"] = [[upvalue]];
 	["__call"] = [[non-lua function]];
-}

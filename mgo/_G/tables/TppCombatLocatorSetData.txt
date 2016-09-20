@@ -2,4 +2,3 @@
 	["GetLocatorPosition"] = [[upvalue]];
 	["GetLocatorRadius"] = [[upvalue]];
 	["GetLocatorNum"] = [[upvalue]];
-}

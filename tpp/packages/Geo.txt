@@ -3,4 +3,3 @@
 	["GeoLuaEnableTriggerTrap"] = [[non-lua function]];
 	["UnregisterMaterial"] = [[non-lua function]];
 	["DumpFilePath"] = [[non-lua function]];
-}

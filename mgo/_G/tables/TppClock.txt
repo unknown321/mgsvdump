@@ -27,4 +27,3 @@
 	["GetTimeOfDay"] = [[loadstring()]];
 	["FormalizeTime"] = [[upvalue]];
 	["TIME_AT_MORNING"] = 21873;
-}

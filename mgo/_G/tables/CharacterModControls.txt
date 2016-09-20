@@ -247,4 +247,3 @@
 			["source"] = "mgo_idroid_current_loadout";
 		};
 	};
-}

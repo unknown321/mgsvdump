@@ -3,4 +3,3 @@
 	["ReloadWorldTextures"] = [[upvalue]];
 	["GetNumBlocksWidth"] = [[upvalue]];
 	["GetSize"] = [[upvalue]];
-}

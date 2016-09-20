@@ -4,4 +4,3 @@
 	["wrap"] = [[non-lua function]];
 	["create"] = [[non-lua function]];
 	["running"] = [[non-lua function]];
-}

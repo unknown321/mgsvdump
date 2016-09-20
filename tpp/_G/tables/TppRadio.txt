@@ -158,4 +158,3 @@
 	["SetBlackTelephoneDisplaySetting"] = [[loadstring()]];
 	["PlaySelectBuddy"] = [[upvalue]];
 	["SetOverwriteByPhaseOptionalRadio"] = [[upvalue]];
-}

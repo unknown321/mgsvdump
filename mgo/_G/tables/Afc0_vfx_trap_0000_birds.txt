@@ -2,4 +2,3 @@
 	["Exec"] = [[loadstring()]];
 	["_scriptInstanceId"] = [[userdata]]
 	["_scriptPath"] = "Afc0_vfx_trap_0000_birds";
-}

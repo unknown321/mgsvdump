@@ -9,4 +9,3 @@
 	["OnMissionCanStart"] = [[upvalue]];
 	["IsBrokenGimmick"] = [[upvalue]];
 	["RegisterAssaultDropLandingZone"] = [[loadstring()]];
-}

@@ -2,4 +2,3 @@
 	["SetActive"] = [[upvalue]];
 	["CancelParameter"] = [[upvalue]];
 	["OverwriteParameter"] = [[upvalue]];
-}

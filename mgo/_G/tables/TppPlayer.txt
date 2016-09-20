@@ -423,4 +423,3 @@
 	["SetForceFultonPercent"] = [[upvalue]];
 	["_SetTargetHeliCamera"] = [[upvalue]];
 	["RestoreTemporaryPlayerType"] = [[loadstring()]];
-}

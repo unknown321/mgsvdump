@@ -6,4 +6,3 @@
 	["GetByName"] = [[upvalue]];
 	["SetReceiverLife"] = [[upvalue]];
 	["Destroy"] = [[upvalue]];
-}

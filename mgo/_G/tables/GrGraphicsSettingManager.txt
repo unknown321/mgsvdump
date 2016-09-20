@@ -3,4 +3,3 @@
 	["GetError"] = [[upvalue]];
 	["GetStatus"] = [[upvalue]];
 	["SetEasySetting"] = [[upvalue]];
-}

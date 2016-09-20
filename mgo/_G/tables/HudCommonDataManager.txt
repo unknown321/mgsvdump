@@ -5,4 +5,3 @@
 	["CallMessage"] = [[upvalue]];
 	["CombatMessage"] = [[upvalue]];
 	["RulesetMessage"] = [[upvalue]];
-}

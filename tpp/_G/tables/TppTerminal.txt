@@ -818,4 +818,3 @@
 	};
 	["HasVehicle"] = [[loadstring()]];
 	["GMP_POSTER"] = 500;
-}

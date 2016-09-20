@@ -75,4 +75,3 @@
 	["TYPE_EMBLEM"] = 5;
 	["TYPE_MATERIAL_CM_5"] = 12;
 	["TYPE_MATERIAL_PM_4"] = 27;
-}

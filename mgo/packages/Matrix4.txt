@@ -10,4 +10,3 @@
 	["RotTranslation"] = [[non-lua function]];
 	["RotationY"] = [[non-lua function]];
 	["__call"] = [[non-lua function]];
-}

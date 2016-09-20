@@ -11,4 +11,3 @@
 	["SetTitleType"] = [[upvalue]];
 	["GetNclResultCommonData"] = [[upvalue]];
 	["GzTitlePreSetting"] = [[upvalue]];
-}

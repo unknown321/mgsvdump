@@ -1,3 +1,2 @@
 	["_className"] = "GameSequenceController";
 	["__call"] = [[non-lua function]];
-}

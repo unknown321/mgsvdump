@@ -5,4 +5,3 @@
 	["Stop"] = [[upvalue]];
 	["Start"] = [[upvalue]];
 	["SetPaused"] = [[upvalue]];
-}

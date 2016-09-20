@@ -84,4 +84,3 @@
 	[208638130] = [[non-lua function]];
 	[49098688] = [[non-lua function]];
 	[56578953] = [[non-lua function]];
-}

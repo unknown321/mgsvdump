@@ -25,4 +25,3 @@
 	["CheckCurrentMuteMoreThan"] = [[upvalue]];
 	["CheckCurrentMuteIs"] = [[upvalue]];
 	["Reset"] = [[upvalue]];
-}

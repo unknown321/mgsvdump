@@ -2,4 +2,3 @@
 	["RemoveParameter"] = [[non-lua function]];
 	["SetParameter"] = [[non-lua function]];
 	["RemoveLUT"] = [[non-lua function]];
-}

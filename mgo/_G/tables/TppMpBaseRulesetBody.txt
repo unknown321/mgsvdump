@@ -98,4 +98,3 @@
 	["GetLocalPlayerSessionIndex"] = [[upvalue]];
 	["GetPlayerBySessionIndex"] = [[upvalue]];
 	["SetTimeLimitInCurrentState"] = [[upvalue]];
-}

@@ -1,3 +1,2 @@
 	["_className"] = "ShearTransformEntity";
 	["__call"] = [[non-lua function]];
-}

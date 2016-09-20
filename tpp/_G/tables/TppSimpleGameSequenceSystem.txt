@@ -1,3 +1,2 @@
 	["_className"] = "TppSimpleGameSequenceSystem";
 	["Start"] = [[upvalue]];
-}

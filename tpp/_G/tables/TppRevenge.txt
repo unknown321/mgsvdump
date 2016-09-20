@@ -1010,4 +1010,3 @@
 	["UpdateLastVisitedMineArea"] = [[loadstring()]];
 	["IsUsingGunCamera"] = [[loadstring()]];
 	["_OnSmokeDiscovered"] = [[upvalue]];
-}

@@ -13,4 +13,3 @@
 	["Config"] = [[non-lua function]];
 	["SPECIAL_ROLE_OCELOT"] = 1;
 	["HasMapBlock"] = [[non-lua function]];
-}

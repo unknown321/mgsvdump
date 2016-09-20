@@ -14,4 +14,3 @@
 	["dds_balaclava6"] = 558;
 	["dds_balaclava1"] = 553;
 	["dds_balaclava2"] = 554;
-}

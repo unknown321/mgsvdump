@@ -36,4 +36,3 @@
 	[90728711] = [[non-lua function]];
 	[90814666] = [[non-lua function]];
 	["__newindex"] = [[non-lua function]];
-}

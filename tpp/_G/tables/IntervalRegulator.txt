@@ -2,4 +2,3 @@
 	["SetInterval"] = [[upvalue]];
 	["IsReady"] = [[upvalue]];
 	["__call"] = [[non-lua function]];
-}

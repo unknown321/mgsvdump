@@ -3,4 +3,3 @@
 	["GetLocalPlayerIndex"] = [[non-lua function]];
 	["AndCheckStatus"] = [[non-lua function]];
 	["CanSpawnAtBuddy"] = [[non-lua function]];
-}

@@ -54,4 +54,3 @@
 	};
 	["_scriptPath"] = "mtbs_common_fx_mtr_rain";
 	["_scriptInstanceId"] = [[userdata]]
-}

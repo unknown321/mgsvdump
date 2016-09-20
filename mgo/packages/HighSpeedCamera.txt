@@ -1,4 +1,3 @@
 	["RequestToCancelAll"] = [[non-lua function]];
 	["RequestToCancel"] = [[non-lua function]];
 	["RequestEvent"] = [[non-lua function]];
-}

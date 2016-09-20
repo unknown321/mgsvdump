@@ -1,3 +1,2 @@
 	["_className"] = "DemoBlockPositionSetterBody";
 	["SetEnable"] = [[upvalue]];
-}

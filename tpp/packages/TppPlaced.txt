@@ -9,4 +9,3 @@
 	["DeleteAllCaptureCage"] = [[non-lua function]];
 	["OnAllocate"] = [[non-lua function]];
 	["SetEnableByLocatorName"] = [[non-lua function]];
-}

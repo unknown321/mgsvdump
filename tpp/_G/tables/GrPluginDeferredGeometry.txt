@@ -1,3 +1,2 @@
 	["_className"] = "GrPluginDeferredGeometry";
 	["__call"] = [[non-lua function]];
-}

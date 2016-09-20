@@ -1,3 +1,2 @@
 	["_className"] = "GeoTrapScriptCallbackDataElement";
 	["__call"] = [[non-lua function]];
-}

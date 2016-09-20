@@ -108,4 +108,3 @@
 	["_UnregisterOptionRadio"] = [[loadstring()]];
 	["UnregistNvgOptionRadio"] = [[upvalue]];
 	["_RegistClock"] = [[upvalue]];
-}

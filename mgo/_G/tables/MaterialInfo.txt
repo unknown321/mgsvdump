@@ -3,4 +3,3 @@
 	["SetRestitutionCoefficient"] = [[upvalue]];
 	["SetFrictionCoefficient"] = [[upvalue]];
 	["__call"] = [[non-lua function]];
-}

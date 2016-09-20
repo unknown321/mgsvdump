@@ -10,4 +10,3 @@
 	["tohex"] = [[non-lua function]];
 	["rol"] = [[non-lua function]];
 	["arshift"] = [[non-lua function]];
-}

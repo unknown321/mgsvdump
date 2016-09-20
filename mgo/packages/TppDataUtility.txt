@@ -17,4 +17,3 @@
 	["CreateEffectFromGroupId"] = [[non-lua function]];
 	["SetVisibleEffectFromGroupId"] = [[non-lua function]];
 	["SetVisibleDataFromIdentifier"] = [[non-lua function]];
-}

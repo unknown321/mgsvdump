@@ -39,4 +39,3 @@
 	["SetCameraNoiseDashToWallStop"] = [[loadstring()]];
 	["SetCameraNoiseDamageDeadStart"] = [[loadstring()]];
 	["StartCameraAnimationNoRecoverNoCollsion"] = [[loadstring()]];
-}

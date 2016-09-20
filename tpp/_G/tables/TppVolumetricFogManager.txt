@@ -2,4 +2,3 @@
 	["SetEnableAreaFog"] = [[upvalue]];
 	["SetEnableFog"] = [[upvalue]];
 	["IsEnableAreaFog"] = [[upvalue]];
-}

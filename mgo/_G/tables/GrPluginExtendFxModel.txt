@@ -1,3 +1,2 @@
 	["_className"] = "GrPluginExtendFxModel";
 	["__call"] = [[non-lua function]];
-}

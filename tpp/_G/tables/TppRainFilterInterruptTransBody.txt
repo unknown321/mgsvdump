@@ -2,4 +2,3 @@
 	["AddMaskTexturePath"] = [[upvalue]];
 	["AddPlaneMatrix"] = [[upvalue]];
 	["AddInterruptFlag"] = [[upvalue]];
-}

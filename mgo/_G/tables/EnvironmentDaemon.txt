@@ -1,4 +1,3 @@
 	["_className"] = "EnvironmentDaemon";
 	["GetInstance"] = [[upvalue]];
 	["__call"] = [[non-lua function]];
-}

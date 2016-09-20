@@ -1,4 +1,3 @@
 	["_scriptPath"] = "TppEnemyFaceGroup";
 	["GetFaceGroupTable"] = [[loadstring()]];
 	["_scriptInstanceId"] = [[userdata]]
-}

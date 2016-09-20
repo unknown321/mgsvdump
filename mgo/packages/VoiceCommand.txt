@@ -1,3 +1,2 @@
 	["SetVoiceTypePriority"] = [[non-lua function]];
 	["SetVoiceEventType"] = [[non-lua function]];
-}

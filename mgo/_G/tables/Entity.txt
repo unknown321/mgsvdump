@@ -10,4 +10,3 @@
 	["GetClassName"] = [[upvalue]];
 	["IsKindOf"] = [[upvalue]];
 	["Null"] = [[loadstring()]];
-}

@@ -518,4 +518,3 @@
 		["bestScoreTacticalActionPoint"] = 1;
 		["isCompleteFirstBonus"] = 1;
 	};
-}

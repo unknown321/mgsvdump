@@ -15,4 +15,3 @@
 	["StartTitle"] = [[loadstring()]];
 	["SetInitPlayerItems"] = [[loadstring()]];
 	["SetInitPlayerWeapons"] = [[loadstring()]];
-}

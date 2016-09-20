@@ -3,4 +3,3 @@
 	["_scriptPath"] = "mbdvc_map_location_parameter";
 	["GetLocationParameter"] = [[loadstring()]];
 	["GetLocationOfMissions"] = [[loadstring()]];
-}

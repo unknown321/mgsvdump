@@ -9,4 +9,3 @@
 	["_scriptPath"] = "mtbs_item";
 	["SwitchingLockGoalDoor"] = [[loadstring()]];
 	["_EnableCollectionStation"] = [[loadstring()]];
-}

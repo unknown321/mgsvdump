@@ -65,4 +65,3 @@
 	["RegistGimmickNameIdentifier"] = [[non-lua function]];
 	["StoreSaveDataPermanentGimmickFromMissionAfterClear"] = [[non-lua function]];
 	["EnableMarkerGimmick"] = [[non-lua function]];
-}

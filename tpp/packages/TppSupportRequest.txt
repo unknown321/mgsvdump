@@ -4,4 +4,3 @@
 	["RequestSupportAttack"] = [[non-lua function]];
 	["GetCallRescueHeliGmpCost"] = [[non-lua function]];
 	["RegisterSupportAttackGmpCostTable"] = [[non-lua function]];
-}

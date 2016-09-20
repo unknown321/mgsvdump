@@ -9,4 +9,3 @@
 	["WarpFromStage"] = [[loadstring()]];
 	["WarpToStage"] = [[upvalue]];
 	["QuatToRotX"] = [[loadstring()]];
-}

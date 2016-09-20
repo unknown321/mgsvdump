@@ -1,3 +1,2 @@
 	["_className"] = "TppTrapCheckIsHostageCallbackDataElement";
 	["__call"] = [[non-lua function]];
-}

@@ -4,4 +4,3 @@
 	["SetFriction"] = [[upvalue]];
 	["SetRestitution"] = [[upvalue]];
 	["__call"] = [[non-lua function]];
-}

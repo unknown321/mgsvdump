@@ -1,3 +1,2 @@
 	["_className"] = "NavVehicleNavigationParameter";
 	["__call"] = [[non-lua function]];
-}

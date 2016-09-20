@@ -2,4 +2,3 @@
 	["GetMissionLimitBordId"] = [[non-lua function]];
 	["RegistRanking"] = [[non-lua function]];
 	["IsRankingBusy"] = [[non-lua function]];
-}

@@ -11,4 +11,3 @@
 	["SyncedExecuteSessionIndex"] = [[non-lua function]];
 	["StartNetSynchronizer"] = [[non-lua function]];
 	["GetSessionMemberId"] = [[non-lua function]];
-}

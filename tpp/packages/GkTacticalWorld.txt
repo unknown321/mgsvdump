@@ -3,4 +3,3 @@
 	["SearchObjectSquarePyramid"] = [[non-lua function]];
 	["SearchObjectSphere"] = [[non-lua function]];
 	["SearchObject"] = [[non-lua function]];
-}

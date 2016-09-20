@@ -28,4 +28,3 @@
 	["OnMissionStartSaving"] = [[loadstring()]];
 	["DisablePause"] = [[loadstring()]];
 	["DisableGameStatusOnGameOverMenu"] = [[loadstring()]];
-}

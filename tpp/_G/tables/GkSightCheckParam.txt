@@ -1,3 +1,2 @@
 	["_className"] = "GkSightCheckParam";
 	["__call"] = [[non-lua function]];
-}

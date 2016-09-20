@@ -400,4 +400,3 @@
 	["InterCall_commFacility_001"] = [[upvalue]];
 	["InterCall_cliffTown_001"] = [[loadstring()]];
 	["InterCall_village_007"] = [[upvalue]];
-}

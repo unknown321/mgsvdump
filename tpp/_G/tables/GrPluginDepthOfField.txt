@@ -1,3 +1,2 @@
 	["_className"] = "GrPluginDepthOfField";
 	["__call"] = [[non-lua function]];
-}

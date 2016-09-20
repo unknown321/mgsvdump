@@ -1,3 +1,2 @@
 	["_className"] = "PauseController";
 	["Create"] = [[upvalue]];
-}

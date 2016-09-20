@@ -1,3 +1,2 @@
 	["_className"] = "GrPluginForwardRendering";
 	["__call"] = [[non-lua function]];
-}

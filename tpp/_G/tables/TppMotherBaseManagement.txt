@@ -365,4 +365,3 @@
 	["RegenerateGameObjectStaffParameter"] = [[non-lua function]];
 	["LockedStaffsS10130"] = [[non-lua function]];
 	["IsResultRankLimitedItem"] = [[non-lua function]];
-}

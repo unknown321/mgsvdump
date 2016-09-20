@@ -1,3 +1,2 @@
 	["_className"] = "GrPluginLightAccumulateLayer";
 	["__call"] = [[non-lua function]];
-}

@@ -78,4 +78,3 @@
 	["SetSortieBuddyType"] = [[non-lua function]];
 	["SetBuddyCommonFlag"] = [[non-lua function]];
 	["SetFriendlyPoint"] = [[non-lua function]];
-}

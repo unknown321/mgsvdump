@@ -4,4 +4,3 @@
 	["Register"] = [[upvalue]];
 	["Replace"] = [[upvalue]];
 	["Add"] = [[upvalue]];
-}

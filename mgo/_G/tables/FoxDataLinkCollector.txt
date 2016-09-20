@@ -2,4 +2,3 @@
 	["GetData"] = [[upvalue]];
 	["GetDataBody"] = [[upvalue]];
 	["ShowWarningIfUse"] = [[upvalue]];
-}

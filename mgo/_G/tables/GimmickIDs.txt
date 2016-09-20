@@ -6,4 +6,3 @@
 	["removeTeamIcons"] = [[upvalue]];
 	["_scriptInstanceId"] = [[userdata]]
 	["_scriptPath"] = "GimmickIDs";
-}

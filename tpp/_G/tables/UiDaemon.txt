@@ -20,4 +20,3 @@
 	["SetKeyCodeEqual"] = [[upvalue]];
 	["ResetDefaultButtonMap"] = [[upvalue]];
 	["SetPrefetchTextureTable"] = [[upvalue]];
-}

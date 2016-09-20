@@ -4,4 +4,3 @@
 	["SetupPlayback"] = [[upvalue]];
 	["Start"] = [[upvalue]];
 	["StreamStart"] = [[upvalue]];
-}

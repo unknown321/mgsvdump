@@ -699,4 +699,3 @@
 		[28] = "f1000_rtrg4630";
 	};
 	["OnVehicleDrive"] = [[upvalue]];
-}

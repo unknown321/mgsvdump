@@ -7,4 +7,3 @@
 	["_scriptPath"] = "mission_main";
 	["OnUpdate"] = [[upvalue]];
 	["OnAllocate"] = [[upvalue]];
-}

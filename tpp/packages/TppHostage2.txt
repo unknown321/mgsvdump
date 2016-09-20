@@ -7,4 +7,3 @@
 	["SetUniquePartsPath"] = [[non-lua function]];
 	["SetSVarsKeyNames2"] = [[non-lua function]];
 	["ClearUniquePartsPath"] = [[non-lua function]];
-}

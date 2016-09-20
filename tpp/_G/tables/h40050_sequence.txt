@@ -4,4 +4,3 @@
 	["OnLoad"] = [[upvalue]];
 	["_scriptPath"] = "h40050_sequence";
 	["_scriptInstanceId"] = [[userdata]]
-}

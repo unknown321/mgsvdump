@@ -1,3 +1,2 @@
 	["_className"] = "GrPluginMotionBlur";
 	["__call"] = [[non-lua function]];
-}

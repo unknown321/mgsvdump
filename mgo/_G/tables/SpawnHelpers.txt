@@ -18,4 +18,3 @@
 	["SwapSpawnsForEachTeam"] = [[upvalue]];
 	["SetTeamGroupState"] = [[loadstring()]];
 	["Reset"] = [[upvalue]];
-}

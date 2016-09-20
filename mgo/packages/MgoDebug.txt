@@ -1,3 +1,2 @@
 	["DumpStack"] = [[non-lua function]];
 	["Dump"] = [[non-lua function]];
-}

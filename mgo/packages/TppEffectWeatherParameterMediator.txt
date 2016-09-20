@@ -2,4 +2,3 @@
 	["RestoreDefaultParameters"] = [[non-lua function]];
 	["ReleaseAdditionalFogNearDistanceEnvelope"] = [[non-lua function]];
 	["SetParameters"] = [[non-lua function]];
-}

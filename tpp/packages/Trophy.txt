@@ -2,4 +2,3 @@
 	["ShowShop"] = [[non-lua function]];
 	["TrophyUnlock"] = [[non-lua function]];
 	["TrophyDiskCheck"] = [[non-lua function]];
-}

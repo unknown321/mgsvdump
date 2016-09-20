@@ -4,4 +4,3 @@
 	["SetCyprusStep"] = [[upvalue]];
 	["GetCyprusStep"] = [[upvalue]];
 	["__call"] = [[non-lua function]];
-}

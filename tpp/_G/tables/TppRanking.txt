@@ -179,4 +179,3 @@
 		[20] = [[loadstring()]];
 	};
 	["CheckPlayRecordChallengeTask"] = [[upvalue]];
-}

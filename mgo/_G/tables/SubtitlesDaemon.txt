@@ -3,4 +3,3 @@
 	["GetDefaultVoiceLanguage"] = [[upvalue]];
 	["SetDefaultVoiceLanguage"] = [[upvalue]];
 	["__call"] = [[non-lua function]];
-}

@@ -22,4 +22,3 @@
 	["DEBUG_Init"] = [[loadstring()]];
 	["Reset"] = [[upvalue]];
 	["Disable"] = [[upvalue]];
-}

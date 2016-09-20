@@ -6,4 +6,3 @@
 	["SetServer"] = [[upvalue]];
 	["GetInstance"] = [[upvalue]];
 	["IsLogin"] = [[upvalue]];
-}

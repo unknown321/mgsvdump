@@ -3,4 +3,3 @@
 	["DROP_TYPE_AMMO"] = 4;
 	["DROP_TYPE_EMPTY"] = 5;
 	["DROP_TYPE_EQUIPMENT"] = 0;
-}

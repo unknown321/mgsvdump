@@ -2,4 +2,3 @@
 	["GetInstance"] = [[upvalue]];
 	["PrintDesObjectAll"] = [[upvalue]];
 	["__call"] = [[non-lua function]];
-}

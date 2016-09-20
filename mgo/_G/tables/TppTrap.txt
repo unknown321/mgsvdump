@@ -11,4 +11,3 @@
 	["DEBUG_Init"] = [[loadstring()]];
 	["OnAllocate"] = [[upvalue]];
 	["RestoreVariableTrapState"] = [[upvalue]];
-}

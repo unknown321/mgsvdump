@@ -12,4 +12,3 @@
 	["LoadComplete"] = [[non-lua function]];
 	["StartSave"] = [[non-lua function]];
 	["CONNECTION_CHECK_NET_DONE"] = 1;
-}

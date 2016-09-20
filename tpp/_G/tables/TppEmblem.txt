@@ -11,4 +11,3 @@
 	["AcquireOnAllMissionCleared"] = [[upvalue]];
 	["AcquireOnAllMissionTaskComleted"] = [[upvalue]];
 	["AcquireOnCommandPostAnnihilated"] = [[upvalue]];
-}

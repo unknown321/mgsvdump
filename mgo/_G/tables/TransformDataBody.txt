@@ -1,4 +1,3 @@
 	["_className"] = "TransformDataBody";
 	["GetWorldMatrix"] = [[upvalue]];
 	["GetWorldTransform"] = [[upvalue]];
-}

@@ -1,4 +1,3 @@
 	["ToString"] = [[non-lua function]];
 	["Zero"] = [[non-lua function]];
 	["__call"] = [[non-lua function]];
-}

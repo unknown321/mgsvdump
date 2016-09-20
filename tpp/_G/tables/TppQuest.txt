@@ -201,4 +201,3 @@
 	["GetQuestName"] = [[upvalue]];
 	["SpecialMissionStartSetting"] = [[loadstring()]];
 	["Retry"] = [[upvalue]];
-}

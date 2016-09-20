@@ -1,3 +1,2 @@
 	["_className"] = "TppTrapCheckIsPlayerAliveCallbackDataElement";
 	["__call"] = [[non-lua function]];
-}

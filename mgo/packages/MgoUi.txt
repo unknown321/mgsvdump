@@ -7,4 +7,3 @@
 	["UnLoadAll"] = [[non-lua function]];
 	["DumpBlocks"] = [[non-lua function]];
 	["CreateController"] = [[non-lua function]];
-}

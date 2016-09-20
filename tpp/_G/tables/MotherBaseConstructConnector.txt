@@ -8,4 +8,3 @@
 	["Create"] = [[upvalue]];
 	["GetContainerResourceId"] = [[upvalue]];
 	["GetPlantBridgePosRot"] = [[upvalue]];
-}

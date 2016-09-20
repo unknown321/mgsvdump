@@ -5,4 +5,3 @@
 	["RotationY"] = [[non-lua function]];
 	["Identity"] = [[non-lua function]];
 	["__call"] = [[non-lua function]];
-}

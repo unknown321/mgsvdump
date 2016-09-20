@@ -8,4 +8,3 @@
 	["OnMatchmakeError"] = [[loadstring()]];
 	["OnMatchStart"] = [[loadstring()]];
 	["OnStartTransition"] = [[loadstring()]];
-}

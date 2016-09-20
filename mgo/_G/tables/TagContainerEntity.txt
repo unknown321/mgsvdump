@@ -10,4 +10,3 @@
 	["FindTag"] = [[upvalue]];
 	["AddTags"] = [[upvalue]];
 	["__call"] = [[non-lua function]];
-}

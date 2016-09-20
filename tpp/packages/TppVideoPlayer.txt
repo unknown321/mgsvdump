@@ -3,4 +3,3 @@
 	["IsVideoStopped"] = [[non-lua function]];
 	["AllocateMemoryPool"] = [[non-lua function]];
 	["IsVideoLoadDone"] = [[non-lua function]];
-}

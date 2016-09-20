@@ -2731,4 +2731,3 @@
 	["IsRuleset"] = [[loadstring()]];
 	["AssignSpecialRoles"] = [[loadstring()]];
 	["OneMinuteLeft"] = [[loadstring()]];
-}

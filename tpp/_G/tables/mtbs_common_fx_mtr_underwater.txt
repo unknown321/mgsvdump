@@ -17,4 +17,3 @@
 	};
 	["_scriptPath"] = "mtbs_common_fx_mtr_underwater";
 	["_scriptInstanceId"] = [[userdata]]
-}

@@ -7,4 +7,3 @@
 	["GetAdjustedBlockSize"] = [[upvalue]];
 	["GetLocationString"] = [[upvalue]];
 	["GetCommonBlock"] = [[upvalue]];
-}

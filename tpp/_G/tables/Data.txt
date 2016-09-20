@@ -4,4 +4,3 @@
 	["GetDataSet"] = [[upvalue]];
 	["GetDataBody"] = [[upvalue]];
 	["GetDataBodyWithReferrer"] = [[upvalue]];
-}

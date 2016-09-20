@@ -5,4 +5,3 @@
 	["OnTerminate"] = [[upvalue]];
 	["OnAllocate"] = [[upvalue]];
 	["OnUpdate"] = [[upvalue]];
-}

@@ -28,4 +28,3 @@
 	["PauseMusicPlayer"] = [[upvalue]];
 	["PlaySceneMusic"] = [[upvalue]];
 	["EndSceneMode"] = [[upvalue]];
-}

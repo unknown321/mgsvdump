@@ -29,4 +29,3 @@
 	["_IsNight"] = [[loadstring()]];
 	["_IsNightForAnimalType"] = [[upvalue]];
 	["GetDefaultTimeTable"] = [[upvalue]];
-}

@@ -1,3 +1,2 @@
 	["_className"] = "GrDaemon";
 	["__call"] = [[non-lua function]];
-}

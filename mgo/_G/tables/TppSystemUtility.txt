@@ -6,4 +6,3 @@
 	["GetIsBeta"] = [[upvalue]];
 	["GetCurrentGameMode"] = [[upvalue]];
 	["SetSquadEnableState"] = [[loadstring()]];
-}

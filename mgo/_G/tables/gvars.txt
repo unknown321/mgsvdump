@@ -490,4 +490,3 @@
 		["isContinueFromTitle"] = 1;
 		["totalAnnihilateOutPostCount"] = 1;
 	};
-}

@@ -30,4 +30,3 @@
 	["SetBodyFovaUserType"] = [[non-lua function]];
 	["SetBodyFovaDefinitionTable"] = [[non-lua function]];
 	["SetMissionFovaData"] = [[non-lua function]];
-}

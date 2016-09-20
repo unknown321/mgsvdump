@@ -76,4 +76,3 @@
 	["AFRICA_GRP012_B"] = 39;
 	["AFGAN_GRP_12"] = 12;
 	["AFRICA_GRP002_W"] = 20;
-}

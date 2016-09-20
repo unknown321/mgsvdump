@@ -12,4 +12,3 @@
 	["OnMissionCanStart"] = [[loadstring()]];
 	["OnAllocate"] = [[upvalue]];
 	["OnMessage"] = [[loadstring()]];
-}

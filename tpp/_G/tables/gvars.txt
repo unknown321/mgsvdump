@@ -529,4 +529,3 @@
 		["isContinueFromTitle"] = 1;
 		["exc_exceptionQueueDepth"] = 1;
 	};
-}

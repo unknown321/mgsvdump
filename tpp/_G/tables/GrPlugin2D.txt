@@ -1,3 +1,2 @@
 	["_className"] = "GrPlugin2D";
 	["__call"] = [[non-lua function]];
-}

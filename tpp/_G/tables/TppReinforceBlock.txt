@@ -117,4 +117,3 @@
 		["NONE"] = 0;
 	};
 	["GetFpk"] = [[upvalue]];
-}

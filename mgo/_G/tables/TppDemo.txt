@@ -266,4 +266,3 @@
 	["Play"] = [[upvalue]];
 	["EnableInGameFlagIfResereved"] = [[loadstring()]];
 	["OnAllocate"] = [[upvalue]];
-}

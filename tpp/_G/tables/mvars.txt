@@ -3792,4 +3792,3 @@
 			["CommonBuddyHeliSpaceSetting"] = [[loadstring()]];
 		};
 	};
-}

@@ -23,4 +23,3 @@
 	["ResetProjectRootPath"] = [[non-lua function]];
 	["SetDefaultAssetLevel"] = [[non-lua function]];
 	["GetConfigurationFromAssetManager"] = [[non-lua function]];
-}

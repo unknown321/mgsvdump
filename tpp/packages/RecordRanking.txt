@@ -3,4 +3,3 @@
 	["RegistRanking"] = [[non-lua function]];
 	["WriteServerRankingScore"] = [[non-lua function]];
 	["IsRankingBusy"] = [[non-lua function]];
-}

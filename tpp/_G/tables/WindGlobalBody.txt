@@ -2,4 +2,3 @@
 	["SetRotation"] = [[upvalue]];
 	["ResetWind"] = [[upvalue]];
 	["SetSpeed"] = [[upvalue]];
-}

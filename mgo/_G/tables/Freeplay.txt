@@ -118,4 +118,3 @@
 	["FixupClassLoadout"] = [[loadstring()]];
 	["titleLightingTime"] = 12.252526998808;
 	["RoundEndEval"] = [[loadstring()]];
-}

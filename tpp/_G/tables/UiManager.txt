@@ -3,4 +3,3 @@
 	["DumpEntryUig"] = [[upvalue]];
 	["ScrollDownDebugPrint"] = [[upvalue]];
 	["ResetScrollDebugPrint"] = [[upvalue]];
-}

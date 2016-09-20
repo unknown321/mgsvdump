@@ -9,4 +9,3 @@
 	["TearDownAll"] = [[non-lua function]];
 	["CreateEffectOneShot"] = [[non-lua function]];
 	["SetVisibilityMesh"] = [[non-lua function]];
-}

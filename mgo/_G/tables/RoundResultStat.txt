@@ -28,4 +28,3 @@
 		["scrollAmount"] = 0.0769;
 		["scrollBegin"] = 0;
 	};
-}

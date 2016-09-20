@@ -2,4 +2,3 @@
 	["SetInvalid"] = [[upvalue]];
 	["GetByName"] = [[upvalue]];
 	["SetValid"] = [[upvalue]];
-}

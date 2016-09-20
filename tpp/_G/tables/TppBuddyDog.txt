@@ -5,4 +5,3 @@
 	["MODE_NORMAL"] = 0;
 	["EQUIP_SNEAK"] = 2;
 	["EQUIP_ASSASSIN"] = 4;
-}

@@ -4,4 +4,3 @@
 	["IsCompletedOnlineTask"] = [[non-lua function]];
 	["RequestUpdate"] = [[non-lua function]];
 	["RequestUpdateAllChecher"] = [[non-lua function]];
-}

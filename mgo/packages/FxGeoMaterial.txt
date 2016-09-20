@@ -3,4 +3,3 @@
 	["ClearCache"] = [[non-lua function]];
 	["DestroyInfoManager"] = [[non-lua function]];
 	["CreateInfoManager"] = [[non-lua function]];
-}

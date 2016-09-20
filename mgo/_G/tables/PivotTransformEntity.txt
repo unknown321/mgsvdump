@@ -1,3 +1,2 @@
 	["_className"] = "PivotTransformEntity";
 	["__call"] = [[non-lua function]];
-}

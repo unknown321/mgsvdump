@@ -51,4 +51,3 @@
 	["GetButtonReleaseDuration"] = [[upvalue]];
 	["ClearStickAssign"] = [[upvalue]];
 	["RegisterTriggerAssignAsNoTrigger"] = [[upvalue]];
-}

@@ -14,4 +14,3 @@
 	["PostCheckpointDeserialization"] = [[upvalue]];
 	["DeleteObserver"] = [[upvalue]];
 	["PostCheckpointCreation"] = [[upvalue]];
-}

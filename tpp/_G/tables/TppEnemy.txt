@@ -1689,4 +1689,3 @@
 	["UnsetAlertRoute"] = [[upvalue]];
 	["LetCpHasTarget"] = [[upvalue]];
 	["SetOccasionalChatList"] = [[loadstring()]];
-}

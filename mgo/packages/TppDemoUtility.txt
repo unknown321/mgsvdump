@@ -8,4 +8,3 @@
 	["IsFadeOut"] = [[non-lua function]];
 	["AddSubjectMapping"] = [[non-lua function]];
 	["SetInvisibleUniqueCharacter"] = [[non-lua function]];
-}

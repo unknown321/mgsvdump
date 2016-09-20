@@ -6,4 +6,3 @@
 	["IsFadeOut"] = [[non-lua function]];
 	["EnablePadZoom"] = [[non-lua function]];
 	["SetInvisibleUniqueCharacter"] = [[non-lua function]];
-}

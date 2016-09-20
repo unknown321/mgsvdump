@@ -1,3 +1,2 @@
 	["_className"] = "Pad2";
 	["Init"] = [[upvalue]];
-}

@@ -18,4 +18,3 @@
 	["_scriptInstanceId"] = [[userdata]]
 	["dds_balaclava8"] = 560;
 	["dds_balaclava1"] = 553;
-}

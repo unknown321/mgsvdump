@@ -29,4 +29,3 @@
 	["IsPlayingSubtitles"] = [[non-lua function]];
 	["SetVoiceLanguage"] = [[non-lua function]];
 	["DisplayUiLang"] = [[non-lua function]];
-}

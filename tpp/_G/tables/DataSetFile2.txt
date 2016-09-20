@@ -1,3 +1,2 @@
 	["_className"] = "DataSetFile2";
 	["Save"] = [[upvalue]];
-}

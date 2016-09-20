@@ -101,4 +101,3 @@
 	["GetFaceIdForFemaleHostage"] = [[upvalue]];
 	["GetUavSetting"] = [[loadstring()]];
 	["AddUniquePackage"] = [[loadstring()]];
-}

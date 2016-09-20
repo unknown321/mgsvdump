@@ -256,4 +256,3 @@
 	["OnTerminateMineQuest"] = [[loadstring()]];
 	["SetVisibility"] = [[loadstring()]];
 	["OnMessage"] = [[upvalue]];
-}

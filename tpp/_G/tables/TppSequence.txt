@@ -49,4 +49,3 @@
 	["IncrementContinueCount"] = [[loadstring()]];
 	["SetOnEndMissionPrepareFunction"] = [[loadstring()]];
 	["MakeSequenceMessageExecTable"] = [[upvalue]];
-}

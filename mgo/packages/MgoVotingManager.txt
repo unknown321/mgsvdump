@@ -1,4 +1,3 @@
 	["Vote"] = [[non-lua function]];
 	["Create"] = [[non-lua function]];
 	["Config"] = [[non-lua function]];
-}

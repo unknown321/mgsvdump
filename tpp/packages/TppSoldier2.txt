@@ -8,4 +8,3 @@
 	["DisableMarkerModelEffect"] = [[non-lua function]];
 	["SetDefaultSoldierWeapon"] = [[non-lua function]];
 	["SetExtendPartsInfo"] = [[non-lua function]];
-}

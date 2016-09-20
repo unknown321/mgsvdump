@@ -1206,4 +1206,3 @@
 	["BL_WavRocket"] = 78;
 	["AM_pvp_ar03_v00"] = 4;
 	["EQP_WP_Pr_ar_010"] = 64;
-}

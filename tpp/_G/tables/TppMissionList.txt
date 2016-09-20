@@ -3,4 +3,3 @@
 	["_scriptPath"] = "TppMissionList";
 	["GetMissionPackagePath"] = [[upvalue]];
 	["IsStartHeliToMB"] = [[loadstring()]];
-}

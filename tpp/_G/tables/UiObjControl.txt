@@ -6,4 +6,3 @@
 	["_className"] = "UiObjControl";
 	["Start"] = [[upvalue]];
 	["SendTrigger"] = [[upvalue]];
-}

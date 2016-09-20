@@ -24,4 +24,3 @@
 	["FinalizeScriptBlockState"] = [[upvalue]];
 	["Load"] = [[upvalue]];
 	["IsRequestActivate"] = [[upvalue]];
-}

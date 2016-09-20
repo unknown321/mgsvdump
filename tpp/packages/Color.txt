@@ -3,4 +3,3 @@
 	["ToString"] = [[non-lua function]];
 	["Add"] = [[non-lua function]];
 	["__call"] = [[non-lua function]];
-}

@@ -13,4 +13,3 @@
 	["BGM_PHASE_ALERT"] = 0;
 	["Play"] = [[non-lua function]];
 	["BGM_TYPE_PHASE"] = 0;
-}

@@ -22,4 +22,3 @@
 	["IsFinishedLoadingAvatarData"] = [[upvalue]];
 	["LoadAvatarData"] = [[upvalue]];
 	["isFemaleAvatar"] = false;
-}

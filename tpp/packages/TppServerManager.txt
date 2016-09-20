@@ -21,4 +21,3 @@
 	["GetOpponentName"] = [[non-lua function]];
 	["OpenWormhole"] = [[non-lua function]];
 	["IsOpenWormholeSuccess"] = [[non-lua function]];
-}

@@ -3,4 +3,3 @@
 	["ResetLimitInstanceMemorySize"] = [[non-lua function]];
 	["SetLimitInstanceMemoryDefaultSize"] = [[non-lua function]];
 	["SetExecutionPrioritySetting"] = [[non-lua function]];
-}

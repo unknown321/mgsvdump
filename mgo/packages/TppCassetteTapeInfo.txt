@@ -1,2 +1,1 @@
 	["Setup"] = [[non-lua function]];
-}

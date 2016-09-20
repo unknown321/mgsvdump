@@ -68,4 +68,3 @@
 	["StopDirect"] = [[non-lua function]];
 	["RestoreRadioStateContinueFromCheckpoint"] = [[non-lua function]];
 	["IsRadioGroupMarkAsRead"] = [[non-lua function]];
-}

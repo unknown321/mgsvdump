@@ -5,4 +5,3 @@
 	["RadianToDegree"] = [[upvalue]];
 	["FindDistance"] = [[loadstring()]];
 	["AddVector"] = [[loadstring()]];
-}

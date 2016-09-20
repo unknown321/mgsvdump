@@ -28,4 +28,3 @@
 	["ReserveCallBuddy"] = [[non-lua function]];
 	["Load"] = [[non-lua function]];
 	["SetVarsBuddyType"] = [[non-lua function]];
-}

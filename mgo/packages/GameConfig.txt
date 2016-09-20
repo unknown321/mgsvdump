@@ -7,4 +7,3 @@
 	["ApplyAllConfig"] = [[non-lua function]];
 	["GetStealthAssistEnabled"] = [[non-lua function]];
 	["Reset"] = [[non-lua function]];
-}

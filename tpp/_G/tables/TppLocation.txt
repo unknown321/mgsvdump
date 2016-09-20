@@ -42,4 +42,3 @@
 	["ApplyPlatformParamToMbStage"] = [[upvalue]];
 	["IsAfghan"] = [[loadstring()]];
 	["GetLocationName"] = [[loadstring()]];
-}

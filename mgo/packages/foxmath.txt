@@ -23,4 +23,3 @@
 	["Exp"] = [[non-lua function]];
 	["Sin"] = [[non-lua function]];
 	["NormalizeRadian"] = [[non-lua function]];
-}

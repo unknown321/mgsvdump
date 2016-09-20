@@ -133,4 +133,3 @@
 	};
 	["_scriptInstanceId"] = [[userdata]]
 	["_scriptPath"] = "Freeplay_Scoring";
-}

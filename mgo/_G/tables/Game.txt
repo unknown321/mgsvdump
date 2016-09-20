@@ -12,4 +12,3 @@
 	["SetMainBucket"] = [[upvalue]];
 	["PostDataBodyRecreation"] = [[upvalue]];
 	["__call"] = [[non-lua function]];
-}

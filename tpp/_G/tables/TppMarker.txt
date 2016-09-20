@@ -73,4 +73,3 @@
 	["SetUpSearchTarget"] = [[upvalue]];
 	["SetQuestMarkerGimmick"] = [[upvalue]];
 	["StoreMarkerLocator"] = [[upvalue]];
-}

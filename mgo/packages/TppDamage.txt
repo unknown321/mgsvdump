@@ -509,4 +509,3 @@
 	["ATK_BrokenBridge"] = 134;
 	["ATK_FlashLightAttack"] = 68;
 	["ATK_None"] = 0;
-}

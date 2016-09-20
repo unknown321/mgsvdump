@@ -8,4 +8,3 @@
 	["GetDataName"] = [[upvalue]];
 	["_className"] = "ObjectBrushBody";
 	["IsExistBlockData"] = [[upvalue]];
-}

@@ -40,4 +40,3 @@
 	["AddHighInterrogation"] = [[upvalue]];
 	["InitInterrogation"] = [[upvalue]];
 	["QuestInterrogation"] = [[upvalue]];
-}

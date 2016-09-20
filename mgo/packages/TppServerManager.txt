@@ -13,4 +13,3 @@
 	["GetOpponentName"] = [[non-lua function]];
 	["OpenWormhole"] = [[non-lua function]];
 	["FobIsSneak"] = [[non-lua function]];
-}

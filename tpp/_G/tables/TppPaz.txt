@@ -57,4 +57,3 @@
 	["OnClock"] = [[upvalue]];
 	["SendCommandSpecialAction"] = [[upvalue]];
 	["NeedsToWaitLeave"] = [[upvalue]];
-}

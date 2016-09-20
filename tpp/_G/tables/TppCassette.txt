@@ -6,4 +6,3 @@
 	["Acquire"] = [[loadstring()]];
 	["OnEnterFreeHeliPlay"] = [[upvalue]];
 	["OnEstablishMissionClear"] = [[upvalue]];
-}

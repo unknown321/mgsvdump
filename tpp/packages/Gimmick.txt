@@ -56,4 +56,3 @@
 	["RegistGimmickNameIdentifier"] = [[non-lua function]];
 	["IsBrokenGimmick"] = [[non-lua function]];
 	["EnableMarkerGimmick"] = [[non-lua function]];
-}
