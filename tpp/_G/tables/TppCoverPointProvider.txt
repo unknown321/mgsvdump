@@ -1,4 +1,4 @@
-	["_className"] = "TppCoverPointProvider";
-	["ClearAll"] = [[upvalue]];
-	["Create"] = [[upvalue]];
-	["CheckUsable"] = [[upvalue]];
+["_className"] = "TppCoverPointProvider";
+["ClearAll"] = [[upvalue]];
+["Create"] = [[upvalue]];
+["CheckUsable"] = [[upvalue]];

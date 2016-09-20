@@ -1,2 +1,2 @@
-	["_scriptPath"] = "EquipMotionDataForChimera";
-	["_scriptInstanceId"] = [[userdata]]
+["_scriptPath"] = "EquipMotionDataForChimera";
+["_scriptInstanceId"] = [[userdata]]

@@ -1,1 +1,1 @@
-	["_className"] = "GeoShapeBody";
+["_className"] = "GeoShapeBody";

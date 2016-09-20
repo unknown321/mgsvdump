@@ -1,3 +1,2 @@
-	["_className"] = "ObjectBrushBlock";
-	["Activate"] = [[upvalue]];
-	["__call"] = [[non-lua function]];
+["_className"] = "ObjectBrushBlock";
+["Activate"] = [[upvalue]];

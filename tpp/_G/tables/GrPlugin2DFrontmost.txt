@@ -1,2 +1,1 @@
-	["_className"] = "GrPlugin2DFrontmost";
-	["__call"] = [[non-lua function]];
+["_className"] = "GrPlugin2DFrontmost";

@@ -1,2 +1,2 @@
-	["_scriptPath"] = "PresetRadioConfig";
-	["_scriptInstanceId"] = [[userdata]]
+["_scriptPath"] = "PresetRadioConfig";
+["_scriptInstanceId"] = [[userdata]]

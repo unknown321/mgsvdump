@@ -1,2 +1,1 @@
-	["_className"] = "GrPluginPrecomputeSky";
-	["__call"] = [[non-lua function]];
+["_className"] = "GrPluginPrecomputeSky";

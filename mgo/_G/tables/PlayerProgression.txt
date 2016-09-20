@@ -1,2 +1,2 @@
-	["_scriptPath"] = "PlayerProgression";
-	["_scriptInstanceId"] = [[userdata]]
+["_scriptPath"] = "PlayerProgression";
+["_scriptInstanceId"] = [[userdata]]

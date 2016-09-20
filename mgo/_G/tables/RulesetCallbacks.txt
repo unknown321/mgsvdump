@@ -1,45 +1,45 @@
-	["_scriptInstanceId"] = [[userdata]]
-	["SetupComponent"] = [[upvalue]];
-	["InitComponent"] = [[loadstring()]];
-	["Multiplex"] = [[loadstring()]];
-	["_scriptPath"] = "RulesetCallbacks";
-	["ClearCallbacks"] = [[upvalue]];
-	["CallbackLists"] = {
-		["OnEventSignal"] = {
-		};
-		["OnPlayerSpawnChoiceExecute"] = {
-		};
-		["OnPlayerTagged"] = {
-			[1] = [[loadstring()]];
-		};
-		["OnPlayerStunned"] = {
-		};
-		["OnPlayerRespawn"] = {
-			[1] = [[upvalue]];
-		};
-		["OnPlayerDisconnect"] = {
-		};
-		["OnPlayerConnect"] = {
-			[1] = [[upvalue]];
-		};
-		["SetupPlayerLoadout"] = {
-			[1] = [[upvalue]];
-		};
-		["OnPlayerDeath"] = {
-			[1] = [[loadstring()]];
-		};
-		["OnRulesetRoundEnd"] = {
-		};
-		["OnRoundStart"] = {
-			[1] = [[upvalue]];
-		};
-		["OnRulesetRoundStart"] = {
-			[1] = [[upvalue]];
-		};
-		["OnPlayerCharmed"] = {
-		};
-		["OnPlayerInterrogated"] = {
-		};
-		["OnRoundCountdownStart"] = {
-		};
+["_scriptInstanceId"] = [[userdata]]
+["SetupComponent"] = [[upvalue]];
+["InitComponent"] = [[loadstring()]];
+["Multiplex"] = [[loadstring()]];
+["_scriptPath"] = "RulesetCallbacks";
+["ClearCallbacks"] = [[upvalue]];
+["CallbackLists"] = {
+	["OnEventSignal"] = {
 	};
+	["OnPlayerSpawnChoiceExecute"] = {
+	};
+	["OnPlayerTagged"] = {
+		[1] = [[loadstring()]];
+	};
+	["OnPlayerStunned"] = {
+	};
+	["OnPlayerRespawn"] = {
+		[1] = [[upvalue]];
+	};
+	["OnPlayerDisconnect"] = {
+	};
+	["OnPlayerConnect"] = {
+		[1] = [[upvalue]];
+	};
+	["SetupPlayerLoadout"] = {
+		[1] = [[upvalue]];
+	};
+	["OnPlayerDeath"] = {
+		[1] = [[loadstring()]];
+	};
+	["OnRulesetRoundEnd"] = {
+	};
+	["OnRoundStart"] = {
+		[1] = [[upvalue]];
+	};
+	["OnRulesetRoundStart"] = {
+		[1] = [[upvalue]];
+	};
+	["OnPlayerCharmed"] = {
+	};
+	["OnPlayerInterrogated"] = {
+	};
+	["OnRoundCountdownStart"] = {
+	};
+};

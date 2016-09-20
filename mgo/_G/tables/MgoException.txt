@@ -1,14 +1,14 @@
-	["_scriptInstanceId"] = [[userdata]]
-	["MgoExitRoomOnException"] = [[loadstring()]];
-	["OnEndExceptionDialogForMgoInvitationAccept"] = [[loadstring()]];
-	["OnEndExceptionDialogForSignInUserChange"] = [[loadstring()]];
-	["_scriptPath"] = "MgoException";
-	["MGO_ON_END_EXCEPTION_TABLE"] = {
-		[6] = [[loadstring()]];
-		[2] = [[loadstring()]];
-		[3] = [[loadstring()]];
-		[1] = [[loadstring()]];
-		[4] = [[loadstring()]];
-		[5] = [[loadstring()]];
-		[7] = [[loadstring()]];
-	};
+["_scriptInstanceId"] = [[userdata]]
+["MgoExitRoomOnException"] = [[loadstring()]];
+["OnEndExceptionDialogForMgoInvitationAccept"] = [[loadstring()]];
+["OnEndExceptionDialogForSignInUserChange"] = [[loadstring()]];
+["_scriptPath"] = "MgoException";
+["MGO_ON_END_EXCEPTION_TABLE"] = {
+	[6] = [[loadstring()]];
+	[2] = [[loadstring()]];
+	[3] = [[loadstring()]];
+	[1] = [[loadstring()]];
+	[4] = [[loadstring()]];
+	[5] = [[loadstring()]];
+	[7] = [[loadstring()]];
+};

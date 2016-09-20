@@ -1,16 +1,16 @@
+[-285212672] = 4;
+[-285212671] = {
+};
+[44836877] = {
+	[209829745] = [[non-lua function]];
 	[-285212672] = 4;
+	[114679392] = [[non-lua function]];
+	[185098796] = [[non-lua function]];
+	[122675215] = [[non-lua function]];
 	[-285212671] = {
-	};
-	[44836877] = {
-		[209829745] = [[non-lua function]];
-		[-285212672] = 4;
-		[114679392] = [[non-lua function]];
-		[185098796] = [[non-lua function]];
-		[122675215] = [[non-lua function]];
-		[-285212671] = {
-		};
-		["__index"] = [[non-lua function]];
-		["__newindex"] = [[non-lua function]];
 	};
 	["__index"] = [[non-lua function]];
 	["__newindex"] = [[non-lua function]];
+};
+["__index"] = [[non-lua function]];
+["__newindex"] = [[non-lua function]];

@@ -1,2 +1,2 @@
-	["_scriptPath"] = "GearConfig";
-	["_scriptInstanceId"] = [[userdata]]
+["_scriptPath"] = "GearConfig";
+["_scriptInstanceId"] = [[userdata]]

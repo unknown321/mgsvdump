@@ -1,2 +1,2 @@
-	["_scriptPath"] = "EquipDevelopSettingMgo";
-	["_scriptInstanceId"] = [[userdata]]
+["_scriptPath"] = "EquipDevelopSettingMgo";
+["_scriptInstanceId"] = [[userdata]]

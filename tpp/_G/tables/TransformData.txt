@@ -1,2 +1,2 @@
-	["_className"] = "TransformData";
-	["GetChildren"] = [[upvalue]];
+["_className"] = "TransformData";
+["GetChildren"] = [[upvalue]];

@@ -1,1 +1,1 @@
-	["GetRankXp"] = [[non-lua function]];
+["GetRankXp"] = [[non-lua function]];

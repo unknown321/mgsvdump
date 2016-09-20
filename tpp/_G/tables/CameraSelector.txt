@@ -1,8 +1,8 @@
-	["_className"] = "CameraSelector";
-	["SetMainListener"] = [[upvalue]];
-	["GetViewportName"] = [[upvalue]];
-	["SetMainInstance"] = [[upvalue]];
-	["DumpActiveCamera"] = [[upvalue]];
-	["GetRenderName"] = [[upvalue]];
-	["GetMainInstance"] = [[upvalue]];
-	["__call"] = [[upvalue]];
+["_className"] = "CameraSelector";
+["SetMainListener"] = [[upvalue]];
+["GetViewportName"] = [[upvalue]];
+["SetMainInstance"] = [[upvalue]];
+["DumpActiveCamera"] = [[upvalue]];
+["GetRenderName"] = [[upvalue]];
+["GetMainInstance"] = [[upvalue]];
+["__call"] = [[upvalue]];

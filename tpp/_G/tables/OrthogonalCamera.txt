@@ -1,2 +1,2 @@
-	["_className"] = "OrthogonalCamera";
-	["SetProjectionScale"] = [[upvalue]];
+["_className"] = "OrthogonalCamera";
+["SetProjectionScale"] = [[upvalue]];

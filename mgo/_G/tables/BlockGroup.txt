@@ -1,2 +1,2 @@
-	["_className"] = "BlockGroup";
-	["FindInstance"] = [[upvalue]];
+["_className"] = "BlockGroup";
+["FindInstance"] = [[upvalue]];

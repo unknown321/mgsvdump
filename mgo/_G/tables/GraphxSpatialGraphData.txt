@@ -1,2 +1,2 @@
-	["_className"] = "GraphxSpatialGraphData";
-	["GetGraphNode"] = [[upvalue]];
+["_className"] = "GraphxSpatialGraphData";
+["GetGraphNode"] = [[upvalue]];

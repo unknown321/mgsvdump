@@ -1,2 +1,2 @@
-	["_scriptPath"] = "TppDebug";
-	["_scriptInstanceId"] = [[userdata]]
+["_scriptPath"] = "TppDebug";
+["_scriptInstanceId"] = [[userdata]]

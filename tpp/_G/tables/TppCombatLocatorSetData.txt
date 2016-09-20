@@ -1,4 +1,4 @@
-	["_className"] = "TppCombatLocatorSetData";
-	["GetLocatorPosition"] = [[upvalue]];
-	["GetLocatorRadius"] = [[upvalue]];
-	["GetLocatorNum"] = [[upvalue]];
+["_className"] = "TppCombatLocatorSetData";
+["GetLocatorPosition"] = [[upvalue]];
+["GetLocatorRadius"] = [[upvalue]];
+["GetLocatorNum"] = [[upvalue]];

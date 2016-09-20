@@ -1,2 +1,2 @@
-	["_className"] = "UiFontGroupData";
-	["SetFontDataElement"] = [[upvalue]];
+["_className"] = "UiFontGroupData";
+["SetFontDataElement"] = [[upvalue]];

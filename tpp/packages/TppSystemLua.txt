@@ -1,5 +1,5 @@
-	["SetEnabledOldCharacterSystem"] = [[non-lua function]];
-	["IsMissionFullOpen"] = [[non-lua function]];
-	["IsCombatTest2"] = [[non-lua function]];
-	["UseAiSystem"] = [[non-lua function]];
-	["IsCombatTest1"] = [[non-lua function]];
+["SetEnabledOldCharacterSystem"] = [[non-lua function]];
+["IsMissionFullOpen"] = [[non-lua function]];
+["IsCombatTest2"] = [[non-lua function]];
+["UseAiSystem"] = [[non-lua function]];
+["IsCombatTest1"] = [[non-lua function]];

@@ -1,5 +1,5 @@
-	["DBGFontSize"] = [[non-lua function]];
-	["DBGLocate"] = [[non-lua function]];
-	["ModelConvert"] = [[non-lua function]];
-	["DBGColor"] = [[non-lua function]];
-	["DBGPrint"] = [[non-lua function]];
+["DBGFontSize"] = [[non-lua function]];
+["DBGLocate"] = [[non-lua function]];
+["ModelConvert"] = [[non-lua function]];
+["DBGColor"] = [[non-lua function]];
+["DBGPrint"] = [[non-lua function]];

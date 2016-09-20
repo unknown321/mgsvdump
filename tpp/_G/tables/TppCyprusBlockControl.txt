@@ -1,6 +1,5 @@
-	["_className"] = "TppCyprusBlockControl";
-	["IsCyprusLoading"] = [[upvalue]];
-	["IsCyprusBlockControllerCreated"] = [[upvalue]];
-	["SetCyprusStep"] = [[upvalue]];
-	["GetCyprusStep"] = [[upvalue]];
-	["__call"] = [[non-lua function]];
+["_className"] = "TppCyprusBlockControl";
+["IsCyprusLoading"] = [[upvalue]];
+["IsCyprusBlockControllerCreated"] = [[upvalue]];
+["SetCyprusStep"] = [[upvalue]];
+["GetCyprusStep"] = [[upvalue]];

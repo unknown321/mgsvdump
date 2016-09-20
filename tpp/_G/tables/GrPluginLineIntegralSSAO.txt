@@ -1,2 +1,1 @@
-	["_className"] = "GrPluginLineIntegralSSAO";
-	["__call"] = [[non-lua function]];
+["_className"] = "GrPluginLineIntegralSSAO";

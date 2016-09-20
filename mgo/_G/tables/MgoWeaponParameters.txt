@@ -1,2 +1,2 @@
-	["_scriptPath"] = "MgoWeaponParameters";
-	["_scriptInstanceId"] = [[userdata]]
+["_scriptPath"] = "MgoWeaponParameters";
+["_scriptInstanceId"] = [[userdata]]

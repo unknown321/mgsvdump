@@ -1,3 +1,2 @@
-	["_className"] = "GrPluginGlobalVolumetricFog";
-	["SwitchMethod"] = [[upvalue]];
-	["__call"] = [[non-lua function]];
+["_className"] = "GrPluginGlobalVolumetricFog";
+["SwitchMethod"] = [[upvalue]];

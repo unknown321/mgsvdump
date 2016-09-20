@@ -1,5 +1,5 @@
-	["_className"] = "UiSupport";
-	["GetInstance"] = [[upvalue]];
-	["End"] = [[upvalue]];
-	["Create"] = [[upvalue]];
-	["CreateLoginPrint"] = [[upvalue]];
+["_className"] = "UiSupport";
+["GetInstance"] = [[upvalue]];
+["End"] = [[upvalue]];
+["Create"] = [[upvalue]];
+["CreateLoginPrint"] = [[upvalue]];

@@ -1,4 +1,4 @@
-	["_className"] = "GeoTrapBody";
-	["SetInvalid"] = [[upvalue]];
-	["GetByName"] = [[upvalue]];
-	["SetValid"] = [[upvalue]];
+["_className"] = "GeoTrapBody";
+["SetInvalid"] = [[upvalue]];
+["GetByName"] = [[upvalue]];
+["SetValid"] = [[upvalue]];

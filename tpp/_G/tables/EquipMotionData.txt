@@ -1,2 +1,2 @@
-	["_scriptPath"] = "EquipMotionData";
-	["_scriptInstanceId"] = [[userdata]]
+["_scriptPath"] = "EquipMotionData";
+["_scriptInstanceId"] = [[userdata]]

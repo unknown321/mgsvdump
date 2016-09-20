@@ -1,1 +1,1 @@
-	["_className"] = "TppWeatherSandStormData";
+["_className"] = "TppWeatherSandStormData";

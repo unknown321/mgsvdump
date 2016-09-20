@@ -1,5 +1,5 @@
-	["_className"] = "PassiveBlockController";
-	["FindInstance"] = [[upvalue]];
-	["LoadRequest"] = [[upvalue]];
-	["GetBlockGroup"] = [[upvalue]];
-	["UnloadRequest"] = [[upvalue]];
+["_className"] = "PassiveBlockController";
+["FindInstance"] = [[upvalue]];
+["LoadRequest"] = [[upvalue]];
+["GetBlockGroup"] = [[upvalue]];
+["UnloadRequest"] = [[upvalue]];

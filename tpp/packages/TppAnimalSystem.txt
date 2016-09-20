@@ -1,4 +1,4 @@
-	["GetDataBaseIdFromAnimaId"] = [[non-lua function]];
-	["SetIgnoreDisableNpc"] = [[non-lua function]];
-	["GetDataBaseIdFromAnimalId"] = [[non-lua function]];
-	["IsIgnoreDisableNpc"] = [[non-lua function]];
+["GetDataBaseIdFromAnimaId"] = [[non-lua function]];
+["SetIgnoreDisableNpc"] = [[non-lua function]];
+["GetDataBaseIdFromAnimalId"] = [[non-lua function]];
+["IsIgnoreDisableNpc"] = [[non-lua function]];

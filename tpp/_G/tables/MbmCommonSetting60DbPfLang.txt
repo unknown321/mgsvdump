@@ -1,2 +1,2 @@
-	["_scriptPath"] = "MbmCommonSetting60DbPfLang";
-	["_scriptInstanceId"] = [[userdata]]
+["_scriptPath"] = "MbmCommonSetting60DbPfLang";
+["_scriptInstanceId"] = [[userdata]]

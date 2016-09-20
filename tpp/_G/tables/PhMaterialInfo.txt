@@ -1,6 +1,5 @@
-	["_className"] = "PhMaterialInfo";
-	["SetDensity"] = [[upvalue]];
-	["SetName"] = [[upvalue]];
-	["SetFriction"] = [[upvalue]];
-	["SetRestitution"] = [[upvalue]];
-	["__call"] = [[non-lua function]];
+["_className"] = "PhMaterialInfo";
+["SetDensity"] = [[upvalue]];
+["SetName"] = [[upvalue]];
+["SetFriction"] = [[upvalue]];
+["SetRestitution"] = [[upvalue]];

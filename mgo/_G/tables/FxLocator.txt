@@ -1,8 +1,8 @@
-	["_className"] = "FxLocator";
-	["Invisible"] = [[upvalue]];
-	["Create"] = [[upvalue]];
-	["Visible"] = [[upvalue]];
-	["SetReceiverVector"] = [[upvalue]];
-	["GetByName"] = [[upvalue]];
-	["SetReceiverLife"] = [[upvalue]];
-	["Destroy"] = [[upvalue]];
+["_className"] = "FxLocator";
+["Invisible"] = [[upvalue]];
+["Create"] = [[upvalue]];
+["Visible"] = [[upvalue]];
+["SetReceiverVector"] = [[upvalue]];
+["GetByName"] = [[upvalue]];
+["SetReceiverLife"] = [[upvalue]];
+["Destroy"] = [[upvalue]];

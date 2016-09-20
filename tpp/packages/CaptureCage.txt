@@ -1,2 +1,2 @@
-	["RegisterCaptureAnimal"] = [[non-lua function]];
-	["GetCaptureAnimalList"] = [[non-lua function]];
+["RegisterCaptureAnimal"] = [[non-lua function]];
+["GetCaptureAnimalList"] = [[non-lua function]];

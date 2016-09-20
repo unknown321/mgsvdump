@@ -1,2 +1,2 @@
-	["_scriptPath"] = "EquipParameters";
-	["_scriptInstanceId"] = [[userdata]]
+["_scriptPath"] = "EquipParameters";
+["_scriptInstanceId"] = [[userdata]]

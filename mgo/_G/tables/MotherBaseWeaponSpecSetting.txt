@@ -1,2 +1,2 @@
-	["_scriptPath"] = "MotherBaseWeaponSpecSetting";
-	["_scriptInstanceId"] = [[userdata]]
+["_scriptPath"] = "MotherBaseWeaponSpecSetting";
+["_scriptInstanceId"] = [[userdata]]

@@ -1,2 +1,2 @@
-	["_className"] = "GrxUtil";
-	["CheckFrustumIntersection"] = [[upvalue]];
+["_className"] = "GrxUtil";
+["CheckFrustumIntersection"] = [[upvalue]];

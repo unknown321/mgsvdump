@@ -1,5 +1,5 @@
-	["SetLimitGlobalTimeRate"] = [[non-lua function]];
-	["SetLimitInstanceMemorySize"] = [[non-lua function]];
-	["ResetLimitInstanceMemorySize"] = [[non-lua function]];
-	["SetLimitInstanceMemoryDefaultSize"] = [[non-lua function]];
-	["SetExecutionPrioritySetting"] = [[non-lua function]];
+["SetLimitGlobalTimeRate"] = [[non-lua function]];
+["SetLimitInstanceMemorySize"] = [[non-lua function]];
+["ResetLimitInstanceMemorySize"] = [[non-lua function]];
+["SetLimitInstanceMemoryDefaultSize"] = [[non-lua function]];
+["SetExecutionPrioritySetting"] = [[non-lua function]];

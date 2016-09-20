@@ -1,2 +1,2 @@
-	["_className"] = "TppAtmosphere";
-	["StartSkyCapture"] = [[upvalue]];
+["_className"] = "TppAtmosphere";
+["StartSkyCapture"] = [[upvalue]];

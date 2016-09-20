@@ -1,8 +1,8 @@
-	["AddObjectiveBlip"] = [[upvalue]];
-	["DEBUG_NotExistLog"] = [[loadstring()]];
-	["addTeamIcons"] = [[upvalue]];
-	["friendlyBase"] = 0;
-	["SwapFlags"] = [[upvalue]];
-	["removeTeamIcons"] = [[upvalue]];
-	["_scriptInstanceId"] = [[userdata]]
-	["_scriptPath"] = "GimmickIDs";
+["AddObjectiveBlip"] = [[upvalue]];
+["DEBUG_NotExistLog"] = [[loadstring()]];
+["addTeamIcons"] = [[upvalue]];
+["friendlyBase"] = 0;
+["SwapFlags"] = [[upvalue]];
+["removeTeamIcons"] = [[upvalue]];
+["_scriptInstanceId"] = [[userdata]]
+["_scriptPath"] = "GimmickIDs";

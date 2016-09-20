@@ -1,1 +1,1 @@
-	["_className"] = "WindGlobal";
+["_className"] = "WindGlobal";

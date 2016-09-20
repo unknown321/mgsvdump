@@ -1,2 +1,2 @@
-	["AllocatePSStoreMemory"] = [[non-lua function]];
-	["FreePSStoreMemory"] = [[non-lua function]];
+["AllocatePSStoreMemory"] = [[non-lua function]];
+["FreePSStoreMemory"] = [[non-lua function]];

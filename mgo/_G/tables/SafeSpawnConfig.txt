@@ -1,2 +1,2 @@
-	["_scriptPath"] = "SafeSpawnConfig";
-	["_scriptInstanceId"] = [[userdata]]
+["_scriptPath"] = "SafeSpawnConfig";
+["_scriptInstanceId"] = [[userdata]]

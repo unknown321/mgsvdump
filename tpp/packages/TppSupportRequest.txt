@@ -1,6 +1,6 @@
-	["GetCrashRescueHeliGmpCost"] = [[non-lua function]];
-	["RequestDropBullet"] = [[non-lua function]];
-	["GetCallBuddyGmpCost"] = [[non-lua function]];
-	["RequestSupportAttack"] = [[non-lua function]];
-	["GetCallRescueHeliGmpCost"] = [[non-lua function]];
-	["RegisterSupportAttackGmpCostTable"] = [[non-lua function]];
+["GetCrashRescueHeliGmpCost"] = [[non-lua function]];
+["RequestDropBullet"] = [[non-lua function]];
+["GetCallBuddyGmpCost"] = [[non-lua function]];
+["RequestSupportAttack"] = [[non-lua function]];
+["GetCallRescueHeliGmpCost"] = [[non-lua function]];
+["RegisterSupportAttackGmpCostTable"] = [[non-lua function]];

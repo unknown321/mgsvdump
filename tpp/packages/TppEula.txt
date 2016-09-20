@@ -1,1 +1,1 @@
-	["Start"] = [[non-lua function]];
+["Start"] = [[non-lua function]];

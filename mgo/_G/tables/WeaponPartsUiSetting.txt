@@ -1,2 +1,2 @@
-	["_scriptPath"] = "WeaponPartsUiSetting";
-	["_scriptInstanceId"] = [[userdata]]
+["_scriptPath"] = "WeaponPartsUiSetting";
+["_scriptInstanceId"] = [[userdata]]

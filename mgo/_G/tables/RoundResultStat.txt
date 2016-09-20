@@ -1,30 +1,30 @@
-	["_scriptInstanceId"] = [[userdata]]
-	["TeamSneak"] = {
-		["stats"] = {
-		};
-		["scrollCount"] = 8;
-		["scrollAmount"] = 0.0714;
-		["scrollBegin"] = 0;
+["_scriptInstanceId"] = [[userdata]]
+["TeamSneak"] = {
+	["stats"] = {
 	};
-	["_scriptPath"] = "RoundResultStat";
-	["Attack"] = {
-		["stats"] = {
-		};
-		["scrollCount"] = 11;
-		["scrollAmount"] = 0.0588;
-		["scrollBegin"] = 0;
+	["scrollCount"] = 8;
+	["scrollAmount"] = 0.0714;
+	["scrollBegin"] = 0;
+};
+["_scriptPath"] = "RoundResultStat";
+["Attack"] = {
+	["stats"] = {
 	};
-	["Domination"] = {
-		["stats"] = {
-		};
-		["scrollCount"] = 8;
-		["scrollAmount"] = 0.0714;
-		["scrollBegin"] = 0;
+	["scrollCount"] = 11;
+	["scrollAmount"] = 0.0588;
+	["scrollBegin"] = 0;
+};
+["Domination"] = {
+	["stats"] = {
 	};
-	["DeathMatch"] = {
-		["stats"] = {
-		};
-		["scrollCount"] = 7;
-		["scrollAmount"] = 0.0769;
-		["scrollBegin"] = 0;
+	["scrollCount"] = 8;
+	["scrollAmount"] = 0.0714;
+	["scrollBegin"] = 0;
+};
+["DeathMatch"] = {
+	["stats"] = {
 	};
+	["scrollCount"] = 7;
+	["scrollAmount"] = 0.0769;
+	["scrollBegin"] = 0;
+};

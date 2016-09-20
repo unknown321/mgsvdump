@@ -1,8 +1,8 @@
-	["_className"] = "NclDaemon";
-	["SetWebserver"] = [[upvalue]];
-	["SetLogout"] = [[upvalue]];
-	["SetUrl"] = [[upvalue]];
-	["SetLogin"] = [[upvalue]];
-	["SetServer"] = [[upvalue]];
-	["GetInstance"] = [[upvalue]];
-	["IsLogin"] = [[upvalue]];
+["_className"] = "NclDaemon";
+["SetWebserver"] = [[upvalue]];
+["SetLogout"] = [[upvalue]];
+["SetUrl"] = [[upvalue]];
+["SetLogin"] = [[upvalue]];
+["SetServer"] = [[upvalue]];
+["GetInstance"] = [[upvalue]];
+["IsLogin"] = [[upvalue]];

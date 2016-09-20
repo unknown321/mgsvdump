@@ -1,2 +1,2 @@
-	["_scriptPath"] = "MbmCommonSetting50RewardFob";
-	["_scriptInstanceId"] = [[userdata]]
+["_scriptPath"] = "MbmCommonSetting50RewardFob";
+["_scriptInstanceId"] = [[userdata]]

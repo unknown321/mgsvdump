@@ -1,5 +1,5 @@
-	["RemoveExtraCache"] = [[non-lua function]];
-	["CreateExtraCache"] = [[non-lua function]];
-	["ClearCache"] = [[non-lua function]];
-	["DestroyInfoManager"] = [[non-lua function]];
-	["CreateInfoManager"] = [[non-lua function]];
+["RemoveExtraCache"] = [[non-lua function]];
+["CreateExtraCache"] = [[non-lua function]];
+["ClearCache"] = [[non-lua function]];
+["DestroyInfoManager"] = [[non-lua function]];
+["CreateInfoManager"] = [[non-lua function]];

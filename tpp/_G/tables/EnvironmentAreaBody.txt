@@ -1,2 +1,2 @@
-	["_className"] = "EnvironmentAreaBody";
-	["SetEnable"] = [[upvalue]];
+["_className"] = "EnvironmentAreaBody";
+["SetEnable"] = [[upvalue]];

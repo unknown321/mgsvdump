@@ -1,2 +1,2 @@
-	["_className"] = "TppPauseMenu";
-	["SetIgnoreActorPause"] = [[upvalue]];
+["_className"] = "TppPauseMenu";
+["SetIgnoreActorPause"] = [[upvalue]];

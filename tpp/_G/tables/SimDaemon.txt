@@ -1,7 +1,6 @@
-	["_className"] = "SimDaemon";
-	["GetInstance"] = [[upvalue]];
-	["SetForceSimLocalMode"] = [[upvalue]];
-	["SetForceSimNotActiveMode"] = [[upvalue]];
-	["SetSimWorkSize"] = [[upvalue]];
-	["SetForceStopSimWindEffect"] = [[upvalue]];
-	["__call"] = [[non-lua function]];
+["_className"] = "SimDaemon";
+["GetInstance"] = [[upvalue]];
+["SetForceSimLocalMode"] = [[upvalue]];
+["SetForceSimNotActiveMode"] = [[upvalue]];
+["SetSimWorkSize"] = [[upvalue]];
+["SetForceStopSimWindEffect"] = [[upvalue]];

@@ -1,5 +1,5 @@
-	["_className"] = "TerrainRenderBody";
-	["GetNumBlocksHeight"] = [[upvalue]];
-	["ReloadWorldTextures"] = [[upvalue]];
-	["GetNumBlocksWidth"] = [[upvalue]];
-	["GetSize"] = [[upvalue]];
+["_className"] = "TerrainRenderBody";
+["GetNumBlocksHeight"] = [[upvalue]];
+["ReloadWorldTextures"] = [[upvalue]];
+["GetNumBlocksWidth"] = [[upvalue]];
+["GetSize"] = [[upvalue]];

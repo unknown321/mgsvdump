@@ -1,6 +1,6 @@
-	["_className"] = "PathMapper";
-	["Dump"] = [[upvalue]];
-	["RegisterRealPath"] = [[upvalue]];
-	["Register"] = [[upvalue]];
-	["Replace"] = [[upvalue]];
-	["Add"] = [[upvalue]];
+["_className"] = "PathMapper";
+["Dump"] = [[upvalue]];
+["RegisterRealPath"] = [[upvalue]];
+["Register"] = [[upvalue]];
+["Replace"] = [[upvalue]];
+["Add"] = [[upvalue]];

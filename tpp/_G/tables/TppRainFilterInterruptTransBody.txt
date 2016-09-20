@@ -1,4 +1,4 @@
-	["_className"] = "TppRainFilterInterruptTransBody";
-	["AddMaskTexturePath"] = [[upvalue]];
-	["AddPlaneMatrix"] = [[upvalue]];
-	["AddInterruptFlag"] = [[upvalue]];
+["_className"] = "TppRainFilterInterruptTransBody";
+["AddMaskTexturePath"] = [[upvalue]];
+["AddPlaneMatrix"] = [[upvalue]];
+["AddInterruptFlag"] = [[upvalue]];

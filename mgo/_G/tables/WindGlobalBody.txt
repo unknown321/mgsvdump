@@ -1,4 +1,4 @@
-	["_className"] = "WindGlobalBody";
-	["SetRotation"] = [[upvalue]];
-	["ResetWind"] = [[upvalue]];
-	["SetSpeed"] = [[upvalue]];
+["_className"] = "WindGlobalBody";
+["SetRotation"] = [[upvalue]];
+["ResetWind"] = [[upvalue]];
+["SetSpeed"] = [[upvalue]];

@@ -1,26 +1,26 @@
-	["Messages"] = [[upvalue]];
-	["RegisterRat"] = [[loadstring()]];
-	["_EnableRats"] = [[loadstring()]];
-	["OnReload"] = [[upvalue]];
-	["RegisterBaseList"] = [[upvalue]];
-	["_WarpRats"] = [[loadstring()]];
-	["_Deactivate"] = [[upvalue]];
-	["OnMissionCanStart"] = [[upvalue]];
-	["_OnChangeLargeBlockState"] = [[upvalue]];
-	["EnableRat"] = [[loadstring()]];
-	["_scriptPath"] = "TppRatBird";
-	["RegisterBird"] = [[loadstring()]];
-	["messageExecTable"] = {
-		[738746875] = {
-			[1645327988] = {
-				["func"] = [[upvalue]];
-			};
+["Messages"] = [[upvalue]];
+["RegisterRat"] = [[loadstring()]];
+["_EnableRats"] = [[loadstring()]];
+["OnReload"] = [[upvalue]];
+["RegisterBaseList"] = [[upvalue]];
+["_WarpRats"] = [[loadstring()]];
+["_Deactivate"] = [[upvalue]];
+["OnMissionCanStart"] = [[upvalue]];
+["_OnChangeLargeBlockState"] = [[upvalue]];
+["EnableRat"] = [[loadstring()]];
+["_scriptPath"] = "TppRatBird";
+["RegisterBird"] = [[loadstring()]];
+["messageExecTable"] = {
+	[738746875] = {
+		[1645327988] = {
+			["func"] = [[upvalue]];
 		};
 	};
-	["_Activate"] = [[upvalue]];
-	["OnMessage"] = [[upvalue]];
-	["_scriptInstanceId"] = [[userdata]]
-	["Init"] = [[upvalue]];
-	["_EnableBirds"] = [[loadstring()]];
-	["EnableBird"] = [[loadstring()]];
-	["_WarpBird"] = [[upvalue]];
+};
+["_Activate"] = [[upvalue]];
+["OnMessage"] = [[upvalue]];
+["_scriptInstanceId"] = [[userdata]]
+["Init"] = [[upvalue]];
+["_EnableBirds"] = [[loadstring()]];
+["EnableBird"] = [[loadstring()]];
+["_WarpBird"] = [[upvalue]];

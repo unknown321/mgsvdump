@@ -1,1 +1,1 @@
-	["_className"] = "GameScriptBody";
+["_className"] = "GameScriptBody";

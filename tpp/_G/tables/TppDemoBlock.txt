@@ -1,7 +1,7 @@
-	["_scriptInstanceId"] = [[userdata]]
-	["_scriptPath"] = "TppDemoBlock";
-	["isAllocatedMtbsEnemy"] = false;
-	["OnInitialize"] = [[loadstring()]];
-	["OnTerminate"] = [[upvalue]];
-	["OnAllocate"] = [[upvalue]];
-	["OnUpdate"] = [[upvalue]];
+["_scriptInstanceId"] = [[userdata]]
+["_scriptPath"] = "TppDemoBlock";
+["isAllocatedMtbsEnemy"] = false;
+["OnInitialize"] = [[loadstring()]];
+["OnTerminate"] = [[upvalue]];
+["OnAllocate"] = [[upvalue]];
+["OnUpdate"] = [[upvalue]];

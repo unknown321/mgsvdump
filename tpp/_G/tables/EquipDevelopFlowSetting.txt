@@ -1,2 +1,2 @@
-	["_scriptPath"] = "EquipDevelopFlowSetting";
-	["_scriptInstanceId"] = [[userdata]]
+["_scriptPath"] = "EquipDevelopFlowSetting";
+["_scriptInstanceId"] = [[userdata]]

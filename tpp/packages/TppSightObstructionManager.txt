@@ -1,1 +1,1 @@
-	["CheckSight"] = [[non-lua function]];
+["CheckSight"] = [[non-lua function]];

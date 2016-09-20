@@ -1,3 +1,3 @@
-	["_className"] = "NetworkInfo";
-	["GetInstance"] = [[upvalue]];
-	["IsNuclearAbolition"] = [[upvalue]];
+["_className"] = "NetworkInfo";
+["GetInstance"] = [[upvalue]];
+["IsNuclearAbolition"] = [[upvalue]];

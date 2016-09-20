@@ -1,119 +1,119 @@
-	["REINFORCE_TYPE_NAME"] = {
-		[1] = "NONE";
-		[2] = "EAST_WAV";
-		[3] = "EAST_WAV_ROCKET";
-		[4] = "WEST_WAV";
-		[5] = "WEST_WAV_CANNON";
-		[6] = "EAST_TANK";
-		[7] = "WEST_TANK";
-		[8] = "HELI";
-	};
-	["_HasVehicle"] = [[upvalue]];
-	["_OnCancelReinforce"] = [[upvalue]];
-	["IsProcessing"] = [[upvalue]];
-	["OnReload"] = [[upvalue]];
-	["ReinforceBlockOnUpdate"] = [[upvalue]];
-	["StartReinforce"] = [[upvalue]];
-	["_SetEnabledSoldier"] = [[upvalue]];
-	["ReinforceBlockOnDeactivate"] = [[upvalue]];
-	["UnloadReinforceBlock"] = [[upvalue]];
-	["REINFORCE_FPK"] = {
-		[0] = "";
-		[2] = "/Assets/tpp/pack/soldier/reinforce/reinforce_veh_east_wav_roc.fpk";
-		[7] = {
-			["AFGH"] = {
-				["_DEFAULT"] = "/Assets/tpp/pack/soldier/reinforce/reinforce_heli_afgh.fpk";
-				[2] = {
-					[1] = "/Assets/tpp/pack/soldier/reinforce/reinforce_heli_afgh.fpk";
-					[2] = "/Assets/tpp/pack/fova/mecha/sbh/sbh_ene_red.fpk";
-				};
-				[1] = {
-					[1] = "/Assets/tpp/pack/soldier/reinforce/reinforce_heli_afgh.fpk";
-					[2] = "/Assets/tpp/pack/fova/mecha/sbh/sbh_ene_blk.fpk";
-				};
+["REINFORCE_TYPE_NAME"] = {
+	[1] = "NONE";
+	[2] = "EAST_WAV";
+	[3] = "EAST_WAV_ROCKET";
+	[4] = "WEST_WAV";
+	[5] = "WEST_WAV_CANNON";
+	[6] = "EAST_TANK";
+	[7] = "WEST_TANK";
+	[8] = "HELI";
+};
+["_HasVehicle"] = [[upvalue]];
+["_OnCancelReinforce"] = [[upvalue]];
+["IsProcessing"] = [[upvalue]];
+["OnReload"] = [[upvalue]];
+["ReinforceBlockOnUpdate"] = [[upvalue]];
+["StartReinforce"] = [[upvalue]];
+["_SetEnabledSoldier"] = [[upvalue]];
+["ReinforceBlockOnDeactivate"] = [[upvalue]];
+["UnloadReinforceBlock"] = [[upvalue]];
+["REINFORCE_FPK"] = {
+	[0] = "";
+	[2] = "/Assets/tpp/pack/soldier/reinforce/reinforce_veh_east_wav_roc.fpk";
+	[7] = {
+		["AFGH"] = {
+			["_DEFAULT"] = "/Assets/tpp/pack/soldier/reinforce/reinforce_heli_afgh.fpk";
+			[2] = {
+				[1] = "/Assets/tpp/pack/soldier/reinforce/reinforce_heli_afgh.fpk";
+				[2] = "/Assets/tpp/pack/fova/mecha/sbh/sbh_ene_red.fpk";
 			};
-			["MAFR"] = {
-				["_DEFAULT"] = "/Assets/tpp/pack/soldier/reinforce/reinforce_heli_mafr.fpk";
-				[2] = {
-					[1] = "/Assets/tpp/pack/soldier/reinforce/reinforce_heli_mafr.fpk";
-					[2] = "/Assets/tpp/pack/fova/mecha/sbh/sbh_ene_red.fpk";
-				};
-				[1] = {
-					[1] = "/Assets/tpp/pack/soldier/reinforce/reinforce_heli_mafr.fpk";
-					[2] = "/Assets/tpp/pack/fova/mecha/sbh/sbh_ene_blk.fpk";
-				};
+			[1] = {
+				[1] = "/Assets/tpp/pack/soldier/reinforce/reinforce_heli_afgh.fpk";
+				[2] = "/Assets/tpp/pack/fova/mecha/sbh/sbh_ene_blk.fpk";
 			};
 		};
-		[3] = {
-			["PF_B"] = "/Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_wav_b.fpk";
-			["PF_A"] = "/Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_wav_a.fpk";
-			["PF_C"] = "/Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_wav_c.fpk";
-		};
-		[1] = "/Assets/tpp/pack/soldier/reinforce/reinforce_veh_east_wav.fpk";
-		[4] = {
-			["PF_B"] = "/Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_wav_can_b.fpk";
-			["PF_A"] = "/Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_wav_can_a.fpk";
-			["PF_C"] = "/Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_wav_can_c.fpk";
-		};
-		[5] = "/Assets/tpp/pack/soldier/reinforce/reinforce_veh_east_tnk.fpk";
-		[6] = {
-			["PF_B"] = "/Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_tnk_b.fpk";
-			["PF_A"] = "/Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_tnk_a.fpk";
-			["PF_C"] = "/Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_tnk_c.fpk";
-		};
-	};
-	["_ActivateReinforce"] = [[upvalue]];
-	["_DeactivateReinforce"] = [[upvalue]];
-	["IsLoaded"] = [[upvalue]];
-	["REINFORCE_VEHICLE_NAME"] = "reinforce_vehicle_0000";
-	["messageExecTable"] = {
-		[3333891920] = {
-			[619354164] = {
-				["func"] = [[upvalue]];
+		["MAFR"] = {
+			["_DEFAULT"] = "/Assets/tpp/pack/soldier/reinforce/reinforce_heli_mafr.fpk";
+			[2] = {
+				[1] = "/Assets/tpp/pack/soldier/reinforce/reinforce_heli_mafr.fpk";
+				[2] = "/Assets/tpp/pack/fova/mecha/sbh/sbh_ene_red.fpk";
 			};
-			[818979056] = {
-				["func"] = [[upvalue]];
-			};
-			[2462937437] = {
-				["func"] = [[upvalue]];
+			[1] = {
+				[1] = "/Assets/tpp/pack/soldier/reinforce/reinforce_heli_mafr.fpk";
+				[2] = "/Assets/tpp/pack/fova/mecha/sbh/sbh_ene_blk.fpk";
 			};
 		};
 	};
-	["ReinforceBlockOnActivate"] = [[upvalue]];
-	["REINFORCE_HELI_NAME"] = "EnemyHeli";
-	["LoadReinforceBlock"] = [[upvalue]];
-	["_HasHeli"] = [[upvalue]];
-	["Messages"] = [[upvalue]];
-	["_GetHeliRoute"] = [[loadstring()]];
-	["GetReinforceBlockState"] = [[upvalue]];
-	["_scriptInstanceId"] = [[userdata]]
-	["_scriptPath"] = "TppReinforceBlock";
-	["_OnRequestAppearReinforce"] = [[upvalue]];
-	["_OnRequestLoadReinforce"] = [[upvalue]];
-	["Init"] = [[upvalue]];
-	["SetUpReinforceBlock"] = [[upvalue]];
-	["_SetEnabledVehicle"] = [[upvalue]];
-	["GetReinforceBlockId"] = [[loadstring()]];
-	["ReinforceBlockOnInitialize"] = [[upvalue]];
-	["ReinforceBlockOnTerminate"] = [[loadstring()]];
-	["_HasSoldier"] = [[upvalue]];
-	["OnMessage"] = [[upvalue]];
-	["REINFORCE_SOLDIER_NAMES"] = {
-		[1] = "reinforce_soldier_0000";
-		[2] = "reinforce_soldier_0001";
-		[3] = "reinforce_soldier_0002";
-		[4] = "reinforce_soldier_0003";
+	[3] = {
+		["PF_B"] = "/Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_wav_b.fpk";
+		["PF_A"] = "/Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_wav_a.fpk";
+		["PF_C"] = "/Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_wav_c.fpk";
 	};
-	["FinishReinforce"] = [[upvalue]];
-	["REINFORCE_DRIVER_SOLDIER_NAME"] = "reinforce_soldier_driver";
-	["REINFORCE_TYPE"] = {
-		["EAST_WAV_ROCKET"] = 2;
-		["HELI"] = 7;
-		["WEST_WAV"] = 3;
-		["EAST_WAV"] = 1;
-		["WEST_WAV_CANNON"] = 4;
-		["WEST_TANK"] = 6;
-		["EAST_TANK"] = 5;
-		["NONE"] = 0;
+	[1] = "/Assets/tpp/pack/soldier/reinforce/reinforce_veh_east_wav.fpk";
+	[4] = {
+		["PF_B"] = "/Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_wav_can_b.fpk";
+		["PF_A"] = "/Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_wav_can_a.fpk";
+		["PF_C"] = "/Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_wav_can_c.fpk";
 	};
-	["GetFpk"] = [[upvalue]];
+	[5] = "/Assets/tpp/pack/soldier/reinforce/reinforce_veh_east_tnk.fpk";
+	[6] = {
+		["PF_B"] = "/Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_tnk_b.fpk";
+		["PF_A"] = "/Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_tnk_a.fpk";
+		["PF_C"] = "/Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_tnk_c.fpk";
+	};
+};
+["_ActivateReinforce"] = [[upvalue]];
+["_DeactivateReinforce"] = [[upvalue]];
+["IsLoaded"] = [[upvalue]];
+["REINFORCE_VEHICLE_NAME"] = "reinforce_vehicle_0000";
+["messageExecTable"] = {
+	[3333891920] = {
+		[619354164] = {
+			["func"] = [[upvalue]];
+		};
+		[818979056] = {
+			["func"] = [[upvalue]];
+		};
+		[2462937437] = {
+			["func"] = [[upvalue]];
+		};
+	};
+};
+["ReinforceBlockOnActivate"] = [[upvalue]];
+["REINFORCE_HELI_NAME"] = "EnemyHeli";
+["LoadReinforceBlock"] = [[upvalue]];
+["_HasHeli"] = [[upvalue]];
+["Messages"] = [[upvalue]];
+["_GetHeliRoute"] = [[loadstring()]];
+["GetReinforceBlockState"] = [[upvalue]];
+["_scriptInstanceId"] = [[userdata]]
+["_scriptPath"] = "TppReinforceBlock";
+["_OnRequestAppearReinforce"] = [[upvalue]];
+["_OnRequestLoadReinforce"] = [[upvalue]];
+["Init"] = [[upvalue]];
+["SetUpReinforceBlock"] = [[upvalue]];
+["_SetEnabledVehicle"] = [[upvalue]];
+["GetReinforceBlockId"] = [[loadstring()]];
+["ReinforceBlockOnInitialize"] = [[upvalue]];
+["ReinforceBlockOnTerminate"] = [[loadstring()]];
+["_HasSoldier"] = [[upvalue]];
+["OnMessage"] = [[upvalue]];
+["REINFORCE_SOLDIER_NAMES"] = {
+	[1] = "reinforce_soldier_0000";
+	[2] = "reinforce_soldier_0001";
+	[3] = "reinforce_soldier_0002";
+	[4] = "reinforce_soldier_0003";
+};
+["FinishReinforce"] = [[upvalue]];
+["REINFORCE_DRIVER_SOLDIER_NAME"] = "reinforce_soldier_driver";
+["REINFORCE_TYPE"] = {
+	["EAST_WAV_ROCKET"] = 2;
+	["HELI"] = 7;
+	["WEST_WAV"] = 3;
+	["EAST_WAV"] = 1;
+	["WEST_WAV_CANNON"] = 4;
+	["WEST_TANK"] = 6;
+	["EAST_TANK"] = 5;
+	["NONE"] = 0;
+};
+["GetFpk"] = [[upvalue]];

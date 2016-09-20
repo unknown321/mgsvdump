@@ -1,5 +1,5 @@
-	["AddParamBody"] = [[loadstring()]];
-	["AddParam"] = [[loadstring()]];
-	["Exec"] = [[loadstring()]];
-	["_scriptInstanceId"] = [[userdata]]
-	["_scriptPath"] = "TppTrapExecChangeCamera";
+["AddParamBody"] = [[loadstring()]];
+["AddParam"] = [[loadstring()]];
+["Exec"] = [[loadstring()]];
+["_scriptInstanceId"] = [[userdata]]
+["_scriptPath"] = "TppTrapExecChangeCamera";

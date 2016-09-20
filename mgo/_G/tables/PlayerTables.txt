@@ -1,2 +1,2 @@
-	["_scriptPath"] = "PlayerTables";
-	["_scriptInstanceId"] = [[userdata]]
+["_scriptPath"] = "PlayerTables";
+["_scriptInstanceId"] = [[userdata]]

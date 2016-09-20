@@ -1,3 +1,2 @@
-	["_className"] = "TppOffenseTargetData";
-	["GetAttackerHandle"] = [[upvalue]];
-	["__call"] = [[non-lua function]];
+["_className"] = "TppOffenseTargetData";
+["GetAttackerHandle"] = [[upvalue]];

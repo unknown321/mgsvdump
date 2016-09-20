@@ -1,2 +1,2 @@
-	["_scriptPath"] = "MbmCommonSetting20BaseResSec";
-	["_scriptInstanceId"] = [[userdata]]
+["_scriptPath"] = "MbmCommonSetting20BaseResSec";
+["_scriptInstanceId"] = [[userdata]]

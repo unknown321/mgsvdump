@@ -1,7 +1,7 @@
-	["_className"] = "TppRainFilterInterruptManager";
-	["ResetStartEndFadeInDistanceDemo"] = [[upvalue]];
-	["SetStartEndFadeInDistanceDemo"] = [[upvalue]];
-	["FadeOutFxFallRainOutside"] = [[upvalue]];
-	["FadeInFxFallRainOutside"] = [[upvalue]];
-	["SwitchEnableInterruptData"] = [[upvalue]];
-	["GetInstance"] = [[upvalue]];
+["_className"] = "TppRainFilterInterruptManager";
+["ResetStartEndFadeInDistanceDemo"] = [[upvalue]];
+["SetStartEndFadeInDistanceDemo"] = [[upvalue]];
+["FadeOutFxFallRainOutside"] = [[upvalue]];
+["FadeInFxFallRainOutside"] = [[upvalue]];
+["SwitchEnableInterruptData"] = [[upvalue]];
+["GetInstance"] = [[upvalue]];

@@ -1,13 +1,13 @@
-	[-285212671] = {
-		[153458576] = [[upvalue]];
-		[257654082] = [[upvalue]];
-		[212677008] = [[upvalue]];
-		[138394906] = [[upvalue]];
-		[12454312] = [[upvalue]];
-		[42603683] = [[upvalue]];
-		[228628200] = [[upvalue]];
-		[228141382] = [[upvalue]];
-	};
-	[-285212672] = 4;
-	["__newindex"] = [[non-lua function]];
-	["__index"] = [[non-lua function]];
+[-285212671] = {
+	[153458576] = [[upvalue]];
+	[257654082] = [[upvalue]];
+	[212677008] = [[upvalue]];
+	[138394906] = [[upvalue]];
+	[12454312] = [[upvalue]];
+	[42603683] = [[upvalue]];
+	[228628200] = [[upvalue]];
+	[228141382] = [[upvalue]];
+};
+[-285212672] = 4;
+["__newindex"] = [[non-lua function]];
+["__index"] = [[non-lua function]];

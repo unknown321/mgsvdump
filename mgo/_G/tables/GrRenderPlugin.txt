@@ -1,2 +1,2 @@
-	["_className"] = "GrRenderPlugin";
-	["AddPlugin"] = [[upvalue]];
+["_className"] = "GrRenderPlugin";
+["AddPlugin"] = [[upvalue]];

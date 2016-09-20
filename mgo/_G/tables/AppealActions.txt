@@ -1,2 +1,2 @@
-	["_scriptPath"] = "AppealActions";
-	["_scriptInstanceId"] = [[userdata]]
+["_scriptPath"] = "AppealActions";
+["_scriptInstanceId"] = [[userdata]]

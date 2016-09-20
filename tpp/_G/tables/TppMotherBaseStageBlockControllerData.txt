@@ -1,1 +1,1 @@
-	["_className"] = "TppMotherBaseStageBlockControllerData";
+["_className"] = "TppMotherBaseStageBlockControllerData";

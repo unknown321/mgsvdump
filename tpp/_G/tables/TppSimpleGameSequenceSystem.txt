@@ -1,2 +1,2 @@
-	["_className"] = "TppSimpleGameSequenceSystem";
-	["Start"] = [[upvalue]];
+["_className"] = "TppSimpleGameSequenceSystem";
+["Start"] = [[upvalue]];

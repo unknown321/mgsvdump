@@ -1,42 +1,42 @@
-	["ResetFlagHigh"] = [[upvalue]];
-	["AddQuestTable"] = [[upvalue]];
-	["Messages"] = [[upvalue]];
-	["UniqueInterrogationWithVoice"] = [[upvalue]];
-	["ResetQuestTable"] = [[loadstring()]];
-	["messageExecTable"] = {
-		[3333891920] = {
-			[3545727038] = {
-				["func"] = [[loadstring()]];
-			};
-			[1156094484] = {
-				["func"] = [[upvalue]];
-			};
-			[4137146292] = {
-				["func"] = [[upvalue]];
-			};
+["ResetFlagHigh"] = [[upvalue]];
+["AddQuestTable"] = [[upvalue]];
+["Messages"] = [[upvalue]];
+["UniqueInterrogationWithVoice"] = [[upvalue]];
+["ResetQuestTable"] = [[loadstring()]];
+["messageExecTable"] = {
+	[3333891920] = {
+		[3545727038] = {
+			["func"] = [[loadstring()]];
+		};
+		[1156094484] = {
+			["func"] = [[upvalue]];
+		};
+		[4137146292] = {
+			["func"] = [[upvalue]];
 		};
 	};
-	["OnReload"] = [[upvalue]];
-	["RemoveHighInterrogation"] = [[upvalue]];
-	["UniqueInterrogation"] = [[upvalue]];
-	["_scriptInstanceId"] = [[userdata]]
-	["_OnMapUpdate"] = [[loadstring()]];
-	["_SelectInterrogation"] = [[upvalue]];
-	["_AddGene"] = [[upvalue]];
-	["_AssignInterrogation"] = [[upvalue]];
-	["MakeFlagHigh"] = [[upvalue]];
-	["_OnInterrogationEnd"] = [[upvalue]];
-	["AddGeneInter"] = [[upvalue]];
-	["Init"] = [[upvalue]];
-	["_scriptPath"] = "TppInterrogation";
-	["_OnInterrogation"] = [[upvalue]];
-	["DeclareSVars"] = [[loadstring()]];
-	["_AssignInterrogationCollection"] = [[upvalue]];
-	["RemoveQuestHighIntTable"] = [[upvalue]];
-	["InitUniqueInterrogation"] = [[loadstring()]];
-	["OnMessage"] = [[upvalue]];
-	["ResetFlagNormal"] = [[upvalue]];
-	["SetQuestHighIntTable"] = [[upvalue]];
-	["AddHighInterrogation"] = [[upvalue]];
-	["InitInterrogation"] = [[upvalue]];
-	["QuestInterrogation"] = [[upvalue]];
+};
+["OnReload"] = [[upvalue]];
+["RemoveHighInterrogation"] = [[upvalue]];
+["UniqueInterrogation"] = [[upvalue]];
+["_scriptInstanceId"] = [[userdata]]
+["_OnMapUpdate"] = [[loadstring()]];
+["_SelectInterrogation"] = [[upvalue]];
+["_AddGene"] = [[upvalue]];
+["_AssignInterrogation"] = [[upvalue]];
+["MakeFlagHigh"] = [[upvalue]];
+["_OnInterrogationEnd"] = [[upvalue]];
+["AddGeneInter"] = [[upvalue]];
+["Init"] = [[upvalue]];
+["_scriptPath"] = "TppInterrogation";
+["_OnInterrogation"] = [[upvalue]];
+["DeclareSVars"] = [[loadstring()]];
+["_AssignInterrogationCollection"] = [[upvalue]];
+["RemoveQuestHighIntTable"] = [[upvalue]];
+["InitUniqueInterrogation"] = [[loadstring()]];
+["OnMessage"] = [[upvalue]];
+["ResetFlagNormal"] = [[upvalue]];
+["SetQuestHighIntTable"] = [[upvalue]];
+["AddHighInterrogation"] = [[upvalue]];
+["InitInterrogation"] = [[upvalue]];
+["QuestInterrogation"] = [[upvalue]];

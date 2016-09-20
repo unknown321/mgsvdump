@@ -1,2 +1,2 @@
-	["_scriptPath"] = "RegisterGear";
-	["_scriptInstanceId"] = [[userdata]]
+["_scriptPath"] = "RegisterGear";
+["_scriptInstanceId"] = [[userdata]]

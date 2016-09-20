@@ -1,8 +1,8 @@
-	["SetCurrentGameMode"] = [[upvalue]];
-	["ConfigDefaultPadAssigns"] = [[upvalue]];
-	["_scriptInstanceId"] = [[userdata]]
-	["_scriptPath"] = "TppSystemUtility";
-	["_className"] = "TppSystemUtility";
-	["GetIsBeta"] = [[upvalue]];
-	["GetCurrentGameMode"] = [[upvalue]];
-	["SetSquadEnableState"] = [[loadstring()]];
+["SetCurrentGameMode"] = [[upvalue]];
+["ConfigDefaultPadAssigns"] = [[upvalue]];
+["_scriptInstanceId"] = [[userdata]]
+["_scriptPath"] = "TppSystemUtility";
+["_className"] = "TppSystemUtility";
+["GetIsBeta"] = [[upvalue]];
+["GetCurrentGameMode"] = [[upvalue]];
+["SetSquadEnableState"] = [[loadstring()]];

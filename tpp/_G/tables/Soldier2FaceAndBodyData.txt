@@ -1,2 +1,2 @@
-	["_scriptPath"] = "Soldier2FaceAndBodyData";
-	["_scriptInstanceId"] = [[userdata]]
+["_scriptPath"] = "Soldier2FaceAndBodyData";
+["_scriptInstanceId"] = [[userdata]]

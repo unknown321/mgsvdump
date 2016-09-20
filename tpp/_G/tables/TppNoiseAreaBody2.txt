@@ -1,1 +1,1 @@
-	["_className"] = "TppNoiseAreaBody2";
+["_className"] = "TppNoiseAreaBody2";

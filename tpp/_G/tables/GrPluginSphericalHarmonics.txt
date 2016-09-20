@@ -1,3 +1,2 @@
-	["_className"] = "GrPluginSphericalHarmonics";
-	["SwitchMethod"] = [[upvalue]];
-	["__call"] = [[non-lua function]];
+["_className"] = "GrPluginSphericalHarmonics";
+["SwitchMethod"] = [[upvalue]];

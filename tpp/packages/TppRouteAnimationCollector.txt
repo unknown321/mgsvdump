@@ -1,2 +1,2 @@
-	["RegisterGaniPath"] = [[non-lua function]];
-	["ClearGaniPath"] = [[non-lua function]];
+["RegisterGaniPath"] = [[non-lua function]];
+["ClearGaniPath"] = [[non-lua function]];

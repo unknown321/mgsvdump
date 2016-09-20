@@ -1,5 +1,5 @@
-	["CycleLightType"] = [[loadstring()]];
-	["_scriptPath"] = "LightUtility";
-	["_scriptInstanceId"] = [[userdata]]
-	["CopyLightProperties"] = [[loadstring()]];
-	["ReplaceLight"] = [[loadstring()]];
+["CycleLightType"] = [[loadstring()]];
+["_scriptPath"] = "LightUtility";
+["_scriptInstanceId"] = [[userdata]]
+["CopyLightProperties"] = [[loadstring()]];
+["ReplaceLight"] = [[loadstring()]];

@@ -1,1 +1,1 @@
-	["_className"] = "EffectDescription";
+["_className"] = "EffectDescription";

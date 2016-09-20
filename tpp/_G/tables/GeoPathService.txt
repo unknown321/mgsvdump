@@ -1,7 +1,7 @@
-	["_className"] = "GeoPathService";
-	["InvalidPath"] = [[upvalue]];
-	["BindEdgeTag"] = [[upvalue]];
-	["RegisterPathTag"] = [[upvalue]];
-	["RegisterEdgeTag"] = [[upvalue]];
-	["RegisterNodeTag"] = [[upvalue]];
-	["BindNodeTag"] = [[upvalue]];
+["_className"] = "GeoPathService";
+["InvalidPath"] = [[upvalue]];
+["BindEdgeTag"] = [[upvalue]];
+["RegisterPathTag"] = [[upvalue]];
+["RegisterEdgeTag"] = [[upvalue]];
+["RegisterNodeTag"] = [[upvalue]];
+["BindNodeTag"] = [[upvalue]];

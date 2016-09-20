@@ -1,2 +1,1 @@
-	["_className"] = "GrPluginAlphaModel";
-	["__call"] = [[non-lua function]];
+["_className"] = "GrPluginAlphaModel";

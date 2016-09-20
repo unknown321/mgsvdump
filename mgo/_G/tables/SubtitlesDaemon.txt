@@ -1,5 +1,4 @@
-	["_className"] = "SubtitlesDaemon";
-	["GetInstance"] = [[upvalue]];
-	["GetDefaultVoiceLanguage"] = [[upvalue]];
-	["SetDefaultVoiceLanguage"] = [[upvalue]];
-	["__call"] = [[non-lua function]];
+["_className"] = "SubtitlesDaemon";
+["GetInstance"] = [[upvalue]];
+["GetDefaultVoiceLanguage"] = [[upvalue]];
+["SetDefaultVoiceLanguage"] = [[upvalue]];

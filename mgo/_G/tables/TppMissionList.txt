@@ -1,2 +1,2 @@
-	["_scriptPath"] = "TppMissionList";
-	["_scriptInstanceId"] = [[userdata]]
+["_scriptPath"] = "TppMissionList";
+["_scriptInstanceId"] = [[userdata]]

@@ -1,2 +1,1 @@
-	["_className"] = "GrPluginAmbientObscuranceSSAO";
-	["__call"] = [[non-lua function]];
+["_className"] = "GrPluginAmbientObscuranceSSAO";

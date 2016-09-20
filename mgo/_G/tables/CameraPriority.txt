@@ -1,2 +1,2 @@
-	["_className"] = "CameraPriority";
-	["RegisterPriorities"] = [[upvalue]];
+["_className"] = "CameraPriority";
+["RegisterPriorities"] = [[upvalue]];

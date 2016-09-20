@@ -1,3 +1,3 @@
-	["Start"] = [[non-lua function]];
-	["SetEndsFile"] = [[non-lua function]];
-	["Stop"] = [[non-lua function]];
+["Start"] = [[non-lua function]];
+["SetEndsFile"] = [[non-lua function]];
+["Stop"] = [[non-lua function]];

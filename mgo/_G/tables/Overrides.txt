@@ -1,2 +1,2 @@
-	["_scriptPath"] = "Overrides";
-	["_scriptInstanceId"] = [[userdata]]
+["_scriptPath"] = "Overrides";
+["_scriptInstanceId"] = [[userdata]]

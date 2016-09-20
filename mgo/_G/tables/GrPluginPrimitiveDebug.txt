@@ -1,2 +1,1 @@
-	["_className"] = "GrPluginPrimitiveDebug";
-	["__call"] = [[non-lua function]];
+["_className"] = "GrPluginPrimitiveDebug";

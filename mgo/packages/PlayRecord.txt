@@ -1,1 +1,1 @@
-	["RegistPlayRecord"] = [[non-lua function]];
+["RegistPlayRecord"] = [[non-lua function]];

@@ -1,4 +1,4 @@
-	["SetupPlayerFootStep"] = [[non-lua function]];
-	["SetupPlayerType"] = [[non-lua function]];
-	["SetupPlayerRattleSuit"] = [[non-lua function]];
-	["SetupPlayerRattleWeapon"] = [[non-lua function]];
+["SetupPlayerFootStep"] = [[non-lua function]];
+["SetupPlayerType"] = [[non-lua function]];
+["SetupPlayerRattleSuit"] = [[non-lua function]];
+["SetupPlayerRattleWeapon"] = [[non-lua function]];

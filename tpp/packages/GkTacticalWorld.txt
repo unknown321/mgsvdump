@@ -1,5 +1,5 @@
-	["Unregister"] = [[non-lua function]];
-	["Register"] = [[non-lua function]];
-	["SearchObjectSquarePyramid"] = [[non-lua function]];
-	["SearchObjectSphere"] = [[non-lua function]];
-	["SearchObject"] = [[non-lua function]];
+["Unregister"] = [[non-lua function]];
+["Register"] = [[non-lua function]];
+["SearchObjectSquarePyramid"] = [[non-lua function]];
+["SearchObjectSphere"] = [[non-lua function]];
+["SearchObject"] = [[non-lua function]];

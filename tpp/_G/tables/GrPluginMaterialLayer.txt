@@ -1,2 +1,1 @@
-	["_className"] = "GrPluginMaterialLayer";
-	["__call"] = [[non-lua function]];
+["_className"] = "GrPluginMaterialLayer";

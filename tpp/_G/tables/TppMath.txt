@@ -1,7 +1,7 @@
-	["Vector3toTable"] = [[loadstring()]];
-	["DegreeToRadian"] = [[upvalue]];
-	["_scriptInstanceId"] = [[userdata]]
-	["_scriptPath"] = "TppMath";
-	["RadianToDegree"] = [[upvalue]];
-	["FindDistance"] = [[loadstring()]];
-	["AddVector"] = [[loadstring()]];
+["Vector3toTable"] = [[loadstring()]];
+["DegreeToRadian"] = [[upvalue]];
+["_scriptInstanceId"] = [[userdata]]
+["_scriptPath"] = "TppMath";
+["RadianToDegree"] = [[upvalue]];
+["FindDistance"] = [[loadstring()]];
+["AddVector"] = [[loadstring()]];

@@ -1,44 +1,44 @@
-	["Messages"] = [[upvalue]];
-	["MbFreeSpecialMissionStartSetting"] = [[loadstring()]];
-	["GetMbStageClusterGrade"] = [[loadstring()]];
-	["SetBuddyBlock"] = [[loadstring()]];
-	["RegistBaseAssetTable"] = [[loadstring()]];
-	["IsCyprus"] = [[loadstring()]];
-	["OnActiveLargeBlock"] = [[loadstring()]];
-	["IsMiddleAfrica"] = [[loadstring()]];
-	["messageExecTable"] = {
-		[738746875] = {
-			[1645327988] = {
-				["func"] = [[loadstring()]];
-				["option"] = {
-					[2421886458] = true;
-					[4282425663] = true;
-				};
+["Messages"] = [[upvalue]];
+["MbFreeSpecialMissionStartSetting"] = [[loadstring()]];
+["GetMbStageClusterGrade"] = [[loadstring()]];
+["SetBuddyBlock"] = [[loadstring()]];
+["RegistBaseAssetTable"] = [[loadstring()]];
+["IsCyprus"] = [[loadstring()]];
+["OnActiveLargeBlock"] = [[loadstring()]];
+["IsMiddleAfrica"] = [[loadstring()]];
+["messageExecTable"] = {
+	[738746875] = {
+		[1645327988] = {
+			["func"] = [[loadstring()]];
+			["option"] = {
+				[2421886458] = true;
+				[4282425663] = true;
 			};
-			[1794265320] = {
-				["func"] = [[loadstring()]];
-				["option"] = {
-					[2421886458] = true;
-					[4282425663] = true;
-				};
+		};
+		[1794265320] = {
+			["func"] = [[loadstring()]];
+			["option"] = {
+				[2421886458] = true;
+				[4282425663] = true;
 			};
 		};
 	};
-	["_scriptInstanceId"] = [[userdata]]
-	["SetForceConstructDevelopCluster"] = [[upvalue]];
-	["OnMessage"] = [[upvalue]];
-	["IsMotherBase"] = [[loadstring()]];
-	["OnReload"] = [[upvalue]];
-	["Init"] = [[upvalue]];
-	["_scriptPath"] = "TppLocation";
-	["ModifyMbsLayoutCode"] = [[loadstring()]];
-	["OnActiveSmallBlock"] = [[loadstring()]];
-	["DEBUG_UseDebugMbParam"] = [[upvalue]];
-	["ActivateBlock"] = [[upvalue]];
-	["RegistMissionAssetInitializeTable"] = [[loadstring()]];
-	["GetMbStageHelicopterRoute"] = [[loadstring()]];
-	["IsMBQF"] = [[loadstring()]];
-	["GetLocalMbStageClusterGrade"] = [[loadstring()]];
-	["ApplyPlatformParamToMbStage"] = [[upvalue]];
-	["IsAfghan"] = [[loadstring()]];
-	["GetLocationName"] = [[loadstring()]];
+};
+["_scriptInstanceId"] = [[userdata]]
+["SetForceConstructDevelopCluster"] = [[upvalue]];
+["OnMessage"] = [[upvalue]];
+["IsMotherBase"] = [[loadstring()]];
+["OnReload"] = [[upvalue]];
+["Init"] = [[upvalue]];
+["_scriptPath"] = "TppLocation";
+["ModifyMbsLayoutCode"] = [[loadstring()]];
+["OnActiveSmallBlock"] = [[loadstring()]];
+["DEBUG_UseDebugMbParam"] = [[upvalue]];
+["ActivateBlock"] = [[upvalue]];
+["RegistMissionAssetInitializeTable"] = [[loadstring()]];
+["GetMbStageHelicopterRoute"] = [[loadstring()]];
+["IsMBQF"] = [[loadstring()]];
+["GetLocalMbStageClusterGrade"] = [[loadstring()]];
+["ApplyPlatformParamToMbStage"] = [[upvalue]];
+["IsAfghan"] = [[loadstring()]];
+["GetLocationName"] = [[loadstring()]];

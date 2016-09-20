@@ -1,4 +1,3 @@
-	["_className"] = "DesDaemon";
-	["GetInstance"] = [[upvalue]];
-	["PrintDesObjectAll"] = [[upvalue]];
-	["__call"] = [[non-lua function]];
+["_className"] = "DesDaemon";
+["GetInstance"] = [[upvalue]];
+["PrintDesObjectAll"] = [[upvalue]];

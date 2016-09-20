@@ -1,2 +1,2 @@
-	["_className"] = "GeoTrapCondition";
-	["AddConditionParam"] = [[upvalue]];
+["_className"] = "GeoTrapCondition";
+["AddConditionParam"] = [[upvalue]];

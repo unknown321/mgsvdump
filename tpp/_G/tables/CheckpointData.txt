@@ -1,2 +1,1 @@
-	["_className"] = "CheckpointData";
-	["__call"] = [[non-lua function]];
+["_className"] = "CheckpointData";

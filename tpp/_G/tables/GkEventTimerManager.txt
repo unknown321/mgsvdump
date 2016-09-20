@@ -1,7 +1,7 @@
-	["_className"] = "GkEventTimerManager";
-	["StopAll"] = [[upvalue]];
-	["IsTimerActive"] = [[upvalue]];
-	["StartRaw"] = [[upvalue]];
-	["Stop"] = [[upvalue]];
-	["Start"] = [[upvalue]];
-	["SetPaused"] = [[upvalue]];
+["_className"] = "GkEventTimerManager";
+["StopAll"] = [[upvalue]];
+["IsTimerActive"] = [[upvalue]];
+["StartRaw"] = [[upvalue]];
+["Stop"] = [[upvalue]];
+["Start"] = [[upvalue]];
+["SetPaused"] = [[upvalue]];

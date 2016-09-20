@@ -1,8 +1,8 @@
-	["_className"] = "SyncUniqueId";
-	["GetInstance"] = [[upvalue]];
-	["RegistSyncUniqueIdTable"] = [[upvalue]];
-	["EraseInstance"] = [[upvalue]];
-	["GetSyncUniqueId"] = [[upvalue]];
-	["GetDataSyncUniqueIdTable"] = [[upvalue]];
-	["ExceptSyncUniqueId"] = [[upvalue]];
-	["__call"] = [[upvalue]];
+["_className"] = "SyncUniqueId";
+["GetInstance"] = [[upvalue]];
+["RegistSyncUniqueIdTable"] = [[upvalue]];
+["EraseInstance"] = [[upvalue]];
+["GetSyncUniqueId"] = [[upvalue]];
+["GetDataSyncUniqueIdTable"] = [[upvalue]];
+["ExceptSyncUniqueId"] = [[upvalue]];
+["__call"] = [[upvalue]];

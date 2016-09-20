@@ -1,1 +1,1 @@
-	["_className"] = "WindArea";
+["_className"] = "WindArea";

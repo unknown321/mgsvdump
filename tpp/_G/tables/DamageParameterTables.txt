@@ -1,2 +1,2 @@
-	["_scriptPath"] = "DamageParameterTables";
-	["_scriptInstanceId"] = [[userdata]]
+["_scriptPath"] = "DamageParameterTables";
+["_scriptInstanceId"] = [[userdata]]

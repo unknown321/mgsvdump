@@ -1,5 +1,5 @@
-	["StageLightOff"] = [[upvalue]];
-	["StageLightOn"] = [[upvalue]];
-	["FadeIn"] = [[upvalue]];
-	["FadeOut"] = [[upvalue]];
-	["_className"] = "StageLightFadeDataBody";
+["StageLightOff"] = [[upvalue]];
+["StageLightOn"] = [[upvalue]];
+["FadeIn"] = [[upvalue]];
+["FadeOut"] = [[upvalue]];
+["_className"] = "StageLightFadeDataBody";

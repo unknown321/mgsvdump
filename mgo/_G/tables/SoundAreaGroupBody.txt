@@ -1,4 +1,4 @@
-	["_className"] = "SoundAreaGroupBody";
-	["SetActive"] = [[upvalue]];
-	["CancelParameter"] = [[upvalue]];
-	["OverwriteParameter"] = [[upvalue]];
+["_className"] = "SoundAreaGroupBody";
+["SetActive"] = [[upvalue]];
+["CancelParameter"] = [[upvalue]];
+["OverwriteParameter"] = [[upvalue]];

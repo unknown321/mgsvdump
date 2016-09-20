@@ -1,5 +1,4 @@
-	["_className"] = "MaterialInfo";
-	["SetName"] = [[upvalue]];
-	["SetRestitutionCoefficient"] = [[upvalue]];
-	["SetFrictionCoefficient"] = [[upvalue]];
-	["__call"] = [[non-lua function]];
+["_className"] = "MaterialInfo";
+["SetName"] = [[upvalue]];
+["SetRestitutionCoefficient"] = [[upvalue]];
+["SetFrictionCoefficient"] = [[upvalue]];

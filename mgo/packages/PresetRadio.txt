@@ -1,1 +1,1 @@
-	["SetConfig"] = [[non-lua function]];
+["SetConfig"] = [[non-lua function]];

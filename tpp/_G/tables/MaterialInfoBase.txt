@@ -1,3 +1,2 @@
-	["_className"] = "MaterialInfoBase";
-	["SetName"] = [[upvalue]];
-	["__call"] = [[non-lua function]];
+["_className"] = "MaterialInfoBase";
+["SetName"] = [[upvalue]];

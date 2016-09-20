@@ -1,7 +1,7 @@
-	["StartRecord"] = [[upvalue]];
-	["GetInstance"] = [[upvalue]];
-	["StopPlay"] = [[upvalue]];
-	["StopRecord"] = [[upvalue]];
-	["StartPlay"] = [[upvalue]];
-	["_className"] = "Replay";
-	["__call"] = [[upvalue]];
+["StartRecord"] = [[upvalue]];
+["GetInstance"] = [[upvalue]];
+["StopPlay"] = [[upvalue]];
+["StopRecord"] = [[upvalue]];
+["StartPlay"] = [[upvalue]];
+["_className"] = "Replay";
+["__call"] = [[upvalue]];

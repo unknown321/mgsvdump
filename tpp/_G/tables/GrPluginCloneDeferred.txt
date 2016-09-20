@@ -1,2 +1,1 @@
-	["_className"] = "GrPluginCloneDeferred";
-	["__call"] = [[non-lua function]];
+["_className"] = "GrPluginCloneDeferred";

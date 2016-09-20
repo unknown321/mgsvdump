@@ -1,2 +1,2 @@
-	["_scriptPath"] = "EquipParameterTables";
-	["_scriptInstanceId"] = [[userdata]]
+["_scriptPath"] = "EquipParameterTables";
+["_scriptInstanceId"] = [[userdata]]

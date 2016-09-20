@@ -1,2 +1,2 @@
-	["_scriptPath"] = "WeaponParameterTables";
-	["_scriptInstanceId"] = [[userdata]]
+["_scriptPath"] = "WeaponParameterTables";
+["_scriptInstanceId"] = [[userdata]]

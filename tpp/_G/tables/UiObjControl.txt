@@ -1,8 +1,8 @@
-	["StartWithoutInitializing"] = [[upvalue]];
-	["Create"] = [[upvalue]];
-	["GetWindowNameForPreview"] = [[upvalue]];
-	["SetVisible"] = [[upvalue]];
-	["Stop"] = [[upvalue]];
-	["_className"] = "UiObjControl";
-	["Start"] = [[upvalue]];
-	["SendTrigger"] = [[upvalue]];
+["StartWithoutInitializing"] = [[upvalue]];
+["Create"] = [[upvalue]];
+["GetWindowNameForPreview"] = [[upvalue]];
+["SetVisible"] = [[upvalue]];
+["Stop"] = [[upvalue]];
+["_className"] = "UiObjControl";
+["Start"] = [[upvalue]];
+["SendTrigger"] = [[upvalue]];

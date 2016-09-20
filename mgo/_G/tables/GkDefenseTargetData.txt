@@ -1,3 +1,2 @@
-	["_className"] = "GkDefenseTargetData";
-	["GetSuffererHandle"] = [[upvalue]];
-	["__call"] = [[non-lua function]];
+["_className"] = "GkDefenseTargetData";
+["GetSuffererHandle"] = [[upvalue]];

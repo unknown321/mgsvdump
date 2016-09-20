@@ -1,2 +1,1 @@
-	["_className"] = "GrPluginPostFilter";
-	["__call"] = [[non-lua function]];
+["_className"] = "GrPluginPostFilter";

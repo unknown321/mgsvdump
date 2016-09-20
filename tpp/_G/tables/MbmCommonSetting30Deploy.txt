@@ -1,2 +1,2 @@
-	["_scriptPath"] = "MbmCommonSetting30Deploy";
-	["_scriptInstanceId"] = [[userdata]]
+["_scriptPath"] = "MbmCommonSetting30Deploy";
+["_scriptInstanceId"] = [[userdata]]

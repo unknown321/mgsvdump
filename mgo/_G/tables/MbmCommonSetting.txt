@@ -1,2 +1,2 @@
-	["_scriptPath"] = "MbmCommonSetting";
-	["_scriptInstanceId"] = [[userdata]]
+["_scriptPath"] = "MbmCommonSetting";
+["_scriptInstanceId"] = [[userdata]]

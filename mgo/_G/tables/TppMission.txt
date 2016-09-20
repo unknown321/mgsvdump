@@ -1,584 +1,584 @@
-	["ReserveMissionClearOnRideOnFultonContainer"] = [[upvalue]];
-	["_CreateMissionName"] = [[loadstring()]];
-	["DisableAlertOutOfMissionArea"] = [[loadstring()]];
-	["ResetNeedWaitMissionInitialize"] = [[loadstring()]];
-	["FindOrderBoxName"] = [[upvalue]];
-	["OnCanMissionClear"] = [[upvalue]];
-	["GetNextMissionCodeForEmergency"] = [[loadstring()]];
-	["IsStoryMission"] = [[loadstring()]];
-	["DisablePauseForShowResult"] = [[loadstring()]];
-	["IsMbFreeMissions"] = [[loadstring()]];
-	["CheckMissionState"] = [[loadstring()]];
-	["_SetMissionOrderBoxPosition"] = [[upvalue]];
-	["SetIsStartFromFreePlay"] = [[loadstring()]];
-	["OnChangeSVars"] = [[upvalue]];
-	["UpdateCheckPointAtCurrentPosition"] = [[loadstring()]];
-	["CheckMessageOption"] = [[upvalue]];
-	["ExecuteVehicleSaveCarryOnClear"] = [[upvalue]];
-	["PlayCommonRadioOnInsideOfHotZone"] = [[upvalue]];
-	["ExecuteReload"] = [[upvalue]];
-	["IsBossBattle"] = [[loadstring()]];
-	["WaitFinishMissionEndPresentation"] = [[loadstring()]];
-	["IsGameOver"] = [[loadstring()]];
-	["CheckMissionClearOnOutOfMissionArea"] = [[upvalue]];
-	["SetNextMissionCodeForMissionClear"] = [[loadstring()]];
-	["ShowStealthAssistPopup"] = [[upvalue]];
-	["GoToEmergencyMission"] = [[upvalue]];
-	["Update"] = [[upvalue]];
-	["ExecuteShowGameOverMenu"] = [[upvalue]];
-	["ResetMissionClearState"] = [[loadstring()]];
-	["SetMissionObjectives"] = [[upvalue]];
-	["GetOrderBoxLocator"] = [[upvalue]];
-	["StartBossBattle"] = [[loadstring()]];
-	["IsFreeMission"] = [[loadstring()]];
-	["IsEmergencyMission"] = [[loadstring()]];
-	["OnEndResultBlockLoad"] = [[upvalue]];
-	["DeclareSVars"] = [[upvalue]];
-	["Reload"] = [[upvalue]];
-	["ResumeMbSaveCoroutine"] = [[upvalue]];
+["ReserveMissionClearOnRideOnFultonContainer"] = [[upvalue]];
+["_CreateMissionName"] = [[loadstring()]];
+["DisableAlertOutOfMissionArea"] = [[loadstring()]];
+["ResetNeedWaitMissionInitialize"] = [[loadstring()]];
+["FindOrderBoxName"] = [[upvalue]];
+["OnCanMissionClear"] = [[upvalue]];
+["GetNextMissionCodeForEmergency"] = [[loadstring()]];
+["IsStoryMission"] = [[loadstring()]];
+["DisablePauseForShowResult"] = [[loadstring()]];
+["IsMbFreeMissions"] = [[loadstring()]];
+["CheckMissionState"] = [[loadstring()]];
+["_SetMissionOrderBoxPosition"] = [[upvalue]];
+["SetIsStartFromFreePlay"] = [[loadstring()]];
+["OnChangeSVars"] = [[upvalue]];
+["UpdateCheckPointAtCurrentPosition"] = [[loadstring()]];
+["CheckMessageOption"] = [[upvalue]];
+["ExecuteVehicleSaveCarryOnClear"] = [[upvalue]];
+["PlayCommonRadioOnInsideOfHotZone"] = [[upvalue]];
+["ExecuteReload"] = [[upvalue]];
+["IsBossBattle"] = [[loadstring()]];
+["WaitFinishMissionEndPresentation"] = [[loadstring()]];
+["IsGameOver"] = [[loadstring()]];
+["CheckMissionClearOnOutOfMissionArea"] = [[upvalue]];
+["SetNextMissionCodeForMissionClear"] = [[loadstring()]];
+["ShowStealthAssistPopup"] = [[upvalue]];
+["GoToEmergencyMission"] = [[upvalue]];
+["Update"] = [[upvalue]];
+["ExecuteShowGameOverMenu"] = [[upvalue]];
+["ResetMissionClearState"] = [[loadstring()]];
+["SetMissionObjectives"] = [[upvalue]];
+["GetOrderBoxLocator"] = [[upvalue]];
+["StartBossBattle"] = [[loadstring()]];
+["IsFreeMission"] = [[loadstring()]];
+["IsEmergencyMission"] = [[loadstring()]];
+["OnEndResultBlockLoad"] = [[upvalue]];
+["DeclareSVars"] = [[upvalue]];
+["Reload"] = [[upvalue]];
+["ResumeMbSaveCoroutine"] = [[upvalue]];
+["OnMessage"] = [[upvalue]];
+["SetIsStartFromHelispace"] = [[loadstring()]];
+["_StartEmergencyMissionTimer"] = [[upvalue]];
+["AbortMissionByMenu"] = [[upvalue]];
+["OnMessageWhileLoading"] = [[upvalue]];
+["GameOverAbortMission"] = [[upvalue]];
+["ResetEmegerncyMissionSetting"] = [[loadstring()]];
+["ShowMissionGameEndAnnounceLog"] = [[upvalue]];
+["ContinueFromCheckPoint"] = [[upvalue]];
+["RegisterMissionSystemCallback"] = [[upvalue]];
+["OnEndFadeOutMissionAbort"] = [[upvalue]];
+["DisableInGameFlag"] = [[loadstring()]];
+["UpdateObjective"] = [[upvalue]];
+["IsHelicopterSpace"] = [[loadstring()]];
+["SetFOBMissionFlag"] = [[loadstring()]];
+["ExecuteOnReturnToMissionCallback"] = [[upvalue]];
+["IsEnableMissionObjective"] = [[loadstring()]];
+["PlayCommonRadioOnRideHelicopter"] = [[upvalue]];
+["EstablishedMissionAbort"] = [[upvalue]];
+["ReserveMissionClearOnRideOnHelicopter"] = [[upvalue]];
+["GameOverAbortForOutOfMissionArea"] = [[loadstring()]];
+["GetMissionClearState"] = [[loadstring()]];
+["GetSyncMissionStatus"] = [[upvalue]];
+["SetMissionClearState"] = [[loadstring()]];
+["IsStartFromFreePlay"] = [[loadstring()]];
+["messageExecTableWhileLoading"] = {
+	[3105039150] = {
+		[1365151515] = {
+			["func"] = [[upvalue]];
+		};
+		[3608565324] = {
+			["func"] = [[upvalue]];
+		};
+	};
+	[4113713594] = {
+		[3709244990] = {
+			["func"] = [[upvalue]];
+		};
+	};
+	[3355507171] = {
+		[4162276946] = {
+			["func"] = [[loadstring()]];
+		};
+		[3986078005] = {
+			["func"] = [[loadstring()]];
+		};
+	};
+};
+["ShowAnnounceLogOnFadeOut"] = [[loadstring()]];
+["GetNextMissionCodeForMissionClear"] = [[loadstring()]];
+["FinishBossBattle"] = [[loadstring()]];
+["IsPerfectStealthMission"] = [[loadstring()]];
+["_FadeOutOnMissionGameEnd"] = [[loadstring()]];
+["GameOverAbortForRideOnHelicopter"] = [[loadstring()]];
+["MessageHandler"] = {
 	["OnMessage"] = [[upvalue]];
-	["SetIsStartFromHelispace"] = [[loadstring()]];
-	["_StartEmergencyMissionTimer"] = [[upvalue]];
-	["AbortMissionByMenu"] = [[upvalue]];
-	["OnMessageWhileLoading"] = [[upvalue]];
-	["GameOverAbortMission"] = [[upvalue]];
-	["ResetEmegerncyMissionSetting"] = [[loadstring()]];
-	["ShowMissionGameEndAnnounceLog"] = [[upvalue]];
-	["ContinueFromCheckPoint"] = [[upvalue]];
-	["RegisterMissionSystemCallback"] = [[upvalue]];
-	["OnEndFadeOutMissionAbort"] = [[upvalue]];
-	["DisableInGameFlag"] = [[loadstring()]];
-	["UpdateObjective"] = [[upvalue]];
-	["IsHelicopterSpace"] = [[loadstring()]];
-	["SetFOBMissionFlag"] = [[loadstring()]];
-	["ExecuteOnReturnToMissionCallback"] = [[upvalue]];
-	["IsEnableMissionObjective"] = [[loadstring()]];
-	["PlayCommonRadioOnRideHelicopter"] = [[upvalue]];
-	["EstablishedMissionAbort"] = [[upvalue]];
-	["ReserveMissionClearOnRideOnHelicopter"] = [[upvalue]];
-	["GameOverAbortForOutOfMissionArea"] = [[loadstring()]];
-	["GetMissionClearState"] = [[loadstring()]];
-	["GetSyncMissionStatus"] = [[upvalue]];
-	["SetMissionClearState"] = [[loadstring()]];
-	["IsStartFromFreePlay"] = [[loadstring()]];
-	["messageExecTableWhileLoading"] = {
-		[3105039150] = {
-			[1365151515] = {
-				["func"] = [[upvalue]];
-			};
-			[3608565324] = {
-				["func"] = [[upvalue]];
-			};
+};
+["systemCallbacks"] = {
+	["OnDisappearGameEndAnnounceLog"] = [[upvalue]];
+	["OnEstablishMissionClear"] = [[upvalue]];
+	["OnFinishBlackTelephoneRadio"] = [[upvalue]];
+};
+["Init"] = [[upvalue]];
+["_scriptPath"] = "TppMission";
+["GetOrderBoxLocatorByTransform"] = [[upvalue]];
+["PostMissionOrderBoxPositionToBuddyDog"] = [[upvalue]];
+["RegistDiscoveryGameOver"] = [[loadstring()]];
+["OnEndMissionReward"] = [[upvalue]];
+["ReserveForcePlayerPositionToMbDemoCenter"] = [[loadstring()]];
+["IsMatchStartLocation"] = [[loadstring()]];
+["CanStart"] = [[loadstring()]];
+["ShowAnnounceLogOnGameStart"] = [[upvalue]];
+["SeizeReliefVehicleOnForceGoToMb"] = [[loadstring()]];
+["Load"] = [[loadstring()]];
+["_PushReward"] = [[loadstring()]];
+["EstablishedGameOver"] = [[upvalue]];
+["GetObjectiveRadioOption"] = [[upvalue]];
+["IsFOBMission"] = [[loadstring()]];
+["_ShowObjective"] = [[upvalue]];
+["ExitHotZone"] = [[upvalue]];
+["OnPlayerFultoned"] = [[loadstring()]];
+["OnMissionGameEndFadeOutFinish2nd"] = [[upvalue]];
+["EnableInGameFlag"] = [[loadstring()]];
+["SetMissionObjectiveEnable"] = [[loadstring()]];
+["IncrementRetryCount"] = [[loadstring()]];
+["ShowUpdateObjective"] = [[upvalue]];
+["MissionGameEnd"] = [[upvalue]];
+["RestoreShowMissionObjective"] = [[upvalue]];
+["ExecuteMissionAbort"] = [[upvalue]];
+["UnsetFobSneakFlag"] = [[upvalue]];
+["UpdateForMissionLoad"] = [[upvalue]];
+["MissionClearOrAbortOnHeliDoorClosed"] = [[upvalue]];
+["ForceGoToMbFreeIfExistMbDemo"] = [[upvalue]];
+["SetSortieBuddy"] = [[loadstring()]];
+["KillDyingQuiet"] = [[loadstring()]];
+["ParseMissionName"] = [[loadstring()]];
+["ClearMissionStartRecoverSoundDemo"] = [[loadstring()]];
+["_SetCanMissionClear"] = [[loadstring()]];
+["messageExecTable"] = {
+	[4133365783] = {
+		[901759391] = {
+			["func"] = [[upvalue]];
 		};
-		[4113713594] = {
-			[3709244990] = {
-				["func"] = [[upvalue]];
-			};
+		[2341821539] = {
+			["func"] = [[upvalue]];
 		};
-		[3355507171] = {
-			[4162276946] = {
-				["func"] = [[loadstring()]];
-			};
-			[3986078005] = {
-				["func"] = [[loadstring()]];
-			};
+		[1259062815] = {
+			["func"] = [[loadstring()]];
+		};
+		[76165326] = {
+			["func"] = [[loadstring()]];
 		};
 	};
-	["ShowAnnounceLogOnFadeOut"] = [[loadstring()]];
-	["GetNextMissionCodeForMissionClear"] = [[loadstring()]];
-	["FinishBossBattle"] = [[loadstring()]];
-	["IsPerfectStealthMission"] = [[loadstring()]];
-	["_FadeOutOnMissionGameEnd"] = [[loadstring()]];
-	["GameOverAbortForRideOnHelicopter"] = [[loadstring()]];
-	["MessageHandler"] = {
-		["OnMessage"] = [[upvalue]];
-	};
-	["systemCallbacks"] = {
-		["OnDisappearGameEndAnnounceLog"] = [[upvalue]];
-		["OnEstablishMissionClear"] = [[upvalue]];
-		["OnFinishBlackTelephoneRadio"] = [[upvalue]];
-	};
-	["Init"] = [[upvalue]];
-	["_scriptPath"] = "TppMission";
-	["GetOrderBoxLocatorByTransform"] = [[upvalue]];
-	["PostMissionOrderBoxPositionToBuddyDog"] = [[upvalue]];
-	["RegistDiscoveryGameOver"] = [[loadstring()]];
-	["OnEndMissionReward"] = [[upvalue]];
-	["ReserveForcePlayerPositionToMbDemoCenter"] = [[loadstring()]];
-	["IsMatchStartLocation"] = [[loadstring()]];
-	["CanStart"] = [[loadstring()]];
-	["ShowAnnounceLogOnGameStart"] = [[upvalue]];
-	["SeizeReliefVehicleOnForceGoToMb"] = [[loadstring()]];
-	["Load"] = [[loadstring()]];
-	["_PushReward"] = [[loadstring()]];
-	["EstablishedGameOver"] = [[upvalue]];
-	["GetObjectiveRadioOption"] = [[upvalue]];
-	["IsFOBMission"] = [[loadstring()]];
-	["_ShowObjective"] = [[upvalue]];
-	["ExitHotZone"] = [[upvalue]];
-	["OnPlayerFultoned"] = [[loadstring()]];
-	["OnMissionGameEndFadeOutFinish2nd"] = [[upvalue]];
-	["EnableInGameFlag"] = [[loadstring()]];
-	["SetMissionObjectiveEnable"] = [[loadstring()]];
-	["IncrementRetryCount"] = [[loadstring()]];
-	["ShowUpdateObjective"] = [[upvalue]];
-	["MissionGameEnd"] = [[upvalue]];
-	["RestoreShowMissionObjective"] = [[upvalue]];
-	["ExecuteMissionAbort"] = [[upvalue]];
-	["UnsetFobSneakFlag"] = [[upvalue]];
-	["UpdateForMissionLoad"] = [[upvalue]];
-	["MissionClearOrAbortOnHeliDoorClosed"] = [[upvalue]];
-	["ForceGoToMbFreeIfExistMbDemo"] = [[upvalue]];
-	["SetSortieBuddy"] = [[loadstring()]];
-	["KillDyingQuiet"] = [[loadstring()]];
-	["ParseMissionName"] = [[loadstring()]];
-	["ClearMissionStartRecoverSoundDemo"] = [[loadstring()]];
-	["_SetCanMissionClear"] = [[loadstring()]];
-	["messageExecTable"] = {
-		[4133365783] = {
-			[901759391] = {
-				["func"] = [[upvalue]];
+	[3087473413] = {
+		[246347329] = {
+			["senderOption"] = {
+				[82784508] = {
+					[4282425663] = true;
+					[2421886458] = true;
+				};
+				[4210763260] = {
+					[4282425663] = true;
+					[2421886458] = true;
+				};
+				[2997805027] = {
+					[4282425663] = true;
+					[2421886458] = true;
+				};
 			};
-			[2341821539] = {
-				["func"] = [[upvalue]];
-			};
-			[1259062815] = {
-				["func"] = [[loadstring()]];
-			};
-			[76165326] = {
-				["func"] = [[loadstring()]];
+			["sender"] = {
+				[82784508] = [[upvalue]];
+				[4210763260] = [[loadstring()]];
+				[2997805027] = [[upvalue]];
 			};
 		};
-		[3087473413] = {
-			[246347329] = {
-				["senderOption"] = {
-					[82784508] = {
-						[4282425663] = true;
-						[2421886458] = true;
-					};
-					[4210763260] = {
-						[4282425663] = true;
-						[2421886458] = true;
-					};
-					[2997805027] = {
-						[4282425663] = true;
-						[2421886458] = true;
-					};
+		[198332247] = {
+			["func"] = [[upvalue]];
+		};
+		[845558693] = {
+			["func"] = [[upvalue]];
+		};
+		[2670475618] = {
+			["func"] = [[loadstring()]];
+		};
+		[166925615] = {
+			["senderOption"] = {
+				[82784508] = {
+					[4282425663] = true;
+					[2421886458] = true;
 				};
-				["sender"] = {
-					[82784508] = [[upvalue]];
-					[4210763260] = [[loadstring()]];
-					[2997805027] = [[upvalue]];
+				[4210763260] = {
+					[4282425663] = true;
+					[2421886458] = true;
 				};
-			};
-			[198332247] = {
-				["func"] = [[upvalue]];
-			};
-			[845558693] = {
-				["func"] = [[upvalue]];
-			};
-			[2670475618] = {
-				["func"] = [[loadstring()]];
-			};
-			[166925615] = {
-				["senderOption"] = {
-					[82784508] = {
-						[4282425663] = true;
-						[2421886458] = true;
-					};
-					[4210763260] = {
-						[4282425663] = true;
-						[2421886458] = true;
-					};
-					[2997805027] = {
-						[4282425663] = true;
-						[2421886458] = true;
-					};
-				};
-				["sender"] = {
-					[82784508] = [[upvalue]];
-					[4210763260] = [[loadstring()]];
-					[2997805027] = [[upvalue]];
+				[2997805027] = {
+					[4282425663] = true;
+					[2421886458] = true;
 				};
 			};
-			[3485689046] = {
-				["func"] = [[loadstring()]];
-				["option"] = {
-					[1575448960] = true;
-				};
-			};
-			[4181774082] = {
-				["func"] = [[loadstring()]];
+			["sender"] = {
+				[82784508] = [[upvalue]];
+				[4210763260] = [[loadstring()]];
+				[2997805027] = [[upvalue]];
 			};
 		};
-		[3105039150] = {
-			[3838076267] = {
-				["func"] = [[loadstring()]];
-				["option"] = {
-					[1575448960] = true;
-				};
+		[3485689046] = {
+			["func"] = [[loadstring()]];
+			["option"] = {
+				[1575448960] = true;
 			};
-			[246264909] = {
-				["func"] = [[upvalue]];
-				["option"] = {
-					[2357387275] = true;
-					[1575448960] = true;
-				};
+		};
+		[4181774082] = {
+			["func"] = [[loadstring()]];
+		};
+	};
+	[3105039150] = {
+		[3838076267] = {
+			["func"] = [[loadstring()]];
+			["option"] = {
+				[1575448960] = true;
 			};
-			[3715833918] = {
-				["func"] = [[upvalue]];
-				["option"] = {
-					[2357387275] = true;
-					[1575448960] = true;
-				};
+		};
+		[246264909] = {
+			["func"] = [[upvalue]];
+			["option"] = {
+				[2357387275] = true;
+				[1575448960] = true;
 			};
-			[153305378] = {
-				["func"] = [[loadstring()]];
+		};
+		[3715833918] = {
+			["func"] = [[upvalue]];
+			["option"] = {
+				[2357387275] = true;
+				[1575448960] = true;
 			};
-			[2483581401] = {
-				["func"] = [[upvalue]];
+		};
+		[153305378] = {
+			["func"] = [[loadstring()]];
+		};
+		[2483581401] = {
+			["func"] = [[upvalue]];
+		};
+		[1921731407] = {
+			["func"] = [[upvalue]];
+			["option"] = {
+				[2357387275] = true;
+				[1575448960] = true;
 			};
-			[1921731407] = {
-				["func"] = [[upvalue]];
-				["option"] = {
-					[2357387275] = true;
-					[1575448960] = true;
-				};
+		};
+		[143922268] = {
+			["func"] = [[upvalue]];
+		};
+		[3982607305] = {
+			["func"] = [[loadstring()]];
+			["option"] = {
+				[1575448960] = true;
+				[2357387275] = true;
+				[4282425663] = true;
 			};
-			[143922268] = {
-				["func"] = [[upvalue]];
+		};
+		[3650829085] = {
+			["func"] = [[upvalue]];
+			["option"] = {
+				[1575448960] = true;
+				[2357387275] = true;
+				[2421886458] = true;
 			};
-			[3982607305] = {
-				["func"] = [[loadstring()]];
-				["option"] = {
+		};
+		[244265405] = {
+			["senderOption"] = {
+			};
+			["sender"] = {
+				[2813368222] = [[upvalue]];
+				[2778285041] = [[upvalue]];
+			};
+		};
+		[372526078] = {
+			["func"] = [[upvalue]];
+		};
+		[4080547063] = {
+			["func"] = [[upvalue]];
+		};
+		[4294147381] = {
+			["func"] = [[loadstring()]];
+		};
+		[1058848378] = {
+			["func"] = [[upvalue]];
+		};
+		[933049344] = {
+			["func"] = [[upvalue]];
+		};
+		[4214930520] = {
+			["func"] = [[upvalue]];
+			["option"] = {
+				[2357387275] = true;
+				[1575448960] = true;
+			};
+		};
+		[3581010964] = {
+			["func"] = [[upvalue]];
+			["option"] = {
+				[1575448960] = true;
+			};
+		};
+		[1910934688] = {
+			["func"] = [[upvalue]];
+			["option"] = {
+				[1575448960] = true;
+			};
+		};
+		[181249606] = {
+			["func"] = [[upvalue]];
+		};
+		[2036803604] = {
+			["func"] = [[upvalue]];
+			["option"] = {
+				[1575448960] = true;
+			};
+		};
+		[824988796] = {
+			["senderOption"] = {
+				[1417715402] = {
 					[1575448960] = true;
 					[2357387275] = true;
 					[4282425663] = true;
 				};
-			};
-			[3650829085] = {
-				["func"] = [[upvalue]];
-				["option"] = {
-					[1575448960] = true;
+				[2494578058] = {
 					[2357387275] = true;
 					[2421886458] = true;
 				};
-			};
-			[244265405] = {
-				["senderOption"] = {
+				[485293675] = {
+					[1575448960] = true;
 				};
-				["sender"] = {
-					[2813368222] = [[upvalue]];
-					[2778285041] = [[upvalue]];
-				};
-			};
-			[372526078] = {
-				["func"] = [[upvalue]];
-			};
-			[4080547063] = {
-				["func"] = [[upvalue]];
-			};
-			[4294147381] = {
-				["func"] = [[loadstring()]];
-			};
-			[1058848378] = {
-				["func"] = [[upvalue]];
-			};
-			[933049344] = {
-				["func"] = [[upvalue]];
-			};
-			[4214930520] = {
-				["func"] = [[upvalue]];
-				["option"] = {
+				[2862635612] = {
 					[2357387275] = true;
-					[1575448960] = true;
-				};
-			};
-			[3581010964] = {
-				["func"] = [[upvalue]];
-				["option"] = {
-					[1575448960] = true;
-				};
-			};
-			[1910934688] = {
-				["func"] = [[upvalue]];
-				["option"] = {
-					[1575448960] = true;
-				};
-			};
-			[181249606] = {
-				["func"] = [[upvalue]];
-			};
-			[2036803604] = {
-				["func"] = [[upvalue]];
-				["option"] = {
-					[1575448960] = true;
-				};
-			};
-			[824988796] = {
-				["senderOption"] = {
-					[1417715402] = {
-						[1575448960] = true;
-						[2357387275] = true;
-						[4282425663] = true;
-					};
-					[2494578058] = {
-						[2357387275] = true;
-						[2421886458] = true;
-					};
-					[485293675] = {
-						[1575448960] = true;
-					};
-					[2862635612] = {
-						[2357387275] = true;
-						[4282425663] = true;
-					};
-					[4245290855] = {
-						[1575448960] = true;
-						[2357387275] = true;
-						[2421886458] = true;
-					};
-					[624210908] = {
-						[2357387275] = true;
-						[4282425663] = true;
-					};
-					[4223717864] = {
-						[2357387275] = true;
-						[1575448960] = true;
-					};
-				};
-				["sender"] = {
-					[1417715402] = [[upvalue]];
-					[2494578058] = [[upvalue]];
-					[485293675] = [[upvalue]];
-					[2862635612] = [[upvalue]];
-					[4245290855] = [[upvalue]];
-					[624210908] = [[upvalue]];
-					[4223717864] = [[upvalue]];
-				};
-			};
-			[183117524] = {
-				["func"] = [[upvalue]];
-				["option"] = {
-					[1575448960] = true;
-				};
-			};
-		};
-		[626208720] = {
-			[1275897277] = {
-				["func"] = [[loadstring()]];
-			};
-			[1793001496] = {
-				["func"] = [[upvalue]];
-				["option"] = {
-					[1575448960] = true;
 					[4282425663] = true;
+				};
+				[4245290855] = {
+					[1575448960] = true;
 					[2357387275] = true;
 					[2421886458] = true;
 				};
+				[624210908] = {
+					[2357387275] = true;
+					[4282425663] = true;
+				};
+				[4223717864] = {
+					[2357387275] = true;
+					[1575448960] = true;
+				};
 			};
-			[859386481] = {
-				["func"] = [[loadstring()]];
-			};
-			[2700032841] = {
-				["func"] = [[loadstring()]];
+			["sender"] = {
+				[1417715402] = [[upvalue]];
+				[2494578058] = [[upvalue]];
+				[485293675] = [[upvalue]];
+				[2862635612] = [[upvalue]];
+				[4245290855] = [[upvalue]];
+				[624210908] = [[upvalue]];
+				[4223717864] = [[upvalue]];
 			};
 		};
-		[3380938768] = {
-			[3709244990] = {
-				["senderOption"] = {
-					[1742636619] = {
-						[1575448960] = true;
-					};
-					[1326660801] = {
-						[2357387275] = true;
-						[2421886458] = true;
-					};
-					[2441407960] = {
-						[2357387275] = true;
-						[2421886458] = true;
-					};
-					[2804547886] = {
-						[1575448960] = true;
-					};
-					[1310739069] = {
-						[1575448960] = true;
-					};
-					[1402021236] = {
-						[2357387275] = true;
-						[2421886458] = true;
-					};
-					[1946533851] = {
-						[1575448960] = true;
-					};
-				};
-				["sender"] = {
-					[2047369972] = [[upvalue]];
-					[1907895030] = [[loadstring()]];
-					[3810658118] = [[loadstring()]];
-					[2804547886] = [[upvalue]];
-					[3790483397] = [[upvalue]];
-					[2441407960] = [[upvalue]];
-					[1564764841] = [[loadstring()]];
-					[1946533851] = [[upvalue]];
-					[1402021236] = [[upvalue]];
-					[1310739069] = [[upvalue]];
-					[1742636619] = [[loadstring()]];
-					[668199928] = [[upvalue]];
-					[1326660801] = [[upvalue]];
-				};
-			};
-		};
-		[4113713594] = {
-			[3709244990] = {
-				["func"] = [[upvalue]];
-			};
-		};
-		[2524903270] = {
-			[166925615] = {
-				["senderOption"] = {
-				};
-				["sender"] = {
-					[1374081323] = [[upvalue]];
-				};
-			};
-		};
-		[3333891920] = {
-			[2721234631] = {
-				["func"] = [[loadstring()]];
-			};
-			[634172853] = {
-				["func"] = [[upvalue]];
-			};
-			[1536531506] = {
-				["func"] = [[upvalue]];
-			};
-			[3129522761] = {
-				["senderOption"] = {
-				};
-				["sender"] = {
-					[65535] = [[upvalue]];
-				};
-			};
-			[3606603722] = {
-				["func"] = [[upvalue]];
-			};
-			[2938346020] = {
-				["senderOption"] = {
-				};
-				["sender"] = {
-					[65535] = [[upvalue]];
-				};
-			};
-			[4034501082] = {
-				["func"] = [[loadstring()]];
-			};
-			[2044332235] = {
-				["func"] = [[upvalue]];
+		[183117524] = {
+			["func"] = [[upvalue]];
+			["option"] = {
+				[1575448960] = true;
 			};
 		};
 	};
-	["SetMissionStartPositionMtbsClusterPosition"] = [[loadstring()]];
-	["SafeStopSettingOnMissionReload"] = [[loadstring()]];
-	["OnMissionStart"] = [[upvalue]];
-	["OutsideOfHotZoneCount"] = [[upvalue]];
-	["RequestLoad"] = [[loadstring()]];
-	["GetCurrentLocationHeliMissionAndLocationCode"] = [[loadstring()]];
-	["VarResetOnNewMission"] = [[upvalue]];
-	["IsChunkLoading"] = [[loadstring()]];
-	["ReturnToTitle"] = [[upvalue]];
-	["ResetIsStartFromHelispace"] = [[loadstring()]];
-	["OnPlayerDead"] = [[loadstring()]];
-	["SetHelicopterMissionStartPosition"] = [[loadstring()]];
-	["CancelLoadOnResult"] = [[upvalue]];
-	["AbortForRideFultonContainer"] = [[upvalue]];
-	["OnAbortMissionPreparation"] = [[upvalue]];
-	["IsHardMission"] = [[loadstring()]];
-	["_scriptInstanceId"] = [[userdata]]
-	["OnMissionGameEndFadeOutFinish"] = [[upvalue]];
-	["DisableObjective"] = [[loadstring()]];
-	["DisableChildrenObjective"] = [[upvalue]];
-	["IsEnableAnyParentMissionObjective"] = [[upvalue]];
-	["LoadForMissionAbort"] = [[upvalue]];
-	["GetParentObjectiveName"] = [[loadstring()]];
-	["UpdateCheckPoint"] = [[loadstring()]];
-	["OnFinishUpdateObjectiveRadio"] = [[upvalue]];
-	["FadeOutOnMissionGameEnd"] = [[upvalue]];
-	["GetNormalMissionCodeFromHardMission"] = [[loadstring()]];
-	["SetFobPlayerStartPoint"] = [[loadstring()]];
-	["IsSubsistenceMission"] = [[loadstring()]];
-	["IsMissionStart"] = [[loadstring()]];
-	["EstablishedMissionClear"] = [[upvalue]];
-	["IsNeedSetMissionStartPositionToClusterPosition"] = [[upvalue]];
-	["VarSaveOnUpdateCheckPoint"] = [[upvalue]];
-	["SetHelicopterDoorOpenTime"] = [[upvalue]];
-	["SetMissionOrderBoxPosition"] = [[upvalue]];
-	["CanMissionAbortByMenu"] = [[loadstring()]];
-	["MissionFinalize"] = [[upvalue]];
-	["VarSaveForMissionAbort"] = [[upvalue]];
-	["SetPlayRecordClearInfo"] = [[loadstring()]];
-	["AbortForRideOnHelicopter"] = [[upvalue]];
-	["EnableAlertOutOfMissionArea"] = [[upvalue]];
-	["SetNeedWaitMissionInitialize"] = [[loadstring()]];
-	["AbortForOutOfMissionArea"] = [[upvalue]];
-	["_ReserveMissionClearOnOutOfHotZone"] = [[upvalue]];
-	["CheckMessageOptionWhileLoading"] = [[loadstring()]];
-	["UpdateAtCanMissionClear"] = [[upvalue]];
-	["CheckGameOverDemo"] = [[upvalue]];
-	["ReserveMissionClear"] = [[upvalue]];
-	["OnReload"] = [[upvalue]];
-	["LoadWithChunkCheck"] = [[upvalue]];
-	["FadeOutOnMissionAbort"] = [[loadstring()]];
-	["EvaluateVehicleCarryOption"] = [[upvalue]];
-	["ExecuteVehicleSaveCarryOnAbort"] = [[loadstring()]];
-	["AlwaysMissionCanStart"] = [[loadstring()]];
-	["SeizeReliefVehicleOnClear"] = [[upvalue]];
-	["OnEndMissionPreparation"] = [[upvalue]];
-	["SelectNextMissionHeliStartRoute"] = [[upvalue]];
-	["MessagesWhileLoading"] = [[upvalue]];
-	["SeizeReliefVehicleOnAbort"] = [[loadstring()]];
-	["AcceptMission"] = [[upvalue]];
-	["AcceptStartFobSneaking"] = [[upvalue]];
-	["ShowMissionResult"] = [[upvalue]];
-	["ExecuteSystemCallback"] = [[upvalue]];
-	["CreateMbSaveCoroutine"] = [[upvalue]];
-	["ShowGameOverMenu"] = [[upvalue]];
-	["IsStartFromHelispace"] = [[loadstring()]];
-	["SetNextMissionStartHeliRoute"] = [[loadstring()]];
-	["ReserveGameOver"] = [[loadstring()]];
-	["ResetIsStartFromFreePlay"] = [[loadstring()]];
-	["MgoCheckAlertArea"] = [[upvalue]];
-	["CheckMissionClearOnRideOnFultonContainer"] = [[upvalue]];
-	["RegiserMissionSystemCallback"] = [[upvalue]];
-	["GetMissionName"] = [[loadstring()]];
-	["AcceptMissionOnFreeMission"] = [[upvalue]];
-	["Messages"] = [[upvalue]];
-	["GameOverReturnToTitle"] = [[upvalue]];
-	["StartEmergencyMissionTimer"] = [[upvalue]];
-	["IsCanMissionClear"] = [[loadstring()]];
-	["AbortMission"] = [[upvalue]];
-	["EvaluateReliefVehicleSeizable"] = [[loadstring()]];
-	["GetMissionStartRecoverDemoType"] = [[loadstring()]];
-	["StartHelicopterDoorOpenTimer"] = [[upvalue]];
-	["ReserveGameOverOnPlayerKillChild"] = [[upvalue]];
-	["IgnoreAlertOutOfMissionAreaForBossQuiet"] = [[loadstring()]];
-	["CanMissionClear"] = [[upvalue]];
-	["ExecuteRestartMission"] = [[upvalue]];
-	["OnChangeFobDefenceGameOver"] = [[upvalue]];
-	["RestartMission"] = [[upvalue]];
-	["EnableAlertOutOfMissionAreaIfAlertAreaStart"] = [[upvalue]];
-	["ReserveMissionClearOnOutOfHotZone"] = [[upvalue]];
-	["ReturnToMission"] = [[upvalue]];
-	["RegisterMissionID"] = [[upvalue]];
-	["ExecuteContinueFromCheckPoint"] = [[upvalue]];
-	["OnAllocate"] = [[upvalue]];
-	["GetMissionClearType"] = [[loadstring()]];
-	["AcceptEmergencyMission"] = [[upvalue]];
-	["GetMissionID"] = [[loadstring()]];
-	["AcceptMissionOnMBFreeMission"] = [[upvalue]];
-	["IsSysMissionId"] = [[loadstring()]];
-	["ExecuteMissionFinalize"] = [[upvalue]];
-	["ShowMissionReward"] = [[upvalue]];
-	["ReserveMissionStartRecoverSoundDemo"] = [[upvalue]];
-	["StartJingleOnHelicopterClear"] = [[loadstring()]];
-	["EnablePauseForShowResult"] = [[loadstring()]];
+	[626208720] = {
+		[1275897277] = {
+			["func"] = [[loadstring()]];
+		};
+		[1793001496] = {
+			["func"] = [[upvalue]];
+			["option"] = {
+				[1575448960] = true;
+				[4282425663] = true;
+				[2357387275] = true;
+				[2421886458] = true;
+			};
+		};
+		[859386481] = {
+			["func"] = [[loadstring()]];
+		};
+		[2700032841] = {
+			["func"] = [[loadstring()]];
+		};
+	};
+	[3380938768] = {
+		[3709244990] = {
+			["senderOption"] = {
+				[1742636619] = {
+					[1575448960] = true;
+				};
+				[1326660801] = {
+					[2357387275] = true;
+					[2421886458] = true;
+				};
+				[2441407960] = {
+					[2357387275] = true;
+					[2421886458] = true;
+				};
+				[2804547886] = {
+					[1575448960] = true;
+				};
+				[1310739069] = {
+					[1575448960] = true;
+				};
+				[1402021236] = {
+					[2357387275] = true;
+					[2421886458] = true;
+				};
+				[1946533851] = {
+					[1575448960] = true;
+				};
+			};
+			["sender"] = {
+				[2047369972] = [[upvalue]];
+				[1907895030] = [[loadstring()]];
+				[3810658118] = [[loadstring()]];
+				[2804547886] = [[upvalue]];
+				[3790483397] = [[upvalue]];
+				[2441407960] = [[upvalue]];
+				[1564764841] = [[loadstring()]];
+				[1946533851] = [[upvalue]];
+				[1402021236] = [[upvalue]];
+				[1310739069] = [[upvalue]];
+				[1742636619] = [[loadstring()]];
+				[668199928] = [[upvalue]];
+				[1326660801] = [[upvalue]];
+			};
+		};
+	};
+	[4113713594] = {
+		[3709244990] = {
+			["func"] = [[upvalue]];
+		};
+	};
+	[2524903270] = {
+		[166925615] = {
+			["senderOption"] = {
+			};
+			["sender"] = {
+				[1374081323] = [[upvalue]];
+			};
+		};
+	};
+	[3333891920] = {
+		[2721234631] = {
+			["func"] = [[loadstring()]];
+		};
+		[634172853] = {
+			["func"] = [[upvalue]];
+		};
+		[1536531506] = {
+			["func"] = [[upvalue]];
+		};
+		[3129522761] = {
+			["senderOption"] = {
+			};
+			["sender"] = {
+				[65535] = [[upvalue]];
+			};
+		};
+		[3606603722] = {
+			["func"] = [[upvalue]];
+		};
+		[2938346020] = {
+			["senderOption"] = {
+			};
+			["sender"] = {
+				[65535] = [[upvalue]];
+			};
+		};
+		[4034501082] = {
+			["func"] = [[loadstring()]];
+		};
+		[2044332235] = {
+			["func"] = [[upvalue]];
+		};
+	};
+};
+["SetMissionStartPositionMtbsClusterPosition"] = [[loadstring()]];
+["SafeStopSettingOnMissionReload"] = [[loadstring()]];
+["OnMissionStart"] = [[upvalue]];
+["OutsideOfHotZoneCount"] = [[upvalue]];
+["RequestLoad"] = [[loadstring()]];
+["GetCurrentLocationHeliMissionAndLocationCode"] = [[loadstring()]];
+["VarResetOnNewMission"] = [[upvalue]];
+["IsChunkLoading"] = [[loadstring()]];
+["ReturnToTitle"] = [[upvalue]];
+["ResetIsStartFromHelispace"] = [[loadstring()]];
+["OnPlayerDead"] = [[loadstring()]];
+["SetHelicopterMissionStartPosition"] = [[loadstring()]];
+["CancelLoadOnResult"] = [[upvalue]];
+["AbortForRideFultonContainer"] = [[upvalue]];
+["OnAbortMissionPreparation"] = [[upvalue]];
+["IsHardMission"] = [[loadstring()]];
+["_scriptInstanceId"] = [[userdata]]
+["OnMissionGameEndFadeOutFinish"] = [[upvalue]];
+["DisableObjective"] = [[loadstring()]];
+["DisableChildrenObjective"] = [[upvalue]];
+["IsEnableAnyParentMissionObjective"] = [[upvalue]];
+["LoadForMissionAbort"] = [[upvalue]];
+["GetParentObjectiveName"] = [[loadstring()]];
+["UpdateCheckPoint"] = [[loadstring()]];
+["OnFinishUpdateObjectiveRadio"] = [[upvalue]];
+["FadeOutOnMissionGameEnd"] = [[upvalue]];
+["GetNormalMissionCodeFromHardMission"] = [[loadstring()]];
+["SetFobPlayerStartPoint"] = [[loadstring()]];
+["IsSubsistenceMission"] = [[loadstring()]];
+["IsMissionStart"] = [[loadstring()]];
+["EstablishedMissionClear"] = [[upvalue]];
+["IsNeedSetMissionStartPositionToClusterPosition"] = [[upvalue]];
+["VarSaveOnUpdateCheckPoint"] = [[upvalue]];
+["SetHelicopterDoorOpenTime"] = [[upvalue]];
+["SetMissionOrderBoxPosition"] = [[upvalue]];
+["CanMissionAbortByMenu"] = [[loadstring()]];
+["MissionFinalize"] = [[upvalue]];
+["VarSaveForMissionAbort"] = [[upvalue]];
+["SetPlayRecordClearInfo"] = [[loadstring()]];
+["AbortForRideOnHelicopter"] = [[upvalue]];
+["EnableAlertOutOfMissionArea"] = [[upvalue]];
+["SetNeedWaitMissionInitialize"] = [[loadstring()]];
+["AbortForOutOfMissionArea"] = [[upvalue]];
+["_ReserveMissionClearOnOutOfHotZone"] = [[upvalue]];
+["CheckMessageOptionWhileLoading"] = [[loadstring()]];
+["UpdateAtCanMissionClear"] = [[upvalue]];
+["CheckGameOverDemo"] = [[upvalue]];
+["ReserveMissionClear"] = [[upvalue]];
+["OnReload"] = [[upvalue]];
+["LoadWithChunkCheck"] = [[upvalue]];
+["FadeOutOnMissionAbort"] = [[loadstring()]];
+["EvaluateVehicleCarryOption"] = [[upvalue]];
+["ExecuteVehicleSaveCarryOnAbort"] = [[loadstring()]];
+["AlwaysMissionCanStart"] = [[loadstring()]];
+["SeizeReliefVehicleOnClear"] = [[upvalue]];
+["OnEndMissionPreparation"] = [[upvalue]];
+["SelectNextMissionHeliStartRoute"] = [[upvalue]];
+["MessagesWhileLoading"] = [[upvalue]];
+["SeizeReliefVehicleOnAbort"] = [[loadstring()]];
+["AcceptMission"] = [[upvalue]];
+["AcceptStartFobSneaking"] = [[upvalue]];
+["ShowMissionResult"] = [[upvalue]];
+["ExecuteSystemCallback"] = [[upvalue]];
+["CreateMbSaveCoroutine"] = [[upvalue]];
+["ShowGameOverMenu"] = [[upvalue]];
+["IsStartFromHelispace"] = [[loadstring()]];
+["SetNextMissionStartHeliRoute"] = [[loadstring()]];
+["ReserveGameOver"] = [[loadstring()]];
+["ResetIsStartFromFreePlay"] = [[loadstring()]];
+["MgoCheckAlertArea"] = [[upvalue]];
+["CheckMissionClearOnRideOnFultonContainer"] = [[upvalue]];
+["RegiserMissionSystemCallback"] = [[upvalue]];
+["GetMissionName"] = [[loadstring()]];
+["AcceptMissionOnFreeMission"] = [[upvalue]];
+["Messages"] = [[upvalue]];
+["GameOverReturnToTitle"] = [[upvalue]];
+["StartEmergencyMissionTimer"] = [[upvalue]];
+["IsCanMissionClear"] = [[loadstring()]];
+["AbortMission"] = [[upvalue]];
+["EvaluateReliefVehicleSeizable"] = [[loadstring()]];
+["GetMissionStartRecoverDemoType"] = [[loadstring()]];
+["StartHelicopterDoorOpenTimer"] = [[upvalue]];
+["ReserveGameOverOnPlayerKillChild"] = [[upvalue]];
+["IgnoreAlertOutOfMissionAreaForBossQuiet"] = [[loadstring()]];
+["CanMissionClear"] = [[upvalue]];
+["ExecuteRestartMission"] = [[upvalue]];
+["OnChangeFobDefenceGameOver"] = [[upvalue]];
+["RestartMission"] = [[upvalue]];
+["EnableAlertOutOfMissionAreaIfAlertAreaStart"] = [[upvalue]];
+["ReserveMissionClearOnOutOfHotZone"] = [[upvalue]];
+["ReturnToMission"] = [[upvalue]];
+["RegisterMissionID"] = [[upvalue]];
+["ExecuteContinueFromCheckPoint"] = [[upvalue]];
+["OnAllocate"] = [[upvalue]];
+["GetMissionClearType"] = [[loadstring()]];
+["AcceptEmergencyMission"] = [[upvalue]];
+["GetMissionID"] = [[loadstring()]];
+["AcceptMissionOnMBFreeMission"] = [[upvalue]];
+["IsSysMissionId"] = [[loadstring()]];
+["ExecuteMissionFinalize"] = [[upvalue]];
+["ShowMissionReward"] = [[upvalue]];
+["ReserveMissionStartRecoverSoundDemo"] = [[upvalue]];
+["StartJingleOnHelicopterClear"] = [[loadstring()]];
+["EnablePauseForShowResult"] = [[loadstring()]];

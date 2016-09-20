@@ -1,6 +1,6 @@
-	["_className"] = "TppSimpleGameSequenceSystem";
-	["IsShowLoadScreen"] = [[upvalue]];
-	["SetShowLoadScreen"] = [[upvalue]];
-	["SetEventualMissionCode"] = [[upvalue]];
-	["Start"] = [[upvalue]];
-	["CheckHostConnection"] = [[upvalue]];
+["_className"] = "TppSimpleGameSequenceSystem";
+["IsShowLoadScreen"] = [[upvalue]];
+["SetShowLoadScreen"] = [[upvalue]];
+["SetEventualMissionCode"] = [[upvalue]];
+["Start"] = [[upvalue]];
+["CheckHostConnection"] = [[upvalue]];

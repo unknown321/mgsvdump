@@ -1,2 +1,2 @@
-	["_scriptPath"] = "RulesetConfig";
-	["_scriptInstanceId"] = [[userdata]]
+["_scriptPath"] = "RulesetConfig";
+["_scriptInstanceId"] = [[userdata]]

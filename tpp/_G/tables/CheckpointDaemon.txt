@@ -1,3 +1,2 @@
-	["_className"] = "CheckpointDaemon";
-	["GetInstance"] = [[upvalue]];
-	["__call"] = [[non-lua function]];
+["_className"] = "CheckpointDaemon";
+["GetInstance"] = [[upvalue]];

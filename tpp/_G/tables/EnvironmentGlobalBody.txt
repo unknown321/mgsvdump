@@ -1,1 +1,1 @@
-	["_className"] = "EnvironmentGlobalBody";
+["_className"] = "EnvironmentGlobalBody";

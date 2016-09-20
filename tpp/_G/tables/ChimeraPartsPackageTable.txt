@@ -1,2 +1,2 @@
-	["_scriptPath"] = "ChimeraPartsPackageTable";
-	["_scriptInstanceId"] = [[userdata]]
+["_scriptPath"] = "ChimeraPartsPackageTable";
+["_scriptInstanceId"] = [[userdata]]

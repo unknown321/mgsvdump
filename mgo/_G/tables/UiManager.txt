@@ -1,5 +1,5 @@
-	["_className"] = "UiManager";
-	["ScrollUpDebugPrint"] = [[upvalue]];
-	["DumpEntryUig"] = [[upvalue]];
-	["ScrollDownDebugPrint"] = [[upvalue]];
-	["ResetScrollDebugPrint"] = [[upvalue]];
+["_className"] = "UiManager";
+["ScrollUpDebugPrint"] = [[upvalue]];
+["DumpEntryUig"] = [[upvalue]];
+["ScrollDownDebugPrint"] = [[upvalue]];
+["ResetScrollDebugPrint"] = [[upvalue]];

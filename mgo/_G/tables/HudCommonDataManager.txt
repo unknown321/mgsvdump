@@ -1,7 +1,7 @@
-	["_className"] = "HudCommonDataManager";
-	["GetInstance"] = [[upvalue]];
-	["CallPushObjectiveNotification"] = [[upvalue]];
-	["Create"] = [[upvalue]];
-	["CallMessage"] = [[upvalue]];
-	["CombatMessage"] = [[upvalue]];
-	["RulesetMessage"] = [[upvalue]];
+["_className"] = "HudCommonDataManager";
+["GetInstance"] = [[upvalue]];
+["CallPushObjectiveNotification"] = [[upvalue]];
+["Create"] = [[upvalue]];
+["CallMessage"] = [[upvalue]];
+["CombatMessage"] = [[upvalue]];
+["RulesetMessage"] = [[upvalue]];

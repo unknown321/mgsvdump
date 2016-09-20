@@ -1,8 +1,8 @@
-	["AcquireOnPickUp"] = [[loadstring()]];
-	["AcquireOnMissionOpen"] = [[upvalue]];
-	["_scriptInstanceId"] = [[userdata]]
-	["_scriptPath"] = "TppCassette";
-	["AcquireOnMissionClear"] = [[upvalue]];
-	["Acquire"] = [[loadstring()]];
-	["OnEnterFreeHeliPlay"] = [[upvalue]];
-	["OnEstablishMissionClear"] = [[upvalue]];
+["AcquireOnPickUp"] = [[loadstring()]];
+["AcquireOnMissionOpen"] = [[upvalue]];
+["_scriptInstanceId"] = [[userdata]]
+["_scriptPath"] = "TppCassette";
+["AcquireOnMissionClear"] = [[upvalue]];
+["Acquire"] = [[loadstring()]];
+["OnEnterFreeHeliPlay"] = [[upvalue]];
+["OnEstablishMissionClear"] = [[upvalue]];

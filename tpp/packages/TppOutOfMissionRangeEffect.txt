@@ -1,4 +1,4 @@
-	["Enable"] = [[non-lua function]];
-	["SetControlEnable"] = [[non-lua function]];
-	["SetupInterp"] = [[non-lua function]];
-	["Disable"] = [[non-lua function]];
+["Enable"] = [[non-lua function]];
+["SetControlEnable"] = [[non-lua function]];
+["SetupInterp"] = [[non-lua function]];
+["Disable"] = [[non-lua function]];
