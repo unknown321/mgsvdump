@@ -3,6 +3,4 @@
 	["SetActive"] = [[upvalue]];
 	["CancelParameter"] = [[upvalue]];
 	["OverwriteParameter"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 }

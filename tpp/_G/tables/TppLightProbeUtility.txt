@@ -1,7 +1,5 @@
 {
 	["_className"] = "TppLightProbeUtility";
-	["__newindex"] = [[upvalue]];
 	["DebugSetLightRate"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["__call"] = [[non-lua function]];
 }

@@ -4,6 +4,4 @@
 	["DumpEntryUig"] = [[upvalue]];
 	["ScrollDownDebugPrint"] = [[upvalue]];
 	["ResetScrollDebugPrint"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 }

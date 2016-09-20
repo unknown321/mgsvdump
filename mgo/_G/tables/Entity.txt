@@ -1,6 +1,5 @@
 {
 	["AddProperty"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 	["_scriptPath"] = "Entity";
 	["DebugGetEntityCount"] = [[upvalue]];
 	["GetPropertyInfo"] = [[upvalue]];
@@ -11,6 +10,5 @@
 	["IsNull"] = [[loadstring()]];
 	["GetClassName"] = [[upvalue]];
 	["IsKindOf"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["Null"] = [[loadstring()]];
 }

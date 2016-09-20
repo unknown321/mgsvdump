@@ -5,7 +5,5 @@
 	["StopRecord"] = [[upvalue]];
 	["StartPlay"] = [[upvalue]];
 	["_className"] = "Replay";
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["__call"] = [[upvalue]];
 }

@@ -2,6 +2,4 @@
 	["_className"] = "MgoActorParm";
 	["RemoveDynamicProperty"] = [[upvalue]];
 	["AddDynamicProperty"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 }

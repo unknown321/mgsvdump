@@ -1,7 +1,5 @@
 {
 	["_className"] = "TerrainRender";
-	["__index"] = [[upvalue]];
 	["ExportPackedMaterialTexture"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 	["ClearPackedMaterialTexture"] = [[upvalue]];
 }

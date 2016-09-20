@@ -1,6 +1,4 @@
 {
 	["_className"] = "PauseController";
 	["Create"] = [[upvalue]];
-	["__index"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 }

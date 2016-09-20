@@ -9,8 +9,6 @@
 	["FadeDisregard"] = [[upvalue]];
 	["IsPadReleaseMode"] = [[upvalue]];
 	["WhiteFadeOut"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["EditModeDisregard"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 	["FadeIn"] = [[upvalue]];
 }

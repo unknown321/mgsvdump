@@ -1,6 +1,4 @@
 {
 	["_className"] = "EnvironmentAreaBody";
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["SetEnable"] = [[upvalue]];
 }

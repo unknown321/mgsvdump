@@ -4,7 +4,5 @@
 	["RegisterRealPath"] = [[upvalue]];
 	["Register"] = [[upvalue]];
 	["Replace"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["Add"] = [[upvalue]];
 }

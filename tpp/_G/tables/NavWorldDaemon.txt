@@ -1,8 +1,6 @@
 {
 	["_className"] = "NavWorldDaemon";
 	["AddScene"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 	["AddWorld"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["__call"] = [[non-lua function]];
 }

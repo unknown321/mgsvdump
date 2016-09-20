@@ -1,6 +1,4 @@
 {
 	["_className"] = "GraphxSpatialGraphData";
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["GetGraphNode"] = [[upvalue]];
 }

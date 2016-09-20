@@ -6,6 +6,4 @@
 	["CallMessage"] = [[upvalue]];
 	["CombatMessage"] = [[upvalue]];
 	["RulesetMessage"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 }

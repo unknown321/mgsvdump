@@ -1,5 +1,3 @@
 {
 	["_className"] = "GeoShapeBody";
-	["__index"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 }

@@ -1,5 +1,3 @@
 {
 	["_className"] = "GeoShape";
-	["__index"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 }

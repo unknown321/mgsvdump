@@ -3,6 +3,4 @@
 	["ClearAll"] = [[upvalue]];
 	["Create"] = [[upvalue]];
 	["CheckUsable"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 }

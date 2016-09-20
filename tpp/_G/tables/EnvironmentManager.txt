@@ -1,7 +1,5 @@
 {
 	["_className"] = "EnvironmentManager";
 	["IsEditMode"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["SetEditMode"] = [[upvalue]];
 }

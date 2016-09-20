@@ -51,7 +51,6 @@
 	["GetSpecialRole"] = [[upvalue]];
 	["SetSpecialRole"] = [[upvalue]];
 	["SetPlayerTaggedStatus"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 	["GetBuddyIndex"] = [[upvalue]];
 	["SetStatByPlayerIndex"] = [[upvalue]];
 	["SetPlayerTeam"] = [[upvalue]];
@@ -83,7 +82,6 @@
 	["GetTotalStatByPlayerIndex"] = [[upvalue]];
 	["GetStatByPlayerIndex"] = [[upvalue]];
 	["SetPlayerSortingStat"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["IsRegularTimeOver"] = [[upvalue]];
 	["SetDebugFlyEnabled"] = [[upvalue]];
 	["GetTimeSpentInCurrentRound"] = [[upvalue]];

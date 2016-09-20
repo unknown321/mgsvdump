@@ -5,6 +5,4 @@
 	["SetEventualMissionCode"] = [[upvalue]];
 	["Start"] = [[upvalue]];
 	["CheckHostConnection"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 }

@@ -2,6 +2,4 @@
 	["_className"] = "SoundAreaMemberBody";
 	["ResetOverWrite"] = [[upvalue]];
 	["SetOverWrite"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 }

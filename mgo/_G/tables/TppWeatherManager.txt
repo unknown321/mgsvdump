@@ -1,7 +1,6 @@
 {
 	["_className"] = "TppWeatherManager";
 	["GetInstance"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["SwitchWeatherDesc"] = [[upvalue]];
 	["PauseNewWeatherChangeRandom"] = [[upvalue]];
 	["RequestWeather"] = [[upvalue]];
@@ -12,6 +11,5 @@
 	["SetNewWeatherChangeRandomParameters"] = [[upvalue]];
 	["SetNewWeatherProbabilities"] = [[upvalue]];
 	["GetCurrentClock"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 	["RequestTag"] = [[upvalue]];
 }

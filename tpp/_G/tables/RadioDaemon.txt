@@ -7,7 +7,6 @@
 	["DisableFlagIsCallCompleted"] = [[upvalue]];
 	["RegisterRadioGroupToRadioGroupSetPushback"] = [[upvalue]];
 	["DisableAllFlagIsMarkAsRead"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 	["IsRadioGroupEnable"] = [[upvalue]];
 	["DisableRadio"] = [[upvalue]];
 	["ResetRadioGroupAlreadyReadFlagForDebug"] = [[upvalue]];
@@ -37,7 +36,6 @@
 	["StopDirectNoEndMessage"] = [[upvalue]];
 	["_className"] = "RadioDaemon";
 	["UnregisterRadioGroupFromActiveRadioGroupSetWithIndex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["RegisterRadioGroupSetOverwrite"] = [[upvalue]];
 	["RegisterRadioGroupSetPushback"] = [[upvalue]];
 	["PlayDirect"] = [[upvalue]];

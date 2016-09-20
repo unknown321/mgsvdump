@@ -1,5 +1,3 @@
 {
 	["_className"] = "TppMotherBaseStageBlockControllerData";
-	["__index"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 }

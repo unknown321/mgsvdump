@@ -6,7 +6,5 @@
 	["_className"] = "TppSystemUtility";
 	["GetIsBeta"] = [[upvalue]];
 	["GetCurrentGameMode"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 	["SetSquadEnableState"] = [[loadstring()]];
-	["__index"] = [[upvalue]];
 }

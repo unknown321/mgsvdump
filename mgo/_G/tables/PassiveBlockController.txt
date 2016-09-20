@@ -4,6 +4,4 @@
 	["LoadRequest"] = [[upvalue]];
 	["GetBlockGroup"] = [[upvalue]];
 	["UnloadRequest"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 }

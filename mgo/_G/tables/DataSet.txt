@@ -6,6 +6,4 @@
 	["GetAllDataList"] = [[upvalue]];
 	["GetRootTransformData"] = [[upvalue]];
 	["GetDataList"] = [[upvalue]];
-	["__index"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 }

@@ -8,6 +8,4 @@
 	["_scriptPath"] = "Scene";
 	["GetActorList"] = [[upvalue]];
 	["FindActor"] = [[upvalue]];
-	["__index"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 }

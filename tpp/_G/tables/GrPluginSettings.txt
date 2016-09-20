@@ -1,6 +1,4 @@
 {
 	["_className"] = "GrPluginSettings";
 	["SetRenderName"] = [[upvalue]];
-	["__index"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 }

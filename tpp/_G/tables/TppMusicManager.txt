@@ -13,7 +13,6 @@
 	["RegisterNeutralMusic"] = [[upvalue]];
 	["IsPlayingPositionalMusic"] = [[upvalue]];
 	["PlayPositionalMusic"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["DisableHeliNewPlay"] = [[upvalue]];
 	["_className"] = "TppMusicManager";
 	["PlayHeliMusic"] = [[upvalue]];
@@ -30,5 +29,4 @@
 	["PauseMusicPlayer"] = [[upvalue]];
 	["PlaySceneMusic"] = [[upvalue]];
 	["EndSceneMode"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 }

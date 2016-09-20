@@ -1,6 +1,4 @@
 {
 	["_className"] = "DemoBlockPositionSetterBody";
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["SetEnable"] = [[upvalue]];
 }

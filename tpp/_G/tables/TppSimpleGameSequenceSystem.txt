@@ -1,6 +1,4 @@
 {
 	["_className"] = "TppSimpleGameSequenceSystem";
 	["Start"] = [[upvalue]];
-	["__index"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 }

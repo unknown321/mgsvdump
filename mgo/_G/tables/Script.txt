@@ -5,7 +5,5 @@
 	["LoadLibraryAsync"] = [[upvalue]];
 	["LoadLibrary"] = [[upvalue]];
 	["DebugSetAlwaysLoadingFileEnabled"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["GetScript"] = [[upvalue]];
 }

@@ -3,10 +3,8 @@
 	["SetMainListener"] = [[upvalue]];
 	["GetViewportName"] = [[upvalue]];
 	["SetMainInstance"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 	["DumpActiveCamera"] = [[upvalue]];
 	["GetRenderName"] = [[upvalue]];
 	["GetMainInstance"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["__call"] = [[upvalue]];
 }

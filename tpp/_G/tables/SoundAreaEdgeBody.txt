@@ -2,6 +2,4 @@
 	["OverwriteParameter"] = [[upvalue]];
 	["CancelParameter"] = [[upvalue]];
 	["_className"] = "SoundAreaEdgeBody";
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 }

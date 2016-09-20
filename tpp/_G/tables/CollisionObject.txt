@@ -2,6 +2,4 @@
 	["_className"] = "CollisionObject";
 	["SetValidRequest"] = [[upvalue]];
 	["SetInvalidRequest"] = [[upvalue]];
-	["__index"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 }

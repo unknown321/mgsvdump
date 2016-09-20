@@ -2,6 +2,4 @@
 	["_className"] = "CallbackProcedureTransformDataBody";
 	["GetWorldMatrix"] = [[upvalue]];
 	["GetWorldTransform"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 }

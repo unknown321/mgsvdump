@@ -1,6 +1,4 @@
 {
 	["_className"] = "TppFadeOutEffectHolder";
 	["Create"] = [[upvalue]];
-	["__index"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 }

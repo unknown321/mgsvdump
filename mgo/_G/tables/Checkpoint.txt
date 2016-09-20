@@ -6,7 +6,6 @@
 	["PostCheckpointDeletion"] = [[upvalue]];
 	["RegisterObserver"] = [[upvalue]];
 	["DeleteObserverScript"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["__call"] = [[non-lua function]];
 	["_className"] = "Checkpoint";
 	["PostDataRestoration"] = [[upvalue]];
@@ -14,7 +13,6 @@
 	["SetRestorationFromSerializedDataMode"] = [[upvalue]];
 	["IsBusy"] = [[upvalue]];
 	["PostCheckpointDeserialization"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 	["DeleteObserver"] = [[upvalue]];
 	["PostCheckpointCreation"] = [[upvalue]];
 }

@@ -5,6 +5,4 @@
 	["GetDataSet"] = [[upvalue]];
 	["GetDataBody"] = [[upvalue]];
 	["GetDataBodyWithReferrer"] = [[upvalue]];
-	["__index"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 }

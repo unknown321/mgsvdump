@@ -1,6 +1,4 @@
 {
 	["_className"] = "Group";
 	["GetMembers"] = [[upvalue]];
-	["__index"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 }

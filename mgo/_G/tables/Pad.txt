@@ -8,7 +8,6 @@
 	["RegisterAxisAssign"] = [[upvalue]];
 	["RegisterButtonAssignAsNoButton"] = [[upvalue]];
 	["RegisterAxisReverse"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 	["ClearButtonAssign"] = [[upvalue]];
 	["SetFullMask"] = [[upvalue]];
 	["GetAssignedButtonNumber"] = [[upvalue]];
@@ -36,7 +35,6 @@
 	["SetButtonMask"] = [[upvalue]];
 	["RegisterStickAxisReverse"] = [[upvalue]];
 	["GetButtonLastReleaseDuration"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["__call"] = [[non-lua function]];
 	["_className"] = "Pad";
 	["ClearAssign"] = [[upvalue]];

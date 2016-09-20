@@ -1,5 +1,3 @@
 {
 	["_className"] = "WindParameter";
-	["__index"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 }

@@ -4,6 +4,4 @@
 	["FadeIn"] = [[upvalue]];
 	["FadeOut"] = [[upvalue]];
 	["_className"] = "StageLightFadeDataBody";
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 }

@@ -1,5 +1,3 @@
 {
 	["_className"] = "EnvironmentArea";
-	["__index"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 }

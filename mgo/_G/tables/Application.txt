@@ -8,7 +8,5 @@
 	["RemoveGame"] = [[upvalue]];
 	["GetMainGame"] = [[upvalue]];
 	["GetGames"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["__call"] = [[non-lua function]];
 }

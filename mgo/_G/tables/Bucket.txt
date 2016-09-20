@@ -13,6 +13,4 @@
 	["GetEditableDataSetPath"] = [[upvalue]];
 	["LoadProjectFile"] = [[upvalue]];
 	["AddActor"] = [[upvalue]];
-	["__index"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 }

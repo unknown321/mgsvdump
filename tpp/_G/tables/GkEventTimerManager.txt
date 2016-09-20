@@ -6,6 +6,4 @@
 	["Stop"] = [[upvalue]];
 	["Start"] = [[upvalue]];
 	["SetPaused"] = [[upvalue]];
-	["__index"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 }

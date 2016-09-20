@@ -3,9 +3,7 @@
 	["InvalidPath"] = [[upvalue]];
 	["BindEdgeTag"] = [[upvalue]];
 	["RegisterPathTag"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["RegisterEdgeTag"] = [[upvalue]];
 	["RegisterNodeTag"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 	["BindNodeTag"] = [[upvalue]];
 }

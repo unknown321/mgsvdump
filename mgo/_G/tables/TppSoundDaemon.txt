@@ -10,7 +10,6 @@
 	["PostEventAndGetHandle"] = [[upvalue]];
 	["SetMuteInstant"] = [[upvalue]];
 	["RegisterSourceEvent"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["__call"] = [[non-lua function]];
 	["ResetMute"] = [[upvalue]];
 	["ResetCutSceneMute"] = [[upvalue]];
@@ -26,6 +25,5 @@
 	["KeepPhase"] = [[upvalue]];
 	["CheckCurrentMuteMoreThan"] = [[upvalue]];
 	["CheckCurrentMuteIs"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 	["Reset"] = [[upvalue]];
 }

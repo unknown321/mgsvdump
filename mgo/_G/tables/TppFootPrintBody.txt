@@ -6,6 +6,4 @@
 	["AddEnable"] = [[upvalue]];
 	["AddBlood"] = [[upvalue]];
 	["AddMatrix"] = [[upvalue]];
-	["__index"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 }

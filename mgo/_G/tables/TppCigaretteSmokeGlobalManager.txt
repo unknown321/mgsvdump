@@ -3,7 +3,5 @@
 	["GetInstance"] = [[upvalue]];
 	["SetInitAlphaRate"] = [[upvalue]];
 	["ResetInitAlphaRate"] = [[upvalue]];
-	["__index"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 	["SetBaseColorSmoke"] = [[upvalue]];
 }

@@ -3,6 +3,4 @@
 	["SetInvalid"] = [[upvalue]];
 	["GetByName"] = [[upvalue]];
 	["SetValid"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 }

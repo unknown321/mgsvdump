@@ -2,6 +2,4 @@
 	["_className"] = "NetworkInfo";
 	["GetInstance"] = [[upvalue]];
 	["IsNuclearAbolition"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 }

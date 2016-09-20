@@ -1,6 +1,4 @@
 {
 	["_className"] = "DataSetFile2";
 	["Save"] = [[upvalue]];
-	["__index"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 }

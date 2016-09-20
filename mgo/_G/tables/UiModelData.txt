@@ -1,6 +1,4 @@
 {
 	["_className"] = "UiModelData";
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["SetModelNodeElement"] = [[upvalue]];
 }

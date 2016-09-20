@@ -1,6 +1,4 @@
 {
 	["_className"] = "TppPauseMenu";
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["SetIgnoreActorPause"] = [[upvalue]];
 }

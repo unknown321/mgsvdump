@@ -1,6 +1,4 @@
 {
 	["_className"] = "TppAtmosphere";
 	["StartSkyCapture"] = [[upvalue]];
-	["__index"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 }

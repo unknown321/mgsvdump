@@ -2,8 +2,6 @@
 	["_className"] = "GrGraphicsSettingManager";
 	["SetPluginSettingSelection"] = [[upvalue]];
 	["GetError"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["GetStatus"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 	["SetEasySetting"] = [[upvalue]];
 }

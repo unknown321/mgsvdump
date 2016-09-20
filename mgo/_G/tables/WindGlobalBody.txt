@@ -3,6 +3,4 @@
 	["SetRotation"] = [[upvalue]];
 	["ResetWind"] = [[upvalue]];
 	["SetSpeed"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 }

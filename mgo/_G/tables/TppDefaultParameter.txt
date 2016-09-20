@@ -2,9 +2,7 @@
 	["_className"] = "TppDefaultParameter";
 	["IsExistingData"] = [[upvalue]];
 	["SetGroupName"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["AddParam"] = [[upvalue]];
 	["GetDataFromGroupName"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 	["GetParam"] = [[upvalue]];
 }

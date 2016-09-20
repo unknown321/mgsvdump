@@ -4,6 +4,4 @@
 	["Destroy"] = [[upvalue]];
 	["Create"] = [[upvalue]];
 	["_className"] = "FxLocator";
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 }

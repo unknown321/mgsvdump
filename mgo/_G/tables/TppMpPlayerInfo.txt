@@ -1,7 +1,5 @@
 {
 	["_className"] = "TppMpPlayerInfo";
-	["__index"] = [[upvalue]];
 	["GetGameObjectId"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 	["GetPosRotY"] = [[upvalue]];
 }

@@ -11,7 +11,6 @@
 	["RemoveColorCorrectionLut"] = [[upvalue]];
 	["CreateHeliSpaceAvatarReflection"] = [[upvalue]];
 	["SetTppAtmosphereShadowEnable"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 	["SetSandWindEnable"] = [[upvalue]];
 	["GetCameraDirection"] = [[upvalue]];
 	["SetOceanBlendEnd"] = [[upvalue]];
@@ -39,7 +38,6 @@
 	["SetTppAtmosphereInfluenceOfFog"] = [[upvalue]];
 	["SetOceanSpecularIntensity"] = [[upvalue]];
 	["CreateHighSpeedFilter_NameEntrySpecial"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["SetOceanProjectionScale"] = [[upvalue]];
 	["_className"] = "TppEffectUtility";
 	["SetThunderSpotLightShadowEnable"] = [[upvalue]];

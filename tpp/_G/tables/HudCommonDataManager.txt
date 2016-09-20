@@ -2,9 +2,7 @@
 	["_className"] = "HudCommonDataManager";
 	["GetInstance"] = [[upvalue]];
 	["RulesetMessage"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["CombatMessage"] = [[upvalue]];
 	["Create"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 	["CallMessage"] = [[upvalue]];
 }

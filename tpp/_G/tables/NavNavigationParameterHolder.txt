@@ -1,6 +1,4 @@
 {
 	["_className"] = "NavNavigationParameterHolder";
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["InsertNavigationParameter"] = [[upvalue]];
 }

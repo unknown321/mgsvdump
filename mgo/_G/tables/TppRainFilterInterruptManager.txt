@@ -6,6 +6,4 @@
 	["FadeInFxFallRainOutside"] = [[upvalue]];
 	["SwitchEnableInterruptData"] = [[upvalue]];
 	["GetInstance"] = [[upvalue]];
-	["__index"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 }

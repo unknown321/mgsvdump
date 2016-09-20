@@ -1,7 +1,5 @@
 {
 	["_className"] = "TppDefaultParameterContainer";
 	["AddParam"] = [[upvalue]];
-	["__index"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 	["GetParam"] = [[upvalue]];
 }

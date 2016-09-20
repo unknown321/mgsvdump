@@ -1,6 +1,4 @@
 {
 	["_className"] = "GrxUtil";
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["CheckFrustumIntersection"] = [[upvalue]];
 }

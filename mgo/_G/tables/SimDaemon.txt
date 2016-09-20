@@ -5,8 +5,6 @@
 	["SetForceSimNotActiveMode"] = [[upvalue]];
 	["SetMaxActiveSimNum"] = [[upvalue]];
 	["SetSimWorkSize"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 	["SetForceStopSimWindEffect"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["__call"] = [[non-lua function]];
 }

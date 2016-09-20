@@ -2,7 +2,5 @@
 	["_className"] = "LangDaemon";
 	["GetInstance"] = [[upvalue]];
 	["GetManager"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["__call"] = [[non-lua function]];
 }

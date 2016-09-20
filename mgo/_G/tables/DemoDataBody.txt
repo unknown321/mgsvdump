@@ -5,6 +5,4 @@
 	["SetupPlayback"] = [[upvalue]];
 	["Start"] = [[upvalue]];
 	["StreamStart"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 }

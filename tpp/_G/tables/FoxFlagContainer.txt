@@ -9,7 +9,5 @@
 	["Add"] = [[upvalue]];
 	["Reset"] = [[upvalue]];
 	["Check"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["__call"] = [[upvalue]];
 }

@@ -4,7 +4,5 @@
 	["SetName"] = [[upvalue]];
 	["SetFriction"] = [[upvalue]];
 	["SetRestitution"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["__call"] = [[non-lua function]];
 }

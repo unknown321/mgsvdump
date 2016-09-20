@@ -2,7 +2,5 @@
 	["_className"] = "WindManager";
 	["GetInstance"] = [[upvalue]];
 	["RestartTimer"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["__call"] = [[non-lua function]];
 }

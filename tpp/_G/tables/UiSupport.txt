@@ -2,8 +2,6 @@
 	["_className"] = "UiSupport";
 	["GetInstance"] = [[upvalue]];
 	["End"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["Create"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 	["CreateLoginPrint"] = [[upvalue]];
 }

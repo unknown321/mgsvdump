@@ -2,6 +2,4 @@
 	["_className"] = "TppEyelidFilterStateManager";
 	["GetInstance"] = [[upvalue]];
 	["SetEventStatus"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 }

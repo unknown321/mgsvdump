@@ -4,7 +4,5 @@
 	["GetBlockPackagePath"] = [[upvalue]];
 	["GetFileListTable"] = [[upvalue]];
 	["ReloadRequest"] = [[upvalue]];
-	["__index"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 	["ReloadRequestAll"] = [[upvalue]];
 }

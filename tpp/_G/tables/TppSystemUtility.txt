@@ -3,6 +3,4 @@
 	["GetCurrentGameMode"] = [[upvalue]];
 	["ConfigDefaultPadAssigns"] = [[upvalue]];
 	["SetCurrentGameMode"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 }

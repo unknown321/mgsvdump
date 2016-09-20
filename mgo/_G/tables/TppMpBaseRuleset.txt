@@ -5,7 +5,6 @@
 	["RULESET_STATE_BRIEFING"] = 3;
 	["LOADOUT_FLAG_NO_CUSTOM"] = 1;
 	["RULESET_STATE_GAME_START"] = 1;
-	["__newindex"] = [[upvalue]];
 	["_className"] = "TppMpBaseRuleset";
 	["RemoveDynamicParam"] = [[upvalue]];
 	["IsEnabledToSpawnPlayers"] = [[upvalue]];
@@ -20,5 +19,4 @@
 	["RULESET_STATE_INACTIVE"] = 0;
 	["RULESET_STATE_GAME_END"] = 14;
 	["RULESET_STATE_ROUND_OVERTIME"] = 6;
-	["__index"] = [[upvalue]];
 }

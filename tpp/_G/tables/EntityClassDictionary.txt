@@ -2,6 +2,4 @@
 	["_className"] = "EntityClassDictionary";
 	["GetCategoryList"] = [[upvalue]];
 	["GetClassNameList"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 }

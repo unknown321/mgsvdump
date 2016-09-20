@@ -7,11 +7,9 @@
 	["Create"] = [[upvalue]];
 	["SetGroundZeroesMode"] = [[upvalue]];
 	["GzTitleShuffle"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 	["InitDataCreate"] = [[upvalue]];
 	["End"] = [[upvalue]];
 	["SetTitleType"] = [[upvalue]];
 	["GetNclResultCommonData"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["GzTitlePreSetting"] = [[upvalue]];
 }

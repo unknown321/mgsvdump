@@ -12,7 +12,5 @@
 	["GetPad2LogicalNum"] = [[upvalue]];
 	["GetPad3LogicalNum"] = [[upvalue]];
 	["GetPhysicalPadNum"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["__call"] = [[upvalue]];
 }

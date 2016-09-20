@@ -4,6 +4,4 @@
 	["ReloadWorldTextures"] = [[upvalue]];
 	["GetNumBlocksWidth"] = [[upvalue]];
 	["GetSize"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 }

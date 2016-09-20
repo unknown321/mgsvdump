@@ -6,7 +6,5 @@
 	["GetSyncUniqueId"] = [[upvalue]];
 	["GetDataSyncUniqueIdTable"] = [[upvalue]];
 	["ExceptSyncUniqueId"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["__call"] = [[upvalue]];
 }

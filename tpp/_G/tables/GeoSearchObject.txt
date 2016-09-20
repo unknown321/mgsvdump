@@ -2,7 +2,5 @@
 	["_className"] = "GeoSearchObject";
 	["GetData"] = [[upvalue]];
 	["GetPosition"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["__call"] = [[non-lua function]];
 }

@@ -2,6 +2,4 @@
 	["_className"] = "DataBodySet";
 	["GetDataBodyList"] = [[upvalue]];
 	["GetDataBody"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 }

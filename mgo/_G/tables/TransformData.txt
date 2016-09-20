@@ -1,6 +1,4 @@
 {
 	["_className"] = "TransformData";
 	["GetChildren"] = [[upvalue]];
-	["__index"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 }

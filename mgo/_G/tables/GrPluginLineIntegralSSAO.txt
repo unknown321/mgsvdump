@@ -1,6 +1,4 @@
 {
 	["_className"] = "GrPluginLineIntegralSSAO";
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["__call"] = [[non-lua function]];
 }

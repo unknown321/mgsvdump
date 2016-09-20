@@ -1,6 +1,4 @@
 {
 	["_className"] = "StaticModel";
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["GetByName"] = [[upvalue]];
 }

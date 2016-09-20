@@ -8,7 +8,6 @@
 	["SetShaderTypeLocalReflection"] = [[upvalue]];
 	["SetOccluderLimit"] = [[upvalue]];
 	["LoadShaderPack"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
 	["SetModelLodScale"] = [[upvalue]];
 	["SetLightAdaptationFromLACC"] = [[upvalue]];
 	["FontSystemLoad"] = [[upvalue]];
@@ -38,7 +37,6 @@
 	["SetShaderAssignTable"] = [[upvalue]];
 	["SetTexturePackLoadConditioningEnable"] = [[upvalue]];
 	["CalcAvgLumInLogSpace"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["__call"] = [[non-lua function]];
 	["_className"] = "GrTools";
 	["SetDefaultTextureLoadPath"] = [[upvalue]];

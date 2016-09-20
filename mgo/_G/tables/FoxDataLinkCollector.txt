@@ -3,6 +3,4 @@
 	["GetData"] = [[upvalue]];
 	["GetDataBody"] = [[upvalue]];
 	["ShowWarningIfUse"] = [[upvalue]];
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 }

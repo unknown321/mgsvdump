@@ -1,6 +1,4 @@
 {
 	["_className"] = "GeoTrapCondition";
-	["__newindex"] = [[upvalue]];
-	["__index"] = [[upvalue]];
 	["AddConditionParam"] = [[upvalue]];
 }
