@@ -12,5 +12,3 @@
 	["BGM_PHASE_ALERT_BATTLE"] = [[upvalue]];
 };
 [-285212672] = 0;
-["__newindex"] = [[non-lua function]];
-["__index"] = [[non-lua function]];

@@ -25,5 +25,3 @@
 };
 [193154233] = [[non-lua function]];
 [242841334] = [[non-lua function]];
-["__index"] = [[non-lua function]];
-["__newindex"] = [[non-lua function]];

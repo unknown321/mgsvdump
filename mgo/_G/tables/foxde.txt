@@ -3,5 +3,3 @@
 };
 ["Print"] = [[upvalue]];
 ["Assert"] = [[upvalue]];
-["__index"] = [[non-lua function]];
-["__newindex"] = [[non-lua function]];

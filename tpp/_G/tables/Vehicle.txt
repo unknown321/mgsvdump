@@ -10,8 +10,6 @@
 		[151414953] = [[upvalue]];
 	};
 	[-285212672] = 4;
-	["__newindex"] = [[non-lua function]];
-	["__index"] = [[non-lua function]];
 };
 [15597848] = {
 	[-285212671] = {
@@ -20,8 +18,6 @@
 		[121726866] = [[upvalue]];
 	};
 	[-285212672] = 4;
-	["__newindex"] = [[non-lua function]];
-	["__index"] = [[non-lua function]];
 };
 [93428426] = {
 	[-285212671] = {
@@ -32,11 +28,8 @@
 		[1531516] = [[upvalue]];
 	};
 	[-285212672] = 4;
-	["__newindex"] = [[non-lua function]];
-	["__index"] = [[non-lua function]];
 };
 [46987434] = [[non-lua function]];
-["__index"] = [[non-lua function]];
 [-285212671] = {
 	[98925158] = [[upvalue]];
 };
@@ -46,8 +39,6 @@
 		[239525280] = [[upvalue]];
 	};
 	[-285212672] = 4;
-	["__newindex"] = [[non-lua function]];
-	["__index"] = [[non-lua function]];
 };
 [166758111] = [[non-lua function]];
 [46984582] = [[non-lua function]];
@@ -61,8 +52,6 @@
 		[110373869] = [[upvalue]];
 	};
 	[-285212672] = 4;
-	["__newindex"] = [[non-lua function]];
-	["__index"] = [[non-lua function]];
 };
 [170123926] = {
 	[-285212671] = {
@@ -80,8 +69,6 @@
 		[76076708] = [[upvalue]];
 	};
 	[-285212672] = 4;
-	["__newindex"] = [[non-lua function]];
-	["__index"] = [[non-lua function]];
 };
 [113107825] = {
 	[-285212671] = {
@@ -90,8 +77,6 @@
 		[27887682] = [[upvalue]];
 	};
 	[-285212672] = 4;
-	["__newindex"] = [[non-lua function]];
-	["__index"] = [[non-lua function]];
 };
 [7401329] = {
 	[-285212671] = {
@@ -107,8 +92,6 @@
 		[61510956] = [[upvalue]];
 	};
 	[-285212672] = 4;
-	["__newindex"] = [[non-lua function]];
-	["__index"] = [[non-lua function]];
 };
 [109798433] = [[non-lua function]];
 [47045831] = [[non-lua function]];
@@ -125,8 +108,6 @@
 		[254371529] = [[upvalue]];
 	};
 	[-285212672] = 4;
-	["__newindex"] = [[non-lua function]];
-	["__index"] = [[non-lua function]];
 };
 [46990597] = {
 	[-285212671] = {
@@ -135,7 +116,4 @@
 		[243752709] = [[upvalue]];
 	};
 	[-285212672] = 4;
-	["__newindex"] = [[non-lua function]];
-	["__index"] = [[non-lua function]];
 };
-["__newindex"] = [[non-lua function]];

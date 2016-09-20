@@ -4,5 +4,3 @@
 [-285212671] = {
 	["Null"] = [[upvalue]];
 };
-["__index"] = [[non-lua function]];
-["__newindex"] = [[non-lua function]];

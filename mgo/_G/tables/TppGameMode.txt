@@ -7,5 +7,3 @@
 	[177147838] = [[upvalue]];
 	[44702532] = [[upvalue]];
 };
-["__index"] = [[non-lua function]];
-["__newindex"] = [[non-lua function]];

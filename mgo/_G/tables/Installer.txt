@@ -5,7 +5,6 @@
 [253084480] = [[non-lua function]];
 [16210934] = [[non-lua function]];
 [216776334] = [[non-lua function]];
-["__index"] = [[non-lua function]];
 [-285212671] = {
 	[123939863] = [[upvalue]];
 	[230400271] = [[upvalue]];
@@ -35,4 +34,3 @@
 [153576108] = [[non-lua function]];
 [90728711] = [[non-lua function]];
 [90814666] = [[non-lua function]];
-["__newindex"] = [[non-lua function]];

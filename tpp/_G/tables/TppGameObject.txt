@@ -152,5 +152,3 @@
 	["GAME_OBJECT_TYPE_PLAYER_HORSE2_FOR_VR"] = [[upvalue]];
 };
 [-285212672] = 0;
-["__newindex"] = [[non-lua function]];
-["__index"] = [[non-lua function]];
