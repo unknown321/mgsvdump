@@ -1,3 +1,6 @@
+DoVarsSave() = [[loadstring()]];
+
 ["_scriptPath"] = "SaveLoad";
-["DoVarsSave"] = [[loadstring()]];
+
 ["_scriptInstanceId"] = [[userdata]]
+

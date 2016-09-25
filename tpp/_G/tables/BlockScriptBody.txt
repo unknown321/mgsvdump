@@ -1,2 +1,4 @@
+CreateQuark() = [[upvalue]];
+
 ["_className"] = "BlockScriptBody";
-["CreateQuark"] = [[upvalue]];
+

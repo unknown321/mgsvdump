@@ -1,2 +1,4 @@
+StartSkyCapture() = [[upvalue]];
+
 ["_className"] = "TppAtmosphere";
-["StartSkyCapture"] = [[upvalue]];
+

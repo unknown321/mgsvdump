@@ -1,2 +1,4 @@
+SetForceEnableFlag() = [[upvalue]];
+
 ["_className"] = "TppRainFilterBody";
-["SetForceEnableFlag"] = [[upvalue]];
+

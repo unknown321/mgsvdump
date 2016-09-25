@@ -1,2 +1,4 @@
+SetName() = [[upvalue]];
+
 ["_className"] = "ColorInfo";
-["SetName"] = [[upvalue]];
+

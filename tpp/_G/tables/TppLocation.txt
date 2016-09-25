@@ -1,11 +1,28 @@
-["Messages"] = [[upvalue]];
-["MbFreeSpecialMissionStartSetting"] = [[loadstring()]];
-["GetMbStageClusterGrade"] = [[loadstring()]];
-["SetBuddyBlock"] = [[loadstring()]];
-["RegistBaseAssetTable"] = [[loadstring()]];
-["IsCyprus"] = [[loadstring()]];
-["OnActiveLargeBlock"] = [[loadstring()]];
-["IsMiddleAfrica"] = [[loadstring()]];
+ActivateBlock() = [[upvalue]];
+ApplyPlatformParamToMbStage() = [[upvalue]];
+DEBUG_UseDebugMbParam() = [[upvalue]];
+GetLocalMbStageClusterGrade() = [[loadstring()]];
+GetLocationName() = [[loadstring()]];
+GetMbStageClusterGrade() = [[loadstring()]];
+GetMbStageHelicopterRoute() = [[loadstring()]];
+Init() = [[upvalue]];
+IsAfghan() = [[loadstring()]];
+IsCyprus() = [[loadstring()]];
+IsMBQF() = [[loadstring()]];
+IsMiddleAfrica() = [[loadstring()]];
+IsMotherBase() = [[loadstring()]];
+MbFreeSpecialMissionStartSetting() = [[loadstring()]];
+Messages() = [[upvalue]];
+ModifyMbsLayoutCode() = [[loadstring()]];
+OnActiveLargeBlock() = [[loadstring()]];
+OnActiveSmallBlock() = [[loadstring()]];
+OnMessage() = [[upvalue]];
+OnReload() = [[upvalue]];
+RegistBaseAssetTable() = [[loadstring()]];
+RegistMissionAssetInitializeTable() = [[loadstring()]];
+SetBuddyBlock() = [[loadstring()]];
+SetForceConstructDevelopCluster() = [[upvalue]];
+
 ["messageExecTable"] = {
 	[738746875] = {
 		[1645327988] = {
@@ -24,21 +41,8 @@
 		};
 	};
 };
-["_scriptInstanceId"] = [[userdata]]
-["SetForceConstructDevelopCluster"] = [[upvalue]];
-["OnMessage"] = [[upvalue]];
-["IsMotherBase"] = [[loadstring()]];
-["OnReload"] = [[upvalue]];
-["Init"] = [[upvalue]];
+
 ["_scriptPath"] = "TppLocation";
-["ModifyMbsLayoutCode"] = [[loadstring()]];
-["OnActiveSmallBlock"] = [[loadstring()]];
-["DEBUG_UseDebugMbParam"] = [[upvalue]];
-["ActivateBlock"] = [[upvalue]];
-["RegistMissionAssetInitializeTable"] = [[loadstring()]];
-["GetMbStageHelicopterRoute"] = [[loadstring()]];
-["IsMBQF"] = [[loadstring()]];
-["GetLocalMbStageClusterGrade"] = [[loadstring()]];
-["ApplyPlatformParamToMbStage"] = [[upvalue]];
-["IsAfghan"] = [[loadstring()]];
-["GetLocationName"] = [[loadstring()]];
+
+["_scriptInstanceId"] = [[userdata]]
+

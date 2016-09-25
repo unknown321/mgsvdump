@@ -1,1 +1,2 @@
-["RegisterModifyLayoutCodes"] = [[loadstring()]];
+RegisterModifyLayoutCodes() = [[loadstring()]];
+

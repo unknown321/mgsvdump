@@ -1,13 +1,15 @@
+CreateBucket() = [[upvalue]];
+CreateScene() = [[upvalue]];
+DeleteBucket() = [[upvalue]];
+DeleteScene() = [[upvalue]];
+ExportDataRelationGraph() = [[upvalue]];
+GetBucket() = [[upvalue]];
+GetMainBucket() = [[upvalue]];
+GetScene() = [[upvalue]];
+PostDataBodyRecreation() = [[upvalue]];
+PostDataBodyReset() = [[upvalue]];
+SetMainBucket() = [[upvalue]];
+SetName() = [[upvalue]];
+
 ["_className"] = "Game";
-["ExportDataRelationGraph"] = [[upvalue]];
-["GetBucket"] = [[upvalue]];
-["PostDataBodyReset"] = [[upvalue]];
-["DeleteScene"] = [[upvalue]];
-["GetScene"] = [[upvalue]];
-["CreateScene"] = [[upvalue]];
-["CreateBucket"] = [[upvalue]];
-["GetMainBucket"] = [[upvalue]];
-["DeleteBucket"] = [[upvalue]];
-["SetName"] = [[upvalue]];
-["SetMainBucket"] = [[upvalue]];
-["PostDataBodyRecreation"] = [[upvalue]];
+

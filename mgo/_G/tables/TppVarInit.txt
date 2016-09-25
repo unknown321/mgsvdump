@@ -1,17 +1,20 @@
-["StartInitMission"] = [[loadstring()]];
-["InitializeForContinue"] = [[loadstring()]];
-["SetVarsTitleHeliSpace"] = [[loadstring()]];
-["InitializeOnStartTitle"] = [[upvalue]];
-["_scriptInstanceId"] = [[userdata]]
-["SetVarsTitleCypr"] = [[loadstring()]];
-["InitializeOnStatingMainFrame"] = [[loadstring()]];
-["InitializeOnNewGameAtFirstTime"] = [[loadstring()]];
+ClearIsContinueFromTitle() = [[loadstring()]];
+InitializeAllPlatformForNewGame() = [[loadstring()]];
+InitializeForContinue() = [[loadstring()]];
+InitializeForNewMission() = [[upvalue]];
+InitializeOnNewGame() = [[upvalue]];
+InitializeOnNewGameAtFirstTime() = [[loadstring()]];
+InitializeOnStartTitle() = [[upvalue]];
+InitializeOnStatingMainFrame() = [[loadstring()]];
+SetHorseObtainedAndCanSortie() = [[loadstring()]];
+SetInitPlayerItems() = [[loadstring()]];
+SetInitPlayerWeapons() = [[loadstring()]];
+SetVarsTitleCypr() = [[loadstring()]];
+SetVarsTitleHeliSpace() = [[loadstring()]];
+StartInitMission() = [[loadstring()]];
+StartTitle() = [[loadstring()]];
+
 ["_scriptPath"] = "TppVarInit";
-["InitializeAllPlatformForNewGame"] = [[loadstring()]];
-["InitializeForNewMission"] = [[upvalue]];
-["SetHorseObtainedAndCanSortie"] = [[loadstring()]];
-["ClearIsContinueFromTitle"] = [[loadstring()]];
-["InitializeOnNewGame"] = [[upvalue]];
-["StartTitle"] = [[loadstring()]];
-["SetInitPlayerItems"] = [[loadstring()]];
-["SetInitPlayerWeapons"] = [[loadstring()]];
+
+["_scriptInstanceId"] = [[userdata]]
+

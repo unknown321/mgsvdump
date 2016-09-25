@@ -1,1 +1,2 @@
-["SetupDefaultLoadoutToChar"] = [[non-lua function]];
+SetupDefaultLoadoutToChar() = [[non-lua function]];
+

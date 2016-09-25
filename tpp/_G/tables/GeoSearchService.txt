@@ -1,9 +1,11 @@
+SearchObject() = [[upvalue]];
+SearchObjectInSpecificScene() = [[upvalue]];
+SearchObjectLine() = [[upvalue]];
+SearchObjectLineInSpecificScene() = [[upvalue]];
+SearchObjectSphere() = [[upvalue]];
+SearchObjectSphereInSpecificScene() = [[upvalue]];
+SearchObjectSquarePyramid() = [[upvalue]];
+SearchObjectSquarePyramidInSpecificScene() = [[upvalue]];
+
 ["_className"] = "GeoSearchService";
-["SearchObjectLineInSpecificScene"] = [[upvalue]];
-["SearchObject"] = [[upvalue]];
-["SearchObjectSquarePyramidInSpecificScene"] = [[upvalue]];
-["SearchObjectSphere"] = [[upvalue]];
-["SearchObjectLine"] = [[upvalue]];
-["SearchObjectSphereInSpecificScene"] = [[upvalue]];
-["SearchObjectSquarePyramid"] = [[upvalue]];
-["SearchObjectInSpecificScene"] = [[upvalue]];
+

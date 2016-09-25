@@ -1,10 +1,12 @@
+ClearVariableGimmickList() = [[upvalue]];
+Create() = [[upvalue]];
+GetContainerResourceId() = [[upvalue]];
+GetInitialGimmickCount() = [[upvalue]];
+GetInstance() = [[upvalue]];
+GetPlantBridgePosRot() = [[upvalue]];
+RefreshGimmicks() = [[upvalue]];
+SetSahelanLodVisibility() = [[upvalue]];
+SetVariableGimmickList() = [[upvalue]];
+
 ["_className"] = "MotherBaseConstructConnector";
-["GetInstance"] = [[upvalue]];
-["SetVariableGimmickList"] = [[upvalue]];
-["GetInitialGimmickCount"] = [[upvalue]];
-["ClearVariableGimmickList"] = [[upvalue]];
-["RefreshGimmicks"] = [[upvalue]];
-["SetSahelanLodVisibility"] = [[upvalue]];
-["Create"] = [[upvalue]];
-["GetContainerResourceId"] = [[upvalue]];
-["GetPlantBridgePosRot"] = [[upvalue]];
+

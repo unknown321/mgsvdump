@@ -1,6 +1,8 @@
+AddParam() = [[upvalue]];
+GetDataFromGroupName() = [[upvalue]];
+GetParam() = [[upvalue]];
+IsExistingData() = [[upvalue]];
+SetGroupName() = [[upvalue]];
+
 ["_className"] = "TppDefaultParameter";
-["IsExistingData"] = [[upvalue]];
-["SetGroupName"] = [[upvalue]];
-["AddParam"] = [[upvalue]];
-["GetDataFromGroupName"] = [[upvalue]];
-["GetParam"] = [[upvalue]];
+

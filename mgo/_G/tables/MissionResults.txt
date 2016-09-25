@@ -1,5 +1,55 @@
-["_scriptPath"] = "MissionResults";
-["_scriptInstanceId"] = [[userdata]]
+["states"] = {
+	[1] = {
+		["type"] = "MgoUiAnimationStateSwitch";
+		["name"] = "stateInit";
+		["control"] = "play";
+		["mode"] = "enter";
+		["layout"] = "UI_MissionResult.UI_MR_Off";
+	};
+	[2] = {
+		["type"] = "MgoUiAnimationStateSwitch";
+		["name"] = "stateInit";
+		["control"] = "play";
+		["mode"] = "enter";
+		["layout"] = "UI_MissionResult.UI_MR_Ctr_Off";
+	};
+	[3] = {
+		["type"] = "MgoUiAnimationStateSwitch";
+		["name"] = "stateInit";
+		["control"] = "play";
+		["mode"] = "enter";
+		["layout"] = "UI_MissionResult.UI_MR_Rank_Off";
+	};
+	[4] = {
+		["type"] = "MgoUiAnimationStateSwitch";
+		["name"] = "stateInit";
+		["control"] = "play";
+		["mode"] = "enter";
+		["layout"] = "UI_MissionResult.UI_MR_Unlock_Off";
+	};
+	[5] = {
+		["type"] = "MgoUiAnimationStateSwitch";
+		["name"] = "stateInit";
+		["control"] = "play";
+		["mode"] = "enter";
+		["layout"] = "UI_MissionResult.UI_MR_GP_Off";
+	};
+	[6] = {
+		["type"] = "MgoUiAnimationStateSwitch";
+		["name"] = "stateInit";
+		["control"] = "play";
+		["mode"] = "enter";
+		["layout"] = "UI_MissionResult.UI_MR_EXP_Off";
+	};
+	[7] = {
+		["type"] = "MgoUiAnimationStateSwitch";
+		["name"] = "stateHot";
+		["control"] = "play";
+		["mode"] = "enter";
+		["layout"] = "UI_MissionResult.UI_MR_Rank_Noise";
+		["loop"] = "true";
+	};
+};
 ["widgets"] = {
 	[1] = {
 		["type"] = "MgoUiProgress";
@@ -10295,55 +10345,8 @@
 		};
 	};
 };
-["states"] = {
-	[1] = {
-		["type"] = "MgoUiAnimationStateSwitch";
-		["name"] = "stateInit";
-		["control"] = "play";
-		["mode"] = "enter";
-		["layout"] = "UI_MissionResult.UI_MR_Off";
-	};
-	[2] = {
-		["type"] = "MgoUiAnimationStateSwitch";
-		["name"] = "stateInit";
-		["control"] = "play";
-		["mode"] = "enter";
-		["layout"] = "UI_MissionResult.UI_MR_Ctr_Off";
-	};
-	[3] = {
-		["type"] = "MgoUiAnimationStateSwitch";
-		["name"] = "stateInit";
-		["control"] = "play";
-		["mode"] = "enter";
-		["layout"] = "UI_MissionResult.UI_MR_Rank_Off";
-	};
-	[4] = {
-		["type"] = "MgoUiAnimationStateSwitch";
-		["name"] = "stateInit";
-		["control"] = "play";
-		["mode"] = "enter";
-		["layout"] = "UI_MissionResult.UI_MR_Unlock_Off";
-	};
-	[5] = {
-		["type"] = "MgoUiAnimationStateSwitch";
-		["name"] = "stateInit";
-		["control"] = "play";
-		["mode"] = "enter";
-		["layout"] = "UI_MissionResult.UI_MR_GP_Off";
-	};
-	[6] = {
-		["type"] = "MgoUiAnimationStateSwitch";
-		["name"] = "stateInit";
-		["control"] = "play";
-		["mode"] = "enter";
-		["layout"] = "UI_MissionResult.UI_MR_EXP_Off";
-	};
-	[7] = {
-		["type"] = "MgoUiAnimationStateSwitch";
-		["name"] = "stateHot";
-		["control"] = "play";
-		["mode"] = "enter";
-		["layout"] = "UI_MissionResult.UI_MR_Rank_Noise";
-		["loop"] = "true";
-	};
-};
+
+["_scriptPath"] = "MissionResults";
+
+["_scriptInstanceId"] = [[userdata]]
+

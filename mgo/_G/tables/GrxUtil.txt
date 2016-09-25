@@ -1,2 +1,4 @@
+CheckFrustumIntersection() = [[upvalue]];
+
 ["_className"] = "GrxUtil";
-["CheckFrustumIntersection"] = [[upvalue]];
+

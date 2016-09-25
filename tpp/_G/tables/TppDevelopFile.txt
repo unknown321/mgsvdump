@@ -1,3 +1,6 @@
+OnMissionCanStart() = [[loadstring()]];
+
 ["_scriptPath"] = "TppDevelopFile";
-["OnMissionCanStart"] = [[loadstring()]];
+
 ["_scriptInstanceId"] = [[userdata]]
+

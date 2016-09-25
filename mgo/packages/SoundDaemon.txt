@@ -1,3 +1,4 @@
-["RegisterAnimEvent"] = [[non-lua function]];
-["Create"] = [[non-lua function]];
-["MakeLeftRightAnimEventPair"] = [[non-lua function]];
+Create() = [[non-lua function]];
+MakeLeftRightAnimEventPair() = [[non-lua function]];
+RegisterAnimEvent() = [[non-lua function]];
+

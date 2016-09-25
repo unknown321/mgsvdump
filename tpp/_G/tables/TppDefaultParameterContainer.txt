@@ -1,3 +1,5 @@
+AddParam() = [[upvalue]];
+GetParam() = [[upvalue]];
+
 ["_className"] = "TppDefaultParameterContainer";
-["AddParam"] = [[upvalue]];
-["GetParam"] = [[upvalue]];
+

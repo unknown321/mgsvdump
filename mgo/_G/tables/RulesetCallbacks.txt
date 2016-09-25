@@ -1,9 +1,8 @@
-["_scriptInstanceId"] = [[userdata]]
-["SetupComponent"] = [[upvalue]];
-["InitComponent"] = [[loadstring()]];
-["Multiplex"] = [[loadstring()]];
-["_scriptPath"] = "RulesetCallbacks";
-["ClearCallbacks"] = [[upvalue]];
+ClearCallbacks() = [[upvalue]];
+InitComponent() = [[loadstring()]];
+Multiplex() = [[loadstring()]];
+SetupComponent() = [[upvalue]];
+
 ["CallbackLists"] = {
 	["OnEventSignal"] = {
 	};
@@ -43,3 +42,8 @@
 	["OnRoundCountdownStart"] = {
 	};
 };
+
+["_scriptPath"] = "RulesetCallbacks";
+
+["_scriptInstanceId"] = [[userdata]]
+

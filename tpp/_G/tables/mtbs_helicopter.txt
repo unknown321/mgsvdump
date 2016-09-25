@@ -1,15 +1,16 @@
-["OnMissionGameStart"] = [[loadstring()]];
-["_scriptPath"] = "mtbs_helicopter";
-["Messages"] = [[loadstring()]];
-["_scriptInstanceId"] = [[userdata]]
-["OnInitialize"] = [[upvalue]];
-["_SetClusterId"] = [[upvalue]];
-["_GetClusterId"] = [[upvalue]];
-["OnReload"] = [[upvalue]];
-["GetHeliStartPlatformId"] = [[loadstring()]];
-["OnMessage"] = [[upvalue]];
-["RequestHeliTaxi"] = [[upvalue]];
-["IsHeliStartHeliport"] = [[loadstring()]];
+GetHeliStartClusterId() = [[loadstring()]];
+GetHeliStartPlatformId() = [[loadstring()]];
+GetLandingZoneGroup() = [[upvalue]];
+IsHeliStartHeliport() = [[loadstring()]];
+Messages() = [[loadstring()]];
+OnInitialize() = [[upvalue]];
+OnMessage() = [[upvalue]];
+OnMissionGameStart() = [[loadstring()]];
+OnReload() = [[upvalue]];
+RequestHeliTaxi() = [[upvalue]];
+_GetClusterId() = [[upvalue]];
+_SetClusterId() = [[upvalue]];
+
 ["clusterHeliRouteTable"] = {
 	[1] = {
 		[1] = {
@@ -178,5 +179,8 @@
 		};
 	};
 };
-["GetHeliStartClusterId"] = [[loadstring()]];
-["GetLandingZoneGroup"] = [[upvalue]];
+
+["_scriptPath"] = "mtbs_helicopter";
+
+["_scriptInstanceId"] = [[userdata]]
+

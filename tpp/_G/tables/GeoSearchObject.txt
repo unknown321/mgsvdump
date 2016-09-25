@@ -1,3 +1,5 @@
+GetData() = [[upvalue]];
+GetPosition() = [[upvalue]];
+
 ["_className"] = "GeoSearchObject";
-["GetData"] = [[upvalue]];
-["GetPosition"] = [[upvalue]];
+

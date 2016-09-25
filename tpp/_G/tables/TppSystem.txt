@@ -11,4 +11,6 @@
 	["BGM_PHASE_ALERT_REINFORCE"] = [[upvalue]];
 	["BGM_PHASE_ALERT_BATTLE"] = [[upvalue]];
 };
+
 [-285212672] = 0;
+

@@ -1,5 +1,7 @@
+GetError() = [[upvalue]];
+GetStatus() = [[upvalue]];
+SetEasySetting() = [[upvalue]];
+SetPluginSettingSelection() = [[upvalue]];
+
 ["_className"] = "GrGraphicsSettingManager";
-["SetPluginSettingSelection"] = [[upvalue]];
-["GetError"] = [[upvalue]];
-["GetStatus"] = [[upvalue]];
-["SetEasySetting"] = [[upvalue]];
+

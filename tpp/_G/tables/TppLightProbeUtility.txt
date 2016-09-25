@@ -1,2 +1,4 @@
+DebugSetLightRate() = [[upvalue]];
+
 ["_className"] = "TppLightProbeUtility";
-["DebugSetLightRate"] = [[upvalue]];
+

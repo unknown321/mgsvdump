@@ -1,13 +1,14 @@
-[2] = {
-	["Update"] = [[upvalue]];
+[3]() = [[upvalue]];
+[4]() = [[upvalue]];
+[5]() = [[upvalue]];
+[6]() = [[upvalue]];
+
+[-285212671] = {};
+[10] = {
 	["OnMessage"] = [[upvalue]];
 };
-[3] = [[upvalue]];
-[4] = [[upvalue]];
-[5] = [[upvalue]];
-[6] = [[upvalue]];
-[-285212672] = 0;
-[10] = {
+[2] = {
+	["Update"] = [[upvalue]];
 	["OnMessage"] = [[upvalue]];
 };
 [9] = {
@@ -38,5 +39,6 @@
 		["isFemaleAvatar"] = false;
 	};
 };
-[-285212671] = {
-};
+
+[-285212672] = 0;
+

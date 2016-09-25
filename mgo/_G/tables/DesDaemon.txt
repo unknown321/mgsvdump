@@ -1,3 +1,5 @@
+GetInstance() = [[upvalue]];
+PrintDesObjectAll() = [[upvalue]];
+
 ["_className"] = "DesDaemon";
-["GetInstance"] = [[upvalue]];
-["PrintDesObjectAll"] = [[upvalue]];
+

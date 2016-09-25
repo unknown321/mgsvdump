@@ -1,3 +1,5 @@
+IsReady() = [[upvalue]];
+SetInterval() = [[upvalue]];
+
 ["_className"] = "IntervalRegulator";
-["SetInterval"] = [[upvalue]];
-["IsReady"] = [[upvalue]];
+

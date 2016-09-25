@@ -1,4 +1,6 @@
+GetNumBlocksHeight() = [[upvalue]];
+GetNumBlocksWidth() = [[upvalue]];
+GetSize() = [[upvalue]];
+
 ["_className"] = "TerrainBody";
-["GetNumBlocksHeight"] = [[upvalue]];
-["GetNumBlocksWidth"] = [[upvalue]];
-["GetSize"] = [[upvalue]];
+

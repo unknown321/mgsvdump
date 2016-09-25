@@ -17,5 +17,8 @@
 	};
 	["material"] = "";
 };
+
 ["_scriptPath"] = "afc0_common_fx_mtr_underwater";
+
 ["_scriptInstanceId"] = [[userdata]]
+

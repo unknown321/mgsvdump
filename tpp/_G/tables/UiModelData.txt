@@ -1,2 +1,4 @@
+SetModelNodeElement() = [[upvalue]];
+
 ["_className"] = "UiModelData";
-["SetModelNodeElement"] = [[upvalue]];
+

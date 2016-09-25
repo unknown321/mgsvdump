@@ -1,5 +1,3 @@
-["_scriptPath"] = "CharacterModCharacterSelect";
-["_scriptInstanceId"] = [[userdata]]
 ["widgets"] = {
 	[1] = {
 		["widgets"] = {
@@ -2142,3 +2140,8 @@
 		["source"] = "mgo_idroid_current_3d";
 	};
 };
+
+["_scriptPath"] = "CharacterModCharacterSelect";
+
+["_scriptInstanceId"] = [[userdata]]
+

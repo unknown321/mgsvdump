@@ -1,1 +1,2 @@
-["Setup"] = [[non-lua function]];
+Setup() = [[non-lua function]];
+

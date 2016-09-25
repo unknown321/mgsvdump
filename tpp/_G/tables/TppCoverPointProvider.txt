@@ -1,4 +1,6 @@
+CheckUsable() = [[upvalue]];
+ClearAll() = [[upvalue]];
+Create() = [[upvalue]];
+
 ["_className"] = "TppCoverPointProvider";
-["ClearAll"] = [[upvalue]];
-["Create"] = [[upvalue]];
-["CheckUsable"] = [[upvalue]];
+

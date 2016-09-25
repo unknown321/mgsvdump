@@ -1,3 +1,4 @@
-["Accessories"] = [[non-lua function]];
-["Colors"] = [[non-lua function]];
-["Gears"] = [[non-lua function]];
+Accessories() = [[non-lua function]];
+Colors() = [[non-lua function]];
+Gears() = [[non-lua function]];
+

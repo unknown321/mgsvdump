@@ -1,4 +1,6 @@
+GetByName() = [[upvalue]];
+SetInvalid() = [[upvalue]];
+SetValid() = [[upvalue]];
+
 ["_className"] = "GeoTrapBody";
-["SetInvalid"] = [[upvalue]];
-["GetByName"] = [[upvalue]];
-["SetValid"] = [[upvalue]];
+

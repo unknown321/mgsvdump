@@ -1,1 +1,2 @@
-["LoadParams"] = [[non-lua function]];
+LoadParams() = [[non-lua function]];
+

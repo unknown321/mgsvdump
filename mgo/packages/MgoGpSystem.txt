@@ -1,1 +1,2 @@
-["GetGp"] = [[non-lua function]];
+GetGp() = [[non-lua function]];
+

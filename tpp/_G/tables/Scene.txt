@@ -1,9 +1,12 @@
+AddActor() = [[upvalue]];
+FindActor() = [[upvalue]];
+GetActorList() = [[upvalue]];
+GetActorsByClassName() = [[loadstring()]];
+GetApplication() = [[upvalue]];
+RemoveActor() = [[upvalue]];
+
 ["_className"] = "Scene";
-["GetApplication"] = [[upvalue]];
-["GetActorsByClassName"] = [[loadstring()]];
-["_scriptInstanceId"] = [[userdata]]
-["RemoveActor"] = [[upvalue]];
-["AddActor"] = [[upvalue]];
 ["_scriptPath"] = "Scene";
-["GetActorList"] = [[upvalue]];
-["FindActor"] = [[upvalue]];
+
+["_scriptInstanceId"] = [[userdata]]
+

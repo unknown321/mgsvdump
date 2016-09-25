@@ -1,3 +1,5 @@
+GetInstance() = [[upvalue]];
+RestartTimer() = [[upvalue]];
+
 ["_className"] = "WindManager";
-["GetInstance"] = [[upvalue]];
-["RestartTimer"] = [[upvalue]];
+

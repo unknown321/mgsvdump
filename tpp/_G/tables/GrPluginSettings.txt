@@ -1,2 +1,4 @@
+SetRenderName() = [[upvalue]];
+
 ["_className"] = "GrPluginSettings";
-["SetRenderName"] = [[upvalue]];
+

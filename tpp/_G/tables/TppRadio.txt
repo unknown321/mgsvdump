@@ -1,95 +1,55 @@
-["DoEventOnRewardEndRadio"] = [[loadstring()]];
-["IGNORE_COMMON_RADIO"] = [[loadstring()]];
-["_PlayDebugStart"] = [[loadstring()]];
-["OnReload"] = [[upvalue]];
-["PRESET_DELAY_TIME"] = {
-	["short"] = 0.5;
-	["mid"] = 1.5;
-	["long"] = 3;
-};
-["UnsetTutorialOptionalRadio"] = [[loadstring()]];
-["SetPlayedLocalFlag"] = [[loadstring()]];
-["IsPlayed"] = [[upvalue]];
-["_scriptPath"] = "TppRadio";
-["RegisterOptionalRadioList"] = [[upvalue]];
-["RegisterIntelRadioList"] = [[loadstring()]];
-["PlayGameOverRadio"] = [[upvalue]];
-["COMMON_RADIO_DELAY_LIST"] = {
-	[24] = "mid";
-	[25] = "mid";
-	[1] = "long";
-	[2] = "long";
-	[32] = "long";
-	[28] = "long";
-	[11] = "mid";
-	[22] = 8;
-	[12] = "mid";
-	[27] = "long";
-};
-["_PlayDebugContinue"] = [[upvalue]];
-["OverwriteCommonRadioTable"] = [[upvalue]];
-["OnFinishBlackTelephoneRadio"] = [[upvalue]];
-["SaveRewardEndRadioList"] = [[loadstring()]];
-["_PlayDebugLine"] = [[loadstring()]];
-["messageExecTable"] = {
-	[3105039150] = {
-		[3838076267] = {
-			["func"] = [[upvalue]];
-			["option"] = {
-				[1575448960] = true;
-			};
-		};
-	};
-	[4113713594] = {
-		[3297867729] = {
-			["func"] = [[upvalue]];
-		};
-	};
-	[4133365783] = {
-		[1032325318] = {
-			["func"] = [[upvalue]];
-		};
-	};
-	[3380938768] = {
-		[3709244990] = {
-			["senderOption"] = {
-			};
-			["sender"] = {
-				[160680767] = [[upvalue]];
-				[4016442988] = [[loadstring()]];
-			};
-		};
-	};
-};
-["GetRadioNameAndRadioIDs"] = [[loadstring()]];
-["DEBUG_GetRadioIndex"] = [[loadstring()]];
-["DEBUG_PlayIntelRadio"] = [[upvalue]];
-["PlayResultRadio"] = [[upvalue]];
-["OnMessage"] = [[upvalue]];
-["SetPlayedGlobalFlag"] = [[loadstring()]];
-["SetGameOverRadio"] = [[loadstring()]];
-["AddDebugRadioLineTable"] = [[loadstring()]];
-["RegisterRadioList"] = [[upvalue]];
-["UnsetPlayedGlobalFlag"] = [[loadstring()]];
-["Messages"] = [[upvalue]];
-["CommonMakeRadioList"] = [[upvalue]];
-["PlayCommon"] = [[upvalue]];
-["OnAllocate"] = [[upvalue]];
-["DeclareSVars"] = [[loadstring()]];
-["IsRadioPlayable"] = [[loadstring()]];
-["_scriptInstanceId"] = [[userdata]]
-["UnsetPlayedLocalFlag"] = [[loadstring()]];
-["CheckRadioGroupIsCommonRadio"] = [[upvalue]];
-["UnsetOverwriteByPhaseOptionalRadio"] = [[loadstring()]];
-["GetPlayCommonTargetRadio"] = [[upvalue]];
-["GetCommonRadioDelay"] = [[loadstring()]];
-["Play"] = [[upvalue]];
-["ChangeIntelRadio"] = [[upvalue]];
-["PlayCommonRadio"] = [[upvalue]];
-["PlayDebug"] = [[upvalue]];
-["EnableCommonOptionalRadio"] = [[upvalue]];
-["Init"] = [[upvalue]];
-["RequestBlackTelephoneRadio"] = [[upvalue]];
+AddDebugRadioLineTable() = [[loadstring()]];
+ChangeIntelRadio() = [[upvalue]];
+CheckRadioGroupIsCommonRadio() = [[upvalue]];
+CommonMakeRadioList() = [[upvalue]];
+DEBUG_GetRadioIndex() = [[loadstring()]];
+DEBUG_PlayIntelRadio() = [[upvalue]];
+DeclareSVars() = [[loadstring()]];
+DoEventOnRewardEndRadio() = [[loadstring()]];
+EnableCommonOptionalRadio() = [[upvalue]];
+GetCommonRadioDelay() = [[loadstring()]];
+GetEspionageRadioTypeIndex() = [[loadstring()]];
+GetPlayCommonTargetRadio() = [[upvalue]];
+GetRadioNameAndRadioIDs() = [[loadstring()]];
+IGNORE_COMMON_RADIO() = [[loadstring()]];
+Init() = [[upvalue]];
+IsPlayed() = [[upvalue]];
+IsRadioPlayable() = [[loadstring()]];
+Messages() = [[upvalue]];
+OnAllocate() = [[upvalue]];
+OnFinishBlackTelephoneRadio() = [[upvalue]];
+OnMessage() = [[upvalue]];
+OnReload() = [[upvalue]];
+OverwriteCommonRadioTable() = [[upvalue]];
+Play() = [[upvalue]];
+PlayCommon() = [[upvalue]];
+PlayCommonRadio() = [[upvalue]];
+PlayDebug() = [[upvalue]];
+PlayGameOverRadio() = [[upvalue]];
+PlayResultRadio() = [[upvalue]];
+PlaySelectBuddy() = [[upvalue]];
+RegisterIntelRadioList() = [[loadstring()]];
+RegisterOptionalRadioList() = [[upvalue]];
+RegisterRadioList() = [[upvalue]];
+RequestBlackTelephoneRadio() = [[upvalue]];
+SaveRewardEndRadioList() = [[loadstring()]];
+SetBlackTelephoneDisplaySetting() = [[loadstring()]];
+SetGameOverRadio() = [[loadstring()]];
+SetOptionalRadio() = [[upvalue]];
+SetOverwriteByPhaseOptionalRadio() = [[upvalue]];
+SetPlayedGlobalFlag() = [[loadstring()]];
+SetPlayedLocalFlag() = [[loadstring()]];
+SetTutorialOptionalRadio() = [[upvalue]];
+Stop() = [[loadstring()]];
+UnregisterRadioGroupSet() = [[loadstring()]];
+UnsetOverwriteByPhaseOptionalRadio() = [[loadstring()]];
+UnsetPlayedGlobalFlag() = [[loadstring()]];
+UnsetPlayedLocalFlag() = [[loadstring()]];
+UnsetTutorialOptionalRadio() = [[loadstring()]];
+_PlayDebugContinue() = [[upvalue]];
+_PlayDebugLine() = [[loadstring()]];
+_PlayDebugStart() = [[loadstring()]];
+
 ["COMMON_GAME_OVER_RADIO_LIST"] = {
 	[7] = "f8000_gmov0110";
 	[1] = "f8000_gmov0010";
@@ -104,7 +64,18 @@
 	[255] = "f8000_gmov9090";
 	[11] = "f8000_gmov2500";
 };
-["SetTutorialOptionalRadio"] = [[upvalue]];
+["COMMON_RADIO_DELAY_LIST"] = {
+	[24] = "mid";
+	[25] = "mid";
+	[1] = "long";
+	[2] = "long";
+	[32] = "long";
+	[28] = "long";
+	[11] = "mid";
+	[22] = 8;
+	[12] = "mid";
+	[27] = "long";
+};
 ["COMMON_RADIO_LIST"] = {
 	[27] = "f1000_rtrg1640";
 	[2] = "f1000_rtrg1550";
@@ -147,14 +118,47 @@
 	[23] = "f1000_rtrg0060";
 	[31] = "f1000_rtrg8050";
 };
+["PRESET_DELAY_TIME"] = {
+	["short"] = 0.5;
+	["mid"] = 1.5;
+	["long"] = 3;
+};
 ["SFXList"] = {
 	["RadioStart"] = "Play_sfx_s_codec_NPC_begin";
 	["RadioEnd"] = "Play_sfx_s_codec_NPC_end";
 };
-["SetOptionalRadio"] = [[upvalue]];
-["Stop"] = [[loadstring()]];
-["GetEspionageRadioTypeIndex"] = [[loadstring()]];
-["UnregisterRadioGroupSet"] = [[loadstring()]];
-["SetBlackTelephoneDisplaySetting"] = [[loadstring()]];
-["PlaySelectBuddy"] = [[upvalue]];
-["SetOverwriteByPhaseOptionalRadio"] = [[upvalue]];
+["messageExecTable"] = {
+	[3105039150] = {
+		[3838076267] = {
+			["func"] = [[upvalue]];
+			["option"] = {
+				[1575448960] = true;
+			};
+		};
+	};
+	[4113713594] = {
+		[3297867729] = {
+			["func"] = [[upvalue]];
+		};
+	};
+	[4133365783] = {
+		[1032325318] = {
+			["func"] = [[upvalue]];
+		};
+	};
+	[3380938768] = {
+		[3709244990] = {
+			["senderOption"] = {
+			};
+			["sender"] = {
+				[160680767] = [[upvalue]];
+				[4016442988] = [[loadstring()]];
+			};
+		};
+	};
+};
+
+["_scriptPath"] = "TppRadio";
+
+["_scriptInstanceId"] = [[userdata]]
+

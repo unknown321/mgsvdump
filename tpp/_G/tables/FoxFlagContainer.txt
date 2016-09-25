@@ -1,11 +1,13 @@
+Add() = [[upvalue]];
+AllClear() = [[upvalue]];
+AndCheck() = [[upvalue]];
+Check() = [[upvalue]];
+GetStatusString() = [[upvalue]];
+GetString() = [[upvalue]];
+OrCheck() = [[upvalue]];
+Reset() = [[upvalue]];
+Set() = [[upvalue]];
+__call() = [[upvalue]];
+
 ["_className"] = "FoxFlagContainer";
-["AllClear"] = [[upvalue]];
-["Set"] = [[upvalue]];
-["AndCheck"] = [[upvalue]];
-["GetString"] = [[upvalue]];
-["OrCheck"] = [[upvalue]];
-["GetStatusString"] = [[upvalue]];
-["Add"] = [[upvalue]];
-["Reset"] = [[upvalue]];
-["Check"] = [[upvalue]];
-["__call"] = [[upvalue]];
+

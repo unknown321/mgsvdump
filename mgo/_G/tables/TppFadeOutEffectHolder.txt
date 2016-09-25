@@ -1,2 +1,4 @@
+Create() = [[upvalue]];
+
 ["_className"] = "TppFadeOutEffectHolder";
-["Create"] = [[upvalue]];
+

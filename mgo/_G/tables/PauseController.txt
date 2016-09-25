@@ -1,2 +1,4 @@
+Create() = [[upvalue]];
+
 ["_className"] = "PauseController";
-["Create"] = [[upvalue]];
+

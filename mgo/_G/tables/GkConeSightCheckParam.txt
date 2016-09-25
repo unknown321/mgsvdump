@@ -1,9 +1,11 @@
-["GetAngleLeftRight"] = [[upvalue]];
-["SetAngleUpDown"] = [[upvalue]];
-["GetRange"] = [[upvalue]];
-["SetAngleLeftRight"] = [[upvalue]];
-["GetAngleUpDown"] = [[upvalue]];
+GetAngleLeftRight() = [[upvalue]];
+GetAngleUpDown() = [[upvalue]];
+GetHeadBackDistance() = [[upvalue]];
+GetRange() = [[upvalue]];
+SetAngleLeftRight() = [[upvalue]];
+SetAngleUpDown() = [[upvalue]];
+SetHeadBackDistance() = [[upvalue]];
+SetRange() = [[upvalue]];
+
 ["_className"] = "GkConeSightCheckParam";
-["SetHeadBackDistance"] = [[upvalue]];
-["GetHeadBackDistance"] = [[upvalue]];
-["SetRange"] = [[upvalue]];
+

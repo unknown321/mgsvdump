@@ -1,8 +1,42 @@
-["SuspendFobExceptionHandling"] = [[loadstring()]];
-["OnEndExceptionDialogForSignInUserChange"] = [[upvalue]];
-["OnDisconnectFromPsn"] = [[upvalue]];
-["UserNotSignedIn"] = [[upvalue]];
-["Enqueue"] = [[upvalue]];
+Dequeue() = [[loadstring()]];
+DisablePause() = [[loadstring()]];
+EnablePause() = [[loadstring()]];
+Enqueue() = [[upvalue]];
+FinishProcess() = [[upvalue]];
+FobMissionEndOnException() = [[upvalue]];
+ForbidFobExceptionHandling() = [[loadstring()]];
+GetCurrentGameMode() = [[upvalue]];
+Messages() = [[upvalue]];
+NoProcessOnEndExceptionDialog() = [[upvalue]];
+OnAllocate() = [[upvalue]];
+OnDisconnectFromKonami() = [[upvalue]];
+OnDisconnectFromNetwork() = [[upvalue]];
+OnDisconnectFromPsn() = [[upvalue]];
+OnDlcStatusChanged() = [[loadstring()]];
+OnEndDlcAnnounce() = [[loadstring()]];
+OnEndExceptionDialogForMgoInvitationAccept() = [[upvalue]];
+OnEndExceptionDialogForSignInUserChange() = [[upvalue]];
+OnInvitationAccept() = [[upvalue]];
+OnReload() = [[upvalue]];
+OnSessionDisconnectFromHost() = [[upvalue]];
+OnStartDlcAnnounce() = [[loadstring()]];
+PermitFobExceptionHandling() = [[loadstring()]];
+RegisterOnEndExceptionDialog() = [[upvalue]];
+ShowPopup() = [[upvalue]];
+SignInUserChanged() = [[upvalue]];
+StartProcess() = [[upvalue]];
+SuspendFobExceptionHandling() = [[loadstring()]];
+Update() = [[upvalue]];
+UserNotSignedIn() = [[upvalue]];
+
+["GAME_MODE"] = {
+	[1] = "TPP";
+	[2] = "TPP_FOB";
+	[3] = "MGO";
+	["TPP"] = 1;
+	["MGO"] = 3;
+	["TPP_FOB"] = 2;
+};
 ["OnEndExceptionDialog"] = {
 	[1] = {
 		[6] = [[upvalue]];
@@ -30,11 +64,27 @@
 		[7] = [[loadstring()]];
 	};
 };
-["FobMissionEndOnException"] = [[upvalue]];
-["OnDisconnectFromNetwork"] = [[upvalue]];
-["OnDisconnectFromKonami"] = [[upvalue]];
-["RegisterOnEndExceptionDialog"] = [[upvalue]];
-["NoProcessOnEndExceptionDialog"] = [[upvalue]];
+["PROCESS_STATE"] = {
+	[1] = "EMPTY";
+	[2] = "START";
+	[3] = "SHOW_DIALOG";
+	[4] = "SUSPEND";
+	[5] = "FINISH";
+	["SHOW_DIALOG"] = 3;
+	["EMPTY"] = 1;
+	["SUSPEND"] = 4;
+	["START"] = 2;
+	["FINISH"] = 5;
+};
+["SHOW_EXECPTION_DIALOG"] = {
+	[6] = [[loadstring()]];
+	[2] = [[loadstring()]];
+	[3] = [[loadstring()]];
+	[1] = [[loadstring()]];
+	[4] = [[loadstring()]];
+	[5] = [[upvalue]];
+	[7] = [[loadstring()]];
+};
 ["TPP_FOB_ON_END_EXECPTION_DIALOG"] = {
 	[6] = [[upvalue]];
 	[2] = [[upvalue]];
@@ -43,7 +93,30 @@
 	[4] = [[upvalue]];
 	[5] = [[upvalue]];
 };
-["EnablePause"] = [[loadstring()]];
+["TPP_ON_END_EXECPTION_DIALOG"] = {
+	[6] = [[upvalue]];
+	[2] = [[upvalue]];
+	[3] = [[upvalue]];
+	[1] = [[upvalue]];
+	[4] = [[upvalue]];
+	[5] = [[upvalue]];
+};
+["TYPE"] = {
+	[1] = "INVITATION_ACCEPT";
+	[2] = "DISCONNECT_FROM_PSN";
+	[3] = "DISCONNECT_FROM_KONAMI";
+	[4] = "DISCONNECT_FROM_NETWORK";
+	[5] = "SESSION_DISCONNECT_FROM_HOST";
+	[6] = "SIGNIN_USER_CHANGED";
+	[7] = "USER_NOT_SIGNED_IN";
+	["DISCONNECT_FROM_KONAMI"] = 3;
+	["USER_NOT_SIGNED_IN"] = 7;
+	["DISCONNECT_FROM_PSN"] = 2;
+	["INVITATION_ACCEPT"] = 1;
+	["DISCONNECT_FROM_NETWORK"] = 4;
+	["SESSION_DISCONNECT_FROM_HOST"] = 5;
+	["SIGNIN_USER_CHANGED"] = 6;
+};
 ["messageExecTable"] = {
 	[3105039150] = {
 		[984221079] = {
@@ -87,77 +160,8 @@
 		};
 	};
 };
-["SHOW_EXECPTION_DIALOG"] = {
-	[6] = [[loadstring()]];
-	[2] = [[loadstring()]];
-	[3] = [[loadstring()]];
-	[1] = [[loadstring()]];
-	[4] = [[loadstring()]];
-	[5] = [[upvalue]];
-	[7] = [[loadstring()]];
-};
-["OnEndExceptionDialogForMgoInvitationAccept"] = [[upvalue]];
-["FinishProcess"] = [[upvalue]];
-["Messages"] = [[upvalue]];
-["Dequeue"] = [[loadstring()]];
-["Update"] = [[upvalue]];
-["OnInvitationAccept"] = [[upvalue]];
-["_scriptInstanceId"] = [[userdata]]
-["SignInUserChanged"] = [[upvalue]];
-["StartProcess"] = [[upvalue]];
-["OnEndDlcAnnounce"] = [[loadstring()]];
-["GAME_MODE"] = {
-	[1] = "TPP";
-	[2] = "TPP_FOB";
-	[3] = "MGO";
-	["TPP"] = 1;
-	["MGO"] = 3;
-	["TPP_FOB"] = 2;
-};
-["OnAllocate"] = [[upvalue]];
-["PermitFobExceptionHandling"] = [[loadstring()]];
+
 ["_scriptPath"] = "TppException";
-["OnDlcStatusChanged"] = [[loadstring()]];
-["OnSessionDisconnectFromHost"] = [[upvalue]];
-["OnStartDlcAnnounce"] = [[loadstring()]];
-["ShowPopup"] = [[upvalue]];
-["PROCESS_STATE"] = {
-	[1] = "EMPTY";
-	[2] = "START";
-	[3] = "SHOW_DIALOG";
-	[4] = "SUSPEND";
-	[5] = "FINISH";
-	["SHOW_DIALOG"] = 3;
-	["EMPTY"] = 1;
-	["SUSPEND"] = 4;
-	["START"] = 2;
-	["FINISH"] = 5;
-};
-["ForbidFobExceptionHandling"] = [[loadstring()]];
-["OnReload"] = [[upvalue]];
-["GetCurrentGameMode"] = [[upvalue]];
-["TPP_ON_END_EXECPTION_DIALOG"] = {
-	[6] = [[upvalue]];
-	[2] = [[upvalue]];
-	[3] = [[upvalue]];
-	[1] = [[upvalue]];
-	[4] = [[upvalue]];
-	[5] = [[upvalue]];
-};
-["DisablePause"] = [[loadstring()]];
-["TYPE"] = {
-	[1] = "INVITATION_ACCEPT";
-	[2] = "DISCONNECT_FROM_PSN";
-	[3] = "DISCONNECT_FROM_KONAMI";
-	[4] = "DISCONNECT_FROM_NETWORK";
-	[5] = "SESSION_DISCONNECT_FROM_HOST";
-	[6] = "SIGNIN_USER_CHANGED";
-	[7] = "USER_NOT_SIGNED_IN";
-	["DISCONNECT_FROM_KONAMI"] = 3;
-	["USER_NOT_SIGNED_IN"] = 7;
-	["DISCONNECT_FROM_PSN"] = 2;
-	["INVITATION_ACCEPT"] = 1;
-	["DISCONNECT_FROM_NETWORK"] = 4;
-	["SESSION_DISCONNECT_FROM_HOST"] = 5;
-	["SIGNIN_USER_CHANGED"] = 6;
-};
+
+["_scriptInstanceId"] = [[userdata]]
+

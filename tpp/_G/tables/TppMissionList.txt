@@ -1,5 +1,8 @@
-["_scriptInstanceId"] = [[userdata]]
-["GetLocationPackagePath"] = [[upvalue]];
+GetLocationPackagePath() = [[upvalue]];
+GetMissionPackagePath() = [[upvalue]];
+IsStartHeliToMB() = [[loadstring()]];
+
 ["_scriptPath"] = "TppMissionList";
-["GetMissionPackagePath"] = [[upvalue]];
-["IsStartHeliToMB"] = [[loadstring()]];
+
+["_scriptInstanceId"] = [[userdata]]
+

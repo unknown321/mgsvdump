@@ -1,2 +1,4 @@
+Init() = [[upvalue]];
+
 ["_className"] = "Pad2";
-["Init"] = [[upvalue]];
+

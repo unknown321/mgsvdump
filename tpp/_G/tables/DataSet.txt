@@ -1,7 +1,9 @@
+GetAllDataList() = [[upvalue]];
+GetBucket() = [[upvalue]];
+GetData() = [[upvalue]];
+GetDataList() = [[upvalue]];
+GetDataSetFile() = [[upvalue]];
+GetRootTransformData() = [[upvalue]];
+
 ["_className"] = "DataSet";
-["GetData"] = [[upvalue]];
-["GetBucket"] = [[upvalue]];
-["GetDataSetFile"] = [[upvalue]];
-["GetAllDataList"] = [[upvalue]];
-["GetRootTransformData"] = [[upvalue]];
-["GetDataList"] = [[upvalue]];
+

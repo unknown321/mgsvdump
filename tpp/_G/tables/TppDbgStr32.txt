@@ -1,4 +1,7 @@
-["_scriptInstanceId"] = [[userdata]]
+DEBUG_RegisterStrcode32invert() = [[upvalue]];
+DEBUG_RegisterStrcode32invertByString() = [[upvalue]];
+DEBUG_StrCode32ToString() = [[upvalue]];
+
 ["DEBUG_strCode32List"] = {
 	[1] = "Trap";
 	[2] = "Enter";
@@ -293,7 +296,8 @@
 	[291] = "OnChangeLargeBlockState";
 	[292] = "OnChangeSmallBlockState";
 };
-["DEBUG_RegisterStrcode32invertByString"] = [[upvalue]];
+
 ["_scriptPath"] = "TppDbgStr32";
-["DEBUG_RegisterStrcode32invert"] = [[upvalue]];
-["DEBUG_StrCode32ToString"] = [[upvalue]];
+
+["_scriptInstanceId"] = [[userdata]]
+

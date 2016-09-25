@@ -1,7 +1,9 @@
+FadeInFxFallRainOutside() = [[upvalue]];
+FadeOutFxFallRainOutside() = [[upvalue]];
+GetInstance() = [[upvalue]];
+ResetStartEndFadeInDistanceDemo() = [[upvalue]];
+SetStartEndFadeInDistanceDemo() = [[upvalue]];
+SwitchEnableInterruptData() = [[upvalue]];
+
 ["_className"] = "TppRainFilterInterruptManager";
-["ResetStartEndFadeInDistanceDemo"] = [[upvalue]];
-["SetStartEndFadeInDistanceDemo"] = [[upvalue]];
-["FadeOutFxFallRainOutside"] = [[upvalue]];
-["FadeInFxFallRainOutside"] = [[upvalue]];
-["SwitchEnableInterruptData"] = [[upvalue]];
-["GetInstance"] = [[upvalue]];
+

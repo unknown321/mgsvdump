@@ -1,2 +1,4 @@
+GetPosition() = [[upvalue]];
+
 ["_className"] = "GraphxSpatialGraphDataNode";
-["GetPosition"] = [[upvalue]];
+

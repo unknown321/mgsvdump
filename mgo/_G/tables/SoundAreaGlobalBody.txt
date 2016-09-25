@@ -1,3 +1,5 @@
-["OverwriteParameter"] = [[upvalue]];
-["CancelParameter"] = [[upvalue]];
+CancelParameter() = [[upvalue]];
+OverwriteParameter() = [[upvalue]];
+
 ["_className"] = "SoundAreaGlobalBody";
+

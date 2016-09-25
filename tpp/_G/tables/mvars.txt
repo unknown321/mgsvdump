@@ -1,28 +1,269 @@
-["dem_demoFuncs"] = {
+seq_onEndMissionPrepareFunction() = [[upvalue]];
+title_disableGameStatusFunction() = [[loadstring()]];
+title_enableGameStatusFunction() = [[loadstring()]];
+title_titleModeOnEnterFunction() = [[loadstring()]];
+
+["FreeHeliRadio_addOptionRadioCount"] = {};
+["ani_questGameObjectIdList"] = {};
+["ani_questTargetList"] = {};
+["dem_demoFlags"] = {};
+["dem_demoFuncs"] = {};
+["dem_demoList"] = {};
+["dem_invDemoList"] = {};
+["dem_invScdDemolist"] = {};
+["dem_isSkipped"] = {};
+["dem_playedList"] = {};
+["demo_finishWaitRequestInfo"] = {};
+["demo_playRequestInfo"] = {
+	["demoBlock"] = {
+	};
+	["missionBlock"] = {
+	};
 };
-["gim_isQuestSetup"] = false;
-["seq_missionStartSequence"] = 2;
-["ply_equipMissionBlockGroupSize"] = 0;
-["mis_isAlertOutOfMissionArea"] = false;
-["ene_missionSoldierPowerSettings"] = {
+["ene_disablePowerSettings"] = {};
+["ene_eliminateTargetList"] = {};
+["ene_missionRequiresPowerSettings"] = {};
+["ene_missionSoldierPersonalAbilitySettings"] = {};
+["ene_missionSoldierPowerSettings"] = {};
+["ene_noShiftChangeGroupSetting"] = {};
+["ene_questGetLoadedFaceTable"] = {};
+["ene_questTargetList"] = {};
+["ene_questVehicleList"] = {};
+["ene_routeAnimationGaniPathTable"] = {
+	[1] = {
+		[1] = "SoldierLookWatch";
+		[2] = "/Assets/tpp/motion/SI_game/fani/bodies/enem/enemasr/enemasr_s_pat_idl_act_a.gani";
+	};
+	[2] = {
+		[1] = "SoldierWipeFace";
+		[2] = "/Assets/tpp/motion/SI_game/fani/bodies/enem/enemasr/enemasr_s_pat_idl_act_d.gani";
+	};
+	[3] = {
+		[1] = "SoldierYawn";
+		[2] = "/Assets/tpp/motion/SI_game/fani/bodies/enem/enemasr/enemasr_s_pat_idl_act_f.gani";
+	};
+	[4] = {
+		[1] = "SoldierSneeze";
+		[2] = "/Assets/tpp/motion/SI_game/fani/bodies/enem/enemasr/enemasr_s_pat_idl_act_g.gani";
+	};
+	[5] = {
+		[1] = "SoldierFootStep";
+		[2] = "/Assets/tpp/motion/SI_game/fani/bodies/enem/enemasr/enemasr_s_pat_idl_act_h.gani";
+	};
+	[6] = {
+		[1] = "SoldierCough";
+		[2] = "/Assets/tpp/motion/SI_game/fani/bodies/enem/enemasr/enemasr_s_pat_idl_act_i.gani";
+	};
+	[7] = {
+		[1] = "SoldierScratchHead";
+		[2] = "/Assets/tpp/motion/SI_game/fani/bodies/enem/enemasr/enemasr_s_pat_idl_act_o.gani";
+	};
+	[8] = {
+		[1] = "SoldierHungry";
+		[2] = "/Assets/tpp/motion/SI_game/fani/bodies/enem/enemasr/enemasr_s_pat_idl_act_p.gani";
+	};
 };
-["ene_routeSets"] = {
+["ene_routeSets"] = {};
+["ene_soldierPersonalAbilitySettings"] = {};
+["ene_soldierPowerSettings"] = {};
+["ene_soldierTypes"] = {};
+["gim_connectLandingZoneTable"] = {
+	["commFacility_aacr001"] = {
+		[1] = "lz_commFacility_I0000|lz_commFacility_I_0000";
+	};
+	["field_aacr001"] = {
+		[1] = "lz_field_I0000|lz_field_I_0000";
+	};
+	["swamp_aacr001"] = {
+		[1] = "lz_swamp_I0000|lz_swamp_I_0000";
+	};
+	["powerPlant_aacr001"] = {
+		[1] = "lz_powerPlant_E0000|lz_powerPlant_E_0000";
+	};
+	["fort_aacr001"] = {
+		[1] = "lz_fort_I0000|lz_fort_I_0000";
+	};
+	["hill_aacr001"] = {
+		[1] = "lz_hill_I0000|lz_hill_I_0000";
+	};
+	["banana_aacr001"] = {
+		[1] = "lz_banana_I0000|lz_banana_I_0000";
+	};
+	["tent_aacr001"] = {
+		[1] = "lz_tent_I0000|lz_tent_I_0000";
+	};
+	["remnants_aacr001"] = {
+		[1] = "lz_remnants_I0000|lz_remnants_I_0000";
+	};
+	["enemyBase_aacr001"] = {
+		[1] = "lz_enemyBase_I0000|lz_enemyBase_I_0000";
+	};
+	["diamond_aacr001"] = {
+		[1] = "lz_diamond_I0000|lz_diamond_I_0000";
+	};
+	["savannah_aacr001"] = {
+		[1] = "lz_savannah_I0000|lz_savannah_I_0000";
+	};
+	["slopedTown_aacr001"] = {
+		[1] = "lz_slopedTown_I0000|lz_slopedTown_I_0000";
+	};
+	["sovietBase_aacr001"] = {
+		[1] = "lz_sovietBase_E0000|lz_sovietBase_E_0000";
+	};
+	["cliffTown_aacr001"] = {
+		[1] = "lz_cliffTown_I0000|lz_cliffTown_I_0000";
+	};
+	["flowStation_aacr001"] = {
+		[1] = "lz_flowStation_I0000|lz_flowStation_I_0000";
+	};
+	["pfCamp_aacr001"] = {
+		[1] = "lz_pfCamp_I0000|lz_pfCamp_I_0000";
+	};
 };
-["sbl_currentScriptBlockPackInfo"] = {
+["gim_questTargetList"] = {};
+["heliSpace_DisableSelectSortieTimeFromMissionPreparetion"] = {
+	[10020] = true;
+	[10080] = true;
 };
-["sbl_preloadRequestTable"] = {
+["heliSpace_NoBuddyMenuFromMissionPreparetion"] = {
+	[10020] = true;
+	[10115] = true;
+	[50050] = true;
+	[30050] = true;
+	[30250] = true;
 };
-["revenge_isEnabledSuperReinforce"] = true;
-["res_rankTable"] = {
-	["A"] = 100000;
-	["S"] = 130000;
-	["B"] = 60000;
-	["E"] = 0;
-	["D"] = 10000;
-	["C"] = 30000;
+["heliSpace_NoVehicleMenuFromMissionPreparetion"] = {
+	[30150] = true;
+	[10115] = true;
+	[50050] = true;
+	[30050] = true;
+	[30250] = true;
 };
-["rad_optionalRadioInvList"] = {
-	[3682974642] = "Set_f2000_oprg4010";
+["heliSpace_SkipMissionPreparetion"] = {
+	[10020] = false;
+	[30150] = true;
+	[11044] = true;
+	[10030] = true;
+	[30050] = true;
+	[11043] = true;
+	[10010] = true;
+	[30250] = true;
+	[10280] = true;
+	[10240] = true;
+};
+["helispacePlayerTransform"] = {
+	["rotY"] = 0;
+	["pos"] = {
+		[1] = 0;
+		[2] = 1197.6850585938;
+		[3] = -1.0599999427795;
+	};
+};
+["ldz_assaultDropLandingZoneTable"] = {
+	[705202089] = true;
+	[1649373165] = true;
+	[2259452923] = true;
+	[2691946923] = true;
+	[3356266804] = true;
+	[694120472] = true;
+	[3380702832] = true;
+	[3667595332] = true;
+	[3151133361] = true;
+	[2656289118] = true;
+	[2980488803] = true;
+	[2699722927] = true;
+	[4068701460] = true;
+	[1708709563] = true;
+	[2976202158] = true;
+	[3101903048] = true;
+	[3353143331] = true;
+};
+["loc_locationBaseTelop"] = {
+	["SetupTypingTextMessages"] = [[upvalue]];
+	["_scriptPath"] = "mtbs_baseTelop";
+	["Messages"] = [[upvalue]];
+	["_scriptInstanceId"] = [[userdata]]
+	["OnInitialize"] = [[upvalue]];
+	["_OnTrap"] = [[upvalue]];
+	["_OnEnterForUpdateFobClearedPlantCount"] = [[loadstring()]];
+	["messageExecTable"] = {
+		[2524903270] = {
+		};
+		[3087473413] = {
+			[4187264311] = {
+				["func"] = [[upvalue]];
+			};
+		};
+	};
+	["OnReload"] = [[upvalue]];
+	["_OnTelop"] = [[loadstring()]];
+	["OnMessage"] = [[upvalue]];
+	["DispBaseName"] = [[upvalue]];
+	["_OnTelopStart"] = [[upvalue]];
+	["DisableBaseName"] = [[loadstring()]];
+	["DispBaseNameNoTelop"] = [[loadstring()]];
+	["cpLangIdTable"] = {
+		[1] = {
+			[1] = "platform_main";
+			[2] = "platform_main";
+			[3] = "platform_en_main";
+		};
+		[2] = {
+			[1] = "platform_combat";
+			[2] = "platform_combat";
+			[3] = "platform_en_combat";
+		};
+		[3] = {
+			[1] = "platform_RD";
+			[2] = "platform_RD";
+			[3] = "platform_en_RD";
+		};
+		[4] = {
+			[1] = "platform_support";
+			[2] = "platform_support";
+			[3] = "platform_en_support";
+		};
+		[5] = {
+			[1] = "platform_medical";
+			[2] = "platform_medical";
+			[3] = "platform_en_medical";
+		};
+		[6] = {
+			[1] = "platform_intel";
+			[2] = "platform_intel";
+			[3] = "platform_en_intel";
+		};
+		[7] = {
+			[1] = "platform_base_dev";
+			[2] = "platform_base_dev";
+			[3] = "platform_en_base_dev";
+		};
+		[8] = {
+			[1] = "platform_zoo_bird";
+			[2] = "platform_zoo_bird";
+			[3] = "platform_en_zoo_bird";
+		};
+		[9] = {
+			[1] = "platform_zoo_herbivore1";
+			[2] = "platform_zoo_herbivore1";
+			[3] = "platform_en_zoo_herbivore1";
+		};
+		[10] = {
+			[1] = "platform_zoo_canivore";
+			[2] = "platform_zoo_canivore";
+			[3] = "platform_en_zoo_canivore";
+		};
+		[11] = {
+			[1] = "platform_zoo_herbivore2";
+			[2] = "platform_zoo_herbivore2";
+			[3] = "platform_en_zoo_herbivore2";
+		};
+		[12] = {
+			[1] = "platform_isolation";
+			[2] = "platform_isolation";
+			[3] = "platform_en_isolation";
+		};
+	};
 };
 ["loc_locationCommonTable"] = {
 	["OnReload"] = [[loadstring()]];
@@ -40,48 +281,16 @@
 	["OnAllocate"] = [[upvalue]];
 	["OnMessage"] = [[loadstring()]];
 };
-["newGameConfirmResult"] = 0;
-["title_disableGameStatusFunction"] = [[loadstring()]];
-["tlp_enemyCombatants"] = {
-};
-["qst_blockName"] = "quest_block";
-["trm_bluePrintLocatorIdTable"] = {
-	[3145470] = 34;
-	[6810011] = 40;
-	[5509624] = 24;
-	[11519767] = 29;
-	[4741030] = 27;
-	[15166830] = 31;
-	[3835797] = 34;
-	[1908443] = 34;
-	[4009396] = 42;
-	[4970370] = 25;
-	[6929828] = 41;
-	[11479983] = 29;
-	[594485] = 39;
-	[14317601] = 31;
-	[11023056] = 29;
-	[10252721] = 46;
-	[1041755] = 43;
-	[10904403] = 33;
-	[14540460] = 21;
-	[5039367] = 439;
-	[598891] = 34;
-	[4088341] = 37;
-	[268918] = 38;
-	[5591297] = 37;
-	[8397929] = 44;
-	[2753472] = 37;
-	[13222182] = 29;
-	[11180997] = 37;
-	[14938090] = 25;
-	[3652642] = 26;
-};
-["ene_questBalaclavaId"] = 0;
-["rad_optionalRadioList"] = {
-	[1] = "Set_f2000_oprg4010";
-};
-["dem_demoFlags"] = {
+["mar_searchTargetList"] = {};
+["mis_checkPointList"] = {};
+["mtbsClst_constructTable"] = {
+	[1] = 4;
+	[2] = 4;
+	[3] = 4;
+	[4] = 4;
+	[5] = 4;
+	[6] = 4;
+	[7] = 4;
 };
 ["qst_questList"] = {
 	[1] = {
@@ -1248,160 +1457,486 @@
 		["clusterName"] = "MedicalPaz";
 	};
 };
-["loc_locationBaseTelop"] = {
-	["SetupTypingTextMessages"] = [[upvalue]];
-	["_scriptPath"] = "mtbs_baseTelop";
-	["Messages"] = [[upvalue]];
-	["_scriptInstanceId"] = [[userdata]]
-	["OnInitialize"] = [[upvalue]];
-	["_OnTrap"] = [[upvalue]];
-	["_OnEnterForUpdateFobClearedPlantCount"] = [[loadstring()]];
-	["messageExecTable"] = {
-		[2524903270] = {
-		};
-		[3087473413] = {
-			[4187264311] = {
-				["func"] = [[upvalue]];
-			};
-		};
-	};
-	["OnReload"] = [[upvalue]];
-	["_OnTelop"] = [[loadstring()]];
-	["OnMessage"] = [[upvalue]];
-	["DispBaseName"] = [[upvalue]];
-	["_OnTelopStart"] = [[upvalue]];
-	["DisableBaseName"] = [[loadstring()]];
-	["DispBaseNameNoTelop"] = [[loadstring()]];
-	["cpLangIdTable"] = {
-		[1] = {
-			[1] = "platform_main";
-			[2] = "platform_main";
-			[3] = "platform_en_main";
-		};
-		[2] = {
-			[1] = "platform_combat";
-			[2] = "platform_combat";
-			[3] = "platform_en_combat";
-		};
-		[3] = {
-			[1] = "platform_RD";
-			[2] = "platform_RD";
-			[3] = "platform_en_RD";
-		};
-		[4] = {
-			[1] = "platform_support";
-			[2] = "platform_support";
-			[3] = "platform_en_support";
-		};
-		[5] = {
-			[1] = "platform_medical";
-			[2] = "platform_medical";
-			[3] = "platform_en_medical";
-		};
-		[6] = {
-			[1] = "platform_intel";
-			[2] = "platform_intel";
-			[3] = "platform_en_intel";
-		};
-		[7] = {
-			[1] = "platform_base_dev";
-			[2] = "platform_base_dev";
-			[3] = "platform_en_base_dev";
-		};
-		[8] = {
-			[1] = "platform_zoo_bird";
-			[2] = "platform_zoo_bird";
-			[3] = "platform_en_zoo_bird";
-		};
-		[9] = {
-			[1] = "platform_zoo_herbivore1";
-			[2] = "platform_zoo_herbivore1";
-			[3] = "platform_en_zoo_herbivore1";
-		};
-		[10] = {
-			[1] = "platform_zoo_canivore";
-			[2] = "platform_zoo_canivore";
-			[3] = "platform_en_zoo_canivore";
-		};
-		[11] = {
-			[1] = "platform_zoo_herbivore2";
-			[2] = "platform_zoo_herbivore2";
-			[3] = "platform_en_zoo_herbivore2";
-		};
-		[12] = {
-			[1] = "platform_isolation";
-			[2] = "platform_isolation";
-			[3] = "platform_en_isolation";
-		};
-	};
+["rad_commonRadioDelayTable"] = {
+	[1] = "long";
+	[2] = "long";
+	[11] = "mid";
+	[24] = "mid";
+	[28] = "long";
+	[32] = "long";
+	[22] = 8;
+	[27] = "long";
+	[12] = "mid";
+	[25] = "mid";
 };
-["gim_isquestMarkStart"] = false;
-["ene_isQuestSetup"] = false;
-["trm_voiceDisabled"] = false;
-["mbHelicopter_startPlatformId"] = 1;
-["gim_shownEspionageBox"] = true;
-["seq_canMissionStartWaitStartTime"] = 28.445297733182;
+["rad_commonRadioTable"] = {
+	[1] = "f1000_rtrg0100";
+	[2] = "f1000_rtrg1550";
+	[3] = "f1000_rtrg0110";
+	[4] = "f1000_rtrg0116";
+	[5] = "f1000_rtrg8050";
+	[6] = "f1000_rtrg0010";
+	[7] = "f1000_rtrg8040";
+	[8] = "f1000_rtrg8030";
+	[9] = "f1000_rtrg8060";
+	[10] = "f1000_rtrg0030";
+	[11] = "f1000_rtrg0120";
+	[12] = "f1000_rtrg0130";
+	[13] = "f1000_rtrg0050";
+	[14] = "f1000_rtrg0070";
+	[15] = "f1000_rtrg0060";
+	[16] = "f1000_rtrg9050";
+	[17] = "f1000_rtrg9040";
+	[18] = "f1000_rtrg9030";
+	[19] = "f1000_rtrg9020";
+	[20] = "f1000_rtrg9010";
+	[21] = "f1000_rtrg9010";
+	[22] = "f1000_rtrg0690";
+	[23] = "f1000_rtrg0060";
+	[24] = "f1000_rtrg2120";
+	[25] = "f1000_rtrg2171";
+	[26] = "f1000_rtrg9020";
+	[27] = "f1000_rtrg1640";
+	[28] = "f1000_rtrg1640";
+	[29] = "f1000_rtrg1680";
+	[30] = "f1000_rtrg4440";
+	[31] = "f1000_rtrg8050";
+	[32] = "f1000_rtrg2020";
+	[33] = "f1000_rtrg5020";
+	[34] = "f1000_rtrg5021";
+	[35] = "f1000_rtrg3780";
+	[36] = "f1000_rtrg0090";
+	[37] = "f1000_rtrg1940";
+	[38] = "f1000_rtrg0080";
+	[39] = "f1000_rtrg1050";
+	[40] = "f1000_rtrg4520";
+};
+["rad_debugRadioLineTable"] = {};
+["rad_gameOverRadioTable"] = {
+	[1] = "f8000_gmov0010";
+	[2] = "f8000_gmov0020";
+	[3] = "f8000_gmov0030";
+	[4] = "f8000_gmov0040";
+	[5] = "f8000_gmov0050";
+	[6] = "f8000_gmov0060";
+	[7] = "f8000_gmov0110";
+	[8] = "f8000_gmov0120";
+	[9] = "f8000_gmov0123";
+	[10] = "f8000_gmov0230";
+	[11] = "f8000_gmov2500";
+	[255] = "f8000_gmov9090";
+};
+["rad_intelRadioList"] = {};
+["rad_optionalRadioInvList"] = {
+	[3682974642] = "Set_f2000_oprg4010";
+};
+["rad_optionalRadioList"] = {
+	[1] = "Set_f2000_oprg4010";
+};
 ["rad_optionalRadioPlayOnceList"] = {
 	["Set_f2000_oprg4010"] = false;
 };
-["dem_invScdDemolist"] = {
+["rad_radioInvList"] = {
+	[2944459689] = "f2000_rtrg1110";
+	[862208655] = "f2000_rtrg1120";
+	[3989105201] = "f2000_rtrg1130";
 };
-["revenge_revengeType"] = {
+["rad_radioList"] = {
+	[1] = "f2000_rtrg1110";
+	[2] = "f2000_rtrg1120";
+	[3] = "f2000_rtrg1130";
 };
-["gim_connectLandingZoneTable"] = {
-	["commFacility_aacr001"] = {
-		[1] = "lz_commFacility_I0000|lz_commFacility_I_0000";
+["rad_radioPlayOnceList"] = {
+	["f2000_rtrg1120"] = false;
+	["f2000_rtrg1130"] = false;
+	["f2000_rtrg1110"] = false;
+};
+["rad_subScripts"] = {
+	["photo"] = {
+		["UNIT_LIST"] = {
+			[27] = {
+				[1] = 5;
+			};
+			[2] = {
+				[1] = 1;
+			};
+			[3] = {
+				[1] = 0;
+				[2] = 2;
+			};
+			[4] = {
+				[1] = 0;
+				[2] = 2;
+				[3] = 3;
+			};
+			[5] = {
+				[1] = 0;
+				[2] = 2;
+				[3] = 3;
+				[4] = 4;
+			};
+			[6] = {
+				[1] = 1;
+				[2] = 5;
+			};
+			[7] = {
+				[1] = 1;
+				[2] = 5;
+				[3] = 6;
+			};
+			[8] = {
+				[1] = 0;
+			};
+			[10] = {
+				[1] = 2;
+			};
+			[12] = {
+				[1] = 4;
+			};
+			[14] = {
+				[1] = 6;
+			};
+			[16] = {
+				[1] = 8;
+				[2] = 9;
+			};
+			[20] = {
+				[1] = 15;
+			};
+			[24] = {
+				[1] = 1;
+				[2] = 2;
+			};
+			[28] = {
+				[1] = 6;
+			};
+			[32] = {
+				[1] = 11;
+			};
+			[33] = {
+				[1] = 12;
+			};
+			[17] = {
+				[1] = 10;
+			};
+			[21] = {
+				[1] = 16;
+			};
+			[25] = {
+				[1] = 3;
+			};
+			[29] = {
+				[1] = 7;
+			};
+			[34] = {
+				[1] = 12;
+				[2] = 13;
+			};
+			[9] = {
+				[1] = 1;
+			};
+			[11] = {
+				[1] = 3;
+			};
+			[13] = {
+				[1] = 5;
+			};
+			[15] = {
+				[1] = 7;
+			};
+			[18] = {
+				[1] = 11;
+				[2] = 12;
+			};
+			[22] = {
+				[1] = 17;
+			};
+			[26] = {
+				[1] = 4;
+			};
+			[30] = {
+				[1] = 8;
+				[2] = 9;
+			};
+			[36] = {
+				[1] = 12;
+				[2] = 15;
+			};
+			[37] = {
+				[1] = 12;
+				[2] = 16;
+			};
+			[35] = {
+				[1] = 12;
+				[2] = 14;
+			};
+			[1] = {
+				[1] = 0;
+			};
+			[19] = {
+				[1] = 13;
+				[2] = 14;
+			};
+			[23] = {
+				[1] = 0;
+			};
+			[31] = {
+				[1] = 10;
+			};
+		};
+		["GROUP_ID_LIST"] = {
+			[27] = 2;
+			[2] = 0;
+			[3] = 0;
+			[4] = 0;
+			[5] = 0;
+			[6] = 0;
+			[7] = 0;
+			[8] = 1;
+			[10] = 1;
+			[12] = 1;
+			[14] = 1;
+			[16] = 1;
+			[20] = 1;
+			[24] = 2;
+			[28] = 2;
+			[32] = 2;
+			[33] = 2;
+			[17] = 1;
+			[21] = 1;
+			[25] = 2;
+			[29] = 2;
+			[34] = 2;
+			[9] = 1;
+			[11] = 1;
+			[13] = 1;
+			[15] = 1;
+			[18] = 1;
+			[22] = 1;
+			[26] = 2;
+			[30] = 2;
+			[36] = 2;
+			[37] = 2;
+			[35] = 2;
+			[1] = 0;
+			[19] = 1;
+			[23] = 2;
+			[31] = 2;
+		};
+		["MESH_LIST"] = {
+			[40] = "MESH_40";
+			[39] = "MESH_39";
+			[38] = "MESH_38";
+			[41] = "MESH_41";
+		};
+		["_scriptPath"] = "heli_common_photo";
+		["DEBUG_ForceShow"] = [[upvalue]];
+		["_scriptInstanceId"] = [[userdata]]
+		["OnBuddyBlockLoad"] = [[upvalue]];
+		["Show"] = [[upvalue]];
+		["HideMESH"] = [[upvalue]];
+		["DEBUG_DumpConditionResult"] = [[upvalue]];
+		["DEBUG_IsForceShow"] = [[upvalue]];
+		["DEBUG_ClearForceShow"] = [[upvalue]];
+		["ShowMESH"] = [[upvalue]];
+		["OPEN_CONDITION_LIST"] = {
+			[27] = [[upvalue]];
+			[2] = [[upvalue]];
+			[38] = [[upvalue]];
+			[3] = [[upvalue]];
+			[4] = [[upvalue]];
+			[5] = [[upvalue]];
+			[6] = [[upvalue]];
+			[7] = [[upvalue]];
+			[8] = [[loadstring()]];
+			[10] = [[loadstring()]];
+			[12] = [[upvalue]];
+			[14] = [[upvalue]];
+			[16] = [[upvalue]];
+			[20] = [[upvalue]];
+			[24] = [[upvalue]];
+			[28] = [[upvalue]];
+			[32] = [[upvalue]];
+			[40] = [[upvalue]];
+			[33] = [[upvalue]];
+			[41] = [[upvalue]];
+			[17] = [[upvalue]];
+			[21] = [[upvalue]];
+			[25] = [[upvalue]];
+			[29] = [[loadstring()]];
+			[34] = [[upvalue]];
+			[42] = [[upvalue]];
+			[9] = [[loadstring()]];
+			[11] = [[loadstring()]];
+			[13] = [[upvalue]];
+			[15] = [[upvalue]];
+			[18] = [[upvalue]];
+			[22] = [[upvalue]];
+			[26] = [[upvalue]];
+			[30] = [[upvalue]];
+			[36] = [[upvalue]];
+			[37] = [[upvalue]];
+			[39] = [[upvalue]];
+			[35] = [[upvalue]];
+			[1] = [[loadstring()]];
+			[19] = [[upvalue]];
+			[23] = [[upvalue]];
+			[31] = [[upvalue]];
+		};
+		["OnRestoreSVars"] = [[upvalue]];
 	};
-	["field_aacr001"] = {
-		[1] = "lz_field_I0000|lz_field_I_0000";
+	["radio"] = {
+		["optionalRadioList"] = {
+			[1] = "Set_f2000_oprg4010";
+		};
+		["_scriptPath"] = "heli_common_radio";
+		["SetOptionalRadioInEmergency"] = [[loadstring()]];
+		["AddGZStaff"] = [[loadstring()]];
+		["_scriptInstanceId"] = [[userdata]]
+		["MissionListGuide00"] = [[loadstring()]];
+		["debugRadioLineTable"] = {
+		};
+		["RemoveToActiveOptionalRadio"] = [[loadstring()]];
+		["InsertToActiveOptionalRadio"] = [[loadstring()]];
+		["SetOptionalRadioFromSituation"] = [[upvalue]];
+		["MissionListGuide10"] = [[loadstring()]];
+		["radioList"] = {
+			[1] = "f2000_rtrg1110";
+			[2] = "f2000_rtrg1120";
+			[3] = "f2000_rtrg1130";
+		};
 	};
-	["swamp_aacr001"] = {
-		[1] = "lz_swamp_I0000|lz_swamp_I_0000";
-	};
-	["powerPlant_aacr001"] = {
-		[1] = "lz_powerPlant_E0000|lz_powerPlant_E_0000";
-	};
-	["fort_aacr001"] = {
-		[1] = "lz_fort_I0000|lz_fort_I_0000";
-	};
-	["hill_aacr001"] = {
-		[1] = "lz_hill_I0000|lz_hill_I_0000";
-	};
-	["banana_aacr001"] = {
-		[1] = "lz_banana_I0000|lz_banana_I_0000";
-	};
-	["tent_aacr001"] = {
-		[1] = "lz_tent_I0000|lz_tent_I_0000";
-	};
-	["remnants_aacr001"] = {
-		[1] = "lz_remnants_I0000|lz_remnants_I_0000";
-	};
-	["enemyBase_aacr001"] = {
-		[1] = "lz_enemyBase_I0000|lz_enemyBase_I_0000";
-	};
-	["diamond_aacr001"] = {
-		[1] = "lz_diamond_I0000|lz_diamond_I_0000";
-	};
-	["savannah_aacr001"] = {
-		[1] = "lz_savannah_I0000|lz_savannah_I_0000";
-	};
-	["slopedTown_aacr001"] = {
-		[1] = "lz_slopedTown_I0000|lz_slopedTown_I_0000";
-	};
-	["sovietBase_aacr001"] = {
-		[1] = "lz_sovietBase_E0000|lz_sovietBase_E_0000";
-	};
-	["cliffTown_aacr001"] = {
-		[1] = "lz_cliffTown_I0000|lz_cliffTown_I_0000";
-	};
-	["flowStation_aacr001"] = {
-		[1] = "lz_flowStation_I0000|lz_flowStation_I_0000";
-	};
-	["pfCamp_aacr001"] = {
-		[1] = "lz_pfCamp_I0000|lz_pfCamp_I_0000";
+	["sequence"] = {
+		["SetTerminalAttentionIcon"] = [[loadstring()]];
+		["_messageExecTable"] = {
+			[3105039150] = {
+				[824988796] = {
+					["senderOption"] = {
+						[3704233593] = {
+							[2357387275] = true;
+						};
+					};
+					["sender"] = {
+						[3704233593] = [[loadstring()]];
+					};
+				};
+				[1201114382] = {
+					["func"] = [[loadstring()]];
+				};
+			};
+			[4133365783] = {
+				[1378767181] = {
+					["func"] = [[loadstring()]];
+				};
+				[2878679236] = {
+					["func"] = [[loadstring()]];
+				};
+			};
+		};
+		["SetCameraStageCenter_GoOut"] = [[loadstring()]];
+		["OnStartFobMission"] = [[loadstring()]];
+		["OnUpdateChunkInstalling"] = [[upvalue]];
+		["OnRestoreSVars"] = [[loadstring()]];
+		["Messages"] = [[upvalue]];
+		["OverrideFadeInGameStatus"] = [[loadstring()]];
+		["SetPandemicTutorialMbMenuActive"] = [[upvalue]];
+		["ClearTerminalAttentionIcon"] = [[upvalue]];
+		["OnAbortMissionPreparation"] = [[loadstring()]];
+		["OnUpdate"] = [[upvalue]];
+		["OnEndFadeOutMissionPreparetionEnd"] = [[loadstring()]];
+		["SetMissionPrepPreviewPosition"] = [[loadstring()]];
+		["OnMissionPreparetionEnd"] = [[upvalue]];
+		["SetCameraStageCenter_Go"] = [[loadstring()]];
+		["PlayerPrepareSpaceToHeliSpace"] = [[loadstring()]];
+		["SetBuddyHeliSpaceSetting"] = [[upvalue]];
+		["SetCameraStageCenter"] = [[loadstring()]];
+		["UpdateCameraParameter"] = [[upvalue]];
+		["PlayerHeliSpaceToPrepareSpace"] = [[loadstring()]];
+		["GetExceptGameStatusOnSortieMenu"] = [[loadstring()]];
+		["GetFobTutorialSequenceName"] = [[loadstring()]];
+		["EQUIP_MISSION_BLOCK_GROUP_SIZE"] = 0;
+		["AddCommonHeliSpaceMessage"] = [[upvalue]];
+		["EnableGameStatusFunction"] = [[loadstring()]];
+		["RealizeHeliPilot"] = [[loadstring()]];
+		["StartPilotMotion"] = [[loadstring()]];
+		["OnTerminate"] = [[loadstring()]];
+		["MAX_PLACED_LOCATOR_COUNT"] = 1;
+		["DisableGameStatusFunction"] = [[loadstring()]];
+		["DebugUpdate"] = [[loadstring()]];
+		["MAX_PICKABLE_LOCATOR_COUNT"] = 1;
+		["StopRain"] = [[loadstring()]];
+		["OnSelectLandPoint"] = [[loadstring()]];
+		["ALWAYS_APPLY_TEMPORATY_PLAYER_PARTS_SETTING"] = true;
+		["AddHeliSpaceDebugMenu"] = [[loadstring()]];
+		["_scriptInstanceId"] = [[userdata]]
+		["DEBUG_strCode32List"] = {
+			[1] = "MissionPrep_Start";
+			[2] = "MissionPrep_Abort";
+			[3] = "MissionPrep_End";
+			[4] = "MissionPrep_StartEdit";
+			[5] = "MissionPrep_ChangeEditTarget";
+			[6] = "MissionPrep_EndEdit";
+			[7] = "MissionPrep_StartSlotSelect";
+			[8] = "MissionPrep_ChangeSlot";
+			[9] = "MissionPrep_EndSlotSelect";
+			[10] = "MissionPrep_StartItemSelect";
+			[11] = "MissionPrep_ChangeItem";
+			[12] = "MissionPrep_EndItemSelect";
+			[13] = "MissionPrep_StartModelView";
+			[14] = "MissionPrep_EndtModelView";
+			[15] = "MissionPrep_FocusTarget_Weapon";
+			[16] = "MissionPrep_FocusTarget_PrimaryWeapon";
+			[17] = "MissionPrep_FocusTarget_SecondaryWeapon";
+			[18] = "MissionPrep_FocusTarget_SupportWeapon";
+			[19] = "MissionPrep_FocusTarget_Item";
+			[20] = "MissionPrep_FocusTarget_Suit";
+			[21] = "MissionPrep_FocusTarget_Player";
+			[22] = "MissionPrep_FocusTarget_Buddy";
+			[23] = "MissionPrep_FocusTarget_Vehicle";
+			[24] = "MissionPrep_FocusTarget_None";
+			[25] = "MbDvcActSelectAvatarMenu";
+		};
+		["SetEditingTimeAndWeather"] = [[loadstring()]];
+		["SelectPauseMenuOpenStore"] = [[loadstring()]];
+		["SelectGoToMGO"] = [[loadstring()]];
+		["OnEndFadeOutGoToMGO"] = [[loadstring()]];
+		["TitleModeOnEnterFunction"] = [[loadstring()]];
+		["StartRain"] = [[loadstring()]];
+		["OnEndFadeOutSelectLandingPoint"] = [[loadstring()]];
+		["ClearMissionListGuidanceLimitation"] = [[upvalue]];
+		["saveVarsList"] = {
+			["showInfoTypingText"] = false;
+		};
+		["OnLoad"] = [[upvalue]];
+		["_scriptPath"] = "heli_common_sequence";
+		["SetCustomizePreviewPosition"] = [[loadstring()]];
+		["AcquireHelispaceStartCassetteTape"] = [[loadstring()]];
+		["OnBuddyBlockLoad"] = [[upvalue]];
+		["RestoreWeather"] = [[loadstring()]];
+		["MissionPrepare"] = [[upvalue]];
+		["DisableGameStatusOnHelispace"] = [[loadstring()]];
+		["OnEndMissionPrepareSequence"] = [[upvalue]];
+		["RestoreClock"] = [[loadstring()]];
+		["SaveCurrentClock"] = [[loadstring()]];
+		["SetMissionPrepPreviewRotation"] = [[loadstring()]];
+		["CommonBuddyHeliSpaceSetting"] = [[loadstring()]];
 	};
 };
-["ene_eliminateTargetList"] = {
+["res_hitRatioBonusParam"] = {
+	["limitHitRatioBonus"] = 1000;
+	["perfectBonusBase"] = 30000;
+	["hitRatioBaseScoreUnit"] = 30;
+	["exponetHitRatio"] = 6;
+	["numOfBulletsPerNeutralizeCount"] = 10;
+};
+["res_rankLimitedSetting"] = {};
+["res_rankTable"] = {
+	["A"] = 100000;
+	["S"] = 130000;
+	["B"] = 60000;
+	["E"] = 0;
+	["D"] = 10000;
+	["C"] = 30000;
 };
 ["res_scoreTable"] = {
 	["hostageCount"] = {
@@ -1440,83 +1975,10 @@
 		["valueToScoreRatio"] = 30;
 	};
 };
-["ene_soldier2CommonBlockPackageLabel"] = "default";
-["title_titleModeOnEnterFunction"] = [[loadstring()]];
-["mis_helicopterDoorOpenTimerTimeSec"] = 15;
-["ldz_assaultDropLandingZoneTable"] = {
-	[705202089] = true;
-	[1649373165] = true;
-	[2259452923] = true;
-	[2691946923] = true;
-	[3356266804] = true;
-	[694120472] = true;
-	[3380702832] = true;
-	[3667595332] = true;
-	[3151133361] = true;
-	[2656289118] = true;
-	[2980488803] = true;
-	[2699722927] = true;
-	[4068701460] = true;
-	[1708709563] = true;
-	[2976202158] = true;
-	[3101903048] = true;
-	[3353143331] = true;
-};
-["res_enablePlayStyle"] = true;
-["rad_radioList"] = {
-	[1] = "f2000_rtrg1110";
-	[2] = "f2000_rtrg1120";
-	[3] = "f2000_rtrg1130";
-};
-["FreeHeliRadio_addOptionRadioCount"] = {
-};
-["res_rankLimitedSetting"] = {
-};
-["title_enableGameStatusFunction"] = [[loadstring()]];
-["seq_textureLoadWaitStartTime"] = 41.82543191618;
-["ene_questArmorId"] = 0;
-["dem_playedList"] = {
-};
-["mis_checkPointList"] = {
-};
-["mar_searchTargetList"] = {
-};
-["mis_isOutsideOfHotZone"] = true;
-["mtbsClst_constructTable"] = {
-	[1] = 4;
-	[2] = 4;
-	[3] = 4;
-	[4] = 4;
-	[5] = 4;
-	[6] = 4;
-	[7] = 4;
-};
-["seq_demoSequneceList"] = {
-	[20] = true;
-	[2] = true;
-	[28] = true;
-	[27] = true;
-	[29] = true;
-	[19] = true;
-	[30] = true;
-	[26] = true;
-};
-["title_missionGameSequenceName"] = "Seq_Game_MainGame";
-["mis_isOutsideOfMissionArea"] = false;
-["mbBaseTelop_clusterGrade"] = 1;
-["seq_isHelicopterStart"] = false;
-["trm_stopChangeDayTerminalAnnounce"] = true;
-["ene_maxSoldierStateCount"] = 160;
-["trm_EmblemLocatorIdTable"] = {
-	[4357176] = "front16";
-	[2538470] = "front10";
-	[5851632] = "front7";
-	[6197125] = "front15";
-	[11572941] = "front11";
-	[10225934] = "front8";
-	[2423121] = "front9";
-};
-["mis_missionStateIsNotInGame"] = false;
+["revenge_revengeConfig"] = {};
+["revenge_revengeType"] = {};
+["sbl_currentScriptBlockPackInfo"] = {};
+["sbl_preloadRequestTable"] = {};
 ["sbl_scriptBlockPackList"] = {
 	["quest_block"] = {
 		["mtbs_q42050"] = {
@@ -2176,145 +2638,21 @@
 		};
 	};
 };
-["dem_resereveEnableInGameFlag"] = true;
-["gim_questTargetList"] = {
-};
-["mis_missionName"] = "h40050";
-["ene_missionSoldierPersonalAbilitySettings"] = {
-};
-["heliSpace_SkipMissionPreparetion"] = {
-	[10020] = false;
-	[30150] = true;
-	[11044] = true;
-	[10030] = true;
-	[30050] = true;
-	[11043] = true;
-	[10010] = true;
-	[30250] = true;
-	[10280] = true;
-	[10240] = true;
-};
-["heliSpace_NoVehicleMenuFromMissionPreparetion"] = {
-	[30150] = true;
-	[10115] = true;
-	[50050] = true;
-	[30050] = true;
-	[30250] = true;
-};
-["rad_radioPlayOnceList"] = {
-	["f2000_rtrg1120"] = false;
-	["f2000_rtrg1130"] = false;
-	["f2000_rtrg1110"] = false;
-};
-["rad_commonRadioDelayTable"] = {
-	[1] = "long";
-	[2] = "long";
-	[11] = "mid";
-	[24] = "mid";
-	[28] = "long";
-	[32] = "long";
-	[22] = 8;
-	[27] = "long";
-	[12] = "mid";
-	[25] = "mid";
-};
-["startHasTitleSeqeunceMbSyc"] = true;
-["seq_onEndMissionPrepareFunction"] = [[upvalue]];
-["res_hitRatioBonusParam"] = {
-	["limitHitRatioBonus"] = 1000;
-	["perfectBonusBase"] = 30000;
-	["hitRatioBaseScoreUnit"] = 30;
-	["exponetHitRatio"] = 6;
-	["numOfBulletsPerNeutralizeCount"] = 10;
-};
-["dem_invDemoList"] = {
-};
-["ani_questTargetList"] = {
-};
-["tlp_levelDesigners"] = {
-	[1] = "staff_tsuyoshi_osada";
-	[2] = "staff_satoshi_matsuno";
-};
-["mbBaseTelop_isTelop"] = false;
-["gim_questMarkSetIndex"] = 0;
-["mbHelicopter_startIsHeliport"] = false;
-["title_selectFlag"] = 1;
-["sbl_scriptBlockState"] = {
-};
-["ene_questVehicleList"] = {
-};
-["ply_maxPickableLocatorCount"] = 1;
-["ene_soldierTypes"] = {
-};
-["rad_commonRadioTable"] = {
-	[1] = "f1000_rtrg0100";
-	[2] = "f1000_rtrg1550";
-	[3] = "f1000_rtrg0110";
-	[4] = "f1000_rtrg0116";
-	[5] = "f1000_rtrg8050";
-	[6] = "f1000_rtrg0010";
-	[7] = "f1000_rtrg8040";
-	[8] = "f1000_rtrg8030";
-	[9] = "f1000_rtrg8060";
-	[10] = "f1000_rtrg0030";
-	[11] = "f1000_rtrg0120";
-	[12] = "f1000_rtrg0130";
-	[13] = "f1000_rtrg0050";
-	[14] = "f1000_rtrg0070";
-	[15] = "f1000_rtrg0060";
-	[16] = "f1000_rtrg9050";
-	[17] = "f1000_rtrg9040";
-	[18] = "f1000_rtrg9030";
-	[19] = "f1000_rtrg9020";
-	[20] = "f1000_rtrg9010";
-	[21] = "f1000_rtrg9010";
-	[22] = "f1000_rtrg0690";
-	[23] = "f1000_rtrg0060";
-	[24] = "f1000_rtrg2120";
-	[25] = "f1000_rtrg2171";
-	[26] = "f1000_rtrg9020";
-	[27] = "f1000_rtrg1640";
-	[28] = "f1000_rtrg1640";
-	[29] = "f1000_rtrg1680";
-	[30] = "f1000_rtrg4440";
-	[31] = "f1000_rtrg8050";
-	[32] = "f1000_rtrg2020";
-	[33] = "f1000_rtrg5020";
-	[34] = "f1000_rtrg5021";
-	[35] = "f1000_rtrg3780";
-	[36] = "f1000_rtrg0090";
-	[37] = "f1000_rtrg1940";
-	[38] = "f1000_rtrg0080";
-	[39] = "f1000_rtrg1050";
-	[40] = "f1000_rtrg4520";
-};
-["gim_questMarkTotalCount"] = 0;
-["tlp_writers"] = {
-	[1] = "staff_shuyo_murata";
-};
-["helispacePlayerTransform"] = {
-	["rotY"] = 0;
-	["pos"] = {
-		[1] = 0;
-		[2] = 1197.6850585938;
-		[3] = -1.0599999427795;
+["sbl_scriptBlockState"] = {};
+["sbl_scriptBlockStrCode32PackList"] = {
+	["quest_block"] = {
 	};
 };
-["snd_startHeliClearJingleName"] = "Play_bgm_mission_clear_heli";
-["isExistSaveData"] = true;
-["title_hideTitleMenuOnInitialize"] = false;
-["tlp_mainCharacters"] = {
-	[1] = "cast_venom_snake";
-	[2] = "cast_sharashka_ocelot";
-	[3] = "cast_kazuhira_miller";
+["seq_demoSequneceList"] = {
+	[20] = true;
+	[2] = true;
+	[28] = true;
+	[27] = true;
+	[29] = true;
+	[19] = true;
+	[30] = true;
+	[26] = true;
 };
-["startHasTitileSeqeunce"] = true;
-["hel_isExistSupportHelicopter"] = true;
-["ani_questGameObjectIdList"] = {
-};
-["rad_debugRadioLineTable"] = {
-};
-["ene_cpCount"] = 0;
 ["seq_sequenceNames"] = {
 	[1] = "Seq_Mission_Prepare";
 	[2] = "Seq_Demo_StartHasTitleMission";
@@ -2376,33 +2714,6 @@
 	["Seq_Game_MainGame"] = 8;
 	["Seq_Game_MissionPreparation_SelectDetail"] = 13;
 	["Seq_Game_ChunkLoading"] = 5;
-};
-["qst_isQuestNewOpenFlag"] = false;
-["ene_isQuestHeli"] = false;
-["gim_questMarkCount"] = 0;
-["doneSyncNuclearLocalToServer"] = true;
-["revenge_revengeConfig"] = {
-};
-["mbBaseTelop_plntTelopName"] = "platform_1st";
-["sbl_scriptBlockStrCode32PackList"] = {
-	["quest_block"] = {
-	};
-};
-["heliSpace_DisableSelectSortieTimeFromMissionPreparetion"] = {
-	[10020] = true;
-	[10080] = true;
-};
-["trm_fultonInfo"] = {
-};
-["demo_finishWaitRequestInfo"] = {
-};
-["tlp_specialMechanics"] = {
-};
-["snd_finishHeliClearJingleName"] = "Stop_bgm_mission_clear_heli";
-["rad_radioInvList"] = {
-	[2944459689] = "f2000_rtrg1110";
-	[862208655] = "f2000_rtrg1120";
-	[3989105201] = "f2000_rtrg1130";
 };
 ["seq_sequenceTable"] = {
 	["Seq_Game_MissionPreparation_SelectSlot"] = {
@@ -3306,93 +3617,63 @@
 		["OnEnter"] = [[loadstring()]];
 	};
 };
-["ene_questTargetList"] = {
+["tlp_enemyCombatants"] = {};
+["tlp_guestCharacters"] = {};
+["tlp_levelDesigners"] = {
+	[1] = "staff_tsuyoshi_osada";
+	[2] = "staff_satoshi_matsuno";
 };
-["seq_missionPrepareState"] = 7;
-["rad_gameOverRadioTable"] = {
-	[1] = "f8000_gmov0010";
-	[2] = "f8000_gmov0020";
-	[3] = "f8000_gmov0030";
-	[4] = "f8000_gmov0040";
-	[5] = "f8000_gmov0050";
-	[6] = "f8000_gmov0060";
-	[7] = "f8000_gmov0110";
-	[8] = "f8000_gmov0120";
-	[9] = "f8000_gmov0123";
-	[10] = "f8000_gmov0230";
-	[11] = "f8000_gmov2500";
-	[255] = "f8000_gmov9090";
+["tlp_mainCharacters"] = {
+	[1] = "cast_venom_snake";
+	[2] = "cast_sharashka_ocelot";
+	[3] = "cast_kazuhira_miller";
 };
-["ani_isQuestSetup"] = false;
-["ene_routeAnimationGaniPathTable"] = {
-	[1] = {
-		[1] = "SoldierLookWatch";
-		[2] = "/Assets/tpp/motion/SI_game/fani/bodies/enem/enemasr/enemasr_s_pat_idl_act_a.gani";
-	};
-	[2] = {
-		[1] = "SoldierWipeFace";
-		[2] = "/Assets/tpp/motion/SI_game/fani/bodies/enem/enemasr/enemasr_s_pat_idl_act_d.gani";
-	};
-	[3] = {
-		[1] = "SoldierYawn";
-		[2] = "/Assets/tpp/motion/SI_game/fani/bodies/enem/enemasr/enemasr_s_pat_idl_act_f.gani";
-	};
-	[4] = {
-		[1] = "SoldierSneeze";
-		[2] = "/Assets/tpp/motion/SI_game/fani/bodies/enem/enemasr/enemasr_s_pat_idl_act_g.gani";
-	};
-	[5] = {
-		[1] = "SoldierFootStep";
-		[2] = "/Assets/tpp/motion/SI_game/fani/bodies/enem/enemasr/enemasr_s_pat_idl_act_h.gani";
-	};
-	[6] = {
-		[1] = "SoldierCough";
-		[2] = "/Assets/tpp/motion/SI_game/fani/bodies/enem/enemasr/enemasr_s_pat_idl_act_i.gani";
-	};
-	[7] = {
-		[1] = "SoldierScratchHead";
-		[2] = "/Assets/tpp/motion/SI_game/fani/bodies/enem/enemasr/enemasr_s_pat_idl_act_o.gani";
-	};
-	[8] = {
-		[1] = "SoldierHungry";
-		[2] = "/Assets/tpp/motion/SI_game/fani/bodies/enem/enemasr/enemasr_s_pat_idl_act_p.gani";
-	};
+["tlp_specialMechanics"] = {};
+["tlp_writers"] = {
+	[1] = "staff_shuyo_murata";
 };
-["res_noResult"] = true;
-["seq_heliStartSequence"] = 3;
-["ene_disablePowerSettings"] = {
+["trm_EmblemLocatorIdTable"] = {
+	[4357176] = "front16";
+	[2538470] = "front10";
+	[5851632] = "front7";
+	[6197125] = "front15";
+	[11572941] = "front11";
+	[10225934] = "front8";
+	[2423121] = "front9";
 };
-["ene_questGetLoadedFaceTable"] = {
+["trm_bluePrintLocatorIdTable"] = {
+	[3145470] = 34;
+	[6810011] = 40;
+	[5509624] = 24;
+	[11519767] = 29;
+	[4741030] = 27;
+	[15166830] = 31;
+	[3835797] = 34;
+	[1908443] = 34;
+	[4009396] = 42;
+	[4970370] = 25;
+	[6929828] = 41;
+	[11479983] = 29;
+	[594485] = 39;
+	[14317601] = 31;
+	[11023056] = 29;
+	[10252721] = 46;
+	[1041755] = 43;
+	[10904403] = 33;
+	[14540460] = 21;
+	[5039367] = 439;
+	[598891] = 34;
+	[4088341] = 37;
+	[268918] = 38;
+	[5591297] = 37;
+	[8397929] = 44;
+	[2753472] = 37;
+	[13222182] = 29;
+	[11180997] = 37;
+	[14938090] = 25;
+	[3652642] = 26;
 };
-["demo_playRequestInfo"] = {
-	["demoBlock"] = {
-	};
-	["missionBlock"] = {
-	};
-};
-["seq_currentSequence"] = "Seq_Game_MainGame";
-["ene_missionRequiresPowerSettings"] = {
-};
-["heliSpace_NoBuddyMenuFromMissionPreparetion"] = {
-	[10020] = true;
-	[10115] = true;
-	[50050] = true;
-	[30050] = true;
-	[30250] = true;
-};
-["ene_soldierPersonalAbilitySettings"] = {
-};
-["dem_isSkipped"] = {
-};
-["ene_noShiftChangeGroupSetting"] = {
-};
-["dem_demoList"] = {
-};
-["tlp_guestCharacters"] = {
-};
-["ene_soldierPowerSettings"] = {
-};
-["mbHelicopter_startClusterId"] = 1;
+["trm_fultonInfo"] = {};
 ["ui_onEndFadeInOverrideExceptGameStatusTemporary"] = {
 	["WorldMarker"] = false;
 	["S_DISABLE_NPC"] = false;
@@ -3418,377 +3699,60 @@
 	["CqcIcon"] = false;
 	["AnnounceLog"] = false;
 };
+
+["ani_isQuestSetup"] = false;
+["dem_resereveEnableInGameFlag"] = true;
+["doneSyncNuclearLocalToServer"] = true;
+["ene_cpCount"] = 0;
+["ene_isQuestHeli"] = false;
+["ene_isQuestSetup"] = false;
+["ene_maxSoldierStateCount"] = 160;
+["ene_questArmorId"] = 0;
+["ene_questBalaclavaId"] = 0;
+["ene_soldier2CommonBlockPackageLabel"] = "default";
+["gim_isQuestSetup"] = false;
+["gim_isquestMarkStart"] = false;
+["gim_questMarkCount"] = 0;
+["gim_questMarkSetIndex"] = 0;
+["gim_questMarkTotalCount"] = 0;
+["gim_shownEspionageBox"] = true;
+["hel_isExistSupportHelicopter"] = true;
+["isExistSaveData"] = true;
+["mbBaseTelop_clusterGrade"] = 1;
+["mbBaseTelop_isTelop"] = false;
+["mbBaseTelop_plntTelopName"] = "platform_1st";
+["mbHelicopter_startClusterId"] = 1;
+["mbHelicopter_startIsHeliport"] = false;
+["mbHelicopter_startPlatformId"] = 1;
+["mis_helicopterDoorOpenTimerTimeSec"] = 15;
+["mis_isAlertOutOfMissionArea"] = false;
+["mis_isOutsideOfHotZone"] = true;
+["mis_isOutsideOfMissionArea"] = false;
+["mis_missionName"] = "h40050";
+["mis_missionStateIsNotInGame"] = false;
+["newGameConfirmResult"] = 0;
+["ply_equipMissionBlockGroupSize"] = 0;
+["ply_maxPickableLocatorCount"] = 1;
 ["ply_maxPlacedLocatorCount"] = 1;
-["rad_intelRadioList"] = {
-};
-["rad_subScripts"] = {
-	["photo"] = {
-		["UNIT_LIST"] = {
-			[27] = {
-				[1] = 5;
-			};
-			[2] = {
-				[1] = 1;
-			};
-			[3] = {
-				[1] = 0;
-				[2] = 2;
-			};
-			[4] = {
-				[1] = 0;
-				[2] = 2;
-				[3] = 3;
-			};
-			[5] = {
-				[1] = 0;
-				[2] = 2;
-				[3] = 3;
-				[4] = 4;
-			};
-			[6] = {
-				[1] = 1;
-				[2] = 5;
-			};
-			[7] = {
-				[1] = 1;
-				[2] = 5;
-				[3] = 6;
-			};
-			[8] = {
-				[1] = 0;
-			};
-			[10] = {
-				[1] = 2;
-			};
-			[12] = {
-				[1] = 4;
-			};
-			[14] = {
-				[1] = 6;
-			};
-			[16] = {
-				[1] = 8;
-				[2] = 9;
-			};
-			[20] = {
-				[1] = 15;
-			};
-			[24] = {
-				[1] = 1;
-				[2] = 2;
-			};
-			[28] = {
-				[1] = 6;
-			};
-			[32] = {
-				[1] = 11;
-			};
-			[33] = {
-				[1] = 12;
-			};
-			[17] = {
-				[1] = 10;
-			};
-			[21] = {
-				[1] = 16;
-			};
-			[25] = {
-				[1] = 3;
-			};
-			[29] = {
-				[1] = 7;
-			};
-			[34] = {
-				[1] = 12;
-				[2] = 13;
-			};
-			[9] = {
-				[1] = 1;
-			};
-			[11] = {
-				[1] = 3;
-			};
-			[13] = {
-				[1] = 5;
-			};
-			[15] = {
-				[1] = 7;
-			};
-			[18] = {
-				[1] = 11;
-				[2] = 12;
-			};
-			[22] = {
-				[1] = 17;
-			};
-			[26] = {
-				[1] = 4;
-			};
-			[30] = {
-				[1] = 8;
-				[2] = 9;
-			};
-			[36] = {
-				[1] = 12;
-				[2] = 15;
-			};
-			[37] = {
-				[1] = 12;
-				[2] = 16;
-			};
-			[35] = {
-				[1] = 12;
-				[2] = 14;
-			};
-			[1] = {
-				[1] = 0;
-			};
-			[19] = {
-				[1] = 13;
-				[2] = 14;
-			};
-			[23] = {
-				[1] = 0;
-			};
-			[31] = {
-				[1] = 10;
-			};
-		};
-		["GROUP_ID_LIST"] = {
-			[27] = 2;
-			[2] = 0;
-			[3] = 0;
-			[4] = 0;
-			[5] = 0;
-			[6] = 0;
-			[7] = 0;
-			[8] = 1;
-			[10] = 1;
-			[12] = 1;
-			[14] = 1;
-			[16] = 1;
-			[20] = 1;
-			[24] = 2;
-			[28] = 2;
-			[32] = 2;
-			[33] = 2;
-			[17] = 1;
-			[21] = 1;
-			[25] = 2;
-			[29] = 2;
-			[34] = 2;
-			[9] = 1;
-			[11] = 1;
-			[13] = 1;
-			[15] = 1;
-			[18] = 1;
-			[22] = 1;
-			[26] = 2;
-			[30] = 2;
-			[36] = 2;
-			[37] = 2;
-			[35] = 2;
-			[1] = 0;
-			[19] = 1;
-			[23] = 2;
-			[31] = 2;
-		};
-		["MESH_LIST"] = {
-			[40] = "MESH_40";
-			[39] = "MESH_39";
-			[38] = "MESH_38";
-			[41] = "MESH_41";
-		};
-		["_scriptPath"] = "heli_common_photo";
-		["DEBUG_ForceShow"] = [[upvalue]];
-		["_scriptInstanceId"] = [[userdata]]
-		["OnBuddyBlockLoad"] = [[upvalue]];
-		["Show"] = [[upvalue]];
-		["HideMESH"] = [[upvalue]];
-		["DEBUG_DumpConditionResult"] = [[upvalue]];
-		["DEBUG_IsForceShow"] = [[upvalue]];
-		["DEBUG_ClearForceShow"] = [[upvalue]];
-		["ShowMESH"] = [[upvalue]];
-		["OPEN_CONDITION_LIST"] = {
-			[27] = [[upvalue]];
-			[2] = [[upvalue]];
-			[38] = [[upvalue]];
-			[3] = [[upvalue]];
-			[4] = [[upvalue]];
-			[5] = [[upvalue]];
-			[6] = [[upvalue]];
-			[7] = [[upvalue]];
-			[8] = [[loadstring()]];
-			[10] = [[loadstring()]];
-			[12] = [[upvalue]];
-			[14] = [[upvalue]];
-			[16] = [[upvalue]];
-			[20] = [[upvalue]];
-			[24] = [[upvalue]];
-			[28] = [[upvalue]];
-			[32] = [[upvalue]];
-			[40] = [[upvalue]];
-			[33] = [[upvalue]];
-			[41] = [[upvalue]];
-			[17] = [[upvalue]];
-			[21] = [[upvalue]];
-			[25] = [[upvalue]];
-			[29] = [[loadstring()]];
-			[34] = [[upvalue]];
-			[42] = [[upvalue]];
-			[9] = [[loadstring()]];
-			[11] = [[loadstring()]];
-			[13] = [[upvalue]];
-			[15] = [[upvalue]];
-			[18] = [[upvalue]];
-			[22] = [[upvalue]];
-			[26] = [[upvalue]];
-			[30] = [[upvalue]];
-			[36] = [[upvalue]];
-			[37] = [[upvalue]];
-			[39] = [[upvalue]];
-			[35] = [[upvalue]];
-			[1] = [[loadstring()]];
-			[19] = [[upvalue]];
-			[23] = [[upvalue]];
-			[31] = [[upvalue]];
-		};
-		["OnRestoreSVars"] = [[upvalue]];
-	};
-	["radio"] = {
-		["optionalRadioList"] = {
-			[1] = "Set_f2000_oprg4010";
-		};
-		["_scriptPath"] = "heli_common_radio";
-		["SetOptionalRadioInEmergency"] = [[loadstring()]];
-		["AddGZStaff"] = [[loadstring()]];
-		["_scriptInstanceId"] = [[userdata]]
-		["MissionListGuide00"] = [[loadstring()]];
-		["debugRadioLineTable"] = {
-		};
-		["RemoveToActiveOptionalRadio"] = [[loadstring()]];
-		["InsertToActiveOptionalRadio"] = [[loadstring()]];
-		["SetOptionalRadioFromSituation"] = [[upvalue]];
-		["MissionListGuide10"] = [[loadstring()]];
-		["radioList"] = {
-			[1] = "f2000_rtrg1110";
-			[2] = "f2000_rtrg1120";
-			[3] = "f2000_rtrg1130";
-		};
-	};
-	["sequence"] = {
-		["SetTerminalAttentionIcon"] = [[loadstring()]];
-		["_messageExecTable"] = {
-			[3105039150] = {
-				[824988796] = {
-					["senderOption"] = {
-						[3704233593] = {
-							[2357387275] = true;
-						};
-					};
-					["sender"] = {
-						[3704233593] = [[loadstring()]];
-					};
-				};
-				[1201114382] = {
-					["func"] = [[loadstring()]];
-				};
-			};
-			[4133365783] = {
-				[1378767181] = {
-					["func"] = [[loadstring()]];
-				};
-				[2878679236] = {
-					["func"] = [[loadstring()]];
-				};
-			};
-		};
-		["SetCameraStageCenter_GoOut"] = [[loadstring()]];
-		["OnStartFobMission"] = [[loadstring()]];
-		["OnUpdateChunkInstalling"] = [[upvalue]];
-		["OnRestoreSVars"] = [[loadstring()]];
-		["Messages"] = [[upvalue]];
-		["OverrideFadeInGameStatus"] = [[loadstring()]];
-		["SetPandemicTutorialMbMenuActive"] = [[upvalue]];
-		["ClearTerminalAttentionIcon"] = [[upvalue]];
-		["OnAbortMissionPreparation"] = [[loadstring()]];
-		["OnUpdate"] = [[upvalue]];
-		["OnEndFadeOutMissionPreparetionEnd"] = [[loadstring()]];
-		["SetMissionPrepPreviewPosition"] = [[loadstring()]];
-		["OnMissionPreparetionEnd"] = [[upvalue]];
-		["SetCameraStageCenter_Go"] = [[loadstring()]];
-		["PlayerPrepareSpaceToHeliSpace"] = [[loadstring()]];
-		["SetBuddyHeliSpaceSetting"] = [[upvalue]];
-		["SetCameraStageCenter"] = [[loadstring()]];
-		["UpdateCameraParameter"] = [[upvalue]];
-		["PlayerHeliSpaceToPrepareSpace"] = [[loadstring()]];
-		["GetExceptGameStatusOnSortieMenu"] = [[loadstring()]];
-		["GetFobTutorialSequenceName"] = [[loadstring()]];
-		["EQUIP_MISSION_BLOCK_GROUP_SIZE"] = 0;
-		["AddCommonHeliSpaceMessage"] = [[upvalue]];
-		["EnableGameStatusFunction"] = [[loadstring()]];
-		["RealizeHeliPilot"] = [[loadstring()]];
-		["StartPilotMotion"] = [[loadstring()]];
-		["OnTerminate"] = [[loadstring()]];
-		["MAX_PLACED_LOCATOR_COUNT"] = 1;
-		["DisableGameStatusFunction"] = [[loadstring()]];
-		["DebugUpdate"] = [[loadstring()]];
-		["MAX_PICKABLE_LOCATOR_COUNT"] = 1;
-		["StopRain"] = [[loadstring()]];
-		["OnSelectLandPoint"] = [[loadstring()]];
-		["ALWAYS_APPLY_TEMPORATY_PLAYER_PARTS_SETTING"] = true;
-		["AddHeliSpaceDebugMenu"] = [[loadstring()]];
-		["_scriptInstanceId"] = [[userdata]]
-		["DEBUG_strCode32List"] = {
-			[1] = "MissionPrep_Start";
-			[2] = "MissionPrep_Abort";
-			[3] = "MissionPrep_End";
-			[4] = "MissionPrep_StartEdit";
-			[5] = "MissionPrep_ChangeEditTarget";
-			[6] = "MissionPrep_EndEdit";
-			[7] = "MissionPrep_StartSlotSelect";
-			[8] = "MissionPrep_ChangeSlot";
-			[9] = "MissionPrep_EndSlotSelect";
-			[10] = "MissionPrep_StartItemSelect";
-			[11] = "MissionPrep_ChangeItem";
-			[12] = "MissionPrep_EndItemSelect";
-			[13] = "MissionPrep_StartModelView";
-			[14] = "MissionPrep_EndtModelView";
-			[15] = "MissionPrep_FocusTarget_Weapon";
-			[16] = "MissionPrep_FocusTarget_PrimaryWeapon";
-			[17] = "MissionPrep_FocusTarget_SecondaryWeapon";
-			[18] = "MissionPrep_FocusTarget_SupportWeapon";
-			[19] = "MissionPrep_FocusTarget_Item";
-			[20] = "MissionPrep_FocusTarget_Suit";
-			[21] = "MissionPrep_FocusTarget_Player";
-			[22] = "MissionPrep_FocusTarget_Buddy";
-			[23] = "MissionPrep_FocusTarget_Vehicle";
-			[24] = "MissionPrep_FocusTarget_None";
-			[25] = "MbDvcActSelectAvatarMenu";
-		};
-		["SetEditingTimeAndWeather"] = [[loadstring()]];
-		["SelectPauseMenuOpenStore"] = [[loadstring()]];
-		["SelectGoToMGO"] = [[loadstring()]];
-		["OnEndFadeOutGoToMGO"] = [[loadstring()]];
-		["TitleModeOnEnterFunction"] = [[loadstring()]];
-		["StartRain"] = [[loadstring()]];
-		["OnEndFadeOutSelectLandingPoint"] = [[loadstring()]];
-		["ClearMissionListGuidanceLimitation"] = [[upvalue]];
-		["saveVarsList"] = {
-			["showInfoTypingText"] = false;
-		};
-		["OnLoad"] = [[upvalue]];
-		["_scriptPath"] = "heli_common_sequence";
-		["SetCustomizePreviewPosition"] = [[loadstring()]];
-		["AcquireHelispaceStartCassetteTape"] = [[loadstring()]];
-		["OnBuddyBlockLoad"] = [[upvalue]];
-		["RestoreWeather"] = [[loadstring()]];
-		["MissionPrepare"] = [[upvalue]];
-		["DisableGameStatusOnHelispace"] = [[loadstring()]];
-		["OnEndMissionPrepareSequence"] = [[upvalue]];
-		["RestoreClock"] = [[loadstring()]];
-		["SaveCurrentClock"] = [[loadstring()]];
-		["SetMissionPrepPreviewRotation"] = [[loadstring()]];
-		["CommonBuddyHeliSpaceSetting"] = [[loadstring()]];
-	};
-};
+["qst_blockName"] = "quest_block";
+["qst_isQuestNewOpenFlag"] = false;
+["res_enablePlayStyle"] = true;
+["res_noResult"] = true;
+["revenge_isEnabledSuperReinforce"] = true;
+["seq_canMissionStartWaitStartTime"] = 28.445297733182;
+["seq_currentSequence"] = "Seq_Game_MainGame";
+["seq_heliStartSequence"] = 3;
+["seq_isHelicopterStart"] = false;
+["seq_missionPrepareState"] = 7;
+["seq_missionStartSequence"] = 2;
+["seq_textureLoadWaitStartTime"] = 41.82543191618;
+["snd_finishHeliClearJingleName"] = "Stop_bgm_mission_clear_heli";
+["snd_startHeliClearJingleName"] = "Play_bgm_mission_clear_heli";
+["startHasTitileSeqeunce"] = true;
+["startHasTitleSeqeunceMbSyc"] = true;
+["title_hideTitleMenuOnInitialize"] = false;
+["title_missionGameSequenceName"] = "Seq_Game_MainGame";
+["title_selectFlag"] = 1;
+["trm_stopChangeDayTerminalAnnounce"] = true;
+["trm_voiceDisabled"] = false;
+

@@ -1,3 +1,5 @@
+GetInstance() = [[upvalue]];
+GetManager() = [[upvalue]];
+
 ["_className"] = "LangDaemon";
-["GetInstance"] = [[upvalue]];
-["GetManager"] = [[upvalue]];
+

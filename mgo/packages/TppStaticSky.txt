@@ -1,1 +1,2 @@
-["SetActive"] = [[non-lua function]];
+SetActive() = [[non-lua function]];
+

@@ -1,6 +1,8 @@
+CallMessage() = [[upvalue]];
+CombatMessage() = [[upvalue]];
+Create() = [[upvalue]];
+GetInstance() = [[upvalue]];
+RulesetMessage() = [[upvalue]];
+
 ["_className"] = "HudCommonDataManager";
-["GetInstance"] = [[upvalue]];
-["RulesetMessage"] = [[upvalue]];
-["CombatMessage"] = [[upvalue]];
-["Create"] = [[upvalue]];
-["CallMessage"] = [[upvalue]];
+

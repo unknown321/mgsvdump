@@ -1,4 +1,3 @@
-["_scriptPath"] = "UiAttachmentColors";
 ["colors"] = {
 	[1] = {
 		["texture"] = "/Assets/tpp/ui/texture/EquipIcon/ui_it_cbox_alp.ftex";
@@ -73,4 +72,8 @@
 		["texture"] = "/Assets/tpp/ui/texture/EquipIcon/ui_it_nvg_alp.ftex";
 	};
 };
+
+["_scriptPath"] = "UiAttachmentColors";
+
 ["_scriptInstanceId"] = [[userdata]]
+

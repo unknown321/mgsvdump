@@ -1,2 +1,4 @@
+GetAttackerHandle() = [[upvalue]];
+
 ["_className"] = "TppOffenseTargetData";
-["GetAttackerHandle"] = [[upvalue]];
+

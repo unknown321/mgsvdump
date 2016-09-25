@@ -1,3 +1,5 @@
+GetWorldMatrix() = [[upvalue]];
+GetWorldTransform() = [[upvalue]];
+
 ["_className"] = "CallbackProcedureTransformDataBody";
-["GetWorldMatrix"] = [[upvalue]];
-["GetWorldTransform"] = [[upvalue]];
+

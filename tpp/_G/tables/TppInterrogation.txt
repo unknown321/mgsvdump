@@ -1,8 +1,31 @@
-["ResetFlagHigh"] = [[upvalue]];
-["AddQuestTable"] = [[upvalue]];
-["Messages"] = [[upvalue]];
-["UniqueInterrogationWithVoice"] = [[upvalue]];
-["ResetQuestTable"] = [[loadstring()]];
+AddGeneInter() = [[upvalue]];
+AddHighInterrogation() = [[upvalue]];
+AddQuestTable() = [[upvalue]];
+DeclareSVars() = [[loadstring()]];
+Init() = [[upvalue]];
+InitInterrogation() = [[upvalue]];
+InitUniqueInterrogation() = [[loadstring()]];
+MakeFlagHigh() = [[upvalue]];
+Messages() = [[upvalue]];
+OnMessage() = [[upvalue]];
+OnReload() = [[upvalue]];
+QuestInterrogation() = [[upvalue]];
+RemoveHighInterrogation() = [[upvalue]];
+RemoveQuestHighIntTable() = [[upvalue]];
+ResetFlagHigh() = [[upvalue]];
+ResetFlagNormal() = [[upvalue]];
+ResetQuestTable() = [[loadstring()]];
+SetQuestHighIntTable() = [[upvalue]];
+UniqueInterrogation() = [[upvalue]];
+UniqueInterrogationWithVoice() = [[upvalue]];
+_AddGene() = [[upvalue]];
+_AssignInterrogation() = [[upvalue]];
+_AssignInterrogationCollection() = [[upvalue]];
+_OnInterrogation() = [[upvalue]];
+_OnInterrogationEnd() = [[upvalue]];
+_OnMapUpdate() = [[loadstring()]];
+_SelectInterrogation() = [[upvalue]];
+
 ["messageExecTable"] = {
 	[3333891920] = {
 		[3545727038] = {
@@ -16,27 +39,8 @@
 		};
 	};
 };
-["OnReload"] = [[upvalue]];
-["RemoveHighInterrogation"] = [[upvalue]];
-["UniqueInterrogation"] = [[upvalue]];
-["_scriptInstanceId"] = [[userdata]]
-["_OnMapUpdate"] = [[loadstring()]];
-["_SelectInterrogation"] = [[upvalue]];
-["_AddGene"] = [[upvalue]];
-["_AssignInterrogation"] = [[upvalue]];
-["MakeFlagHigh"] = [[upvalue]];
-["_OnInterrogationEnd"] = [[upvalue]];
-["AddGeneInter"] = [[upvalue]];
-["Init"] = [[upvalue]];
+
 ["_scriptPath"] = "TppInterrogation";
-["_OnInterrogation"] = [[upvalue]];
-["DeclareSVars"] = [[loadstring()]];
-["_AssignInterrogationCollection"] = [[upvalue]];
-["RemoveQuestHighIntTable"] = [[upvalue]];
-["InitUniqueInterrogation"] = [[loadstring()]];
-["OnMessage"] = [[upvalue]];
-["ResetFlagNormal"] = [[upvalue]];
-["SetQuestHighIntTable"] = [[upvalue]];
-["AddHighInterrogation"] = [[upvalue]];
-["InitInterrogation"] = [[upvalue]];
-["QuestInterrogation"] = [[upvalue]];
+
+["_scriptInstanceId"] = [[userdata]]
+

@@ -1,9 +1,12 @@
-["GetData"] = [[upvalue]];
+GetAdjustedBlockSize() = [[upvalue]];
+GetCommonBlock() = [[upvalue]];
+GetData() = [[upvalue]];
+GetLocationString() = [[upvalue]];
+GetRulesetString() = [[upvalue]];
+GetSimpleStageBlockSize() = [[loadstring()]];
+GetTppSimpleMissionBlock() = [[upvalue]];
+
 ["_scriptPath"] = "Overflow";
-["GetTppSimpleMissionBlock"] = [[upvalue]];
+
 ["_scriptInstanceId"] = [[userdata]]
-["GetRulesetString"] = [[upvalue]];
-["GetSimpleStageBlockSize"] = [[loadstring()]];
-["GetAdjustedBlockSize"] = [[upvalue]];
-["GetLocationString"] = [[upvalue]];
-["GetCommonBlock"] = [[upvalue]];
+

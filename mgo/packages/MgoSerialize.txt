@@ -1,1 +1,2 @@
-["NewStream"] = [[non-lua function]];
+NewStream() = [[non-lua function]];
+

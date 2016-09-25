@@ -1,2 +1,4 @@
+AddPlugin() = [[upvalue]];
+
 ["_className"] = "GrRenderPlugin";
-["AddPlugin"] = [[upvalue]];
+

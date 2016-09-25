@@ -1,18 +1,21 @@
-["PostSpecialMechanics"] = [[upvalue]];
-["PostMainCharacters"] = [[upvalue]];
-["PostCreativeProducers"] = [[upvalue]];
-["_scriptInstanceId"] = [[userdata]]
-["GetLangIdTable"] = [[upvalue]];
-["StartMissionObjective"] = [[upvalue]];
-["StartCastTelop"] = [[upvalue]];
-["PostLevelDesign"] = [[upvalue]];
-["Init"] = [[loadstring()]];
-["PostWrittenBy"] = [[upvalue]];
+GetFirstLangId() = [[loadstring()]];
+GetLangIdTable() = [[upvalue]];
+GetRandomStartSide() = [[loadstring()]];
+GetTelopPosition() = [[upvalue]];
+Init() = [[loadstring()]];
+PostCreativeProducers() = [[upvalue]];
+PostDirectedBy() = [[upvalue]];
+PostEnemyCombatants() = [[upvalue]];
+PostGuestCharacters() = [[upvalue]];
+PostLevelDesign() = [[upvalue]];
+PostMainCharacters() = [[upvalue]];
+PostMissionObjective() = [[upvalue]];
+PostSpecialMechanics() = [[upvalue]];
+PostWrittenBy() = [[upvalue]];
+StartCastTelop() = [[upvalue]];
+StartMissionObjective() = [[upvalue]];
+
 ["_scriptPath"] = "TppTelop";
-["PostMissionObjective"] = [[upvalue]];
-["PostGuestCharacters"] = [[upvalue]];
-["GetTelopPosition"] = [[upvalue]];
-["PostEnemyCombatants"] = [[upvalue]];
-["GetRandomStartSide"] = [[loadstring()]];
-["PostDirectedBy"] = [[upvalue]];
-["GetFirstLangId"] = [[loadstring()]];
+
+["_scriptInstanceId"] = [[userdata]]
+

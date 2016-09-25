@@ -1,9 +1,12 @@
-["OnChangeSVars"] = [[upvalue]];
-["OnTerminate"] = [[upvalue]];
-["OnInitialize"] = [[upvalue]];
-["OnReload"] = [[upvalue]];
-["OnMessage"] = [[upvalue]];
-["_scriptInstanceId"] = [[userdata]]
+OnAllocate() = [[upvalue]];
+OnChangeSVars() = [[upvalue]];
+OnInitialize() = [[upvalue]];
+OnMessage() = [[upvalue]];
+OnReload() = [[upvalue]];
+OnTerminate() = [[upvalue]];
+OnUpdate() = [[upvalue]];
+
 ["_scriptPath"] = "mission_handler";
-["OnUpdate"] = [[upvalue]];
-["OnAllocate"] = [[upvalue]];
+
+["_scriptInstanceId"] = [[userdata]]
+

@@ -1,9 +1,8 @@
-["GetPartsFpkPath"] = [[upvalue]];
-["GetFaceFpkPath"] = [[upvalue]];
-["_scriptInstanceId"] = [[userdata]]
-["GetPartsFilePath"] = [[upvalue]];
-["_scriptPath"] = "PlayerResources";
-["GetFaceFilePath"] = [[upvalue]];
+GetFaceFilePath() = [[upvalue]];
+GetFaceFpkPath() = [[upvalue]];
+GetPartsFilePath() = [[upvalue]];
+GetPartsFpkPath() = [[upvalue]];
+
 ["PlayerTypes"] = {
 	[6] = {
 		["parts"] = {
@@ -66,3 +65,8 @@
 		};
 	};
 };
+
+["_scriptPath"] = "PlayerResources";
+
+["_scriptInstanceId"] = [[userdata]]
+

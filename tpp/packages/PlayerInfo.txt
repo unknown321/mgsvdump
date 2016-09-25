@@ -1,3 +1,4 @@
-["AndCheckStatus"] = [[non-lua function]];
-["OrCheckStatus"] = [[non-lua function]];
-["GetLocalPlayerIndex"] = [[non-lua function]];
+AndCheckStatus() = [[non-lua function]];
+GetLocalPlayerIndex() = [[non-lua function]];
+OrCheckStatus() = [[non-lua function]];
+

@@ -1,11 +1,9 @@
-[2] = {
-	["Update"] = [[upvalue]];
-	["OnMessage"] = [[upvalue]];
-};
-[3] = [[upvalue]];
-[4] = [[upvalue]];
-[5] = [[upvalue]];
-[6] = [[upvalue]];
+[3]() = [[upvalue]];
+[4]() = [[upvalue]];
+[5]() = [[upvalue]];
+[6]() = [[upvalue]];
+
+[-285212671] = {};
 [11] = {
 	["photo"] = {
 		["UNIT_LIST"] = {
@@ -377,9 +375,13 @@
 		["CommonBuddyHeliSpaceSetting"] = [[loadstring()]];
 	};
 };
-[-285212672] = 0;
 [12] = {
 	["OnMessage"] = [[upvalue]];
 };
-[-285212671] = {
+[2] = {
+	["Update"] = [[upvalue]];
+	["OnMessage"] = [[upvalue]];
 };
+
+[-285212672] = 0;
+

@@ -1,7 +1,9 @@
+GetInstance() = [[upvalue]];
+SetForceSimLocalMode() = [[upvalue]];
+SetForceSimNotActiveMode() = [[upvalue]];
+SetForceStopSimWindEffect() = [[upvalue]];
+SetMaxActiveSimNum() = [[upvalue]];
+SetSimWorkSize() = [[upvalue]];
+
 ["_className"] = "SimDaemon";
-["GetInstance"] = [[upvalue]];
-["SetForceSimLocalMode"] = [[upvalue]];
-["SetForceSimNotActiveMode"] = [[upvalue]];
-["SetMaxActiveSimNum"] = [[upvalue]];
-["SetSimWorkSize"] = [[upvalue]];
-["SetForceStopSimWindEffect"] = [[upvalue]];
+

@@ -1,5 +1,3 @@
-["_scriptPath"] = "CharacterModColorNavigation";
-["_scriptInstanceId"] = [[userdata]]
 ["widgets"] = {
 	[1] = {
 		["widgets"] = {
@@ -483,3 +481,8 @@
 		};
 	};
 };
+
+["_scriptPath"] = "CharacterModColorNavigation";
+
+["_scriptInstanceId"] = [[userdata]]
+

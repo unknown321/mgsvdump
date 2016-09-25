@@ -1,872 +1,3 @@
-["questPackList"] = {
-	["mtbs_q42050"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mtbs/Medical/quest_q42050.fpk";
-	};
-	["field_q80020"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/field/field_q80020.fpk";
-		["bodyIdList"] = {
-			[1] = 281;
-		};
-	};
-	["sovietBase_q60110"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/sovietBase/sovietBase_q60110.fpk";
-	};
-	["quest_q52100"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52100.fpk";
-	};
-	["outland_q11100"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/outland/outland_q11100.fpk";
-		["bodyIdList"] = {
-			[1] = 107;
-		};
-	};
-	["quest_q22005"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q22005.fpk";
-		["randomFaceList"] = {
-			["gender"] = 0;
-			["race"] = {
-				[1] = 1;
-			};
-		};
-	};
-	["field_q71090"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/field/field_q71090.fpk";
-		["bodyIdList"] = {
-			[1] = 49;
-		};
-	};
-	["outland_q60113"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/outland/outland_q60113.fpk";
-	};
-	["outland_q99071"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/outland/outland_q99071.fpk";
-		["bodyIdList"] = {
-			[1] = 264;
-		};
-		["faceIdList"] = {
-			[1] = 641;
-		};
-	};
-	["quest_q20905"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q20905.fpk";
-		["randomFaceList"] = {
-			["gender"] = 0;
-			["race"] = {
-				[1] = 1;
-			};
-		};
-	};
-	["quest_q20015"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q20015.fpk";
-		["faceIdList"] = {
-			[1] = 621;
-		};
-	};
-	["sovietBase_q99070"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/sovietBase/sovietBase_q99070.fpk";
-		["bodyIdList"] = {
-			[1] = 110;
-		};
-		["faceIdList"] = {
-			[1] = 640;
-		};
-	};
-	["quest_q20305"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q20305.fpk";
-		["randomFaceList"] = {
-			["gender"] = 1;
-			["race"] = {
-				[1] = 3;
-			};
-		};
-	};
-	["outland_q20913"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/outland/outland_q20913.fpk";
-		["bodyIdList"] = {
-			[1] = 205;
-		};
-	};
-	["quest_q20075"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q20075.fpk";
-		["randomFaceList"] = {
-			["gender"] = 1;
-			["race"] = {
-				[1] = 3;
-			};
-		};
-	};
-	["savannah_q71300"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/savannah/savannah_q71300.fpk";
-	};
-	["quest_q52025"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52025.fpk";
-	};
-	["quest_q20805"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q20805.fpk";
-		["randomFaceList"] = {
-			["gender"] = 0;
-			["race"] = {
-				[1] = 0;
-			};
-		};
-	};
-	["quest_q52030"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52030.fpk";
-	};
-	["cliffTown_q71060"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/cliffTown/cliffTown_q71060.fpk";
-		["bodyIdList"] = {
-			[1] = 49;
-		};
-	};
-	["Mtbs_SmokingSoldierCommand"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mtbs/Common/quest_smoking.fpk";
-	};
-	["waterway_q80040"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/waterway/waterway_q80040.fpk";
-		["bodyIdList"] = {
-			[1] = 289;
-		};
-	};
-	["outland_q10100"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/outland/outland_q10100.fpk";
-		["faceIdList"] = {
-			[1] = 551;
-		};
-	};
-	["tent_q99072"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/tent/tent_q99072.fpk";
-		["bodyIdList"] = {
-			[1] = 110;
-		};
-		["faceIdList"] = {
-			[1] = 646;
-		};
-	};
-	["diamond_q10600"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/diamond/diamond_q10600.fpk";
-		["faceIdList"] = {
-			[1] = 551;
-		};
-	};
-	["citadel_q60112"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/citadel/citadel_q60112.fpk";
-	};
-	["commFacility_q10060"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/commFacility/commFacility_q10060.fpk";
-		["faceIdList"] = {
-			[1] = 550;
-		};
-	};
-	["quest_q52035"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52035.fpk";
-	};
-	["quest_q20205"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q20205.fpk";
-		["randomFaceList"] = {
-			["gender"] = 0;
-			["race"] = {
-				[1] = 0;
-			};
-		};
-		["faceIdList"] = {
-			[1] = 621;
-		};
-	};
-	["tent_q99040"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/tent/tent_q99040.fpk";
-	};
-	["outland_q19011"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/outland/outland_q19011.fpk";
-		["bodyIdList"] = {
-			[1] = 255;
-		};
-		["faceIdList"] = {
-			[1] = 609;
-		};
-	};
-	["outland_q71200"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/outland/outland_q71200.fpk";
-		["bodyIdList"] = {
-			[1] = 107;
-		};
-	};
-	["tent_q71010"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/tent/tent_q71010.fpk";
-	};
-	["sovietBase_q60111"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/sovietBase/sovietBase_q60111.fpk";
-	};
-	["hill_q80400"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/hill/hill_q80400.fpk";
-		["bodyIdList"] = {
-			[1] = 295;
-		};
-	};
-	["quest_q52145"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52145.fpk";
-	};
-	["banana_q71400"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/banana/banana_q71400.fpk";
-		["bodyIdList"] = {
-			[1] = 108;
-		};
-	};
-	["ruins_q60115"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/ruins/ruins_q60115.fpk";
-	};
-	["fort_q10080"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/fort/fort_q10080.fpk";
-		["faceIdList"] = {
-			[1] = 550;
-		};
-	};
-	["quest_q24005"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q24005.fpk";
-		["randomFaceList"] = {
-			["gender"] = 0;
-			["race"] = {
-				[1] = 2;
-			};
-		};
-	};
-	["diamond_q80600"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/diamond/diamond_q80600.fpk";
-		["bodyIdList"] = {
-			[1] = 294;
-		};
-	};
-	["hill_q11500"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/hill/hill_q11500.fpk";
-		["bodyIdList"] = {
-			[1] = 108;
-		};
-	};
-	["ruins_q60010"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/ruins/ruins_q60010.fpk";
-	};
-	["mtbs_q42030"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mtbs/Support/quest_q42030.fpk";
-	};
-	["pfCamp_q80200"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/pfCamp/pfCamp_q80200.fpk";
-		["bodyIdList"] = {
-			[1] = 293;
-		};
-	};
-	["sovietBase_q60014"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/sovietBase/sovietBase_q60014.fpk";
-	};
-	["cliffTown_q10050"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/cliffTown/cliffTown_q10050.fpk";
-		["faceIdList"] = {
-			[1] = 550;
-		};
-	};
-	["quest_q52015"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52015.fpk";
-	};
-	["pfCamp_q60114"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/pfCamp/pfCamp_q60114.fpk";
-	};
-	["lab_q60022"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/lab/lab_q60022.fpk";
-	};
-	["waterway_q10040"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/waterway/waterway_q10040.fpk";
-		["faceIdList"] = {
-			[1] = 550;
-		};
-	};
-	["quest_q52075"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52075.fpk";
-	};
-	["quest_q52045"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52045.fpk";
-	};
-	["cliffTown_q11050"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/cliffTown/cliffTown_q11050.fpk";
-		["bodyIdList"] = {
-			[1] = 109;
-		};
-	};
-	["tent_q10010"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/tent/tent_q10010.fpk";
-		["faceIdList"] = {
-			[1] = 550;
-		};
-	};
-	["quest_q25005"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q25005.fpk";
-		["randomFaceList"] = {
-			["gender"] = 0;
-			["race"] = {
-				[1] = 0;
-			};
-		};
-	};
-	["waterway_q99012"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/waterway/waterway_q99012.fpk";
-	};
-	["quest_q23005"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q23005.fpk";
-		["randomFaceList"] = {
-			["gender"] = 0;
-			["race"] = {
-				[1] = 2;
-			};
-		};
-	};
-	["outland_q80100"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/outland/outland_q80100.fpk";
-		["bodyIdList"] = {
-			[1] = 292;
-		};
-	};
-	["quest_q20705"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q20705.fpk";
-		["randomFaceList"] = {
-			["gender"] = 0;
-			["race"] = {
-				[1] = 2;
-			};
-		};
-		["faceIdList"] = {
-			[1] = 621;
-		};
-	};
-	["sovietBase_q99020"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/sovietBase/sovietBase_q99020.fpk";
-	};
-	["savannah_q10300"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/savannah/savannah_q10300.fpk";
-		["faceIdList"] = {
-			[1] = 551;
-		};
-	};
-	["ruins_q10030"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/ruins/ruins_q10030.fpk";
-		["faceIdList"] = {
-			[1] = 550;
-		};
-	};
-	["ruins_q19010"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/ruins/ruins_q19010.fpk";
-		["bodyIdList"] = {
-			[1] = 259;
-		};
-		["faceIdList"] = {
-			[1] = 601;
-		};
-	};
-	["hill_q19012"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/hill/hill_q19012.fpk";
-		["bodyIdList"] = {
-			[1] = 111;
-		};
-		["faceIdList"] = {
-			[1] = 648;
-		};
-	};
-	["waterway_q99010"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/battle/bossQuiet/qest_bossQuiet_00.fpk";
-	};
-	["commFacility_q19013"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/commFacility/commFacility_q19013.fpk";
-		["bodyIdList"] = {
-			[1] = 110;
-		};
-		["faceIdList"] = {
-			[1] = 647;
-		};
-	};
-	["hill_q10400"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/hill/hill_q10400.fpk";
-		["faceIdList"] = {
-			[1] = 551;
-		};
-	};
-	["mtbs_q42070"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mtbs/Combat/quest_q42070.fpk";
-	};
-	["quest_q52055"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52055.fpk";
-	};
-	["quest_q20095"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q20095.fpk";
-		["randomFaceList"] = {
-			["gender"] = 0;
-			["race"] = {
-				[1] = 1;
-			};
-		};
-		["faceIdList"] = {
-			[1] = 621;
-		};
-	};
-	["sovietBase_q99030"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/sovietBase/sovietBase_q99030.fpk";
-	};
-	["cliffTown_q60012"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/cliffTown/cliffTown_q60012.fpk";
-	};
-	["quest_q20605"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q20605.fpk";
-		["randomFaceList"] = {
-			["gender"] = 0;
-			["race"] = {
-				[1] = 0;
-			};
-		};
-	};
-	["pfCamp_q11200"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/pfCamp/pfCamp_q11200.fpk";
-		["bodyIdList"] = {
-			[1] = 107;
-		};
-	};
-	["quest_q20405"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q20405.fpk";
-		["randomFaceList"] = {
-			["gender"] = 1;
-			["race"] = {
-				[1] = 0;
-			};
-		};
-	};
-	["quest_q20105"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q20105.fpk";
-		["randomFaceList"] = {
-			["gender"] = 1;
-			["race"] = {
-				[1] = 2;
-			};
-		};
-	};
-	["quest_q20045"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q20045.fpk";
-		["randomFaceList"] = {
-			["gender"] = 1;
-			["race"] = {
-				[1] = 0;
-			};
-		};
-	};
-	["mtbs_q99011"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mtbs/Medical/quest_visit_quiet.fpk";
-		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
-		[3] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d400.fpk";
-	};
-	["tent_q11010"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/tent/tent_q11010.fpk";
-		["bodyIdList"] = {
-			[1] = 49;
-		};
-	};
-	["commFacility_q80060"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/commFacility/commFacility_q80060.fpk";
-		["bodyIdList"] = {
-			[1] = 280;
-		};
-	};
-	["field_q10020"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/field/field_q10020.fpk";
-		["faceIdList"] = {
-			[1] = 550;
-		};
-	};
-	["mtbs_q42040"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mtbs/BaseDev/quest_q42040.fpk";
-	};
-	["mtbs_q99050"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mtbs/Command/quest_liquid_challenge.fpk";
-		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_liquid.fpk";
-	};
-	["quest_q52070"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52070.fpk";
-	};
-	["fort_q11060"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/fort/fort_q11060.fpk";
-		["bodyIdList"] = {
-			[1] = 49;
-		};
-	};
-	["cliffTown_q11040"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/cliffTown/cliffTown_q11040.fpk";
-		["bodyIdList"] = {
-			[1] = 49;
-		};
-	};
-	["tent_q60011"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/tent/tent_q60011.fpk";
-	};
-	["quest_q20065"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q20065.fpk";
-		["randomFaceList"] = {
-			["gender"] = 0;
-			["race"] = {
-				[1] = 0;
-			};
-		};
-	};
-	["commFacility_q11080"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/commFacility/commFacility_q11080.fpk";
-		["bodyIdList"] = {
-			[1] = 49;
-		};
-	};
-	["mtbs_return_quiet"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mtbs/Common/quest_return_quiet.fpk";
-	};
-	["mtbs_q42020"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mtbs/Develop/quest_q42020.fpk";
-	};
-	["quest_q52085"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52085.fpk";
-	};
-	["banana_q11600"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/banana/banana_q11600.fpk";
-		["bodyIdList"] = {
-			[1] = 108;
-		};
-	};
-	["fort_q60013"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/fort/fort_q60013.fpk";
-	};
-	["mtbs_q42010"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mtbs/Command/quest_q42010.fpk";
-	};
-	["banana_q10500"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/banana/banana_q10500.fpk";
-		["faceIdList"] = {
-			[1] = 551;
-		};
-	};
-	["tent_q20910"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/tent/tent_q20910.fpk";
-		["bodyIdList"] = {
-			[1] = 207;
-		};
-	};
-	["quest_q52115"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52115.fpk";
-	};
-	["mtbs_q101220"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mtbs/Common/quest_q101220.fpk";
-	};
-	["mtbs_q101210"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mtbs/Common/quest_q101210.fpk";
-	};
-	["hill_q60021"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/hill/hill_q60021.fpk";
-	};
-	["quest_q52040"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52040.fpk";
-	};
-	["cliffTown_q99080"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/cliffTown/cliffTown_q99080.fpk";
-		["bodyIdList"] = {
-			[1] = 374;
-		};
-	};
-	["Mtbs_child_dog"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mtbs/Command/quest_child_dog.fpk";
-	};
-	["sovietBase_q20912"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/sovietBase/sovietBase_q20912.fpk";
-		["bodyIdList"] = {
-			[1] = 209;
-		};
-	};
-	["mtbs_q42060"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mtbs/Spy/quest_q42060.fpk";
-	};
-	["quest_q20035"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q20035.fpk";
-		["randomFaceList"] = {
-			["gender"] = 0;
-			["race"] = {
-				[1] = 1;
-			};
-		};
-	};
-	["fort_q20911"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/fort/fort_q20911.fpk";
-		["bodyIdList"] = {
-			[1] = 208;
-		};
-	};
-	["mtbs_wait_quiet"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mtbs/Medical/quest_wait_quiet.fpk";
-	};
-	["lab_q39011"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/lab/lab_q39011.fpk";
-	};
-	["Mtbs_SmokingSoldierCombat"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mtbs/Common/quest_smoking.fpk";
-	};
-	["sovietBase_q10070"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/sovietBase/sovietBase_q10070.fpk";
-		["faceIdList"] = {
-			[1] = 550;
-		};
-	};
-	["outland_q60024"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/outland/outland_q60024.fpk";
-	};
-	["quest_q20085"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q20085.fpk";
-		["randomFaceList"] = {
-			["gender"] = 0;
-			["race"] = {
-				[1] = 2;
-			};
-		};
-		["faceIdList"] = {
-			[1] = 621;
-		};
-	};
-	["banana_q60023"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/banana/banana_q60023.fpk";
-	};
-	["Mtbs_ddog_walking"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mtbs/Command/quest_ddog_walking.fpk";
-	};
-	["pfCamp_q60020"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/pfCamp/pfCamp_q60020.fpk";
-	};
-	["quest_q52135"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52135.fpk";
-	};
-	["quest_q52125"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52125.fpk";
-	};
-	["quest_q52105"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52105.fpk";
-	};
-	["quest_q52095"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52095.fpk";
-	};
-	["quest_q52110"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52110.fpk";
-	};
-	["fort_q80080"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/fort/fort_q80080.fpk";
-		["bodyIdList"] = {
-			[1] = 288;
-		};
-	};
-	["quest_q52130"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52130.fpk";
-	};
-	["pfCamp_q39012"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/pfCamp/pfCamp_q39012.fpk";
-	};
-	["quest_q52120"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52120.fpk";
-	};
-	["banana_q11700"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/banana/banana_q11700.fpk";
-		["bodyIdList"] = {
-			[1] = 108;
-		};
-	};
-	["quest_q52065"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52065.fpk";
-	};
-	["sovietBase_q71070"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/sovietBase/sovietBase_q71070.fpk";
-	};
-	["savannah_q11300"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/savannah/savannah_q11300.fpk";
-		["bodyIdList"] = {
-			[1] = 107;
-		};
-	};
-	["quest_q52080"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52080.fpk";
-	};
-	["quest_q52060"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52060.fpk";
-	};
-	["waterway_q39010"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/waterway/waterway_q39010.fpk";
-	};
-	["quest_q52050"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52050.fpk";
-	};
-	["quest_q52020"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52020.fpk";
-	};
-	["outland_q40010"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/outland/outland_q40010.fpk";
-	};
-	["quest_q52010"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52010.fpk";
-	};
-	["quest_q52140"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52140.fpk";
-	};
-	["field_q30010"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/field/field_q30010.fpk";
-	};
-	["lab_q80700"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/lab/lab_q80700.fpk";
-		["bodyIdList"] = {
-			[1] = 297;
-		};
-	};
-	["waterway_q71040"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/waterway/waterway_q71040.fpk";
-		["bodyIdList"] = {
-			[1] = 49;
-		};
-	};
-	["tent_q80010"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/tent/tent_q80010.fpk";
-		["bodyIdList"] = {
-			[1] = 286;
-		};
-	};
-	["lab_q71700"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/lab/lab_q71700.fpk";
-	};
-	["lab_q71600"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/lab/lab_q71600.fpk";
-	};
-	["field_q71020"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/field/field_q71020.fpk";
-	};
-	["fort_q11070"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/fort/fort_q11070.fpk";
-		["bodyIdList"] = {
-			[1] = 49;
-		};
-	};
-	["diamond_q71500"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/diamond/diamond_q71500.fpk";
-		["bodyIdList"] = {
-			[1] = 108;
-		};
-	};
-	["fort_q71080"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/fort/fort_q71080.fpk";
-		["bodyIdList"] = {
-			[1] = 49;
-		};
-	};
-	["citadel_q10090"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/citadel/citadel_q10090.fpk";
-		["faceIdList"] = {
-			[1] = 550;
-		};
-	};
-	["quest_q52090"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52090.fpk";
-	};
-	["cliffTown_q71050"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/cliffTown/cliffTown_q71050.fpk";
-	};
-	["tent_q71030"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/tent/tent_q71030.fpk";
-	};
-	["savannah_q11400"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/savannah/savannah_q11400.fpk";
-		["bodyIdList"] = {
-			[1] = 107;
-		};
-	};
-	["quest_q20025"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q20025.fpk";
-		["randomFaceList"] = {
-			["gender"] = 1;
-			["race"] = {
-				[1] = 0;
-			};
-		};
-	};
-	["outland_q11090"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/outland/outland_q11090.fpk";
-		["bodyIdList"] = {
-			[1] = 107;
-		};
-	};
-	["waterway_q11030"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/waterway/waterway_q11030.fpk";
-		["bodyIdList"] = {
-			[1] = 49;
-		};
-	};
-	["tent_q11020"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/afgh/tent/tent_q11020.fpk";
-		["bodyIdList"] = {
-			[1] = 49;
-		};
-	};
-	["quest_q27005"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q27005.fpk";
-		["randomFaceList"] = {
-			["gender"] = 0;
-			["race"] = {
-				[1] = 0;
-			};
-		};
-	};
-	["quest_q20505"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q20505.fpk";
-		["randomFaceList"] = {
-			["gender"] = 1;
-			["race"] = {
-				[1] = 2;
-			};
-		};
-	};
-	["quest_q26005"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q26005.fpk";
-		["randomFaceList"] = {
-			["gender"] = 0;
-			["race"] = {
-				[1] = 2;
-			};
-		};
-	};
-	["quest_q21005"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q21005.fpk";
-		["randomFaceList"] = {
-			["gender"] = 0;
-			["race"] = {
-				[1] = 3;
-			};
-		};
-	};
-	["quest_q20055"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q20055.fpk";
-		["randomFaceList"] = {
-			["gender"] = 1;
-			["race"] = {
-				[1] = 0;
-			};
-		};
-	};
-	["lab_q10700"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/lab/lab_q10700.fpk";
-		["faceIdList"] = {
-			[1] = 551;
-		};
-	};
-	["pfCamp_q10200"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/pfCamp/pfCamp_q10200.fpk";
-		["faceIdList"] = {
-			[1] = 551;
-		};
-	};
-	["lab_q20914"] = {
-		[1] = "/Assets/tpp/pack/mission2/quest/mafr/lab/lab_q20914.fpk";
-		["bodyIdList"] = {
-			[1] = 206;
-		};
-	};
-};
 ["questList"] = {
 	[1] = {
 		["locationId"] = 10;
@@ -2032,5 +1163,877 @@
 		["clusterName"] = "MedicalPaz";
 	};
 };
-["_scriptInstanceId"] = [[userdata]]
+["questPackList"] = {
+	["mtbs_q42050"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mtbs/Medical/quest_q42050.fpk";
+	};
+	["field_q80020"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/field/field_q80020.fpk";
+		["bodyIdList"] = {
+			[1] = 281;
+		};
+	};
+	["sovietBase_q60110"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/sovietBase/sovietBase_q60110.fpk";
+	};
+	["quest_q52100"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52100.fpk";
+	};
+	["outland_q11100"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/outland/outland_q11100.fpk";
+		["bodyIdList"] = {
+			[1] = 107;
+		};
+	};
+	["quest_q22005"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q22005.fpk";
+		["randomFaceList"] = {
+			["gender"] = 0;
+			["race"] = {
+				[1] = 1;
+			};
+		};
+	};
+	["field_q71090"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/field/field_q71090.fpk";
+		["bodyIdList"] = {
+			[1] = 49;
+		};
+	};
+	["outland_q60113"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/outland/outland_q60113.fpk";
+	};
+	["outland_q99071"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/outland/outland_q99071.fpk";
+		["bodyIdList"] = {
+			[1] = 264;
+		};
+		["faceIdList"] = {
+			[1] = 641;
+		};
+	};
+	["quest_q20905"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q20905.fpk";
+		["randomFaceList"] = {
+			["gender"] = 0;
+			["race"] = {
+				[1] = 1;
+			};
+		};
+	};
+	["quest_q20015"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q20015.fpk";
+		["faceIdList"] = {
+			[1] = 621;
+		};
+	};
+	["sovietBase_q99070"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/sovietBase/sovietBase_q99070.fpk";
+		["bodyIdList"] = {
+			[1] = 110;
+		};
+		["faceIdList"] = {
+			[1] = 640;
+		};
+	};
+	["quest_q20305"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q20305.fpk";
+		["randomFaceList"] = {
+			["gender"] = 1;
+			["race"] = {
+				[1] = 3;
+			};
+		};
+	};
+	["outland_q20913"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/outland/outland_q20913.fpk";
+		["bodyIdList"] = {
+			[1] = 205;
+		};
+	};
+	["quest_q20075"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q20075.fpk";
+		["randomFaceList"] = {
+			["gender"] = 1;
+			["race"] = {
+				[1] = 3;
+			};
+		};
+	};
+	["savannah_q71300"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/savannah/savannah_q71300.fpk";
+	};
+	["quest_q52025"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52025.fpk";
+	};
+	["quest_q20805"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q20805.fpk";
+		["randomFaceList"] = {
+			["gender"] = 0;
+			["race"] = {
+				[1] = 0;
+			};
+		};
+	};
+	["quest_q52030"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52030.fpk";
+	};
+	["cliffTown_q71060"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/cliffTown/cliffTown_q71060.fpk";
+		["bodyIdList"] = {
+			[1] = 49;
+		};
+	};
+	["Mtbs_SmokingSoldierCommand"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mtbs/Common/quest_smoking.fpk";
+	};
+	["waterway_q80040"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/waterway/waterway_q80040.fpk";
+		["bodyIdList"] = {
+			[1] = 289;
+		};
+	};
+	["outland_q10100"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/outland/outland_q10100.fpk";
+		["faceIdList"] = {
+			[1] = 551;
+		};
+	};
+	["tent_q99072"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/tent/tent_q99072.fpk";
+		["bodyIdList"] = {
+			[1] = 110;
+		};
+		["faceIdList"] = {
+			[1] = 646;
+		};
+	};
+	["diamond_q10600"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/diamond/diamond_q10600.fpk";
+		["faceIdList"] = {
+			[1] = 551;
+		};
+	};
+	["citadel_q60112"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/citadel/citadel_q60112.fpk";
+	};
+	["commFacility_q10060"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/commFacility/commFacility_q10060.fpk";
+		["faceIdList"] = {
+			[1] = 550;
+		};
+	};
+	["quest_q52035"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52035.fpk";
+	};
+	["quest_q20205"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q20205.fpk";
+		["randomFaceList"] = {
+			["gender"] = 0;
+			["race"] = {
+				[1] = 0;
+			};
+		};
+		["faceIdList"] = {
+			[1] = 621;
+		};
+	};
+	["tent_q99040"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/tent/tent_q99040.fpk";
+	};
+	["outland_q19011"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/outland/outland_q19011.fpk";
+		["bodyIdList"] = {
+			[1] = 255;
+		};
+		["faceIdList"] = {
+			[1] = 609;
+		};
+	};
+	["outland_q71200"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/outland/outland_q71200.fpk";
+		["bodyIdList"] = {
+			[1] = 107;
+		};
+	};
+	["tent_q71010"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/tent/tent_q71010.fpk";
+	};
+	["sovietBase_q60111"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/sovietBase/sovietBase_q60111.fpk";
+	};
+	["hill_q80400"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/hill/hill_q80400.fpk";
+		["bodyIdList"] = {
+			[1] = 295;
+		};
+	};
+	["quest_q52145"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52145.fpk";
+	};
+	["banana_q71400"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/banana/banana_q71400.fpk";
+		["bodyIdList"] = {
+			[1] = 108;
+		};
+	};
+	["ruins_q60115"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/ruins/ruins_q60115.fpk";
+	};
+	["fort_q10080"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/fort/fort_q10080.fpk";
+		["faceIdList"] = {
+			[1] = 550;
+		};
+	};
+	["quest_q24005"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q24005.fpk";
+		["randomFaceList"] = {
+			["gender"] = 0;
+			["race"] = {
+				[1] = 2;
+			};
+		};
+	};
+	["diamond_q80600"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/diamond/diamond_q80600.fpk";
+		["bodyIdList"] = {
+			[1] = 294;
+		};
+	};
+	["hill_q11500"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/hill/hill_q11500.fpk";
+		["bodyIdList"] = {
+			[1] = 108;
+		};
+	};
+	["ruins_q60010"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/ruins/ruins_q60010.fpk";
+	};
+	["mtbs_q42030"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mtbs/Support/quest_q42030.fpk";
+	};
+	["pfCamp_q80200"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/pfCamp/pfCamp_q80200.fpk";
+		["bodyIdList"] = {
+			[1] = 293;
+		};
+	};
+	["sovietBase_q60014"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/sovietBase/sovietBase_q60014.fpk";
+	};
+	["cliffTown_q10050"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/cliffTown/cliffTown_q10050.fpk";
+		["faceIdList"] = {
+			[1] = 550;
+		};
+	};
+	["quest_q52015"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52015.fpk";
+	};
+	["pfCamp_q60114"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/pfCamp/pfCamp_q60114.fpk";
+	};
+	["lab_q60022"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/lab/lab_q60022.fpk";
+	};
+	["waterway_q10040"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/waterway/waterway_q10040.fpk";
+		["faceIdList"] = {
+			[1] = 550;
+		};
+	};
+	["quest_q52075"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52075.fpk";
+	};
+	["quest_q52045"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52045.fpk";
+	};
+	["cliffTown_q11050"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/cliffTown/cliffTown_q11050.fpk";
+		["bodyIdList"] = {
+			[1] = 109;
+		};
+	};
+	["tent_q10010"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/tent/tent_q10010.fpk";
+		["faceIdList"] = {
+			[1] = 550;
+		};
+	};
+	["quest_q25005"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q25005.fpk";
+		["randomFaceList"] = {
+			["gender"] = 0;
+			["race"] = {
+				[1] = 0;
+			};
+		};
+	};
+	["waterway_q99012"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/waterway/waterway_q99012.fpk";
+	};
+	["quest_q23005"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q23005.fpk";
+		["randomFaceList"] = {
+			["gender"] = 0;
+			["race"] = {
+				[1] = 2;
+			};
+		};
+	};
+	["outland_q80100"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/outland/outland_q80100.fpk";
+		["bodyIdList"] = {
+			[1] = 292;
+		};
+	};
+	["quest_q20705"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q20705.fpk";
+		["randomFaceList"] = {
+			["gender"] = 0;
+			["race"] = {
+				[1] = 2;
+			};
+		};
+		["faceIdList"] = {
+			[1] = 621;
+		};
+	};
+	["sovietBase_q99020"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/sovietBase/sovietBase_q99020.fpk";
+	};
+	["savannah_q10300"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/savannah/savannah_q10300.fpk";
+		["faceIdList"] = {
+			[1] = 551;
+		};
+	};
+	["ruins_q10030"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/ruins/ruins_q10030.fpk";
+		["faceIdList"] = {
+			[1] = 550;
+		};
+	};
+	["ruins_q19010"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/ruins/ruins_q19010.fpk";
+		["bodyIdList"] = {
+			[1] = 259;
+		};
+		["faceIdList"] = {
+			[1] = 601;
+		};
+	};
+	["hill_q19012"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/hill/hill_q19012.fpk";
+		["bodyIdList"] = {
+			[1] = 111;
+		};
+		["faceIdList"] = {
+			[1] = 648;
+		};
+	};
+	["waterway_q99010"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/battle/bossQuiet/qest_bossQuiet_00.fpk";
+	};
+	["commFacility_q19013"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/commFacility/commFacility_q19013.fpk";
+		["bodyIdList"] = {
+			[1] = 110;
+		};
+		["faceIdList"] = {
+			[1] = 647;
+		};
+	};
+	["hill_q10400"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/hill/hill_q10400.fpk";
+		["faceIdList"] = {
+			[1] = 551;
+		};
+	};
+	["mtbs_q42070"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mtbs/Combat/quest_q42070.fpk";
+	};
+	["quest_q52055"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52055.fpk";
+	};
+	["quest_q20095"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q20095.fpk";
+		["randomFaceList"] = {
+			["gender"] = 0;
+			["race"] = {
+				[1] = 1;
+			};
+		};
+		["faceIdList"] = {
+			[1] = 621;
+		};
+	};
+	["sovietBase_q99030"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/sovietBase/sovietBase_q99030.fpk";
+	};
+	["cliffTown_q60012"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/cliffTown/cliffTown_q60012.fpk";
+	};
+	["quest_q20605"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q20605.fpk";
+		["randomFaceList"] = {
+			["gender"] = 0;
+			["race"] = {
+				[1] = 0;
+			};
+		};
+	};
+	["pfCamp_q11200"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/pfCamp/pfCamp_q11200.fpk";
+		["bodyIdList"] = {
+			[1] = 107;
+		};
+	};
+	["quest_q20405"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q20405.fpk";
+		["randomFaceList"] = {
+			["gender"] = 1;
+			["race"] = {
+				[1] = 0;
+			};
+		};
+	};
+	["quest_q20105"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q20105.fpk";
+		["randomFaceList"] = {
+			["gender"] = 1;
+			["race"] = {
+				[1] = 2;
+			};
+		};
+	};
+	["quest_q20045"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q20045.fpk";
+		["randomFaceList"] = {
+			["gender"] = 1;
+			["race"] = {
+				[1] = 0;
+			};
+		};
+	};
+	["mtbs_q99011"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mtbs/Medical/quest_visit_quiet.fpk";
+		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
+		[3] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d400.fpk";
+	};
+	["tent_q11010"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/tent/tent_q11010.fpk";
+		["bodyIdList"] = {
+			[1] = 49;
+		};
+	};
+	["commFacility_q80060"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/commFacility/commFacility_q80060.fpk";
+		["bodyIdList"] = {
+			[1] = 280;
+		};
+	};
+	["field_q10020"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/field/field_q10020.fpk";
+		["faceIdList"] = {
+			[1] = 550;
+		};
+	};
+	["mtbs_q42040"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mtbs/BaseDev/quest_q42040.fpk";
+	};
+	["mtbs_q99050"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mtbs/Command/quest_liquid_challenge.fpk";
+		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_liquid.fpk";
+	};
+	["quest_q52070"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52070.fpk";
+	};
+	["fort_q11060"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/fort/fort_q11060.fpk";
+		["bodyIdList"] = {
+			[1] = 49;
+		};
+	};
+	["cliffTown_q11040"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/cliffTown/cliffTown_q11040.fpk";
+		["bodyIdList"] = {
+			[1] = 49;
+		};
+	};
+	["tent_q60011"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/tent/tent_q60011.fpk";
+	};
+	["quest_q20065"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q20065.fpk";
+		["randomFaceList"] = {
+			["gender"] = 0;
+			["race"] = {
+				[1] = 0;
+			};
+		};
+	};
+	["commFacility_q11080"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/commFacility/commFacility_q11080.fpk";
+		["bodyIdList"] = {
+			[1] = 49;
+		};
+	};
+	["mtbs_return_quiet"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mtbs/Common/quest_return_quiet.fpk";
+	};
+	["mtbs_q42020"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mtbs/Develop/quest_q42020.fpk";
+	};
+	["quest_q52085"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52085.fpk";
+	};
+	["banana_q11600"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/banana/banana_q11600.fpk";
+		["bodyIdList"] = {
+			[1] = 108;
+		};
+	};
+	["fort_q60013"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/fort/fort_q60013.fpk";
+	};
+	["mtbs_q42010"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mtbs/Command/quest_q42010.fpk";
+	};
+	["banana_q10500"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/banana/banana_q10500.fpk";
+		["faceIdList"] = {
+			[1] = 551;
+		};
+	};
+	["tent_q20910"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/tent/tent_q20910.fpk";
+		["bodyIdList"] = {
+			[1] = 207;
+		};
+	};
+	["quest_q52115"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52115.fpk";
+	};
+	["mtbs_q101220"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mtbs/Common/quest_q101220.fpk";
+	};
+	["mtbs_q101210"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mtbs/Common/quest_q101210.fpk";
+	};
+	["hill_q60021"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/hill/hill_q60021.fpk";
+	};
+	["quest_q52040"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52040.fpk";
+	};
+	["cliffTown_q99080"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/cliffTown/cliffTown_q99080.fpk";
+		["bodyIdList"] = {
+			[1] = 374;
+		};
+	};
+	["Mtbs_child_dog"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mtbs/Command/quest_child_dog.fpk";
+	};
+	["sovietBase_q20912"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/sovietBase/sovietBase_q20912.fpk";
+		["bodyIdList"] = {
+			[1] = 209;
+		};
+	};
+	["mtbs_q42060"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mtbs/Spy/quest_q42060.fpk";
+	};
+	["quest_q20035"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q20035.fpk";
+		["randomFaceList"] = {
+			["gender"] = 0;
+			["race"] = {
+				[1] = 1;
+			};
+		};
+	};
+	["fort_q20911"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/fort/fort_q20911.fpk";
+		["bodyIdList"] = {
+			[1] = 208;
+		};
+	};
+	["mtbs_wait_quiet"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mtbs/Medical/quest_wait_quiet.fpk";
+	};
+	["lab_q39011"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/lab/lab_q39011.fpk";
+	};
+	["Mtbs_SmokingSoldierCombat"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mtbs/Common/quest_smoking.fpk";
+	};
+	["sovietBase_q10070"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/sovietBase/sovietBase_q10070.fpk";
+		["faceIdList"] = {
+			[1] = 550;
+		};
+	};
+	["outland_q60024"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/outland/outland_q60024.fpk";
+	};
+	["quest_q20085"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q20085.fpk";
+		["randomFaceList"] = {
+			["gender"] = 0;
+			["race"] = {
+				[1] = 2;
+			};
+		};
+		["faceIdList"] = {
+			[1] = 621;
+		};
+	};
+	["banana_q60023"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/banana/banana_q60023.fpk";
+	};
+	["Mtbs_ddog_walking"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mtbs/Command/quest_ddog_walking.fpk";
+	};
+	["pfCamp_q60020"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/pfCamp/pfCamp_q60020.fpk";
+	};
+	["quest_q52135"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52135.fpk";
+	};
+	["quest_q52125"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52125.fpk";
+	};
+	["quest_q52105"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52105.fpk";
+	};
+	["quest_q52095"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52095.fpk";
+	};
+	["quest_q52110"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52110.fpk";
+	};
+	["fort_q80080"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/fort/fort_q80080.fpk";
+		["bodyIdList"] = {
+			[1] = 288;
+		};
+	};
+	["quest_q52130"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52130.fpk";
+	};
+	["pfCamp_q39012"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/pfCamp/pfCamp_q39012.fpk";
+	};
+	["quest_q52120"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52120.fpk";
+	};
+	["banana_q11700"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/banana/banana_q11700.fpk";
+		["bodyIdList"] = {
+			[1] = 108;
+		};
+	};
+	["quest_q52065"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52065.fpk";
+	};
+	["sovietBase_q71070"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/sovietBase/sovietBase_q71070.fpk";
+	};
+	["savannah_q11300"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/savannah/savannah_q11300.fpk";
+		["bodyIdList"] = {
+			[1] = 107;
+		};
+	};
+	["quest_q52080"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52080.fpk";
+	};
+	["quest_q52060"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52060.fpk";
+	};
+	["waterway_q39010"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/waterway/waterway_q39010.fpk";
+	};
+	["quest_q52050"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52050.fpk";
+	};
+	["quest_q52020"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52020.fpk";
+	};
+	["outland_q40010"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/outland/outland_q40010.fpk";
+	};
+	["quest_q52010"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52010.fpk";
+	};
+	["quest_q52140"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52140.fpk";
+	};
+	["field_q30010"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/field/field_q30010.fpk";
+	};
+	["lab_q80700"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/lab/lab_q80700.fpk";
+		["bodyIdList"] = {
+			[1] = 297;
+		};
+	};
+	["waterway_q71040"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/waterway/waterway_q71040.fpk";
+		["bodyIdList"] = {
+			[1] = 49;
+		};
+	};
+	["tent_q80010"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/tent/tent_q80010.fpk";
+		["bodyIdList"] = {
+			[1] = 286;
+		};
+	};
+	["lab_q71700"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/lab/lab_q71700.fpk";
+	};
+	["lab_q71600"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/lab/lab_q71600.fpk";
+	};
+	["field_q71020"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/field/field_q71020.fpk";
+	};
+	["fort_q11070"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/fort/fort_q11070.fpk";
+		["bodyIdList"] = {
+			[1] = 49;
+		};
+	};
+	["diamond_q71500"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/diamond/diamond_q71500.fpk";
+		["bodyIdList"] = {
+			[1] = 108;
+		};
+	};
+	["fort_q71080"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/fort/fort_q71080.fpk";
+		["bodyIdList"] = {
+			[1] = 49;
+		};
+	};
+	["citadel_q10090"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/citadel/citadel_q10090.fpk";
+		["faceIdList"] = {
+			[1] = 550;
+		};
+	};
+	["quest_q52090"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q52090.fpk";
+	};
+	["cliffTown_q71050"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/cliffTown/cliffTown_q71050.fpk";
+	};
+	["tent_q71030"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/tent/tent_q71030.fpk";
+	};
+	["savannah_q11400"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/savannah/savannah_q11400.fpk";
+		["bodyIdList"] = {
+			[1] = 107;
+		};
+	};
+	["quest_q20025"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q20025.fpk";
+		["randomFaceList"] = {
+			["gender"] = 1;
+			["race"] = {
+				[1] = 0;
+			};
+		};
+	};
+	["outland_q11090"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/outland/outland_q11090.fpk";
+		["bodyIdList"] = {
+			[1] = 107;
+		};
+	};
+	["waterway_q11030"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/waterway/waterway_q11030.fpk";
+		["bodyIdList"] = {
+			[1] = 49;
+		};
+	};
+	["tent_q11020"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/afgh/tent/tent_q11020.fpk";
+		["bodyIdList"] = {
+			[1] = 49;
+		};
+	};
+	["quest_q27005"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q27005.fpk";
+		["randomFaceList"] = {
+			["gender"] = 0;
+			["race"] = {
+				[1] = 0;
+			};
+		};
+	};
+	["quest_q20505"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q20505.fpk";
+		["randomFaceList"] = {
+			["gender"] = 1;
+			["race"] = {
+				[1] = 2;
+			};
+		};
+	};
+	["quest_q26005"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q26005.fpk";
+		["randomFaceList"] = {
+			["gender"] = 0;
+			["race"] = {
+				[1] = 2;
+			};
+		};
+	};
+	["quest_q21005"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q21005.fpk";
+		["randomFaceList"] = {
+			["gender"] = 0;
+			["race"] = {
+				[1] = 3;
+			};
+		};
+	};
+	["quest_q20055"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/extra/quest_q20055.fpk";
+		["randomFaceList"] = {
+			["gender"] = 1;
+			["race"] = {
+				[1] = 0;
+			};
+		};
+	};
+	["lab_q10700"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/lab/lab_q10700.fpk";
+		["faceIdList"] = {
+			[1] = 551;
+		};
+	};
+	["pfCamp_q10200"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/pfCamp/pfCamp_q10200.fpk";
+		["faceIdList"] = {
+			[1] = 551;
+		};
+	};
+	["lab_q20914"] = {
+		[1] = "/Assets/tpp/pack/mission2/quest/mafr/lab/lab_q20914.fpk";
+		["bodyIdList"] = {
+			[1] = 206;
+		};
+	};
+};
+
 ["_scriptPath"] = "TppQuestList";
+
+["_scriptInstanceId"] = [[userdata]]
+

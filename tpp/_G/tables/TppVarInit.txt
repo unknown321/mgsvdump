@@ -1,21 +1,24 @@
-["StartInitMission"] = [[loadstring()]];
-["InitializeForContinue"] = [[loadstring()]];
-["SetVarsTitleHeliSpace"] = [[loadstring()]];
-["InitializeOnStartTitle"] = [[upvalue]];
-["_scriptInstanceId"] = [[userdata]]
-["SetVarsTitleCypr"] = [[loadstring()]];
-["InitializeOnStatingMainFrame"] = [[loadstring()]];
-["DEBUG_GetDefaultPlayerWeaponAndItemTable"] = [[loadstring()]];
-["InitializeOnNewGameAtFirstTime"] = [[loadstring()]];
+ClearAllVarsAndSlot() = [[loadstring()]];
+ClearIsContinueFromTitle() = [[loadstring()]];
+DEBUG_GetDefaultPlayerWeaponAndItemTable() = [[loadstring()]];
+InitializeAllPlatformForNewGame() = [[loadstring()]];
+InitializeForContinue() = [[loadstring()]];
+InitializeForNewMission() = [[upvalue]];
+InitializeOnNewGame() = [[upvalue]];
+InitializeOnNewGameAtFirstTime() = [[loadstring()]];
+InitializeOnStartTitle() = [[upvalue]];
+InitializeOnStatingMainFrame() = [[loadstring()]];
+InitializeOnlineChallengeTaskLocalCompletedVars() = [[loadstring()]];
+InitializeOnlineChallengeTaskVarsForNewMission() = [[upvalue]];
+SetHorseObtainedAndCanSortie() = [[loadstring()]];
+SetInitPlayerItems() = [[loadstring()]];
+SetInitPlayerWeapons() = [[loadstring()]];
+SetVarsTitleCypr() = [[loadstring()]];
+SetVarsTitleHeliSpace() = [[loadstring()]];
+StartInitMission() = [[loadstring()]];
+StartTitle() = [[upvalue]];
+
 ["_scriptPath"] = "TppVarInit";
-["StartTitle"] = [[upvalue]];
-["InitializeAllPlatformForNewGame"] = [[loadstring()]];
-["SetInitPlayerItems"] = [[loadstring()]];
-["InitializeForNewMission"] = [[upvalue]];
-["SetInitPlayerWeapons"] = [[loadstring()]];
-["SetHorseObtainedAndCanSortie"] = [[loadstring()]];
-["ClearIsContinueFromTitle"] = [[loadstring()]];
-["InitializeOnNewGame"] = [[upvalue]];
-["ClearAllVarsAndSlot"] = [[loadstring()]];
-["InitializeOnlineChallengeTaskVarsForNewMission"] = [[upvalue]];
-["InitializeOnlineChallengeTaskLocalCompletedVars"] = [[loadstring()]];
+
+["_scriptInstanceId"] = [[userdata]]
+

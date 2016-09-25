@@ -1,4 +1,3 @@
-["_scriptPath"] = "PlayerDefaults";
 ["Config"] = {
 	[0] = {
 		["LoadoutId"] = 0;
@@ -258,4 +257,8 @@
 		["FaceId"] = 2;
 	};
 };
+
+["_scriptPath"] = "PlayerDefaults";
+
 ["_scriptInstanceId"] = [[userdata]]
+

@@ -1,3 +1,5 @@
+GetGameObjectId() = [[upvalue]];
+GetPosRotY() = [[upvalue]];
+
 ["_className"] = "TppMpPlayerInfo";
-["GetGameObjectId"] = [[upvalue]];
-["GetPosRotY"] = [[upvalue]];
+

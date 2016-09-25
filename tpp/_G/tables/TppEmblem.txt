@@ -1,13 +1,16 @@
-["AcquireOnSRankClear"] = [[upvalue]];
-["SetUpCpEmblemTag"] = [[upvalue]];
-["AcquireOnMissionClear"] = [[upvalue]];
-["Add"] = [[loadstring()]];
+AcquireByPlayStyle() = [[upvalue]];
+AcquireOnAllMissionCleared() = [[upvalue]];
+AcquireOnAllMissionSRankCleared() = [[upvalue]];
+AcquireOnAllMissionTaskComleted() = [[upvalue]];
+AcquireOnCommandPostAnnihilated() = [[upvalue]];
+AcquireOnMissionClear() = [[upvalue]];
+AcquireOnSRankClear() = [[upvalue]];
+Add() = [[loadstring()]];
+Remove() = [[loadstring()]];
+SetUpCpEmblemTag() = [[upvalue]];
+_AcquireByMissionCode() = [[upvalue]];
+
 ["_scriptPath"] = "TppEmblem";
+
 ["_scriptInstanceId"] = [[userdata]]
-["Remove"] = [[loadstring()]];
-["AcquireByPlayStyle"] = [[upvalue]];
-["_AcquireByMissionCode"] = [[upvalue]];
-["AcquireOnAllMissionSRankCleared"] = [[upvalue]];
-["AcquireOnAllMissionCleared"] = [[upvalue]];
-["AcquireOnAllMissionTaskComleted"] = [[upvalue]];
-["AcquireOnCommandPostAnnihilated"] = [[upvalue]];
+

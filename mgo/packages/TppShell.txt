@@ -1,1 +1,2 @@
-["FireMortar"] = [[non-lua function]];
+FireMortar() = [[non-lua function]];
+

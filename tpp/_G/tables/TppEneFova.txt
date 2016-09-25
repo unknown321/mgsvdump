@@ -1,38 +1,34 @@
-["CanUseArmorType"] = [[upvalue]];
-["InitializeUniqueSetting"] = [[upvalue]];
-["IsUseGasMaskInMBFree"] = [[loadstring()]];
-["ApplyMTBSUniqueSetting"] = [[upvalue]];
-["GetFaceGroupTableAtGroupType"] = [[loadstring()]];
-["GetFaceIdAndFlag"] = [[upvalue]];
-["GetFaceId_s10091_1"] = [[upvalue]];
-["ApplyUniqueSetting"] = [[upvalue]];
-["AddTakingOverHostagePack"] = [[upvalue]];
-["S10240_FemaleFaceIdList"] = {
-	[1] = 394;
-	[2] = 351;
-	[3] = 373;
-	[4] = 456;
-	[5] = 463;
-	[6] = 455;
-	[7] = 511;
-	[8] = 502;
-};
-["GetFaceId_s10081"] = [[upvalue]];
-["GetHostageLangAtMissionId"] = [[upvalue]];
-["AddUniqueSettingPackage"] = [[upvalue]];
-["GetFaceIdForDdHostage"] = [[upvalue]];
-["_scriptInstanceId"] = [[userdata]]
-["GetHostageUseHairAtMissionId"] = [[upvalue]];
-["GetUavCombatGradeAndEmpLevel"] = [[loadstring()]];
-["GetHostageIgnoreFaceList"] = [[upvalue]];
-["GetStaffIdForDD"] = [[upvalue]];
-["GetHostageFaceModelCount"] = [[upvalue]];
-["_scriptPath"] = "TppEneFova";
-["SetHostageFaceTable"] = [[upvalue]];
-["GetArmorTypeTable"] = [[upvalue]];
-["S10030_useBalaclavaNum"] = 3;
-["GetHostageCountAtMissionId"] = [[upvalue]];
-["IsUseGasMaskInFOB"] = [[upvalue]];
+AddTakingOverHostagePack() = [[upvalue]];
+AddUniquePackage() = [[loadstring()]];
+AddUniqueSettingPackage() = [[upvalue]];
+ApplyMTBSUniqueSetting() = [[upvalue]];
+ApplyUniqueSetting() = [[upvalue]];
+CanUseArmorType() = [[upvalue]];
+GetArmorTypeTable() = [[upvalue]];
+GetFaceGroupTableAtGroupType() = [[loadstring()]];
+GetFaceIdAndFlag() = [[upvalue]];
+GetFaceIdForDdHostage() = [[upvalue]];
+GetFaceIdForFemaleHostage() = [[upvalue]];
+GetFaceId_s10081() = [[upvalue]];
+GetFaceId_s10091_0() = [[upvalue]];
+GetFaceId_s10091_1() = [[upvalue]];
+GetHostageCountAtMissionId() = [[upvalue]];
+GetHostageFaceModelCount() = [[upvalue]];
+GetHostageIgnoreFaceList() = [[upvalue]];
+GetHostageIsFaceModelOverlap() = [[upvalue]];
+GetHostageLangAtMissionId() = [[upvalue]];
+GetHostageUseHairAtMissionId() = [[upvalue]];
+GetStaffIdForDD() = [[upvalue]];
+GetUavCombatGradeAndEmpLevel() = [[loadstring()]];
+GetUavSetting() = [[loadstring()]];
+InitializeUniqueSetting() = [[upvalue]];
+IsNotRequiredArmorSoldier() = [[upvalue]];
+IsUseGasMaskInFOB() = [[upvalue]];
+IsUseGasMaskInMBFree() = [[loadstring()]];
+PreMissionLoad() = [[upvalue]];
+RegisterUniqueSetting() = [[upvalue]];
+SetHostageFaceTable() = [[upvalue]];
+
 ["S10030_FaceIdList"] = {
 	[1] = 78;
 	[2] = 200;
@@ -50,9 +46,16 @@
 	[14] = 322;
 	[15] = 343;
 };
-["RegisterUniqueSetting"] = [[upvalue]];
-["GetHostageIsFaceModelOverlap"] = [[upvalue]];
-["GetFaceId_s10091_0"] = [[upvalue]];
+["S10240_FemaleFaceIdList"] = {
+	[1] = 394;
+	[2] = 351;
+	[3] = 373;
+	[4] = 456;
+	[5] = 463;
+	[6] = 455;
+	[7] = 511;
+	[8] = 502;
+};
 ["S10240_MaleFaceIdList"] = {
 	[1] = 195;
 	[2] = 144;
@@ -96,8 +99,9 @@
 	[40] = 126;
 	[41] = 223;
 };
-["PreMissionLoad"] = [[upvalue]];
-["IsNotRequiredArmorSoldier"] = [[upvalue]];
-["GetFaceIdForFemaleHostage"] = [[upvalue]];
-["GetUavSetting"] = [[loadstring()]];
-["AddUniquePackage"] = [[loadstring()]];
+
+["S10030_useBalaclavaNum"] = 3;
+["_scriptPath"] = "TppEneFova";
+
+["_scriptInstanceId"] = [[userdata]]
+

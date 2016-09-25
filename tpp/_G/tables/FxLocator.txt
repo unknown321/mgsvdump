@@ -1,5 +1,7 @@
-["Visible"] = [[upvalue]];
-["Invisible"] = [[upvalue]];
-["Destroy"] = [[upvalue]];
-["Create"] = [[upvalue]];
+Create() = [[upvalue]];
+Destroy() = [[upvalue]];
+Invisible() = [[upvalue]];
+Visible() = [[upvalue]];
+
 ["_className"] = "FxLocator";
+

@@ -218,5 +218,8 @@
 	};
 	["material"] = "MTR_CONC_A";
 };
+
 ["_scriptPath"] = "afc0_common_fx_mtr_def";
+
 ["_scriptInstanceId"] = [[userdata]]
+

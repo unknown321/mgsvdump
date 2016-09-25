@@ -1,16 +1,10 @@
-["Init"] = [[loadstring()]];
-["_scriptPath"] = "Freeplay_Spawning";
-["pushToParent"] = {
-	["OnPlayerRespawn"] = [[upvalue]];
-	["OnPlayerConnect"] = [[upvalue]];
-	["OnRoundStart"] = [[upvalue]];
-	["OnRulesetRoundStart"] = [[upvalue]];
-	["PopulateSpawnChoices"] = [[upvalue]];
-	["ClientPopulateLoadoutChoices"] = [[loadstring()]];
-	["SearchPlayersOnSameTeam"] = [[loadstring()]];
+Init() = [[loadstring()]];
+SpawnPlayer() = [[upvalue]];
+pressStart() = [[loadstring()]];
+
+["Spawn"] = {
+	["teamCount"] = 2;
 };
-["_scriptInstanceId"] = [[userdata]]
-["pressStart"] = [[loadstring()]];
 ["owner"] = {
 	["OnEventSignal"] = [[loadstring()]];
 	["notificationGroupIds"] = {
@@ -133,9 +127,19 @@
 	["titleLightingTime"] = 12.252526998808;
 	["RoundEndEval"] = [[loadstring()]];
 };
-["spawnGroupTag"] = "INITIAL";
-["hasInited"] = true;
-["SpawnPlayer"] = [[upvalue]];
-["Spawn"] = {
-	["teamCount"] = 2;
+["pushToParent"] = {
+	["OnPlayerRespawn"] = [[upvalue]];
+	["OnPlayerConnect"] = [[upvalue]];
+	["OnRoundStart"] = [[upvalue]];
+	["OnRulesetRoundStart"] = [[upvalue]];
+	["PopulateSpawnChoices"] = [[upvalue]];
+	["ClientPopulateLoadoutChoices"] = [[loadstring()]];
+	["SearchPlayersOnSameTeam"] = [[loadstring()]];
 };
+
+["_scriptPath"] = "Freeplay_Spawning";
+["hasInited"] = true;
+["spawnGroupTag"] = "INITIAL";
+
+["_scriptInstanceId"] = [[userdata]]
+

@@ -1,8 +1,142 @@
-["SetUpEnemy"] = [[upvalue]];
-["IsUsingStrongSniper"] = [[loadstring()]];
-["SetUpMineAreaVarsName"] = [[loadstring()]];
-["GetPatrolRate"] = [[loadstring()]];
-["_SetupCamera"] = [[upvalue]];
+AddBaseMissionMineList() = [[loadstring()]];
+AddRevengePoint() = [[upvalue]];
+AddRevengePointByTriggerType() = [[upvalue]];
+ApplyMissionTendency() = [[upvalue]];
+ApplyPowerSettingsForReinforce() = [[upvalue]];
+CanUseArmor() = [[loadstring()]];
+CanUseReinforceHeli() = [[loadstring()]];
+CanUseReinforceVehicle() = [[upvalue]];
+ClearLastRevengeMineBaseName() = [[loadstring()]];
+DecideRevenge() = [[upvalue]];
+GetCameraRate() = [[upvalue]];
+GetDecoyRate() = [[upvalue]];
+GetEquipGradeLimit() = [[loadstring()]];
+GetMineRate() = [[upvalue]];
+GetPatrolRate() = [[loadstring()]];
+GetReinforceCount() = [[loadstring()]];
+GetRevengeLv() = [[loadstring()]];
+GetRevengeLvLimitRank() = [[loadstring()]];
+GetRevengeLvMax() = [[upvalue]];
+GetRevengePoint() = [[loadstring()]];
+GetRevengeTriggerName() = [[upvalue]];
+Init() = [[upvalue]];
+IsBlocked() = [[loadstring()]];
+IsIgnoreBlocked() = [[loadstring()]];
+IsNoRevengeMission() = [[upvalue]];
+IsNoStealthCombatRevengeMission() = [[upvalue]];
+IsUsingActiveDecoy() = [[loadstring()]];
+IsUsingBlackSuperReinforce() = [[loadstring()]];
+IsUsingGunCamera() = [[loadstring()]];
+IsUsingNoKillWeapon() = [[loadstring()]];
+IsUsingStrongMissile() = [[loadstring()]];
+IsUsingStrongSniper() = [[loadstring()]];
+IsUsingStrongWeapon() = [[loadstring()]];
+IsUsingSuperReinforce() = [[loadstring()]];
+Messages() = [[upvalue]];
+OnAllocate() = [[upvalue]];
+OnEnterRevengeMineTrap() = [[upvalue]];
+OnMessage() = [[upvalue]];
+OnMissionClearOrAbort() = [[upvalue]];
+OnReload() = [[upvalue]];
+ReduceRevengePointOnAbort() = [[loadstring()]];
+ReduceRevengePointOnMissionClear() = [[upvalue]];
+RegisterCommonMineList() = [[upvalue]];
+RegisterMineList() = [[upvalue]];
+RegisterMissionMineList() = [[upvalue]];
+ResetRevenge() = [[upvalue]];
+SaveMissionStartMineArea() = [[loadstring()]];
+SelectReinforceType() = [[upvalue]];
+SelectRevengeType() = [[upvalue]];
+SetEnabledSuperReinforce() = [[loadstring()]];
+SetForceRevengeType() = [[loadstring()]];
+SetHelmetAll() = [[loadstring()]];
+SetRevengePoint() = [[upvalue]];
+SetUpEnemy() = [[upvalue]];
+SetUpMineAreaVarsName() = [[loadstring()]];
+SetUpRevengeMine() = [[upvalue]];
+UpdateLastVisitedMineArea() = [[loadstring()]];
+UpdateRevengeLv() = [[upvalue]];
+_AddDeployRevengeMission() = [[upvalue]];
+_AllocateResources() = [[upvalue]];
+_ApplyRevengeToCp() = [[upvalue]];
+_CopyRevengeMineArea() = [[loadstring()]];
+_CreateRevengeConfig() = [[upvalue]];
+_EnableDecoy() = [[upvalue]];
+_GetBlockedName() = [[upvalue]];
+_GetDecoyType() = [[upvalue]];
+_GetMissionTendency() = [[upvalue]];
+_GetSettingSoldierCount() = [[loadstring()]];
+_GetUiParameterValue() = [[upvalue]];
+_OnAnnihilated() = [[upvalue]];
+_OnAntiSniperNoticed() = [[upvalue]];
+_OnChangePhase() = [[upvalue]];
+_OnComradeFultonDiscovered() = [[upvalue]];
+_OnDamage() = [[upvalue]];
+_OnDead() = [[upvalue]];
+_OnEnterTrap() = [[upvalue]];
+_OnHeadShot() = [[upvalue]];
+_OnReinforceRespawn() = [[upvalue]];
+_OnSleepingComradeRecoverd() = [[upvalue]];
+_OnSmokeDiscovered() = [[upvalue]];
+_OnUnconscious() = [[upvalue]];
+_Random() = [[loadstring()]];
+_ReceiveClearedDeployRevengeMission() = [[upvalue]];
+_ReduceBlockedCount() = [[upvalue]];
+_ReduceRevengePointByChickenCap() = [[upvalue]];
+_ReduceRevengePointOther() = [[upvalue]];
+_ReduceRevengePointStealthCombat() = [[upvalue]];
+_SetEnmityLv() = [[upvalue]];
+_SetMbInterrogate() = [[upvalue]];
+_SetUiParameters() = [[upvalue]];
+_SetUpRevengeMine() = [[upvalue]];
+_SetupCamera() = [[upvalue]];
+
+["BLOCKED_TYPE"] = {
+	["HELMET"] = 1;
+	["MG"] = 7;
+	["CAMERA"] = 2;
+	["GAS_MASK"] = 0;
+	["GUN_LIGHT"] = 11;
+	["MINE"] = 4;
+	["DECOY"] = 3;
+	["MISSILE"] = 13;
+	["SNIPER"] = 12;
+	["SOFT_ARMOR"] = 8;
+	["SHOTGUN"] = 6;
+	["ARMOR"] = 10;
+	["SHIELD"] = 9;
+	["MAX"] = 14;
+	["NVG"] = 5;
+};
+["CANNOT_USE_ALL_WEAPON_MISSION"] = {
+	[10080] = true;
+	[11151] = true;
+	[10030] = true;
+	[30050] = true;
+	[11211] = true;
+	[10070] = true;
+	[10211] = true;
+	[11090] = true;
+	[10151] = true;
+	[10090] = true;
+	[11080] = true;
+};
+["DEPLOY_REVENGE_MISSION_BLOCKED_LIST"] = {
+	[122] = 2;
+	[126] = 6;
+	[132] = 12;
+	[123] = 3;
+	[127] = 7;
+	[133] = 13;
+	[120] = 0;
+	[124] = 4;
+	[128] = 8;
+	[131] = 11;
+	[121] = 1;
+	[125] = 5;
+	[130] = 10;
+	[129] = 9;
+};
 ["DEPLOY_REVENGE_MISSION_CONDITION_LIST"] = {
 	[122] = {
 		["lv"] = 1;
@@ -61,15 +195,372 @@
 		["revengeType"] = 2;
 	};
 };
-["GetCameraRate"] = [[upvalue]];
-["IsUsingStrongWeapon"] = [[loadstring()]];
-["BLOCKED_FOR_MISSION_COUNT"] = 3;
-["SetHelmetAll"] = [[loadstring()]];
-["SetEnabledSuperReinforce"] = [[loadstring()]];
-["CanUseArmor"] = [[loadstring()]];
-["DecideRevenge"] = [[upvalue]];
-["ClearLastRevengeMineBaseName"] = [[loadstring()]];
-["_SetEnmityLv"] = [[upvalue]];
+["MISSION_TENDENCY_POINT_TABLE"] = {
+	["DRAW"] = {
+		["COMBAT"] = {
+			[1] = 20;
+			[2] = 20;
+			[3] = 20;
+			[4] = 0;
+			[5] = -25;
+			[6] = -10;
+		};
+		["STEALTH"] = {
+			[1] = 20;
+			[2] = 20;
+			[3] = 20;
+			[4] = 0;
+			[5] = -25;
+			[6] = -10;
+		};
+	};
+	["COMBAT"] = {
+		["COMBAT"] = {
+			[1] = 25;
+			[2] = 25;
+			[3] = 25;
+			[4] = 25;
+			[5] = 50;
+			[6] = 50;
+		};
+		["STEALTH"] = {
+			[1] = 0;
+			[2] = 0;
+			[3] = -5;
+			[4] = -10;
+			[5] = -50;
+			[6] = -50;
+		};
+	};
+	["STEALTH"] = {
+		["COMBAT"] = {
+			[1] = 0;
+			[2] = 0;
+			[3] = -5;
+			[4] = -10;
+			[5] = -50;
+			[6] = -50;
+		};
+		["STEALTH"] = {
+			[1] = 25;
+			[2] = 25;
+			[3] = 25;
+			[4] = 25;
+			[5] = 50;
+			[6] = 50;
+		};
+	};
+};
+["NO_REVENGE_MISSION_LIST"] = {
+	[10050] = true;
+	[10280] = true;
+	[40020] = true;
+	[40050] = true;
+	[11140] = true;
+	[10030] = true;
+	[30050] = true;
+	[50050] = true;
+	[10240] = true;
+	[10230] = true;
+	[10010] = true;
+	[10140] = true;
+	[40010] = true;
+	[10151] = true;
+	[10120] = true;
+	[11050] = true;
+};
+["NO_STEALTH_COMBAT_REVENGE_MISSION_LIST"] = {
+	[30020] = true;
+	[30150] = true;
+	[30010] = true;
+	[30050] = true;
+};
+["REDUCE_POINT_TABLE"] = {
+	[3] = {
+		[1] = -10;
+		[2] = -50;
+		[3] = -50;
+		[4] = -50;
+		[5] = -50;
+		[6] = -50;
+		[7] = -50;
+		[8] = -50;
+		[9] = -50;
+		[10] = -50;
+		[11] = -50;
+	};
+	[1] = {
+		[1] = -10;
+		[2] = -50;
+		[3] = -50;
+		[4] = -50;
+		[5] = -50;
+		[6] = -50;
+		[7] = -50;
+		[8] = -50;
+		[9] = -50;
+		[10] = -50;
+		[11] = -50;
+	};
+	[4] = {
+		[1] = -10;
+		[2] = -50;
+		[3] = -50;
+		[4] = -50;
+		[5] = -50;
+		[6] = -50;
+		[7] = -50;
+		[8] = -50;
+		[9] = -50;
+		[10] = -50;
+		[11] = -50;
+	};
+	[9] = {
+		[1] = -10;
+		[2] = -50;
+		[3] = -50;
+		[4] = -50;
+		[5] = -50;
+		[6] = -50;
+		[7] = -50;
+		[8] = -50;
+		[9] = -50;
+		[10] = -50;
+		[11] = -50;
+	};
+	[5] = {
+		[1] = -10;
+		[2] = -50;
+		[3] = -50;
+		[4] = -50;
+		[5] = -50;
+		[6] = -50;
+		[7] = -50;
+		[8] = -50;
+		[9] = -50;
+		[10] = -50;
+		[11] = -50;
+	};
+};
+["REDUCE_TENDENCY_POINT_TABLE"] = {
+	[0] = {
+		[1] = -20;
+		[2] = -20;
+		[3] = -20;
+		[4] = -20;
+		[5] = -25;
+		[6] = -50;
+	};
+	[2] = {
+		[1] = -20;
+		[2] = -20;
+		[3] = -20;
+		[4] = -20;
+		[5] = -25;
+		[6] = -50;
+	};
+};
+["REVENGE_LV_MAX"] = {
+	[0] = {
+		[1] = 0;
+		[2] = 1;
+		[3] = 2;
+		[4] = 3;
+		[5] = 4;
+		[6] = 5;
+	};
+	[7] = {
+		[1] = 0;
+		[2] = 1;
+		[3] = 1;
+		[4] = 1;
+		[5] = 1;
+		[6] = 1;
+	};
+	[1] = {
+		[1] = 0;
+		[2] = 1;
+		[3] = 1;
+		[4] = 2;
+		[5] = 3;
+		[6] = 3;
+	};
+	[2] = {
+		[1] = 0;
+		[2] = 1;
+		[3] = 2;
+		[4] = 3;
+		[5] = 4;
+		[6] = 5;
+	};
+	[4] = {
+		[1] = 0;
+		[2] = 1;
+		[3] = 1;
+		[4] = 2;
+		[5] = 2;
+		[6] = 2;
+	};
+	[8] = {
+		[1] = 0;
+		[2] = 1;
+		[3] = 2;
+		[4] = 2;
+		[5] = 3;
+		[6] = 3;
+	};
+	[9] = {
+		[1] = 0;
+		[2] = 1;
+		[3] = 1;
+		[4] = 2;
+		[5] = 3;
+		[6] = 3;
+	};
+	[5] = {
+		[1] = 0;
+		[2] = 1;
+		[3] = 1;
+		[4] = 2;
+		[5] = 3;
+		[6] = 3;
+	};
+	[10] = {
+		[1] = 9;
+		[2] = 9;
+		[3] = 9;
+		[4] = 9;
+		[5] = 9;
+		[6] = 9;
+	};
+	[3] = {
+		[1] = 0;
+		[2] = 1;
+		[3] = 1;
+		[4] = 1;
+		[5] = 1;
+		[6] = 1;
+	};
+	[6] = {
+		[1] = 0;
+		[2] = 1;
+		[3] = 2;
+		[4] = 3;
+		[5] = 5;
+		[6] = 7;
+	};
+	[11] = {
+		[1] = 9;
+		[2] = 9;
+		[3] = 9;
+		[4] = 9;
+		[5] = 9;
+		[6] = 9;
+	};
+};
+["REVENGE_POINT_TABLE"] = {
+	[13] = {
+		[5] = 10;
+	};
+	[7] = {
+		[10] = 15;
+	};
+	[1] = {
+		[6] = 5;
+	};
+	[2] = {
+		[10] = 5;
+	};
+	[4] = {
+		[8] = 15;
+	};
+	[8] = {
+		[11] = 15;
+	};
+	[9] = {
+		[7] = 5;
+	};
+	[5] = {
+		[9] = 15;
+	};
+	[10] = {
+		[1] = 15;
+	};
+	[11] = {
+		[3] = 10;
+	};
+	[3] = {
+		[11] = 5;
+	};
+	[6] = {
+		[5] = 10;
+	};
+	[12] = {
+		[4] = 30;
+	};
+	[14] = {
+		[9] = 15;
+	};
+};
+["REVENGE_TRIGGER_TYPE"] = {
+	["DISCOVERY_AT_NIGHT"] = 10;
+	["ELIMINATED_AT_NIGHT"] = 11;
+	["FULTON"] = 4;
+	["WATCH_SMOKE"] = 14;
+	["KILLED_BY_VEHICLE"] = 13;
+	["HEAD_SHOT"] = 1;
+	["SNIPED"] = 12;
+	["SMOKE"] = 5;
+	["WAKE_A_COMRADE"] = 9;
+	["ELIMINATED_IN_STEALTH"] = 2;
+	["KILLED_BY_HELI"] = 6;
+	["ANNIHILATED_IN_STEALTH"] = 7;
+	["ELIMINATED_IN_COMBAT"] = 3;
+	["ANNIHILATED_IN_COMBAT"] = 8;
+};
+["REVENGE_TYPE"] = {
+	["M_COMBAT"] = 11;
+	["TRANQ"] = 7;
+	["HEAD_SHOT"] = 6;
+	["SMOKE"] = 9;
+	["NIGHT_S"] = 1;
+	["LONG_RANGE"] = 4;
+	["STEALTH"] = 0;
+	["VEHICLE"] = 5;
+	["FULTON"] = 8;
+	["COMBAT"] = 2;
+	["M_STEALTH"] = 10;
+	["DUMMY"] = 12;
+	["DUMMY2"] = 13;
+	["DUMMY4"] = 15;
+	["DUMMY3"] = 14;
+	["MAX"] = 16;
+	["NIGHT_C"] = 3;
+};
+["REVENGE_TYPE_NAME"] = {
+	[1] = "STEALTH";
+	[2] = "NIGHT_S";
+	[3] = "COMBAT";
+	[4] = "NIGHT_C";
+	[5] = "LONG_RANGE";
+	[6] = "VEHICLE";
+	[7] = "HEAD_SHOT";
+	[8] = "TRANQ";
+	[9] = "FULTON";
+	[10] = "SMOKE";
+	[11] = "M_STEALTH";
+	[12] = "M_COMBAT";
+	[13] = "DUMMY";
+	[14] = "DUMMY2";
+	[15] = "DUMMY3";
+	[16] = "DUMMY4";
+	[17] = "MAX";
+};
+["USE_SUPER_REINFORCE_VEHICLE_MISSION"] = {
+	[11036] = true;
+	[10036] = true;
+	[10093] = true;
+};
 ["messageExecTable"] = {
 	[3333891920] = {
 		[3547237897] = {
@@ -112,98 +603,6 @@
 		};
 	};
 };
-["REVENGE_POINT_OVER_MARGINE"] = 99;
-["AddRevengePoint"] = [[upvalue]];
-["USE_SUPER_REINFORCE_VEHICLE_MISSION"] = {
-	[11036] = true;
-	[10036] = true;
-	[10093] = true;
-};
-["_GetBlockedName"] = [[upvalue]];
-["_CopyRevengeMineArea"] = [[loadstring()]];
-["_Random"] = [[loadstring()]];
-["RegisterMineList"] = [[upvalue]];
-["OnEnterRevengeMineTrap"] = [[upvalue]];
-["_scriptPath"] = "TppRevenge";
-["_OnEnterTrap"] = [[upvalue]];
-["Messages"] = [[upvalue]];
-["_OnAntiSniperNoticed"] = [[upvalue]];
-["_scriptInstanceId"] = [[userdata]]
-["_OnDamage"] = [[upvalue]];
-["UpdateRevengeLv"] = [[upvalue]];
-["GetRevengeLv"] = [[loadstring()]];
-["ApplyPowerSettingsForReinforce"] = [[upvalue]];
-["_OnAnnihilated"] = [[upvalue]];
-["BLOCKED_TYPE"] = {
-	["HELMET"] = 1;
-	["MG"] = 7;
-	["CAMERA"] = 2;
-	["GAS_MASK"] = 0;
-	["GUN_LIGHT"] = 11;
-	["MINE"] = 4;
-	["DECOY"] = 3;
-	["MISSILE"] = 13;
-	["SNIPER"] = 12;
-	["SOFT_ARMOR"] = 8;
-	["SHOTGUN"] = 6;
-	["ARMOR"] = 10;
-	["SHIELD"] = 9;
-	["MAX"] = 14;
-	["NVG"] = 5;
-};
-["GetReinforceCount"] = [[loadstring()]];
-["_EnableDecoy"] = [[upvalue]];
-["_OnUnconscious"] = [[upvalue]];
-["_ReduceRevengePointOther"] = [[upvalue]];
-["REVENGE_TYPE"] = {
-	["M_COMBAT"] = 11;
-	["TRANQ"] = 7;
-	["HEAD_SHOT"] = 6;
-	["SMOKE"] = 9;
-	["NIGHT_S"] = 1;
-	["LONG_RANGE"] = 4;
-	["STEALTH"] = 0;
-	["VEHICLE"] = 5;
-	["FULTON"] = 8;
-	["COMBAT"] = 2;
-	["M_STEALTH"] = 10;
-	["DUMMY"] = 12;
-	["DUMMY2"] = 13;
-	["DUMMY4"] = 15;
-	["DUMMY3"] = 14;
-	["MAX"] = 16;
-	["NIGHT_C"] = 3;
-};
-["_OnDead"] = [[upvalue]];
-["IsUsingActiveDecoy"] = [[loadstring()]];
-["_OnHeadShot"] = [[upvalue]];
-["_OnReinforceRespawn"] = [[upvalue]];
-["OnMessage"] = [[upvalue]];
-["GetEquipGradeLimit"] = [[loadstring()]];
-["SetUpRevengeMine"] = [[upvalue]];
-["_OnChangePhase"] = [[upvalue]];
-["IsIgnoreBlocked"] = [[loadstring()]];
-["GetDecoyRate"] = [[upvalue]];
-["IsUsingStrongMissile"] = [[loadstring()]];
-["_OnSleepingComradeRecoverd"] = [[upvalue]];
-["CanUseReinforceVehicle"] = [[upvalue]];
-["_ApplyRevengeToCp"] = [[upvalue]];
-["ReduceRevengePointOnAbort"] = [[loadstring()]];
-["AddBaseMissionMineList"] = [[loadstring()]];
-["RegisterCommonMineList"] = [[upvalue]];
-["_GetSettingSoldierCount"] = [[loadstring()]];
-["_AllocateResources"] = [[upvalue]];
-["_CreateRevengeConfig"] = [[upvalue]];
-["OnReload"] = [[upvalue]];
-["_GetUiParameterValue"] = [[upvalue]];
-["CanUseReinforceHeli"] = [[loadstring()]];
-["GetRevengePoint"] = [[loadstring()]];
-["SelectReinforceType"] = [[upvalue]];
-["_SetUpRevengeMine"] = [[upvalue]];
-["_GetMissionTendency"] = [[upvalue]];
-["IsUsingBlackSuperReinforce"] = [[loadstring()]];
-["OnAllocate"] = [[upvalue]];
-["ReduceRevengePointOnMissionClear"] = [[upvalue]];
 ["revengeDefine"] = {
 	["FOB_ShortRange"] = {
 		["SMG"] = "100%";
@@ -605,408 +1004,13 @@
 	};
 	["_ENABLE_SOFT_ARMOR_LV"] = 1;
 };
-["_GetDecoyType"] = [[upvalue]];
-["_ReduceRevengePointStealthCombat"] = [[upvalue]];
-["REVENGE_LV_MAX"] = {
-	[0] = {
-		[1] = 0;
-		[2] = 1;
-		[3] = 2;
-		[4] = 3;
-		[5] = 4;
-		[6] = 5;
-	};
-	[7] = {
-		[1] = 0;
-		[2] = 1;
-		[3] = 1;
-		[4] = 1;
-		[5] = 1;
-		[6] = 1;
-	};
-	[1] = {
-		[1] = 0;
-		[2] = 1;
-		[3] = 1;
-		[4] = 2;
-		[5] = 3;
-		[6] = 3;
-	};
-	[2] = {
-		[1] = 0;
-		[2] = 1;
-		[3] = 2;
-		[4] = 3;
-		[5] = 4;
-		[6] = 5;
-	};
-	[4] = {
-		[1] = 0;
-		[2] = 1;
-		[3] = 1;
-		[4] = 2;
-		[5] = 2;
-		[6] = 2;
-	};
-	[8] = {
-		[1] = 0;
-		[2] = 1;
-		[3] = 2;
-		[4] = 2;
-		[5] = 3;
-		[6] = 3;
-	};
-	[9] = {
-		[1] = 0;
-		[2] = 1;
-		[3] = 1;
-		[4] = 2;
-		[5] = 3;
-		[6] = 3;
-	};
-	[5] = {
-		[1] = 0;
-		[2] = 1;
-		[3] = 1;
-		[4] = 2;
-		[5] = 3;
-		[6] = 3;
-	};
-	[10] = {
-		[1] = 9;
-		[2] = 9;
-		[3] = 9;
-		[4] = 9;
-		[5] = 9;
-		[6] = 9;
-	};
-	[3] = {
-		[1] = 0;
-		[2] = 1;
-		[3] = 1;
-		[4] = 1;
-		[5] = 1;
-		[6] = 1;
-	};
-	[6] = {
-		[1] = 0;
-		[2] = 1;
-		[3] = 2;
-		[4] = 3;
-		[5] = 5;
-		[6] = 7;
-	};
-	[11] = {
-		[1] = 9;
-		[2] = 9;
-		[3] = 9;
-		[4] = 9;
-		[5] = 9;
-		[6] = 9;
-	};
-};
-["_ReceiveClearedDeployRevengeMission"] = [[upvalue]];
-["_ReduceBlockedCount"] = [[upvalue]];
-["REVENGE_TYPE_NAME"] = {
-	[1] = "STEALTH";
-	[2] = "NIGHT_S";
-	[3] = "COMBAT";
-	[4] = "NIGHT_C";
-	[5] = "LONG_RANGE";
-	[6] = "VEHICLE";
-	[7] = "HEAD_SHOT";
-	[8] = "TRANQ";
-	[9] = "FULTON";
-	[10] = "SMOKE";
-	[11] = "M_STEALTH";
-	[12] = "M_COMBAT";
-	[13] = "DUMMY";
-	[14] = "DUMMY2";
-	[15] = "DUMMY3";
-	[16] = "DUMMY4";
-	[17] = "MAX";
-};
+
+["BLOCKED_FOR_MISSION_COUNT"] = 3;
 ["REDUCE_REVENGE_POINT"] = 10;
-["REVENGE_POINT_TABLE"] = {
-	[13] = {
-		[5] = 10;
-	};
-	[7] = {
-		[10] = 15;
-	};
-	[1] = {
-		[6] = 5;
-	};
-	[2] = {
-		[10] = 5;
-	};
-	[4] = {
-		[8] = 15;
-	};
-	[8] = {
-		[11] = 15;
-	};
-	[9] = {
-		[7] = 5;
-	};
-	[5] = {
-		[9] = 15;
-	};
-	[10] = {
-		[1] = 15;
-	};
-	[11] = {
-		[3] = 10;
-	};
-	[3] = {
-		[11] = 5;
-	};
-	[6] = {
-		[5] = 10;
-	};
-	[12] = {
-		[4] = 30;
-	};
-	[14] = {
-		[9] = 15;
-	};
-};
-["RegisterMissionMineList"] = [[upvalue]];
-["IsBlocked"] = [[loadstring()]];
-["IsNoRevengeMission"] = [[upvalue]];
-["OnMissionClearOrAbort"] = [[upvalue]];
-["_SetMbInterrogate"] = [[upvalue]];
-["_SetUiParameters"] = [[upvalue]];
-["ApplyMissionTendency"] = [[upvalue]];
-["ResetRevenge"] = [[upvalue]];
-["CANNOT_USE_ALL_WEAPON_MISSION"] = {
-	[10080] = true;
-	[11151] = true;
-	[10030] = true;
-	[30050] = true;
-	[11211] = true;
-	[10070] = true;
-	[10211] = true;
-	[11090] = true;
-	[10151] = true;
-	[10090] = true;
-	[11080] = true;
-};
-["REDUCE_TENDENCY_POINT_TABLE"] = {
-	[0] = {
-		[1] = -20;
-		[2] = -20;
-		[3] = -20;
-		[4] = -20;
-		[5] = -25;
-		[6] = -50;
-	};
-	[2] = {
-		[1] = -20;
-		[2] = -20;
-		[3] = -20;
-		[4] = -20;
-		[5] = -25;
-		[6] = -50;
-	};
-};
-["_OnComradeFultonDiscovered"] = [[upvalue]];
-["REVENGE_TRIGGER_TYPE"] = {
-	["DISCOVERY_AT_NIGHT"] = 10;
-	["ELIMINATED_AT_NIGHT"] = 11;
-	["FULTON"] = 4;
-	["WATCH_SMOKE"] = 14;
-	["KILLED_BY_VEHICLE"] = 13;
-	["HEAD_SHOT"] = 1;
-	["SNIPED"] = 12;
-	["SMOKE"] = 5;
-	["WAKE_A_COMRADE"] = 9;
-	["ELIMINATED_IN_STEALTH"] = 2;
-	["KILLED_BY_HELI"] = 6;
-	["ANNIHILATED_IN_STEALTH"] = 7;
-	["ELIMINATED_IN_COMBAT"] = 3;
-	["ANNIHILATED_IN_COMBAT"] = 8;
-};
-["AddRevengePointByTriggerType"] = [[upvalue]];
-["DEPLOY_REVENGE_MISSION_BLOCKED_LIST"] = {
-	[122] = 2;
-	[126] = 6;
-	[132] = 12;
-	[123] = 3;
-	[127] = 7;
-	[133] = 13;
-	[120] = 0;
-	[124] = 4;
-	[128] = 8;
-	[131] = 11;
-	[121] = 1;
-	[125] = 5;
-	[130] = 10;
-	[129] = 9;
-};
-["GetMineRate"] = [[upvalue]];
-["GetRevengeTriggerName"] = [[upvalue]];
-["IsUsingSuperReinforce"] = [[loadstring()]];
-["GetRevengeLvMax"] = [[upvalue]];
-["NO_STEALTH_COMBAT_REVENGE_MISSION_LIST"] = {
-	[30020] = true;
-	[30150] = true;
-	[30010] = true;
-	[30050] = true;
-};
 ["REVENGE_LV_LIMIT_RANK_MAX"] = 6;
-["SelectRevengeType"] = [[upvalue]];
-["NO_REVENGE_MISSION_LIST"] = {
-	[10050] = true;
-	[10280] = true;
-	[40020] = true;
-	[40050] = true;
-	[11140] = true;
-	[10030] = true;
-	[30050] = true;
-	[50050] = true;
-	[10240] = true;
-	[10230] = true;
-	[10010] = true;
-	[10140] = true;
-	[40010] = true;
-	[10151] = true;
-	[10120] = true;
-	[11050] = true;
-};
-["_AddDeployRevengeMission"] = [[upvalue]];
-["GetRevengeLvLimitRank"] = [[loadstring()]];
-["Init"] = [[upvalue]];
-["_ReduceRevengePointByChickenCap"] = [[upvalue]];
+["REVENGE_POINT_OVER_MARGINE"] = 99;
 ["REVENGE_POINT_PER_LV"] = 100;
-["SetForceRevengeType"] = [[loadstring()]];
-["SetRevengePoint"] = [[upvalue]];
-["IsUsingNoKillWeapon"] = [[loadstring()]];
-["REDUCE_POINT_TABLE"] = {
-	[3] = {
-		[1] = -10;
-		[2] = -50;
-		[3] = -50;
-		[4] = -50;
-		[5] = -50;
-		[6] = -50;
-		[7] = -50;
-		[8] = -50;
-		[9] = -50;
-		[10] = -50;
-		[11] = -50;
-	};
-	[1] = {
-		[1] = -10;
-		[2] = -50;
-		[3] = -50;
-		[4] = -50;
-		[5] = -50;
-		[6] = -50;
-		[7] = -50;
-		[8] = -50;
-		[9] = -50;
-		[10] = -50;
-		[11] = -50;
-	};
-	[4] = {
-		[1] = -10;
-		[2] = -50;
-		[3] = -50;
-		[4] = -50;
-		[5] = -50;
-		[6] = -50;
-		[7] = -50;
-		[8] = -50;
-		[9] = -50;
-		[10] = -50;
-		[11] = -50;
-	};
-	[9] = {
-		[1] = -10;
-		[2] = -50;
-		[3] = -50;
-		[4] = -50;
-		[5] = -50;
-		[6] = -50;
-		[7] = -50;
-		[8] = -50;
-		[9] = -50;
-		[10] = -50;
-		[11] = -50;
-	};
-	[5] = {
-		[1] = -10;
-		[2] = -50;
-		[3] = -50;
-		[4] = -50;
-		[5] = -50;
-		[6] = -50;
-		[7] = -50;
-		[8] = -50;
-		[9] = -50;
-		[10] = -50;
-		[11] = -50;
-	};
-};
-["IsNoStealthCombatRevengeMission"] = [[upvalue]];
-["SaveMissionStartMineArea"] = [[loadstring()]];
-["MISSION_TENDENCY_POINT_TABLE"] = {
-	["DRAW"] = {
-		["COMBAT"] = {
-			[1] = 20;
-			[2] = 20;
-			[3] = 20;
-			[4] = 0;
-			[5] = -25;
-			[6] = -10;
-		};
-		["STEALTH"] = {
-			[1] = 20;
-			[2] = 20;
-			[3] = 20;
-			[4] = 0;
-			[5] = -25;
-			[6] = -10;
-		};
-	};
-	["COMBAT"] = {
-		["COMBAT"] = {
-			[1] = 25;
-			[2] = 25;
-			[3] = 25;
-			[4] = 25;
-			[5] = 50;
-			[6] = 50;
-		};
-		["STEALTH"] = {
-			[1] = 0;
-			[2] = 0;
-			[3] = -5;
-			[4] = -10;
-			[5] = -50;
-			[6] = -50;
-		};
-	};
-	["STEALTH"] = {
-		["COMBAT"] = {
-			[1] = 0;
-			[2] = 0;
-			[3] = -5;
-			[4] = -10;
-			[5] = -50;
-			[6] = -50;
-		};
-		["STEALTH"] = {
-			[1] = 25;
-			[2] = 25;
-			[3] = 25;
-			[4] = 25;
-			[5] = 50;
-			[6] = 50;
-		};
-	};
-};
-["UpdateLastVisitedMineArea"] = [[loadstring()]];
-["IsUsingGunCamera"] = [[loadstring()]];
-["_OnSmokeDiscovered"] = [[upvalue]];
+["_scriptPath"] = "TppRevenge";
+
+["_scriptInstanceId"] = [[userdata]]
+

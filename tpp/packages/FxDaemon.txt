@@ -1,2 +1,3 @@
-["InitializeReserveObject"] = [[non-lua function]];
-["Initialize"] = [[non-lua function]];
+Initialize() = [[non-lua function]];
+InitializeReserveObject() = [[non-lua function]];
+

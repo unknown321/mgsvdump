@@ -1,3 +1,5 @@
+GetDataBodyWithIdentifier() = [[upvalue]];
+GetDataWithIdentifier() = [[upvalue]];
+
 ["_className"] = "DataIdentifier";
-["GetDataWithIdentifier"] = [[upvalue]];
-["GetDataBodyWithIdentifier"] = [[upvalue]];
+

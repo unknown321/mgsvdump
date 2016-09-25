@@ -1,5 +1,7 @@
+Assert() = [[upvalue]];
+Print() = [[upvalue]];
+
+[-285212671] = {};
+
 [-285212672] = 0;
-[-285212671] = {
-};
-["Print"] = [[upvalue]];
-["Assert"] = [[upvalue]];
+

@@ -1,5 +1,3 @@
-["_scriptPath"] = "RoundResult";
-["_scriptInstanceId"] = [[userdata]]
 ["widgets"] = {
 	[1] = {
 		["states"] = {
@@ -2868,3 +2866,8 @@
 		};
 	};
 };
+
+["_scriptPath"] = "RoundResult";
+
+["_scriptInstanceId"] = [[userdata]]
+

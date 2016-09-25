@@ -1,5 +1,3 @@
-["_scriptPath"] = "CharacterModClassEdit";
-["_scriptInstanceId"] = [[userdata]]
 ["widgets"] = {
 	[1] = {
 		["widgets"] = {
@@ -246,3 +244,8 @@
 		};
 	};
 };
+
+["_scriptPath"] = "CharacterModClassEdit";
+
+["_scriptInstanceId"] = [[userdata]]
+

@@ -1,3 +1,63 @@
+BreakConnectedGimmick() = [[loadstring()]];
+BreakGimmick() = [[upvalue]];
+CheckBrokenAndBreakConnectedGimmick() = [[upvalue]];
+CheckQuestAllTarget() = [[upvalue]];
+CheckQuestMine() = [[loadstring()]];
+CheckQuestPlaced() = [[upvalue]];
+DEBUG_DumpIdentiferParam() = [[loadstring()]];
+DecrementCollectionRepopCount() = [[upvalue]];
+EnableCollectionTable() = [[loadstring()]];
+EnableMarkerGimmick() = [[loadstring()]];
+EndQuestShootingPractice() = [[loadstring()]];
+GetGameObjectId() = [[loadstring()]];
+GetGimmickID() = [[upvalue]];
+GetQuestShootingPracticeCount() = [[loadstring()]];
+GetRouteConnectedGimmickId() = [[loadstring()]];
+Hide() = [[upvalue]];
+HideAsset() = [[loadstring()]];
+Init() = [[upvalue]];
+InitQuest() = [[loadstring()]];
+IsBroken() = [[upvalue]];
+IsQuestStartSwitchGimmick() = [[loadstring()]];
+IsQuestTarget() = [[upvalue]];
+IsStartQuestShootingPractice() = [[loadstring()]];
+MafrRiverPrimSetting() = [[upvalue]];
+Messages() = [[upvalue]];
+OnActivateQuest() = [[upvalue]];
+OnAllocate() = [[loadstring()]];
+OnAllocateQuest() = [[loadstring()]];
+OnDeactivateQuest() = [[upvalue]];
+OnMessage() = [[upvalue]];
+OnMissionGameStart() = [[loadstring()]];
+OnReload() = [[upvalue]];
+OnTerminateMineQuest() = [[loadstring()]];
+OnTerminateQuest() = [[upvalue]];
+PowerCut() = [[loadstring()]];
+RepopMissionTaskCollection() = [[upvalue]];
+ResetGimmick() = [[upvalue]];
+SetCommunicateGimmick() = [[upvalue]];
+SetHeroicAndOrgPoint() = [[upvalue]];
+SetMafrRiverPrimVisibility() = [[loadstring()]];
+SetQuestInvisibleGimmick() = [[loadstring()]];
+SetQuestShootingPracticeTargetInvisible() = [[upvalue]];
+SetQuestSootingTargetInvincible() = [[loadstring()]];
+SetUpBreakConnectTable() = [[loadstring()]];
+SetUpCheckBrokenAndBreakConnectTable() = [[upvalue]];
+SetUpConnectLandingZoneTable() = [[loadstring()]];
+SetUpConnectPowerCutTable() = [[upvalue]];
+SetUpConnectVisibilityTable() = [[loadstring()]];
+SetUpIdentifierTable() = [[upvalue]];
+SetUpMineQuest() = [[loadstring()]];
+SetUpUseGimmickRouteTable() = [[upvalue]];
+SetVisibility() = [[loadstring()]];
+Show() = [[upvalue]];
+ShowAnnounceLog() = [[upvalue]];
+StartQuestShootingPractice() = [[upvalue]];
+SwitchGimmick() = [[upvalue]];
+UnlockLandingZone() = [[loadstring()]];
+_SetUpCheckBrokenAndBreakConnectTable() = [[loadstring()]];
+_ShowCommCutOffAnnounceLog() = [[upvalue]];
+
 ["COLLECTION_REPOP_COUNT_DECREMENT_TABLE"] = {
 	[27] = 100;
 	[2] = 60;
@@ -52,11 +112,71 @@
 	[23] = 100;
 	[31] = 100;
 };
-["_ShowCommCutOffAnnounceLog"] = [[upvalue]];
-["IsQuestTarget"] = [[upvalue]];
-["BreakConnectedGimmick"] = [[loadstring()]];
-["OnDeactivateQuest"] = [[upvalue]];
-["SetUpCheckBrokenAndBreakConnectTable"] = [[upvalue]];
+["GIMMICK_TYPE"] = {
+	["NONE"] = 0;
+	["FACTORY_WSST"] = 109;
+	["CMMN"] = 3;
+	["CSET"] = 14;
+	["MAX"] = 255;
+	["GUN"] = 4;
+	["AACR"] = 9;
+	["FACTORY_TNNL"] = 105;
+	["MORTAR"] = 5;
+	["FLOWSTATION_COPS"] = 112;
+	["MCHN"] = 2;
+	["FACTORY_CRTN"] = 111;
+	["LAB_BRDG"] = 106;
+	["TLET"] = 12;
+	["FLOWSTATION_PDOR"] = 110;
+	["TOWER"] = 11;
+	["ANTN"] = 1;
+	["FACTORY_WALL"] = 102;
+	["FACTORY_WTNK"] = 108;
+	["FACTORY_TANK"] = 107;
+	["FLOWSTATION_TANK002"] = 101;
+	["FACTORY_WTTR"] = 104;
+	["FACTORY_FRAME"] = 103;
+	["FLOWSTATION_TANK001"] = 100;
+	["SWTC"] = 15;
+	["TRSH"] = 13;
+	["CNTN"] = 7;
+	["ANTIAIR"] = 8;
+	["LIGHT"] = 10;
+	["GNRT"] = 6;
+};
+["MissionCollectionMissionTaskTable"] = {
+	[10020] = {
+		[1] = 30;
+	};
+	[10082] = {
+		[1] = 22;
+	};
+	[10043] = {
+		[1] = "first";
+	};
+	[10120] = {
+		[1] = 12;
+	};
+	[10036] = {
+		[1] = 17;
+		[2] = 18;
+	};
+	[10070] = {
+		[1] = 27;
+	};
+	[10171] = {
+		[1] = 40;
+	};
+	[10093] = {
+		[1] = 27;
+	};
+	[10033] = {
+		[1] = 17;
+	};
+	[10085] = {
+		[1] = 31;
+	};
+};
 ["MissionCollectionTable"] = {
 	[10020] = {
 		[1] = "col_diamond_s_s10020_0000";
@@ -111,8 +231,6 @@
 		[1] = "col_herb_l_s10085_0000";
 	};
 };
-["SetUpConnectPowerCutTable"] = [[upvalue]];
-["SetMafrRiverPrimVisibility"] = [[loadstring()]];
 ["messageExecTable"] = {
 	[4113713594] = {
 		[3709244990] = {
@@ -137,122 +255,8 @@
 		};
 	};
 };
-["Show"] = [[upvalue]];
-["BreakGimmick"] = [[upvalue]];
-["PowerCut"] = [[loadstring()]];
-["SetUpConnectLandingZoneTable"] = [[loadstring()]];
-["GetQuestShootingPracticeCount"] = [[loadstring()]];
-["ResetGimmick"] = [[upvalue]];
-["_scriptInstanceId"] = [[userdata]]
-["SetQuestInvisibleGimmick"] = [[loadstring()]];
-["MafrRiverPrimSetting"] = [[upvalue]];
-["SwitchGimmick"] = [[upvalue]];
-["GetGameObjectId"] = [[loadstring()]];
-["HideAsset"] = [[loadstring()]];
-["GetGimmickID"] = [[upvalue]];
-["DecrementCollectionRepopCount"] = [[upvalue]];
-["SetQuestSootingTargetInvincible"] = [[loadstring()]];
-["SetHeroicAndOrgPoint"] = [[upvalue]];
-["GetRouteConnectedGimmickId"] = [[loadstring()]];
-["IsBroken"] = [[upvalue]];
-["CheckQuestAllTarget"] = [[upvalue]];
-["RepopMissionTaskCollection"] = [[upvalue]];
-["IsStartQuestShootingPractice"] = [[loadstring()]];
-["OnReload"] = [[upvalue]];
-["EnableCollectionTable"] = [[loadstring()]];
-["Hide"] = [[upvalue]];
-["OnMissionGameStart"] = [[loadstring()]];
-["UnlockLandingZone"] = [[loadstring()]];
-["EndQuestShootingPractice"] = [[loadstring()]];
-["SetUpConnectVisibilityTable"] = [[loadstring()]];
-["OnAllocateQuest"] = [[loadstring()]];
-["CheckBrokenAndBreakConnectedGimmick"] = [[upvalue]];
-["Messages"] = [[upvalue]];
-["CheckQuestMine"] = [[loadstring()]];
-["SetCommunicateGimmick"] = [[upvalue]];
-["SetUpBreakConnectTable"] = [[loadstring()]];
-["CheckQuestPlaced"] = [[upvalue]];
+
 ["_scriptPath"] = "TppGimmick";
-["_SetUpCheckBrokenAndBreakConnectTable"] = [[loadstring()]];
-["InitQuest"] = [[loadstring()]];
-["EnableMarkerGimmick"] = [[loadstring()]];
-["OnAllocate"] = [[loadstring()]];
-["SetUpIdentifierTable"] = [[upvalue]];
-["SetUpUseGimmickRouteTable"] = [[upvalue]];
-["DEBUG_DumpIdentiferParam"] = [[loadstring()]];
-["Init"] = [[upvalue]];
-["StartQuestShootingPractice"] = [[upvalue]];
-["SetUpMineQuest"] = [[loadstring()]];
-["OnActivateQuest"] = [[upvalue]];
-["ShowAnnounceLog"] = [[upvalue]];
-["SetQuestShootingPracticeTargetInvisible"] = [[upvalue]];
-["IsQuestStartSwitchGimmick"] = [[loadstring()]];
-["OnTerminateQuest"] = [[upvalue]];
-["MissionCollectionMissionTaskTable"] = {
-	[10020] = {
-		[1] = 30;
-	};
-	[10082] = {
-		[1] = 22;
-	};
-	[10043] = {
-		[1] = "first";
-	};
-	[10120] = {
-		[1] = 12;
-	};
-	[10036] = {
-		[1] = 17;
-		[2] = 18;
-	};
-	[10070] = {
-		[1] = 27;
-	};
-	[10171] = {
-		[1] = 40;
-	};
-	[10093] = {
-		[1] = 27;
-	};
-	[10033] = {
-		[1] = 17;
-	};
-	[10085] = {
-		[1] = 31;
-	};
-};
-["GIMMICK_TYPE"] = {
-	["NONE"] = 0;
-	["FACTORY_WSST"] = 109;
-	["CMMN"] = 3;
-	["CSET"] = 14;
-	["MAX"] = 255;
-	["GUN"] = 4;
-	["AACR"] = 9;
-	["FACTORY_TNNL"] = 105;
-	["MORTAR"] = 5;
-	["FLOWSTATION_COPS"] = 112;
-	["MCHN"] = 2;
-	["FACTORY_CRTN"] = 111;
-	["LAB_BRDG"] = 106;
-	["TLET"] = 12;
-	["FLOWSTATION_PDOR"] = 110;
-	["TOWER"] = 11;
-	["ANTN"] = 1;
-	["FACTORY_WALL"] = 102;
-	["FACTORY_WTNK"] = 108;
-	["FACTORY_TANK"] = 107;
-	["FLOWSTATION_TANK002"] = 101;
-	["FACTORY_WTTR"] = 104;
-	["FACTORY_FRAME"] = 103;
-	["FLOWSTATION_TANK001"] = 100;
-	["SWTC"] = 15;
-	["TRSH"] = 13;
-	["CNTN"] = 7;
-	["ANTIAIR"] = 8;
-	["LIGHT"] = 10;
-	["GNRT"] = 6;
-};
-["OnTerminateMineQuest"] = [[loadstring()]];
-["SetVisibility"] = [[loadstring()]];
-["OnMessage"] = [[upvalue]];
+
+["_scriptInstanceId"] = [[userdata]]
+

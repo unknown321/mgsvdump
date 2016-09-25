@@ -1,2 +1,4 @@
+Start() = [[upvalue]];
+
 ["_className"] = "TppSimpleGameSequenceSystem";
-["Start"] = [[upvalue]];
+

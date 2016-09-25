@@ -1,5 +1,3 @@
-["_scriptPath"] = "CharacterModWeaponEditPrimary";
-["_scriptInstanceId"] = [[userdata]]
 ["widgets"] = {
 	[1] = {
 		["type"] = "MgoUiLabel";
@@ -1785,3 +1783,8 @@
 		};
 	};
 };
+
+["_scriptPath"] = "CharacterModWeaponEditPrimary";
+
+["_scriptInstanceId"] = [[userdata]]
+

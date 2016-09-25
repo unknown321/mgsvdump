@@ -1,8 +1,20 @@
-["dem_demoFuncs"] = {
+["dem_demoFlags"] = {};
+["dem_demoFuncs"] = {};
+["dem_demoList"] = {};
+["dem_invDemoList"] = {};
+["dem_invScdDemolist"] = {};
+["dem_isSkipped"] = {};
+["dem_playedList"] = {};
+["demo_finishWaitRequestInfo"] = {};
+["demo_playRequestInfo"] = {
+	["demoBlock"] = {
+	};
+	["missionBlock"] = {
+	};
 };
-["dem_invScdDemolist"] = {
-};
-["ply_maxPickableLocatorCount"] = 16;
+["ply_locationStationTable"] = {};
+["ply_stationLocatorList"] = {};
+["seq_demoSequneceList"] = {};
 ["seq_sequenceNames"] = {
 	[1] = "Seq_Mission_Prepare";
 	[2] = "Seq_Ruleset_Init";
@@ -18,21 +30,6 @@
 	["Seq_Ruleset_LoadAvatarCommonData"] = 4;
 	["Seq_Ruleset_LoadAvatarUI"] = 5;
 	["Seq_Ruleset_Main"] = 3;
-};
-["seq_missionStartSequence"] = 2;
-["ply_equipMissionBlockGroupSize"] = 1677721;
-["dem_isSkipped"] = {
-};
-["mis_isAlertOutOfMissionArea"] = false;
-["mis_missionStateIsNotInGame"] = false;
-["snd_startHeliClearJingleName"] = "Play_bgm_mission_clear_heli";
-["mis_helicopterDoorOpenTimerTimeSec"] = 15;
-["dem_demoList"] = {
-};
-["snd_finishHeliClearJingleName"] = "Stop_bgm_mission_clear_heli";
-["ply_locationStationTable"] = {
-};
-["demo_finishWaitRequestInfo"] = {
 };
 ["seq_sequenceTable"] = {
 	["Seq_Ruleset_StartAvatarEdit"] = {
@@ -172,32 +169,26 @@
 		};
 	};
 };
-["seq_textureLoadWaitStartTime"] = 16.558333137937;
-["dem_playedList"] = {
-};
-["dem_demoFlags"] = {
-};
 ["ui_onEndFadeInExceptGameStatus"] = {
 	["AnnounceLog"] = false;
 };
-["seq_currentSequence"] = "Seq_Ruleset_Main";
-["mis_isOutsideOfHotZone"] = true;
-["seq_isHelicopterStart"] = false;
-["seq_canMissionStartWaitStartTime"] = 16.558333137937;
-["seq_demoSequneceList"] = {
-};
-["dem_invDemoList"] = {
-};
-["ply_stationLocatorList"] = {
-};
+
 ["mis_enableAlertOutOfMissionArea"] = false;
-["seq_missionPrepareState"] = 7;
-["mis_missionName"] = "mgo_mission";
-["ply_maxPlacedLocatorCount"] = 8;
+["mis_helicopterDoorOpenTimerTimeSec"] = 15;
+["mis_isAlertOutOfMissionArea"] = false;
+["mis_isOutsideOfHotZone"] = true;
 ["mis_isOutsideOfMissionArea"] = false;
-["demo_playRequestInfo"] = {
-	["demoBlock"] = {
-	};
-	["missionBlock"] = {
-	};
-};
+["mis_missionName"] = "mgo_mission";
+["mis_missionStateIsNotInGame"] = false;
+["ply_equipMissionBlockGroupSize"] = 1677721;
+["ply_maxPickableLocatorCount"] = 16;
+["ply_maxPlacedLocatorCount"] = 8;
+["seq_canMissionStartWaitStartTime"] = 16.558333137937;
+["seq_currentSequence"] = "Seq_Ruleset_Main";
+["seq_isHelicopterStart"] = false;
+["seq_missionPrepareState"] = 7;
+["seq_missionStartSequence"] = 2;
+["seq_textureLoadWaitStartTime"] = 16.558333137937;
+["snd_finishHeliClearJingleName"] = "Stop_bgm_mission_clear_heli";
+["snd_startHeliClearJingleName"] = "Play_bgm_mission_clear_heli";
+

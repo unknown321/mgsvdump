@@ -1,5 +1,25 @@
-["ChangeBlock"] = [[upvalue]];
-["GetNextDemo"] = [[upvalue]];
+ChangeBlock() = [[upvalue]];
+DisableBuddyForForceRealized() = [[upvalue]];
+DisableOcelot() = [[loadstring()]];
+GetDemoPlayCluster() = [[upvalue]];
+GetDemoTime() = [[upvalue]];
+GetForceMaleSoldierList() = [[upvalue]];
+GetNextDemo() = [[upvalue]];
+GetPackListForStorySequence() = [[upvalue]];
+GetSoldierListInDemo() = [[upvalue]];
+HasPlant() = [[upvalue]];
+IsBalaclava() = [[upvalue]];
+IsShowReward() = [[upvalue]];
+NeedLoadBuddyBlock() = [[upvalue]];
+PlayMtbsEventDemo() = [[upvalue]];
+RegisterFovaPack() = [[loadstring()]];
+SetInvisibleUniqueCharacter() = [[loadstring()]];
+SetupBuddy() = [[upvalue]];
+SetupDemoEndRoute() = [[loadstring()]];
+SetupEnemy() = [[upvalue]];
+ShowMissionRewardAfterDemo() = [[loadstring()]];
+UpdatePackList() = [[upvalue]];
+
 ["_PazPhantomPain4Settings"] = {
 	["OnEnter"] = [[loadstring()]];
 	["time"] = "17:00:00";
@@ -7,13 +27,221 @@
 	["OnEnd"] = [[loadstring()]];
 	["clusterName"] = "Medical";
 };
-["RegisterFovaPack"] = [[loadstring()]];
-["_scriptInstanceId"] = [[userdata]]
-["SetupBuddy"] = [[upvalue]];
-["GetDemoPlayCluster"] = [[upvalue]];
-["IsBalaclava"] = [[upvalue]];
-["GetPackListForStorySequence"] = [[upvalue]];
-["SetupDemoEndRoute"] = [[loadstring()]];
+["demoBlockList"] = {
+	["LongTimeNoSee_DdogHighLikability"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d075.fpk";
+		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
+	};
+	["AttackedFromOtherPlayer_UnknowWhereFrom"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d011.fpk";
+		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
+	};
+	["QuietHasFriendshipWithChild"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d040.fpk";
+	};
+	["QuietWishGoMission"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d050.fpk";
+	};
+	["EndingSacrificeOfNuclear"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_m20031.fpk";
+	};
+	["DetailsNuclearDevelop"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_m20030.fpk";
+	};
+	["AttackedFromOtherPlayer_KnowWhereFrom"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d010.fpk";
+		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
+	};
+	["TheGreatEscapeLiquid"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d600.fpk";
+	};
+	["CodeTalkerSunBath"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d110.fpk";
+		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
+	};
+	["DdogGoWithMe"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d072.fpk";
+		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
+	};
+	["LongTimeNoSee_DDSoldier"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d001.fpk";
+		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
+	};
+	["ArrivedMotherBaseChildren"] = {
+		[1] = "/Assets/tpp/pack/mission2/story/s10100/s10100_d02.fpk";
+	};
+	["HappyBirthDay"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d030.fpk";
+		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
+	};
+	["PazPhantomPain2"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d8020.fpk";
+		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_paz.fpk";
+	};
+	["SnakeHasBadSmell_001"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d022.fpk";
+		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_mbQuiet.fpk";
+	};
+	["QuietReceivesPersecution"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d101.fpk";
+	};
+	["GoToMotherBaseAfterQuietBattle"] = {
+		[1] = "/Assets/tpp/pack/mission2/story/s10050/s10050_d02.fpk";
+	};
+	["SnakeHasBadSmell_000"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d021.fpk";
+	};
+	["SnakeHasBadSmell_WithoutQuiet"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d020.fpk";
+		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
+	};
+	["ForKeepNuclearElimination"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d1010.fpk";
+	};
+	["LongTimeNoSee_DdogPup"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d073.fpk";
+		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
+	};
+	["QuietOnHeliInRain"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d100.fpk";
+	};
+	["LongTimeNoSee_DdogSuperHighLikability"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d076.fpk";
+		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
+	};
+	["MoraleOfMBIsLow"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d000.fpk";
+		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
+	};
+	["Empty"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_dEmpty.fpk";
+	};
+	["PazPhantomPain4_jp"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d8041.fpk";
+		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_paz.fpk";
+	};
+	["ArrivedMotherBaseFromDeathFactory"] = {
+		[1] = "/Assets/tpp/pack/mission2/story/s10110/s10110_d03.fpk";
+		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
+	};
+	["NuclearEliminationCeremony"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d1000.fpk";
+	};
+	["HappyBirthDayWithQuiet"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d031.fpk";
+		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
+	};
+	["PazPhantomPain1"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d8010.fpk";
+		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_paz.fpk";
+	};
+	["DdogComeToGet"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d071.fpk";
+		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
+	};
+	["PazPhantomPain3"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_paz.fpk";
+		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_dEmpty.fpk";
+	};
+	["PazPhantomPain4"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d8040.fpk";
+		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_paz.fpk";
+	};
+	["DecisionHuey"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d300.fpk";
+		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
+	};
+	["EntrustDdog"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d070.fpk";
+		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
+	};
+	["ArrivedMotherBaseLiquid"] = {
+		[1] = "/Assets/tpp/pack/mission2/story/s10120/s10120_d04.fpk";
+	};
+	["SacrificeOfNuclearElimination"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d1020.fpk";
+	};
+	["LiquidAndChildSoldier"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d060.fpk";
+		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
+	};
+	["ArrivedMotherBaseAfterQuietBattle"] = {
+		[1] = "/Assets/tpp/pack/mission2/story/s10050/s10050_d02.fpk";
+	};
+	["ParasiticWormCarrierKill"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d700.fpk";
+		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
+	};
+	["AnableDevBattleGear"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d120.fpk";
+	};
+	["OcelotIsPupilOfSnake"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d002.fpk";
+		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
+	};
+	["InterrogateQuiet"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d090.fpk";
+		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
+	};
+	["LongTimeNoSee_DdogLowLikability"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d074.fpk";
+		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
+	};
+	["EliLookSnake"] = {
+		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d080.fpk";
+	};
+};
+["demoList"] = {
+	["DevelopedBattleGear5"] = "p51_010145_005";
+	["LongTimeNoSee_DdogHighLikability"] = "p51_010057_000_final";
+	["AttackedFromOtherPlayer_UnknowWhereFrom"] = "p51_010150_001_final";
+	["QuietHasFriendshipWithChild"] = "p51_010310_000";
+	["QuietWishGoMission"] = "p51_010330_000_final";
+	["DevelopedBattleGear2"] = "p51_010145_002";
+	["EndingSacrificeOfNuclear"] = "p51_020030_02movie";
+	["DetailsNuclearDevelop"] = "p51_020030_01movie";
+	["AttackedFromOtherPlayer_KnowWhereFrom"] = "p51_010150_000_final";
+	["DevelopedBattleGear4"] = "p51_010145_004";
+	["CodeTalkerSunBath"] = "p51_010170_000_final";
+	["DdogGoWithMe"] = "p51_010030";
+	["LongTimeNoSee_DDSoldier"] = "p51_010060_000_final";
+	["ArrivedMotherBaseChildren"] = "p41_020050_000_final";
+	["HappyBirthDay"] = "p51_010270_000";
+	["DevelopedBattleGear1"] = "p51_010145_001";
+	["SnakeHasBadSmell_001"] = "p51_010165_001_final";
+	["QuietReceivesPersecution"] = "p51_010360_000";
+	["GoToMotherBaseAfterQuietBattle"] = "p31_030210";
+	["SnakeHasBadSmell_000"] = "p51_010165_000_final";
+	["SnakeHasBadSmell_WithoutQuiet"] = "p51_010160_000_final";
+	["ForKeepNuclearElimination"] = "p51_020020_000_final";
+	["LongTimeNoSee_DdogPup"] = "p51_010050_000_final";
+	["QuietOnHeliInRain"] = "p51_010300_000_final";
+	["LiquidQuest"] = "p51_010550_000_final";
+	["LongTimeNoSee_DdogSuperHighLikability"] = "p51_010059_000_final";
+	["MoraleOfMBIsLow"] = "p51_010040_000_final";
+	["PazPhantomPain4_jp"] = "p51_080041";
+	["VisitQuiet"] = "p31_030020_001_final";
+	["PazPhantomPain2"] = "p51_080020";
+	["ArrivedMotherBaseFromDeathFactory"] = "p41_040200_000_final";
+	["NuclearEliminationCeremony"] = "p51_020010_000_final";
+	["HappyBirthDayWithQuiet"] = "p51_010270_001";
+	["PazPhantomPain1"] = "p51_080010_000_final";
+	["DdogComeToGet"] = "p51_010020_000_final";
+	["DecisionHuey"] = "p31_060030_000_final";
+	["PazPhantomPain4"] = "p51_080040";
+	["TheGreatEscapeLiquid"] = "p61_010030_000_final";
+	["EntrustDdog"] = "p51_010010";
+	["ArrivedMotherBaseLiquid"] = "p41_010050_000_final";
+	["SacrificeOfNuclearElimination"] = "p51_020040_000_final";
+	["LiquidAndChildSoldier"] = "p51_010340_000_final";
+	["ArrivedMotherBaseAfterQuietBattle"] = "p31_030220_000_final";
+	["ParasiticWormCarrierKill"] = "p51_070010_000_final";
+	["AnableDevBattleGear"] = "p51_010140_000_final";
+	["OcelotIsPupilOfSnake"] = "p51_010350_000_final";
+	["InterrogateQuiet"] = "p51_010210";
+	["LongTimeNoSee_DdogLowLikability"] = "p51_010053_000_final";
+	["EliLookSnake"] = "p51_010220_000_final";
+};
 ["demoOptions"] = {
 	["DevelopedBattleGear5"] = {
 		["noHeli"] = true;
@@ -701,232 +929,8 @@
 		};
 	};
 };
-["demoList"] = {
-	["DevelopedBattleGear5"] = "p51_010145_005";
-	["LongTimeNoSee_DdogHighLikability"] = "p51_010057_000_final";
-	["AttackedFromOtherPlayer_UnknowWhereFrom"] = "p51_010150_001_final";
-	["QuietHasFriendshipWithChild"] = "p51_010310_000";
-	["QuietWishGoMission"] = "p51_010330_000_final";
-	["DevelopedBattleGear2"] = "p51_010145_002";
-	["EndingSacrificeOfNuclear"] = "p51_020030_02movie";
-	["DetailsNuclearDevelop"] = "p51_020030_01movie";
-	["AttackedFromOtherPlayer_KnowWhereFrom"] = "p51_010150_000_final";
-	["DevelopedBattleGear4"] = "p51_010145_004";
-	["CodeTalkerSunBath"] = "p51_010170_000_final";
-	["DdogGoWithMe"] = "p51_010030";
-	["LongTimeNoSee_DDSoldier"] = "p51_010060_000_final";
-	["ArrivedMotherBaseChildren"] = "p41_020050_000_final";
-	["HappyBirthDay"] = "p51_010270_000";
-	["DevelopedBattleGear1"] = "p51_010145_001";
-	["SnakeHasBadSmell_001"] = "p51_010165_001_final";
-	["QuietReceivesPersecution"] = "p51_010360_000";
-	["GoToMotherBaseAfterQuietBattle"] = "p31_030210";
-	["SnakeHasBadSmell_000"] = "p51_010165_000_final";
-	["SnakeHasBadSmell_WithoutQuiet"] = "p51_010160_000_final";
-	["ForKeepNuclearElimination"] = "p51_020020_000_final";
-	["LongTimeNoSee_DdogPup"] = "p51_010050_000_final";
-	["QuietOnHeliInRain"] = "p51_010300_000_final";
-	["LiquidQuest"] = "p51_010550_000_final";
-	["LongTimeNoSee_DdogSuperHighLikability"] = "p51_010059_000_final";
-	["MoraleOfMBIsLow"] = "p51_010040_000_final";
-	["PazPhantomPain4_jp"] = "p51_080041";
-	["VisitQuiet"] = "p31_030020_001_final";
-	["PazPhantomPain2"] = "p51_080020";
-	["ArrivedMotherBaseFromDeathFactory"] = "p41_040200_000_final";
-	["NuclearEliminationCeremony"] = "p51_020010_000_final";
-	["HappyBirthDayWithQuiet"] = "p51_010270_001";
-	["PazPhantomPain1"] = "p51_080010_000_final";
-	["DdogComeToGet"] = "p51_010020_000_final";
-	["DecisionHuey"] = "p31_060030_000_final";
-	["PazPhantomPain4"] = "p51_080040";
-	["TheGreatEscapeLiquid"] = "p61_010030_000_final";
-	["EntrustDdog"] = "p51_010010";
-	["ArrivedMotherBaseLiquid"] = "p41_010050_000_final";
-	["SacrificeOfNuclearElimination"] = "p51_020040_000_final";
-	["LiquidAndChildSoldier"] = "p51_010340_000_final";
-	["ArrivedMotherBaseAfterQuietBattle"] = "p31_030220_000_final";
-	["ParasiticWormCarrierKill"] = "p51_070010_000_final";
-	["AnableDevBattleGear"] = "p51_010140_000_final";
-	["OcelotIsPupilOfSnake"] = "p51_010350_000_final";
-	["InterrogateQuiet"] = "p51_010210";
-	["LongTimeNoSee_DdogLowLikability"] = "p51_010053_000_final";
-	["EliLookSnake"] = "p51_010220_000_final";
-};
-["PlayMtbsEventDemo"] = [[upvalue]];
-["GetDemoTime"] = [[upvalue]];
-["NeedLoadBuddyBlock"] = [[upvalue]];
+
 ["_scriptPath"] = "TppMbFreeDemo";
-["DisableOcelot"] = [[loadstring()]];
-["demoBlockList"] = {
-	["LongTimeNoSee_DdogHighLikability"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d075.fpk";
-		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
-	};
-	["AttackedFromOtherPlayer_UnknowWhereFrom"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d011.fpk";
-		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
-	};
-	["QuietHasFriendshipWithChild"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d040.fpk";
-	};
-	["QuietWishGoMission"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d050.fpk";
-	};
-	["EndingSacrificeOfNuclear"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_m20031.fpk";
-	};
-	["DetailsNuclearDevelop"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_m20030.fpk";
-	};
-	["AttackedFromOtherPlayer_KnowWhereFrom"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d010.fpk";
-		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
-	};
-	["TheGreatEscapeLiquid"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d600.fpk";
-	};
-	["CodeTalkerSunBath"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d110.fpk";
-		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
-	};
-	["DdogGoWithMe"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d072.fpk";
-		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
-	};
-	["LongTimeNoSee_DDSoldier"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d001.fpk";
-		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
-	};
-	["ArrivedMotherBaseChildren"] = {
-		[1] = "/Assets/tpp/pack/mission2/story/s10100/s10100_d02.fpk";
-	};
-	["HappyBirthDay"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d030.fpk";
-		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
-	};
-	["PazPhantomPain2"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d8020.fpk";
-		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_paz.fpk";
-	};
-	["SnakeHasBadSmell_001"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d022.fpk";
-		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_mbQuiet.fpk";
-	};
-	["QuietReceivesPersecution"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d101.fpk";
-	};
-	["GoToMotherBaseAfterQuietBattle"] = {
-		[1] = "/Assets/tpp/pack/mission2/story/s10050/s10050_d02.fpk";
-	};
-	["SnakeHasBadSmell_000"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d021.fpk";
-	};
-	["SnakeHasBadSmell_WithoutQuiet"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d020.fpk";
-		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
-	};
-	["ForKeepNuclearElimination"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d1010.fpk";
-	};
-	["LongTimeNoSee_DdogPup"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d073.fpk";
-		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
-	};
-	["QuietOnHeliInRain"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d100.fpk";
-	};
-	["LongTimeNoSee_DdogSuperHighLikability"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d076.fpk";
-		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
-	};
-	["MoraleOfMBIsLow"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d000.fpk";
-		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
-	};
-	["Empty"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_dEmpty.fpk";
-	};
-	["PazPhantomPain4_jp"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d8041.fpk";
-		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_paz.fpk";
-	};
-	["ArrivedMotherBaseFromDeathFactory"] = {
-		[1] = "/Assets/tpp/pack/mission2/story/s10110/s10110_d03.fpk";
-		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
-	};
-	["NuclearEliminationCeremony"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d1000.fpk";
-	};
-	["HappyBirthDayWithQuiet"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d031.fpk";
-		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
-	};
-	["PazPhantomPain1"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d8010.fpk";
-		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_paz.fpk";
-	};
-	["DdogComeToGet"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d071.fpk";
-		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
-	};
-	["PazPhantomPain3"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_paz.fpk";
-		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_dEmpty.fpk";
-	};
-	["PazPhantomPain4"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d8040.fpk";
-		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_paz.fpk";
-	};
-	["DecisionHuey"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d300.fpk";
-		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
-	};
-	["EntrustDdog"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d070.fpk";
-		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
-	};
-	["ArrivedMotherBaseLiquid"] = {
-		[1] = "/Assets/tpp/pack/mission2/story/s10120/s10120_d04.fpk";
-	};
-	["SacrificeOfNuclearElimination"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d1020.fpk";
-	};
-	["LiquidAndChildSoldier"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d060.fpk";
-		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
-	};
-	["ArrivedMotherBaseAfterQuietBattle"] = {
-		[1] = "/Assets/tpp/pack/mission2/story/s10050/s10050_d02.fpk";
-	};
-	["ParasiticWormCarrierKill"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d700.fpk";
-		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
-	};
-	["AnableDevBattleGear"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d120.fpk";
-	};
-	["OcelotIsPupilOfSnake"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d002.fpk";
-		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
-	};
-	["InterrogateQuiet"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d090.fpk";
-		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
-	};
-	["LongTimeNoSee_DdogLowLikability"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d074.fpk";
-		[2] = "/Assets/tpp/pack/mission2/free/f30050/f30050_ocelot.fpk";
-	};
-	["EliLookSnake"] = {
-		[1] = "/Assets/tpp/pack/mission2/free/f30050/f30050_d080.fpk";
-	};
-};
-["GetSoldierListInDemo"] = [[upvalue]];
-["GetForceMaleSoldierList"] = [[upvalue]];
-["SetupEnemy"] = [[upvalue]];
-["HasPlant"] = [[upvalue]];
-["DisableBuddyForForceRealized"] = [[upvalue]];
-["ShowMissionRewardAfterDemo"] = [[loadstring()]];
-["UpdatePackList"] = [[upvalue]];
-["IsShowReward"] = [[upvalue]];
-["SetInvisibleUniqueCharacter"] = [[loadstring()]];
+
+["_scriptInstanceId"] = [[userdata]]
+

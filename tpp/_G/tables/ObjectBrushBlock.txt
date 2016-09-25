@@ -1,2 +1,4 @@
+Activate() = [[upvalue]];
+
 ["_className"] = "ObjectBrushBlock";
-["Activate"] = [[upvalue]];
+

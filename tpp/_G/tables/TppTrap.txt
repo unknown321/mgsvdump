@@ -1,13 +1,16 @@
-["DebugUpdate"] = [[loadstring()]];
-["ChangeTrapState"] = [[upvalue]];
-["Enable"] = [[upvalue]];
-["ChangeNormalTrapState"] = [[loadstring()]];
-["DeclareSVars"] = [[upvalue]];
-["_scriptInstanceId"] = [[userdata]]
-["ChangeTriggerTrapState"] = [[loadstring()]];
+ChangeNormalTrapState() = [[loadstring()]];
+ChangeTrapState() = [[upvalue]];
+ChangeTriggerTrapState() = [[loadstring()]];
+DEBUG_Init() = [[loadstring()]];
+DebugUpdate() = [[loadstring()]];
+DeclareSVars() = [[upvalue]];
+Disable() = [[upvalue]];
+Enable() = [[upvalue]];
+InitializeVariableTraps() = [[upvalue]];
+OnAllocate() = [[upvalue]];
+RestoreVariableTrapState() = [[upvalue]];
+
 ["_scriptPath"] = "TppTrap";
-["Disable"] = [[upvalue]];
-["InitializeVariableTraps"] = [[upvalue]];
-["DEBUG_Init"] = [[loadstring()]];
-["OnAllocate"] = [[upvalue]];
-["RestoreVariableTrapState"] = [[upvalue]];
+
+["_scriptInstanceId"] = [[userdata]]
+

@@ -1,7 +1,9 @@
+AddAlpha() = [[upvalue]];
+AddBlood() = [[upvalue]];
+AddEnable() = [[upvalue]];
+AddKind() = [[upvalue]];
+AddMatrix() = [[upvalue]];
+AddPosition() = [[upvalue]];
+
 ["_className"] = "TppFootPrintBody";
-["AddPosition"] = [[upvalue]];
-["AddKind"] = [[upvalue]];
-["AddAlpha"] = [[upvalue]];
-["AddEnable"] = [[upvalue]];
-["AddBlood"] = [[upvalue]];
-["AddMatrix"] = [[upvalue]];
+

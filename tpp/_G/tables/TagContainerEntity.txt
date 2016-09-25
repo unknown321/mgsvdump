@@ -1,11 +1,13 @@
+AddTag() = [[upvalue]];
+AddTags() = [[upvalue]];
+DoesContainAll() = [[upvalue]];
+DoesContainPartial() = [[upvalue]];
+Dump() = [[upvalue]];
+FindTag() = [[upvalue]];
+FindTags() = [[upvalue]];
+RemoveAllTags() = [[upvalue]];
+RemoveTag() = [[upvalue]];
+RemoveTags() = [[upvalue]];
+
 ["_className"] = "TagContainerEntity";
-["DoesContainPartial"] = [[upvalue]];
-["FindTags"] = [[upvalue]];
-["AddTag"] = [[upvalue]];
-["RemoveTags"] = [[upvalue]];
-["RemoveTag"] = [[upvalue]];
-["DoesContainAll"] = [[upvalue]];
-["Dump"] = [[upvalue]];
-["RemoveAllTags"] = [[upvalue]];
-["FindTag"] = [[upvalue]];
-["AddTags"] = [[upvalue]];
+

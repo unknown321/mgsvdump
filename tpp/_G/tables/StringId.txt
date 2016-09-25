@@ -1,6 +1,9 @@
-[-285212672] = 0;
-["IsEqual32"] = [[upvalue]];
-["IsEqual"] = [[upvalue]];
+IsEqual() = [[upvalue]];
+IsEqual32() = [[upvalue]];
+
 [-285212671] = {
 	["Null"] = [[upvalue]];
 };
+
+[-285212672] = 0;
+

@@ -1,11 +1,14 @@
-["IsDisableUnlockLandingZoneOnMission"] = [[loadstring()]];
-["IsAssaultDropLandingZone"] = [[loadstring()]];
-["DisableLandingZoneForMission"] = [[upvalue]];
-["_scriptInstanceId"] = [[userdata]]
+DisableLandingZoneForMission() = [[upvalue]];
+DisableUnlockLandingZoneOnMission() = [[loadstring()]];
+IsAssaultDropLandingZone() = [[loadstring()]];
+IsBrokenGimmick() = [[upvalue]];
+IsDisableUnlockLandingZoneOnMission() = [[loadstring()]];
+OnInitialize() = [[upvalue]];
+OnMissionCanStart() = [[upvalue]];
+OverwriteBuddyVehiclePosForALZ() = [[loadstring()]];
+RegisterAssaultDropLandingZone() = [[loadstring()]];
+
 ["_scriptPath"] = "TppLandingZone";
-["OnInitialize"] = [[upvalue]];
-["OverwriteBuddyVehiclePosForALZ"] = [[loadstring()]];
-["DisableUnlockLandingZoneOnMission"] = [[loadstring()]];
-["OnMissionCanStart"] = [[upvalue]];
-["IsBrokenGimmick"] = [[upvalue]];
-["RegisterAssaultDropLandingZone"] = [[loadstring()]];
+
+["_scriptInstanceId"] = [[userdata]]
+

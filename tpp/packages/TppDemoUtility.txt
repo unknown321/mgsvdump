@@ -1,8 +1,9 @@
-["AddSubjectMapping"] = [[non-lua function]];
-["DisablePadZoom"] = [[non-lua function]];
-["SetUseBlackDiamond"] = [[non-lua function]];
-["SetEnableDemoZoomSound"] = [[non-lua function]];
-["ResetFadeInfo"] = [[non-lua function]];
-["IsFadeOut"] = [[non-lua function]];
-["EnablePadZoom"] = [[non-lua function]];
-["SetInvisibleUniqueCharacter"] = [[non-lua function]];
+AddSubjectMapping() = [[non-lua function]];
+DisablePadZoom() = [[non-lua function]];
+EnablePadZoom() = [[non-lua function]];
+IsFadeOut() = [[non-lua function]];
+ResetFadeInfo() = [[non-lua function]];
+SetEnableDemoZoomSound() = [[non-lua function]];
+SetInvisibleUniqueCharacter() = [[non-lua function]];
+SetUseBlackDiamond() = [[non-lua function]];
+

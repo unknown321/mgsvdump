@@ -1,18 +1,21 @@
-["OnTerminate"] = [[upvalue]];
-["OnInitialize"] = [[upvalue]];
-["ReservePlayerLoadingPosition"] = [[upvalue]];
-["SetUpdateFunction"] = [[upvalue]];
-["OnReload"] = [[upvalue]];
-["requires"] = {
-	[1] = "/Assets/mgo/script/lib/MgoException.lua";
-	[2] = "/Assets/mgo/script/lib/script_loader.lua";
-};
-["OnMissionCanStart"] = [[loadstring()]];
-["OnAllocate"] = [[upvalue]];
-["ClearStageBlockMessage"] = [[loadstring()]];
-["OnChangeSVars"] = [[upvalue]];
-["StageBlockCurrentPosition"] = [[loadstring()]];
-["_scriptPath"] = "MgoMain";
+ClearStageBlockMessage() = [[loadstring()]];
+OnAllocate() = [[upvalue]];
+OnChangeSVars() = [[upvalue]];
+OnEnterMissionPrepare() = [[loadstring()]];
+OnInitialize() = [[upvalue]];
+OnMessage() = [[upvalue]];
+OnMissionCanStart() = [[loadstring()]];
+OnMissionGameStart() = [[loadstring()]];
+OnReload() = [[upvalue]];
+OnTerminate() = [[upvalue]];
+OnTextureLoadingWaitStart() = [[loadstring()]];
+OnUpdate() = [[upvalue]];
+PostInitialize() = [[loadstring()]];
+ReservePlayerLoadingPosition() = [[upvalue]];
+SetMessageFunction() = [[upvalue]];
+SetUpdateFunction() = [[upvalue]];
+StageBlockCurrentPosition() = [[loadstring()]];
+
 ["_requireList"] = {
 	[1] = "TppDefine";
 	[2] = "TppDebug";
@@ -33,11 +36,12 @@
 	[17] = "TppRadio";
 	[18] = "TppException";
 };
+["requires"] = {
+	[1] = "/Assets/mgo/script/lib/MgoException.lua";
+	[2] = "/Assets/mgo/script/lib/script_loader.lua";
+};
+
+["_scriptPath"] = "MgoMain";
+
 ["_scriptInstanceId"] = [[userdata]]
-["OnEnterMissionPrepare"] = [[loadstring()]];
-["OnMessage"] = [[upvalue]];
-["SetMessageFunction"] = [[upvalue]];
-["OnMissionGameStart"] = [[loadstring()]];
-["PostInitialize"] = [[loadstring()]];
-["OnUpdate"] = [[upvalue]];
-["OnTextureLoadingWaitStart"] = [[loadstring()]];
+

@@ -1,3 +1,5 @@
+GetDataBody() = [[upvalue]];
+GetDataBodyList() = [[upvalue]];
+
 ["_className"] = "DataBodySet";
-["GetDataBodyList"] = [[upvalue]];
-["GetDataBody"] = [[upvalue]];
+

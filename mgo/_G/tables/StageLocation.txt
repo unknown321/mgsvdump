@@ -1,11 +1,14 @@
-["UpdateCameraParameter"] = [[upvalue]];
-["WarpPlayer"] = [[loadstring()]];
+QuatToRotX() = [[loadstring()]];
+QuatToRotY() = [[loadstring()]];
+ResetPlayerRotation() = [[loadstring()]];
+SetCameraStageCenter() = [[upvalue]];
+UpdateCameraParameter() = [[upvalue]];
+UpdateCameraParameterInterp() = [[upvalue]];
+WarpFromStage() = [[loadstring()]];
+WarpPlayer() = [[loadstring()]];
+WarpToStage() = [[upvalue]];
+
 ["_scriptPath"] = "StageLocation";
-["QuatToRotY"] = [[loadstring()]];
+
 ["_scriptInstanceId"] = [[userdata]]
-["SetCameraStageCenter"] = [[upvalue]];
-["ResetPlayerRotation"] = [[loadstring()]];
-["UpdateCameraParameterInterp"] = [[upvalue]];
-["WarpFromStage"] = [[loadstring()]];
-["WarpToStage"] = [[upvalue]];
-["QuatToRotX"] = [[loadstring()]];
+

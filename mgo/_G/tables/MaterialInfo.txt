@@ -1,4 +1,6 @@
+SetFrictionCoefficient() = [[upvalue]];
+SetName() = [[upvalue]];
+SetRestitutionCoefficient() = [[upvalue]];
+
 ["_className"] = "MaterialInfo";
-["SetName"] = [[upvalue]];
-["SetRestitutionCoefficient"] = [[upvalue]];
-["SetFrictionCoefficient"] = [[upvalue]];
+

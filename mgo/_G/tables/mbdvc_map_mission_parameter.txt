@@ -1,4 +1,7 @@
-["GetMissionParameter2"] = [[loadstring()]];
-["GetMissionParameter"] = [[upvalue]];
-["_scriptInstanceId"] = [[userdata]]
+GetMissionParameter() = [[upvalue]];
+GetMissionParameter2() = [[loadstring()]];
+
 ["_scriptPath"] = "mbdvc_map_mission_parameter";
+
+["_scriptInstanceId"] = [[userdata]]
+

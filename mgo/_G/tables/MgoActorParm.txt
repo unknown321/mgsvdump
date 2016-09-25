@@ -1,3 +1,5 @@
+AddDynamicProperty() = [[upvalue]];
+RemoveDynamicProperty() = [[upvalue]];
+
 ["_className"] = "MgoActorParm";
-["RemoveDynamicProperty"] = [[upvalue]];
-["AddDynamicProperty"] = [[upvalue]];
+

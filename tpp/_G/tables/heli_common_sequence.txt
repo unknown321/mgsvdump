@@ -1,65 +1,56 @@
-["SetTerminalAttentionIcon"] = [[loadstring()]];
-["_messageExecTable"] = {
-	[3105039150] = {
-		[824988796] = {
-			["senderOption"] = {
-				[3704233593] = {
-					[2357387275] = true;
-				};
-			};
-			["sender"] = {
-				[3704233593] = [[loadstring()]];
-			};
-		};
-		[1201114382] = {
-			["func"] = [[loadstring()]];
-		};
-	};
-	[4133365783] = {
-		[1378767181] = {
-			["func"] = [[loadstring()]];
-		};
-		[2878679236] = {
-			["func"] = [[loadstring()]];
-		};
-	};
-};
-["SetCameraStageCenter_GoOut"] = [[loadstring()]];
-["OnStartFobMission"] = [[loadstring()]];
-["OnUpdateChunkInstalling"] = [[upvalue]];
-["OnRestoreSVars"] = [[loadstring()]];
-["Messages"] = [[upvalue]];
-["OverrideFadeInGameStatus"] = [[loadstring()]];
-["SetPandemicTutorialMbMenuActive"] = [[upvalue]];
-["ClearTerminalAttentionIcon"] = [[upvalue]];
-["OnAbortMissionPreparation"] = [[loadstring()]];
-["OnUpdate"] = [[upvalue]];
-["OnEndFadeOutMissionPreparetionEnd"] = [[loadstring()]];
-["SetMissionPrepPreviewPosition"] = [[loadstring()]];
-["OnMissionPreparetionEnd"] = [[upvalue]];
-["SetCameraStageCenter_Go"] = [[loadstring()]];
-["PlayerPrepareSpaceToHeliSpace"] = [[loadstring()]];
-["SetBuddyHeliSpaceSetting"] = [[upvalue]];
-["SetCameraStageCenter"] = [[loadstring()]];
-["UpdateCameraParameter"] = [[upvalue]];
-["PlayerHeliSpaceToPrepareSpace"] = [[loadstring()]];
-["GetExceptGameStatusOnSortieMenu"] = [[loadstring()]];
-["GetFobTutorialSequenceName"] = [[loadstring()]];
-["EQUIP_MISSION_BLOCK_GROUP_SIZE"] = 0;
-["AddCommonHeliSpaceMessage"] = [[upvalue]];
-["EnableGameStatusFunction"] = [[loadstring()]];
-["RealizeHeliPilot"] = [[loadstring()]];
-["StartPilotMotion"] = [[loadstring()]];
-["OnTerminate"] = [[loadstring()]];
-["MAX_PLACED_LOCATOR_COUNT"] = 1;
-["DisableGameStatusFunction"] = [[loadstring()]];
-["DebugUpdate"] = [[loadstring()]];
-["MAX_PICKABLE_LOCATOR_COUNT"] = 1;
-["StopRain"] = [[loadstring()]];
-["OnSelectLandPoint"] = [[loadstring()]];
-["ALWAYS_APPLY_TEMPORATY_PLAYER_PARTS_SETTING"] = true;
-["AddHeliSpaceDebugMenu"] = [[loadstring()]];
-["_scriptInstanceId"] = [[userdata]]
+AcquireHelispaceStartCassetteTape() = [[loadstring()]];
+AddCommonHeliSpaceMessage() = [[upvalue]];
+AddHeliSpaceDebugMenu() = [[loadstring()]];
+ClearMissionListGuidanceLimitation() = [[upvalue]];
+ClearTerminalAttentionIcon() = [[upvalue]];
+CommonBuddyHeliSpaceSetting() = [[loadstring()]];
+DebugUpdate() = [[loadstring()]];
+DisableGameStatusFunction() = [[loadstring()]];
+DisableGameStatusOnHelispace() = [[loadstring()]];
+EnableGameStatusFunction() = [[loadstring()]];
+GetExceptGameStatusOnSortieMenu() = [[loadstring()]];
+GetFobTutorialSequenceName() = [[loadstring()]];
+Messages() = [[upvalue]];
+MissionPrepare() = [[upvalue]];
+OnAbortMissionPreparation() = [[loadstring()]];
+OnBuddyBlockLoad() = [[upvalue]];
+OnEndFadeOutGoToMGO() = [[loadstring()]];
+OnEndFadeOutMissionPreparetionEnd() = [[loadstring()]];
+OnEndFadeOutSelectLandingPoint() = [[loadstring()]];
+OnEndMissionPrepareSequence() = [[upvalue]];
+OnLoad() = [[upvalue]];
+OnMissionPreparetionEnd() = [[upvalue]];
+OnRestoreSVars() = [[loadstring()]];
+OnSelectLandPoint() = [[loadstring()]];
+OnStartFobMission() = [[loadstring()]];
+OnTerminate() = [[loadstring()]];
+OnUpdate() = [[upvalue]];
+OnUpdateChunkInstalling() = [[upvalue]];
+OverrideFadeInGameStatus() = [[loadstring()]];
+PlayerHeliSpaceToPrepareSpace() = [[loadstring()]];
+PlayerPrepareSpaceToHeliSpace() = [[loadstring()]];
+RealizeHeliPilot() = [[loadstring()]];
+RestoreClock() = [[loadstring()]];
+RestoreWeather() = [[loadstring()]];
+SaveCurrentClock() = [[loadstring()]];
+SelectGoToMGO() = [[loadstring()]];
+SelectPauseMenuOpenStore() = [[loadstring()]];
+SetBuddyHeliSpaceSetting() = [[upvalue]];
+SetCameraStageCenter() = [[loadstring()]];
+SetCameraStageCenter_Go() = [[loadstring()]];
+SetCameraStageCenter_GoOut() = [[loadstring()]];
+SetCustomizePreviewPosition() = [[loadstring()]];
+SetEditingTimeAndWeather() = [[loadstring()]];
+SetMissionPrepPreviewPosition() = [[loadstring()]];
+SetMissionPrepPreviewRotation() = [[loadstring()]];
+SetPandemicTutorialMbMenuActive() = [[upvalue]];
+SetTerminalAttentionIcon() = [[loadstring()]];
+StartPilotMotion() = [[loadstring()]];
+StartRain() = [[loadstring()]];
+StopRain() = [[loadstring()]];
+TitleModeOnEnterFunction() = [[loadstring()]];
+UpdateCameraParameter() = [[upvalue]];
+
 ["DEBUG_strCode32List"] = {
 	[1] = "MissionPrep_Start";
 	[2] = "MissionPrep_Abort";
@@ -87,27 +78,40 @@
 	[24] = "MissionPrep_FocusTarget_None";
 	[25] = "MbDvcActSelectAvatarMenu";
 };
-["SetEditingTimeAndWeather"] = [[loadstring()]];
-["SelectPauseMenuOpenStore"] = [[loadstring()]];
-["SelectGoToMGO"] = [[loadstring()]];
-["OnEndFadeOutGoToMGO"] = [[loadstring()]];
-["TitleModeOnEnterFunction"] = [[loadstring()]];
-["StartRain"] = [[loadstring()]];
-["OnEndFadeOutSelectLandingPoint"] = [[loadstring()]];
-["ClearMissionListGuidanceLimitation"] = [[upvalue]];
+["_messageExecTable"] = {
+	[3105039150] = {
+		[824988796] = {
+			["senderOption"] = {
+				[3704233593] = {
+					[2357387275] = true;
+				};
+			};
+			["sender"] = {
+				[3704233593] = [[loadstring()]];
+			};
+		};
+		[1201114382] = {
+			["func"] = [[loadstring()]];
+		};
+	};
+	[4133365783] = {
+		[1378767181] = {
+			["func"] = [[loadstring()]];
+		};
+		[2878679236] = {
+			["func"] = [[loadstring()]];
+		};
+	};
+};
 ["saveVarsList"] = {
 	["showInfoTypingText"] = false;
 };
-["OnLoad"] = [[upvalue]];
+
+["ALWAYS_APPLY_TEMPORATY_PLAYER_PARTS_SETTING"] = true;
+["EQUIP_MISSION_BLOCK_GROUP_SIZE"] = 0;
+["MAX_PICKABLE_LOCATOR_COUNT"] = 1;
+["MAX_PLACED_LOCATOR_COUNT"] = 1;
 ["_scriptPath"] = "heli_common_sequence";
-["SetCustomizePreviewPosition"] = [[loadstring()]];
-["AcquireHelispaceStartCassetteTape"] = [[loadstring()]];
-["OnBuddyBlockLoad"] = [[upvalue]];
-["RestoreWeather"] = [[loadstring()]];
-["MissionPrepare"] = [[upvalue]];
-["DisableGameStatusOnHelispace"] = [[loadstring()]];
-["OnEndMissionPrepareSequence"] = [[upvalue]];
-["RestoreClock"] = [[loadstring()]];
-["SaveCurrentClock"] = [[loadstring()]];
-["SetMissionPrepPreviewRotation"] = [[loadstring()]];
-["CommonBuddyHeliSpaceSetting"] = [[loadstring()]];
+
+["_scriptInstanceId"] = [[userdata]]
+

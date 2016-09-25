@@ -1,5 +1,7 @@
+GetCyprusStep() = [[upvalue]];
+IsCyprusBlockControllerCreated() = [[upvalue]];
+IsCyprusLoading() = [[upvalue]];
+SetCyprusStep() = [[upvalue]];
+
 ["_className"] = "TppCyprusBlockControl";
-["IsCyprusLoading"] = [[upvalue]];
-["IsCyprusBlockControllerCreated"] = [[upvalue]];
-["SetCyprusStep"] = [[upvalue]];
-["GetCyprusStep"] = [[upvalue]];
+

@@ -26,4 +26,6 @@
 	["SM_2040_NOKILL"] = [[upvalue]];
 	["SR_6015_NOKILL"] = [[upvalue]];
 };
+
 [-285212672] = 0;
+

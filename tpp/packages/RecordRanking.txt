@@ -1,5 +1,6 @@
-["GetMissionBordId"] = [[non-lua function]];
-["GetMissionLimitBordId"] = [[non-lua function]];
-["RegistRanking"] = [[non-lua function]];
-["WriteServerRankingScore"] = [[non-lua function]];
-["IsRankingBusy"] = [[non-lua function]];
+GetMissionBordId() = [[non-lua function]];
+GetMissionLimitBordId() = [[non-lua function]];
+IsRankingBusy() = [[non-lua function]];
+RegistRanking() = [[non-lua function]];
+WriteServerRankingScore() = [[non-lua function]];
+

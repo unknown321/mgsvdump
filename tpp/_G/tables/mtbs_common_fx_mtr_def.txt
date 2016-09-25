@@ -102,5 +102,8 @@
 	};
 	["material"] = "MTR_CONC_A";
 };
+
 ["_scriptPath"] = "mtbs_common_fx_mtr_def";
+
 ["_scriptInstanceId"] = [[userdata]]
+

@@ -1,5 +1,3 @@
-["_scriptPath"] = "LevelUpUi";
-["_scriptInstanceId"] = [[userdata]]
 ["widgets"] = {
 	[1] = {
 		["type"] = "MgoUiAnimation";
@@ -52,3 +50,8 @@
 		["source"] = "";
 	};
 };
+
+["_scriptPath"] = "LevelUpUi";
+
+["_scriptInstanceId"] = [[userdata]]
+

@@ -1,4 +1,6 @@
+GetDefaultVoiceLanguage() = [[upvalue]];
+GetInstance() = [[upvalue]];
+SetDefaultVoiceLanguage() = [[upvalue]];
+
 ["_className"] = "SubtitlesDaemon";
-["GetInstance"] = [[upvalue]];
-["GetDefaultVoiceLanguage"] = [[upvalue]];
-["SetDefaultVoiceLanguage"] = [[upvalue]];
+

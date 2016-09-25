@@ -1,2 +1,4 @@
+SwitchMethod() = [[upvalue]];
+
 ["_className"] = "GrPluginGlobalVolumetricFog";
-["SwitchMethod"] = [[upvalue]];
+

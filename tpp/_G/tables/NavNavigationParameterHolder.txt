@@ -1,2 +1,4 @@
+InsertNavigationParameter() = [[upvalue]];
+
 ["_className"] = "NavNavigationParameterHolder";
-["InsertNavigationParameter"] = [[upvalue]];
+

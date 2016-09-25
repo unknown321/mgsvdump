@@ -1,26 +1,16 @@
-["SetupTypingTextMessages"] = [[upvalue]];
-["_scriptPath"] = "mtbs_baseTelop";
-["Messages"] = [[upvalue]];
-["_scriptInstanceId"] = [[userdata]]
-["OnInitialize"] = [[upvalue]];
-["_OnTrap"] = [[upvalue]];
-["_OnEnterForUpdateFobClearedPlantCount"] = [[loadstring()]];
-["messageExecTable"] = {
-	[2524903270] = {
-	};
-	[3087473413] = {
-		[4187264311] = {
-			["func"] = [[upvalue]];
-		};
-	};
-};
-["OnReload"] = [[upvalue]];
-["_OnTelop"] = [[loadstring()]];
-["OnMessage"] = [[upvalue]];
-["DispBaseName"] = [[upvalue]];
-["_OnTelopStart"] = [[upvalue]];
-["DisableBaseName"] = [[loadstring()]];
-["DispBaseNameNoTelop"] = [[loadstring()]];
+DisableBaseName() = [[loadstring()]];
+DispBaseName() = [[upvalue]];
+DispBaseNameNoTelop() = [[loadstring()]];
+Messages() = [[upvalue]];
+OnInitialize() = [[upvalue]];
+OnMessage() = [[upvalue]];
+OnReload() = [[upvalue]];
+SetupTypingTextMessages() = [[upvalue]];
+_OnEnterForUpdateFobClearedPlantCount() = [[loadstring()]];
+_OnTelop() = [[loadstring()]];
+_OnTelopStart() = [[upvalue]];
+_OnTrap() = [[upvalue]];
+
 ["cpLangIdTable"] = {
 	[1] = {
 		[1] = "platform_main";
@@ -83,3 +73,17 @@
 		[3] = "platform_en_isolation";
 	};
 };
+["messageExecTable"] = {
+	[2524903270] = {
+	};
+	[3087473413] = {
+		[4187264311] = {
+			["func"] = [[upvalue]];
+		};
+	};
+};
+
+["_scriptPath"] = "mtbs_baseTelop";
+
+["_scriptInstanceId"] = [[userdata]]
+

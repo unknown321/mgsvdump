@@ -1,2 +1,4 @@
+GetMembers() = [[upvalue]];
+
 ["_className"] = "Group";
-["GetMembers"] = [[upvalue]];
+

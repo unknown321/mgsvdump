@@ -1,5 +1,3 @@
-["_scriptPath"] = "CharacterModLoadoutSelect";
-["_scriptInstanceId"] = [[userdata]]
 ["widgets"] = {
 	[1] = {
 		["widgets"] = {
@@ -969,3 +967,8 @@
 		["source"] = "mgo_idroid_char_desc";
 	};
 };
+
+["_scriptPath"] = "CharacterModLoadoutSelect";
+
+["_scriptInstanceId"] = [[userdata]]
+

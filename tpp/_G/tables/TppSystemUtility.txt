@@ -1,4 +1,6 @@
+ConfigDefaultPadAssigns() = [[upvalue]];
+GetCurrentGameMode() = [[upvalue]];
+SetCurrentGameMode() = [[upvalue]];
+
 ["_className"] = "TppSystemUtility";
-["GetCurrentGameMode"] = [[upvalue]];
-["ConfigDefaultPadAssigns"] = [[upvalue]];
-["SetCurrentGameMode"] = [[upvalue]];
+

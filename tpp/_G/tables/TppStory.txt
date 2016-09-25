@@ -1,251 +1,91 @@
-["ProceedStorySequence"] = [[upvalue]];
-["UpdateMissionCleardFlag"] = [[loadstring()]];
-["DecreaseElapsedMissionClearCount"] = [[upvalue]];
-["CompleteAllNormalMissionSRankCleared"] = [[loadstring()]];
-["FailedRetakeThePlatformIfOpened"] = [[upvalue]];
-["CanArrivalHueyInMB"] = [[upvalue]];
-["IsNowOccurringElapsedMission"] = [[upvalue]];
-["FailedRetakeThePlatform"] = [[upvalue]];
-["GetStorySequenceName"] = [[loadstring()]];
-["SetMissionClearedS10030"] = [[upvalue]];
-["StartElapsedMissionEvent"] = [[upvalue]];
-["storySequenceTable"] = {
-	[1] = {
-		["main"] = "s10010";
-	};
-	[2] = {
-		["main"] = "s10020";
-	};
-	[3] = {
-		["main"] = "s10030";
-	};
-	[4] = {
-		["flag"] = {
-			[1] = "s10036";
-			[2] = "s10043";
-			[3] = "s10033";
-		};
-		["proceedCount"] = 2;
-	};
-	[5] = {
-		["main"] = "s10040";
-	};
-	[6] = {
-		["sub"] = {
-			[1] = "s10050";
-		};
-		["updateTiming"] = {
-			["OnMissionStart"] = true;
-			["OnCompletedPlatform"] = true;
-		};
-		["flag"] = {
-			[1] = "s10041";
-			[2] = "s10044";
-			[3] = "s10052";
-			[4] = "s10054";
-		};
-		["proceedCount"] = 3;
-		["condition"] = [[loadstring()]];
-		["defaultClose"] = {
-			["s10050"] = true;
-		};
-	};
-	[7] = {
-		["main"] = "s10070";
-		["defaultClose"] = {
-			["s10070"] = true;
-		};
-	};
-	[8] = {
-		["main"] = "s10080";
-	};
-	[9] = {
-		["flag"] = {
-			[1] = "s10086";
-		};
-	};
-	[10] = {
-		["flag"] = {
-			[1] = "s10082";
-		};
-	};
-	[11] = {
-		["main"] = "s10090";
-		["condition"] = [[loadstring()]];
-	};
-	[12] = {
-		["flag"] = {
-			[1] = "s10091";
-		};
-	};
-	[13] = {
-		["main"] = "s10100";
-		["flag"] = {
-			[1] = "s10195";
-		};
-	};
-	[14] = {
-		["main"] = "s10110";
-	};
-	[15] = {
-		["flag"] = {
-			[1] = "s10121";
-			[2] = "s10115";
-		};
-		["defaultClose"] = {
-			["s10115"] = true;
-		};
-	};
-	[16] = {
-		["main"] = "s10120";
-	};
-	[17] = {
-		["flag"] = {
-			[1] = "s10085";
-			[2] = "s10200";
-		};
-	};
-	[18] = {
-		["flag"] = {
-			[1] = "s10211";
-		};
-		["condition"] = [[loadstring()]];
-	};
-	[19] = {
-		["flag"] = {
-			[1] = "s10081";
-		};
-	};
-	[20] = {
-		["main"] = "s10130";
-	};
-	[21] = {
-		["main"] = "s10140";
-	};
-	[22] = {
-		["main"] = "s10150";
-	};
-	[23] = {
-		["main"] = "s10151";
-		["condition"] = [[upvalue]];
-	};
-	[24] = {
-		["flag"] = {
-			[1] = "s10045";
-		};
-		["sub"] = {
-			[1] = "s11043";
-			[2] = "s11054";
-		};
-		["condition"] = [[upvalue]];
-		["updateTiming"] = {
-			["OnMissionStart"] = true;
-			["OnSideOpsClear"] = true;
-		};
-	};
-	[25] = {
-		["flag"] = {
-			[1] = "s10093";
-		};
-		["sub"] = {
-			[1] = "s11082";
-			[2] = "s11090";
-		};
-		["condition"] = [[loadstring()]];
-		["updateTiming"] = {
-			["OnMissionStart"] = true;
-			["OnSideOpsClear"] = true;
-		};
-	};
-	[26] = {
-		["sub"] = {
-			[1] = "s11033";
-			[2] = "s11050";
-		};
-		["updateTiming"] = {
-			["OnMissionStart"] = true;
-			["OnSideOpsClear"] = true;
-		};
-		["flag"] = {
-			[1] = "s10156";
-		};
-		["condition"] = [[loadstring()]];
-		["defaultClose"] = {
-			["s11050"] = true;
-		};
-	};
-	[27] = {
-		["main"] = "s10171";
-		["condition"] = [[upvalue]];
-	};
-	[28] = {
-		["sub"] = {
-			[1] = "s11140";
-		};
-		["condition"] = [[upvalue]];
-		["updateTiming"] = {
-			["OnUpdateCheckPoint"] = true;
-			["OnSideOpsClear"] = true;
-			["OnMissionStart"] = true;
-		};
-	};
-	[29] = {
-		["defaultClose"] = {
-			["s10240"] = true;
-		};
-		["main"] = "s10240";
-		["condition"] = [[upvalue]];
-	};
-	[30] = {
-		["sub"] = {
-			[1] = "s11080";
-		};
-		["condition"] = [[upvalue]];
-		["updateTiming"] = {
-			["OnMissionStart"] = true;
-			["OnSideOpsClear"] = true;
-		};
-	};
-	[31] = {
-		["sub"] = {
-			[1] = "s11121";
-		};
-		["condition"] = [[upvalue]];
-		["updateTiming"] = {
-			["OnMissionStart"] = true;
-			["OnSideOpsClear"] = true;
-		};
-	};
-	[32] = {
-		["sub"] = {
-			[1] = "s11130";
-			[2] = "s11044";
-			[3] = "s11151";
-			[4] = "s10260";
-			[5] = "s10280";
-		};
-		["defaultClose"] = {
-			["s10260"] = true;
-			["s10280"] = true;
-		};
-		["condition"] = [[upvalue]];
-		["updateTiming"] = {
-			["BeforeBuddyBlockLoad"] = true;
-		};
-	};
-	[33] = {
-	};
-	[34] = {
-	};
-};
-["SetUpStorySequenceTable"] = [[upvalue]];
-["DEBUG_SetStorySequence"] = [[upvalue]];
-["GetStoryRadioListFromIndex"] = [[upvalue]];
-["MissionClose"] = [[upvalue]];
-["IsAlwaysOpenRetakeThePlatform"] = [[upvalue]];
-["CanPlayReunionQuietMission"] = [[loadstring()]];
-["CanPlayMgo"] = [[loadstring()]];
-["CompleteAllHardMissionCleared"] = [[loadstring()]];
+CalcAllMissionClearedCount() = [[loadstring()]];
+CalcAllMissionTaskCompletedCount() = [[loadstring()]];
+CanArrivalAIPodInMB() = [[loadstring()]];
+CanArrivalChildrenInMB() = [[upvalue]];
+CanArrivalCodeTalkerInMB() = [[upvalue]];
+CanArrivalDDogInMB() = [[loadstring()]];
+CanArrivalHueyInMB() = [[upvalue]];
+CanArrivalLiquidInMB() = [[upvalue]];
+CanArrivalQuietInMB() = [[loadstring()]];
+CanArrivalSahelanInMB() = [[upvalue]];
+CanOccurRetakeThePlatform() = [[upvalue]];
+CanOpenS10240() = [[upvalue]];
+CanOpenS10260() = [[loadstring()]];
+CanOpenS10280() = [[loadstring()]];
+CanPlayDemoOrRadio() = [[upvalue]];
+CanPlayMgo() = [[loadstring()]];
+CanPlayReunionQuietMission() = [[loadstring()]];
+CanReunionQuiet() = [[loadstring()]];
+CheckAllMissionCleared() = [[loadstring()]];
+CheckAndOpenRetakeThePlatform() = [[upvalue]];
+CheckNeedProceedStorySequence() = [[upvalue]];
+CloseEmergencyMission() = [[loadstring()]];
+CloseRetakeThePlatform() = [[upvalue]];
+CompleteAllHardMissionCleared() = [[loadstring()]];
+CompleteAllHardMissionSRankCleared() = [[loadstring()]];
+CompleteAllMissionCleared() = [[loadstring()]];
+CompleteAllMissionSRankCleared() = [[loadstring()]];
+CompleteAllNormalMissionCleared() = [[loadstring()]];
+CompleteAllNormalMissionSRankCleared() = [[loadstring()]];
+DEBUG_ClearQuestForTest() = [[loadstring()]];
+DEBUG_GetUnclearedMissionCode() = [[loadstring()]];
+DEBUG_InitQuestFlagsForTest() = [[loadstring()]];
+DEBUG_SetNeedStoryTest() = [[upvalue]];
+DEBUG_SetStorySequence() = [[upvalue]];
+DEBUG_TestStorySequence() = [[upvalue]];
+DecreaseElapsedMissionClearCount() = [[upvalue]];
+DisableMissionNewOpenFlag() = [[upvalue]];
+EnableMissionNewOpenFlag() = [[upvalue]];
+FailedRetakeThePlatform() = [[upvalue]];
+FailedRetakeThePlatformIfOpened() = [[upvalue]];
+GetBattleGearDevelopLevel() = [[upvalue]];
+GetClearedMissionCount() = [[upvalue]];
+GetCurrentFreeHeliRadioList() = [[loadstring()]];
+GetCurrentStorySequence() = [[loadstring()]];
+GetCurrentStorySequenceTable() = [[upvalue]];
+GetElapsedMissionCount() = [[upvalue]];
+GetElapsedMissionEventName() = [[loadstring()]];
+GetForceMBDemoNameOrRadioList() = [[upvalue]];
+GetOpenMissionCount() = [[loadstring()]];
+GetStoryRadioListFromIndex() = [[upvalue]];
+GetStorySequenceName() = [[loadstring()]];
+GetStorySequenceTable() = [[upvalue]];
+HueyHasKantokuGrass() = [[upvalue]];
+IncrementStorySequence() = [[loadstring()]];
+Init() = [[upvalue]];
+IsAlwaysOpenRetakeThePlatform() = [[upvalue]];
+IsCompletedMbMedicalSpecialPlatform() = [[loadstring()]];
+IsDoneEvent() = [[loadstring()]];
+IsMainMission() = [[upvalue]];
+IsMissionCleard() = [[loadstring()]];
+IsMissionOpen() = [[loadstring()]];
+IsNowOccurringElapsedMission() = [[upvalue]];
+IsOccuringBossQuiet() = [[upvalue]];
+MissionClose() = [[upvalue]];
+MissionOpen() = [[upvalue]];
+OnReload() = [[upvalue]];
+OpenRetakeThePlatform() = [[upvalue]];
+PermitMissionOpen() = [[loadstring()]];
+ProceedStorySequence() = [[upvalue]];
+RequestLoseQuiet() = [[loadstring()]];
+RequestReunionQuiet() = [[upvalue]];
+ResetCounterReunionQuiet() = [[loadstring()]];
+SetDoneElapsedMission() = [[upvalue]];
+SetMissionClearedS10030() = [[upvalue]];
+SetMissionNewOpenFlag() = [[loadstring()]];
+SetMissionOpenFlag() = [[loadstring()]];
+SetUpStorySequenceTable() = [[upvalue]];
+StartElapsedMissionEvent() = [[upvalue]];
+UpdateCounterReunionQuiet() = [[loadstring()]];
+UpdateDemoFlagQuietWishGoMission() = [[upvalue]];
+UpdateMissionCleardFlag() = [[loadstring()]];
+UpdateStorySequence() = [[upvalue]];
+UpdateStorySequenceOnMissionClear() = [[upvalue]];
+_GetRadioList() = [[loadstring()]];
+_UpdateS10260OpenFlag() = [[upvalue]];
+_UpdateS11050OpenFlag() = [[upvalue]];
+_UpdateStorySequence() = [[upvalue]];
+
 ["PLAY_DEMO_END_MISSION"] = {
 	[10010] = true;
 	[10150] = true;
@@ -275,8 +115,6 @@
 	[11050] = true;
 	[10151] = true;
 };
-["_scriptInstanceId"] = [[userdata]]
-["CanArrivalSahelanInMB"] = [[upvalue]];
 ["eventPlayTimmingTable"] = {
 	["afterMBDemo"] = {
 		[1] = {
@@ -765,295 +603,6 @@
 		};
 	};
 };
-["CanOccurRetakeThePlatform"] = [[upvalue]];
-["storySequenceTable_Master"] = {
-	[1] = {
-		["main"] = "s10010";
-	};
-	[2] = {
-		["main"] = "s10020";
-	};
-	[3] = {
-		["main"] = "s10030";
-	};
-	[4] = {
-		["flag"] = {
-			[1] = "s10036";
-			[2] = "s10043";
-			[3] = "s10033";
-		};
-		["proceedCount"] = 2;
-	};
-	[5] = {
-		["main"] = "s10040";
-	};
-	[6] = {
-		["sub"] = {
-			[1] = "s10050";
-		};
-		["updateTiming"] = {
-			["OnMissionStart"] = true;
-			["OnCompletedPlatform"] = true;
-		};
-		["flag"] = {
-			[1] = "s10041";
-			[2] = "s10044";
-			[3] = "s10052";
-			[4] = "s10054";
-		};
-		["proceedCount"] = 3;
-		["condition"] = [[loadstring()]];
-		["defaultClose"] = {
-			["s10050"] = true;
-		};
-	};
-	[7] = {
-		["main"] = "s10070";
-		["defaultClose"] = {
-			["s10070"] = true;
-		};
-	};
-	[8] = {
-		["main"] = "s10080";
-	};
-	[9] = {
-		["flag"] = {
-			[1] = "s10086";
-		};
-	};
-	[10] = {
-		["flag"] = {
-			[1] = "s10082";
-		};
-	};
-	[11] = {
-		["main"] = "s10090";
-		["condition"] = [[loadstring()]];
-	};
-	[12] = {
-		["flag"] = {
-			[1] = "s10091";
-		};
-	};
-	[13] = {
-		["main"] = "s10100";
-		["flag"] = {
-			[1] = "s10195";
-		};
-	};
-	[14] = {
-		["main"] = "s10110";
-	};
-	[15] = {
-		["flag"] = {
-			[1] = "s10121";
-			[2] = "s10115";
-		};
-		["defaultClose"] = {
-			["s10115"] = true;
-		};
-	};
-	[16] = {
-		["main"] = "s10120";
-	};
-	[17] = {
-		["flag"] = {
-			[1] = "s10085";
-			[2] = "s10200";
-		};
-	};
-	[18] = {
-		["flag"] = {
-			[1] = "s10211";
-		};
-		["condition"] = [[loadstring()]];
-	};
-	[19] = {
-		["flag"] = {
-			[1] = "s10081";
-		};
-	};
-	[20] = {
-		["main"] = "s10130";
-	};
-	[21] = {
-		["main"] = "s10140";
-	};
-	[22] = {
-		["main"] = "s10150";
-	};
-	[23] = {
-		["main"] = "s10151";
-		["condition"] = [[upvalue]];
-	};
-	[24] = {
-		["flag"] = {
-			[1] = "s10045";
-		};
-		["sub"] = {
-			[1] = "s11043";
-			[2] = "s11054";
-		};
-		["condition"] = [[upvalue]];
-		["updateTiming"] = {
-			["OnMissionStart"] = true;
-			["OnSideOpsClear"] = true;
-		};
-	};
-	[25] = {
-		["flag"] = {
-			[1] = "s10093";
-		};
-		["sub"] = {
-			[1] = "s11082";
-			[2] = "s11090";
-		};
-		["condition"] = [[loadstring()]];
-		["updateTiming"] = {
-			["OnMissionStart"] = true;
-			["OnSideOpsClear"] = true;
-		};
-	};
-	[26] = {
-		["sub"] = {
-			[1] = "s11033";
-			[2] = "s11050";
-		};
-		["updateTiming"] = {
-			["OnMissionStart"] = true;
-			["OnSideOpsClear"] = true;
-		};
-		["flag"] = {
-			[1] = "s10156";
-		};
-		["condition"] = [[loadstring()]];
-		["defaultClose"] = {
-			["s11050"] = true;
-		};
-	};
-	[27] = {
-		["main"] = "s10171";
-		["condition"] = [[upvalue]];
-	};
-	[28] = {
-		["sub"] = {
-			[1] = "s11140";
-		};
-		["condition"] = [[upvalue]];
-		["updateTiming"] = {
-			["OnUpdateCheckPoint"] = true;
-			["OnSideOpsClear"] = true;
-			["OnMissionStart"] = true;
-		};
-	};
-	[29] = {
-		["defaultClose"] = {
-			["s10240"] = true;
-		};
-		["main"] = "s10240";
-		["condition"] = [[upvalue]];
-	};
-	[30] = {
-		["sub"] = {
-			[1] = "s11080";
-		};
-		["condition"] = [[upvalue]];
-		["updateTiming"] = {
-			["OnMissionStart"] = true;
-			["OnSideOpsClear"] = true;
-		};
-	};
-	[31] = {
-		["sub"] = {
-			[1] = "s11121";
-		};
-		["condition"] = [[upvalue]];
-		["updateTiming"] = {
-			["OnMissionStart"] = true;
-			["OnSideOpsClear"] = true;
-		};
-	};
-	[32] = {
-		["sub"] = {
-			[1] = "s11130";
-			[2] = "s11044";
-			[3] = "s11151";
-			[4] = "s10260";
-			[5] = "s10280";
-		};
-		["defaultClose"] = {
-			["s10260"] = true;
-			["s10280"] = true;
-		};
-		["condition"] = [[upvalue]];
-		["updateTiming"] = {
-			["BeforeBuddyBlockLoad"] = true;
-		};
-	};
-	[33] = {
-	};
-	[34] = {
-	};
-};
-["GetOpenMissionCount"] = [[loadstring()]];
-["DisableMissionNewOpenFlag"] = [[upvalue]];
-["CanOpenS10280"] = [[loadstring()]];
-["CanOpenS10260"] = [[loadstring()]];
-["CanPlayDemoOrRadio"] = [[upvalue]];
-["GetClearedMissionCount"] = [[upvalue]];
-["DEBUG_SetNeedStoryTest"] = [[upvalue]];
-["CanArrivalAIPodInMB"] = [[loadstring()]];
-["_UpdateStorySequence"] = [[upvalue]];
-["GetForceMBDemoNameOrRadioList"] = [[upvalue]];
-["_scriptPath"] = "TppStory";
-["SetMissionNewOpenFlag"] = [[loadstring()]];
-["OnReload"] = [[upvalue]];
-["_GetRadioList"] = [[loadstring()]];
-["GetCurrentFreeHeliRadioList"] = [[loadstring()]];
-["EnableMissionNewOpenFlag"] = [[upvalue]];
-["DEBUG_ClearQuestForTest"] = [[loadstring()]];
-["_UpdateS10260OpenFlag"] = [[upvalue]];
-["CheckNeedProceedStorySequence"] = [[upvalue]];
-["UpdateStorySequenceOnMissionClear"] = [[upvalue]];
-["RequestLoseQuiet"] = [[loadstring()]];
-["DEBUG_TestStorySequence"] = [[upvalue]];
-["CheckAndOpenRetakeThePlatform"] = [[upvalue]];
-["CloseRetakeThePlatform"] = [[upvalue]];
-["DEBUG_GetUnclearedMissionCode"] = [[loadstring()]];
-["UpdateCounterReunionQuiet"] = [[loadstring()]];
-["GetElapsedMissionEventName"] = [[loadstring()]];
-["IsDoneEvent"] = [[loadstring()]];
-["CompleteAllHardMissionSRankCleared"] = [[loadstring()]];
-["OpenRetakeThePlatform"] = [[upvalue]];
-["GetCurrentStorySequenceTable"] = [[upvalue]];
-["GetBattleGearDevelopLevel"] = [[upvalue]];
-["ResetCounterReunionQuiet"] = [[loadstring()]];
-["CanArrivalChildrenInMB"] = [[upvalue]];
-["GetElapsedMissionCount"] = [[upvalue]];
-["CanArrivalLiquidInMB"] = [[upvalue]];
-["CloseEmergencyMission"] = [[loadstring()]];
-["MissionOpen"] = [[upvalue]];
-["HueyHasKantokuGrass"] = [[upvalue]];
-["CanArrivalCodeTalkerInMB"] = [[upvalue]];
-["CanReunionQuiet"] = [[loadstring()]];
-["CanArrivalDDogInMB"] = [[loadstring()]];
-["RequestReunionQuiet"] = [[upvalue]];
-["CalcAllMissionClearedCount"] = [[loadstring()]];
-["CompleteAllMissionSRankCleared"] = [[loadstring()]];
-["DEBUG_InitQuestFlagsForTest"] = [[loadstring()]];
-["CanOpenS10240"] = [[upvalue]];
-["IsMainMission"] = [[upvalue]];
-["CanArrivalQuietInMB"] = [[loadstring()]];
-["IncrementStorySequence"] = [[loadstring()]];
-["IsOccuringBossQuiet"] = [[upvalue]];
-["IsCompletedMbMedicalSpecialPlatform"] = [[loadstring()]];
-["GetCurrentStorySequence"] = [[loadstring()]];
-["CompleteAllMissionCleared"] = [[loadstring()]];
-["SetMissionOpenFlag"] = [[loadstring()]];
-["Init"] = [[upvalue]];
-["GetStorySequenceTable"] = [[upvalue]];
-["IsMissionOpen"] = [[loadstring()]];
-["SetDoneElapsedMission"] = [[upvalue]];
 ["radioDemoTable"] = {
 	["OpenCodeTalker"] = {
 		["detailCondition"] = [[loadstring()]];
@@ -1750,11 +1299,466 @@
 		};
 	};
 };
-["CompleteAllNormalMissionCleared"] = [[loadstring()]];
-["CheckAllMissionCleared"] = [[loadstring()]];
-["_UpdateS11050OpenFlag"] = [[upvalue]];
-["UpdateStorySequence"] = [[upvalue]];
-["PermitMissionOpen"] = [[loadstring()]];
-["CalcAllMissionTaskCompletedCount"] = [[loadstring()]];
-["UpdateDemoFlagQuietWishGoMission"] = [[upvalue]];
-["IsMissionCleard"] = [[loadstring()]];
+["storySequenceTable"] = {
+	[1] = {
+		["main"] = "s10010";
+	};
+	[2] = {
+		["main"] = "s10020";
+	};
+	[3] = {
+		["main"] = "s10030";
+	};
+	[4] = {
+		["flag"] = {
+			[1] = "s10036";
+			[2] = "s10043";
+			[3] = "s10033";
+		};
+		["proceedCount"] = 2;
+	};
+	[5] = {
+		["main"] = "s10040";
+	};
+	[6] = {
+		["sub"] = {
+			[1] = "s10050";
+		};
+		["updateTiming"] = {
+			["OnMissionStart"] = true;
+			["OnCompletedPlatform"] = true;
+		};
+		["flag"] = {
+			[1] = "s10041";
+			[2] = "s10044";
+			[3] = "s10052";
+			[4] = "s10054";
+		};
+		["proceedCount"] = 3;
+		["condition"] = [[loadstring()]];
+		["defaultClose"] = {
+			["s10050"] = true;
+		};
+	};
+	[7] = {
+		["main"] = "s10070";
+		["defaultClose"] = {
+			["s10070"] = true;
+		};
+	};
+	[8] = {
+		["main"] = "s10080";
+	};
+	[9] = {
+		["flag"] = {
+			[1] = "s10086";
+		};
+	};
+	[10] = {
+		["flag"] = {
+			[1] = "s10082";
+		};
+	};
+	[11] = {
+		["main"] = "s10090";
+		["condition"] = [[loadstring()]];
+	};
+	[12] = {
+		["flag"] = {
+			[1] = "s10091";
+		};
+	};
+	[13] = {
+		["main"] = "s10100";
+		["flag"] = {
+			[1] = "s10195";
+		};
+	};
+	[14] = {
+		["main"] = "s10110";
+	};
+	[15] = {
+		["flag"] = {
+			[1] = "s10121";
+			[2] = "s10115";
+		};
+		["defaultClose"] = {
+			["s10115"] = true;
+		};
+	};
+	[16] = {
+		["main"] = "s10120";
+	};
+	[17] = {
+		["flag"] = {
+			[1] = "s10085";
+			[2] = "s10200";
+		};
+	};
+	[18] = {
+		["flag"] = {
+			[1] = "s10211";
+		};
+		["condition"] = [[loadstring()]];
+	};
+	[19] = {
+		["flag"] = {
+			[1] = "s10081";
+		};
+	};
+	[20] = {
+		["main"] = "s10130";
+	};
+	[21] = {
+		["main"] = "s10140";
+	};
+	[22] = {
+		["main"] = "s10150";
+	};
+	[23] = {
+		["main"] = "s10151";
+		["condition"] = [[upvalue]];
+	};
+	[24] = {
+		["flag"] = {
+			[1] = "s10045";
+		};
+		["sub"] = {
+			[1] = "s11043";
+			[2] = "s11054";
+		};
+		["condition"] = [[upvalue]];
+		["updateTiming"] = {
+			["OnMissionStart"] = true;
+			["OnSideOpsClear"] = true;
+		};
+	};
+	[25] = {
+		["flag"] = {
+			[1] = "s10093";
+		};
+		["sub"] = {
+			[1] = "s11082";
+			[2] = "s11090";
+		};
+		["condition"] = [[loadstring()]];
+		["updateTiming"] = {
+			["OnMissionStart"] = true;
+			["OnSideOpsClear"] = true;
+		};
+	};
+	[26] = {
+		["sub"] = {
+			[1] = "s11033";
+			[2] = "s11050";
+		};
+		["updateTiming"] = {
+			["OnMissionStart"] = true;
+			["OnSideOpsClear"] = true;
+		};
+		["flag"] = {
+			[1] = "s10156";
+		};
+		["condition"] = [[loadstring()]];
+		["defaultClose"] = {
+			["s11050"] = true;
+		};
+	};
+	[27] = {
+		["main"] = "s10171";
+		["condition"] = [[upvalue]];
+	};
+	[28] = {
+		["sub"] = {
+			[1] = "s11140";
+		};
+		["condition"] = [[upvalue]];
+		["updateTiming"] = {
+			["OnUpdateCheckPoint"] = true;
+			["OnSideOpsClear"] = true;
+			["OnMissionStart"] = true;
+		};
+	};
+	[29] = {
+		["defaultClose"] = {
+			["s10240"] = true;
+		};
+		["main"] = "s10240";
+		["condition"] = [[upvalue]];
+	};
+	[30] = {
+		["sub"] = {
+			[1] = "s11080";
+		};
+		["condition"] = [[upvalue]];
+		["updateTiming"] = {
+			["OnMissionStart"] = true;
+			["OnSideOpsClear"] = true;
+		};
+	};
+	[31] = {
+		["sub"] = {
+			[1] = "s11121";
+		};
+		["condition"] = [[upvalue]];
+		["updateTiming"] = {
+			["OnMissionStart"] = true;
+			["OnSideOpsClear"] = true;
+		};
+	};
+	[32] = {
+		["sub"] = {
+			[1] = "s11130";
+			[2] = "s11044";
+			[3] = "s11151";
+			[4] = "s10260";
+			[5] = "s10280";
+		};
+		["defaultClose"] = {
+			["s10260"] = true;
+			["s10280"] = true;
+		};
+		["condition"] = [[upvalue]];
+		["updateTiming"] = {
+			["BeforeBuddyBlockLoad"] = true;
+		};
+	};
+	[33] = {
+	};
+	[34] = {
+	};
+};
+["storySequenceTable_Master"] = {
+	[1] = {
+		["main"] = "s10010";
+	};
+	[2] = {
+		["main"] = "s10020";
+	};
+	[3] = {
+		["main"] = "s10030";
+	};
+	[4] = {
+		["flag"] = {
+			[1] = "s10036";
+			[2] = "s10043";
+			[3] = "s10033";
+		};
+		["proceedCount"] = 2;
+	};
+	[5] = {
+		["main"] = "s10040";
+	};
+	[6] = {
+		["sub"] = {
+			[1] = "s10050";
+		};
+		["updateTiming"] = {
+			["OnMissionStart"] = true;
+			["OnCompletedPlatform"] = true;
+		};
+		["flag"] = {
+			[1] = "s10041";
+			[2] = "s10044";
+			[3] = "s10052";
+			[4] = "s10054";
+		};
+		["proceedCount"] = 3;
+		["condition"] = [[loadstring()]];
+		["defaultClose"] = {
+			["s10050"] = true;
+		};
+	};
+	[7] = {
+		["main"] = "s10070";
+		["defaultClose"] = {
+			["s10070"] = true;
+		};
+	};
+	[8] = {
+		["main"] = "s10080";
+	};
+	[9] = {
+		["flag"] = {
+			[1] = "s10086";
+		};
+	};
+	[10] = {
+		["flag"] = {
+			[1] = "s10082";
+		};
+	};
+	[11] = {
+		["main"] = "s10090";
+		["condition"] = [[loadstring()]];
+	};
+	[12] = {
+		["flag"] = {
+			[1] = "s10091";
+		};
+	};
+	[13] = {
+		["main"] = "s10100";
+		["flag"] = {
+			[1] = "s10195";
+		};
+	};
+	[14] = {
+		["main"] = "s10110";
+	};
+	[15] = {
+		["flag"] = {
+			[1] = "s10121";
+			[2] = "s10115";
+		};
+		["defaultClose"] = {
+			["s10115"] = true;
+		};
+	};
+	[16] = {
+		["main"] = "s10120";
+	};
+	[17] = {
+		["flag"] = {
+			[1] = "s10085";
+			[2] = "s10200";
+		};
+	};
+	[18] = {
+		["flag"] = {
+			[1] = "s10211";
+		};
+		["condition"] = [[loadstring()]];
+	};
+	[19] = {
+		["flag"] = {
+			[1] = "s10081";
+		};
+	};
+	[20] = {
+		["main"] = "s10130";
+	};
+	[21] = {
+		["main"] = "s10140";
+	};
+	[22] = {
+		["main"] = "s10150";
+	};
+	[23] = {
+		["main"] = "s10151";
+		["condition"] = [[upvalue]];
+	};
+	[24] = {
+		["flag"] = {
+			[1] = "s10045";
+		};
+		["sub"] = {
+			[1] = "s11043";
+			[2] = "s11054";
+		};
+		["condition"] = [[upvalue]];
+		["updateTiming"] = {
+			["OnMissionStart"] = true;
+			["OnSideOpsClear"] = true;
+		};
+	};
+	[25] = {
+		["flag"] = {
+			[1] = "s10093";
+		};
+		["sub"] = {
+			[1] = "s11082";
+			[2] = "s11090";
+		};
+		["condition"] = [[loadstring()]];
+		["updateTiming"] = {
+			["OnMissionStart"] = true;
+			["OnSideOpsClear"] = true;
+		};
+	};
+	[26] = {
+		["sub"] = {
+			[1] = "s11033";
+			[2] = "s11050";
+		};
+		["updateTiming"] = {
+			["OnMissionStart"] = true;
+			["OnSideOpsClear"] = true;
+		};
+		["flag"] = {
+			[1] = "s10156";
+		};
+		["condition"] = [[loadstring()]];
+		["defaultClose"] = {
+			["s11050"] = true;
+		};
+	};
+	[27] = {
+		["main"] = "s10171";
+		["condition"] = [[upvalue]];
+	};
+	[28] = {
+		["sub"] = {
+			[1] = "s11140";
+		};
+		["condition"] = [[upvalue]];
+		["updateTiming"] = {
+			["OnUpdateCheckPoint"] = true;
+			["OnSideOpsClear"] = true;
+			["OnMissionStart"] = true;
+		};
+	};
+	[29] = {
+		["defaultClose"] = {
+			["s10240"] = true;
+		};
+		["main"] = "s10240";
+		["condition"] = [[upvalue]];
+	};
+	[30] = {
+		["sub"] = {
+			[1] = "s11080";
+		};
+		["condition"] = [[upvalue]];
+		["updateTiming"] = {
+			["OnMissionStart"] = true;
+			["OnSideOpsClear"] = true;
+		};
+	};
+	[31] = {
+		["sub"] = {
+			[1] = "s11121";
+		};
+		["condition"] = [[upvalue]];
+		["updateTiming"] = {
+			["OnMissionStart"] = true;
+			["OnSideOpsClear"] = true;
+		};
+	};
+	[32] = {
+		["sub"] = {
+			[1] = "s11130";
+			[2] = "s11044";
+			[3] = "s11151";
+			[4] = "s10260";
+			[5] = "s10280";
+		};
+		["defaultClose"] = {
+			["s10260"] = true;
+			["s10280"] = true;
+		};
+		["condition"] = [[upvalue]];
+		["updateTiming"] = {
+			["BeforeBuddyBlockLoad"] = true;
+		};
+	};
+	[33] = {
+	};
+	[34] = {
+	};
+};
+
+["_scriptPath"] = "TppStory";
+
+["_scriptInstanceId"] = [[userdata]]
+

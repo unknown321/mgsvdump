@@ -1,3 +1,5 @@
+GetTransform() = [[upvalue]];
+SetTransform() = [[upvalue]];
+
 ["_className"] = "Camera";
-["SetTransform"] = [[upvalue]];
-["GetTransform"] = [[upvalue]];
+

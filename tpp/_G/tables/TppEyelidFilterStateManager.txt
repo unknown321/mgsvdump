@@ -1,3 +1,5 @@
+GetInstance() = [[upvalue]];
+SetEventStatus() = [[upvalue]];
+
 ["_className"] = "TppEyelidFilterStateManager";
-["GetInstance"] = [[upvalue]];
-["SetEventStatus"] = [[upvalue]];
+

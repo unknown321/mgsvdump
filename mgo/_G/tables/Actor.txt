@@ -1,2 +1,4 @@
+AddToScene() = [[upvalue]];
+
 ["_className"] = "Actor";
-["AddToScene"] = [[upvalue]];
+

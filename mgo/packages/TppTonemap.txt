@@ -1,1 +1,2 @@
-["SetEnable"] = [[non-lua function]];
+SetEnable() = [[non-lua function]];
+

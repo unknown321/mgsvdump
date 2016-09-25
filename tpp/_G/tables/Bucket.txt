@@ -1,14 +1,16 @@
+AddActor() = [[upvalue]];
+GetEditableDataBodySet() = [[upvalue]];
+GetEditableDataSet() = [[upvalue]];
+GetEditableDataSetPath() = [[upvalue]];
+GetScene() = [[upvalue]];
+LoadDataSetFile() = [[upvalue]];
+LoadEditableDataSet() = [[upvalue]];
+LoadProjectFile() = [[upvalue]];
+RecreateDataBody() = [[upvalue]];
+RemoveActor() = [[upvalue]];
+RemoveAll() = [[upvalue]];
+SaveEditableDataSet() = [[upvalue]];
+UnloadDataSetFile() = [[upvalue]];
+
 ["_className"] = "Bucket";
-["RecreateDataBody"] = [[upvalue]];
-["RemoveAll"] = [[upvalue]];
-["GetEditableDataBodySet"] = [[upvalue]];
-["LoadDataSetFile"] = [[upvalue]];
-["GetScene"] = [[upvalue]];
-["LoadEditableDataSet"] = [[upvalue]];
-["SaveEditableDataSet"] = [[upvalue]];
-["GetEditableDataSet"] = [[upvalue]];
-["RemoveActor"] = [[upvalue]];
-["UnloadDataSetFile"] = [[upvalue]];
-["GetEditableDataSetPath"] = [[upvalue]];
-["LoadProjectFile"] = [[upvalue]];
-["AddActor"] = [[upvalue]];
+

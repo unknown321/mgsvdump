@@ -1,1 +1,2 @@
-["RegisterCombatLocatorSetToCpforLua"] = [[non-lua function]];
+RegisterCombatLocatorSetToCpforLua() = [[non-lua function]];
+

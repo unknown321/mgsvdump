@@ -1,3 +1,6 @@
+Choose() = [[loadstring()]];
+
 ["_scriptPath"] = "Random";
-["Choose"] = [[loadstring()]];
+
 ["_scriptInstanceId"] = [[userdata]]
+

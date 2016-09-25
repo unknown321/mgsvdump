@@ -1,128 +1,87 @@
-["_scriptPath"] = "afgh_checkPoint";
 ["CheckPointList"] = {
-["slopedTown"] = {
-[1] = "CHK_slopedTown";
-};
 ["bridge"] = {
-[1] = "CHK_bridge";
-};
-["remnants"] = {
-[1] = "CHK_remnants";
-};
-["waterway"] = {
-[1] = "CHK_waterway";
-};
-["enemyNorth"] = {
-[1] = "CHK_enemyNorth";
-};
-["cliffEast"] = {
-[1] = "CHK_cliffEast";
-};
-["powerPlant"] = {
-[1] = "CHK_powerPlant";
-};
-["enemyBase"] = {
-[1] = "CHK_enemyBase";
-};
-["cliffTown"] = {
-[1] = "CHK_cliffTown";
-};
-["villageWest"] = {
-[1] = "CHK_villageWest";
-};
-["citadelSouth"] = {
-[1] = "CHK_citadelSouth";
-};
-["fieldEast"] = {
-[1] = "CHK_fieldEast";
-};
-["sovietBase"] = {
-[1] = "CHK_sovietBase";
-};
-["village"] = {
-[1] = "CHK_village";
-};
-["fort"] = {
-[1] = "CHK_fort";
-};
-["fortSouth"] = {
-[1] = "CHK_fortSouth";
-};
-["commFacility"] = {
-[1] = "CHK_commFacility";
-};
-["fortWest"] = {
-[1] = "CHK_fortWest";
-};
-["tent"] = {
-[1] = "CHK_tent";
-};
-["villageNorth"] = {
-[1] = "CHK_villageNorth";
-};
-["remnantsNorth"] = {
-[1] = "CHK_remnantsNorth";
-};
-["citadel"] = {
-[1] = "CHK_citadel";
-};
-["tentNorth"] = {
-[1] = "CHK_tentNorth";
-};
-["plantSouth"] = {
-[1] = "CHK_plantSouth";
-};
-["enemyEast"] = {
-[1] = "CHK_enemyEast";
-};
-["fieldWest"] = {
-[1] = "CHK_fieldWest";
-};
-["villageEast"] = {
-[1] = "CHK_villageEast";
-};
-["waterwayEast"] = {
-[1] = "CHK_waterwayEast";
-};
-["tentEast"] = {
-[1] = "CHK_tentEast";
-};
-["ruinsNorth"] = {
-[1] = "CHK_ruinsNorth";
-};
-["ruins"] = {
-[1] = "CHK_ruins";
-};
-["slopedWest"] = {
-[1] = "CHK_slopedWest";
-};
-["cliffWest"] = {
-[1] = "CHK_cliffWest";
-};
-["slopedEast"] = {
-[1] = "CHK_slopedEast";
-};
 ["bridgeNorth"] = {
-[1] = "CHK_bridgeNorth";
-};
-["commWest"] = {
-[1] = "CHK_commWest";
-};
-["sovietSouth"] = {
-[1] = "CHK_sovietSouth";
-};
-["plantWest"] = {
-[1] = "CHK_plantWest";
-};
-["cliffSouth"] = {
-[1] = "CHK_cliffSouth";
-};
 ["bridgeWest"] = {
-[1] = "CHK_bridgeWest";
-};
+["citadel"] = {
+["citadelSouth"] = {
+["cliffEast"] = {
+["cliffSouth"] = {
+["cliffTown"] = {
+["cliffWest"] = {
+["commFacility"] = {
+["commWest"] = {
+["enemyBase"] = {
+["enemyEast"] = {
+["enemyNorth"] = {
 ["field"] = {
-[1] = "CHK_field";
-};
-};
+["fieldEast"] = {
+["fieldWest"] = {
+["fort"] = {
+["fortSouth"] = {
+["fortWest"] = {
+["plantSouth"] = {
+["plantWest"] = {
+["powerPlant"] = {
+["remnants"] = {
+["remnantsNorth"] = {
+["ruins"] = {
+["ruinsNorth"] = {
+["slopedEast"] = {
+["slopedTown"] = {
+["slopedWest"] = {
+["sovietBase"] = {
+["sovietSouth"] = {
+["tent"] = {
+["tentEast"] = {
+["tentNorth"] = {
+["village"] = {
+["villageEast"] = {
+["villageNorth"] = {
+["villageWest"] = {
+["waterway"] = {
+["waterwayEast"] = {
+
+[1] = "CHK_slopedTown";!};
+[1] = "CHK_bridge";!};
+[1] = "CHK_remnants";!};
+[1] = "CHK_waterway";!};
+[1] = "CHK_enemyNorth";!};
+[1] = "CHK_cliffEast";!};
+[1] = "CHK_powerPlant";!};
+[1] = "CHK_enemyBase";!};
+[1] = "CHK_cliffTown";!};
+[1] = "CHK_villageWest";!};
+[1] = "CHK_citadelSouth";!};
+[1] = "CHK_fieldEast";!};
+[1] = "CHK_sovietBase";!};
+[1] = "CHK_village";!};
+[1] = "CHK_fort";!};
+[1] = "CHK_fortSouth";!};
+[1] = "CHK_commFacility";!};
+[1] = "CHK_fortWest";!};
+[1] = "CHK_tent";!};
+[1] = "CHK_villageNorth";!};
+[1] = "CHK_remnantsNorth";!};
+[1] = "CHK_citadel";!};
+[1] = "CHK_tentNorth";!};
+[1] = "CHK_plantSouth";!};
+[1] = "CHK_enemyEast";!};
+[1] = "CHK_fieldWest";!};
+[1] = "CHK_villageEast";!};
+[1] = "CHK_waterwayEast";!};
+[1] = "CHK_tentEast";!};
+[1] = "CHK_ruinsNorth";!};
+[1] = "CHK_ruins";!};
+[1] = "CHK_slopedWest";!};
+[1] = "CHK_cliffWest";!};
+[1] = "CHK_slopedEast";!};
+[1] = "CHK_bridgeNorth";!};
+[1] = "CHK_commWest";!};
+[1] = "CHK_sovietSouth";!};
+[1] = "CHK_plantWest";!};
+[1] = "CHK_cliffSouth";!};
+[1] = "CHK_bridgeWest";!};
+[1] = "CHK_field";!};!};
 ["_scriptInstanceId"] = nil --[[userdata]]
-;
+["_scriptPath"] = "afgh_checkPoint";
+

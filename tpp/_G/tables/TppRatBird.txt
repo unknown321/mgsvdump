@@ -1,15 +1,21 @@
-["Messages"] = [[upvalue]];
-["RegisterRat"] = [[loadstring()]];
-["_EnableRats"] = [[loadstring()]];
-["OnReload"] = [[upvalue]];
-["RegisterBaseList"] = [[upvalue]];
-["_WarpRats"] = [[loadstring()]];
-["_Deactivate"] = [[upvalue]];
-["OnMissionCanStart"] = [[upvalue]];
-["_OnChangeLargeBlockState"] = [[upvalue]];
-["EnableRat"] = [[loadstring()]];
-["_scriptPath"] = "TppRatBird";
-["RegisterBird"] = [[loadstring()]];
+EnableBird() = [[loadstring()]];
+EnableRat() = [[loadstring()]];
+Init() = [[upvalue]];
+Messages() = [[upvalue]];
+OnMessage() = [[upvalue]];
+OnMissionCanStart() = [[upvalue]];
+OnReload() = [[upvalue]];
+RegisterBaseList() = [[upvalue]];
+RegisterBird() = [[loadstring()]];
+RegisterRat() = [[loadstring()]];
+_Activate() = [[upvalue]];
+_Deactivate() = [[upvalue]];
+_EnableBirds() = [[loadstring()]];
+_EnableRats() = [[loadstring()]];
+_OnChangeLargeBlockState() = [[upvalue]];
+_WarpBird() = [[upvalue]];
+_WarpRats() = [[loadstring()]];
+
 ["messageExecTable"] = {
 	[738746875] = {
 		[1645327988] = {
@@ -17,10 +23,8 @@
 		};
 	};
 };
-["_Activate"] = [[upvalue]];
-["OnMessage"] = [[upvalue]];
+
+["_scriptPath"] = "TppRatBird";
+
 ["_scriptInstanceId"] = [[userdata]]
-["Init"] = [[upvalue]];
-["_EnableBirds"] = [[loadstring()]];
-["EnableBird"] = [[loadstring()]];
-["_WarpBird"] = [[upvalue]];
+

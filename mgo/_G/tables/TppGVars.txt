@@ -1,6 +1,5 @@
-["AllInitialize"] = [[upvalue]];
-["_scriptInstanceId"] = [[userdata]]
-["_scriptPath"] = "TppGVars";
+AllInitialize() = [[upvalue]];
+
 ["DeclareGVarsTable"] = {
 	[1] = {
 		["value"] = false;
@@ -1855,3 +1854,8 @@
 		["save"] = true;
 	};
 };
+
+["_scriptPath"] = "TppGVars";
+
+["_scriptInstanceId"] = [[userdata]]
+

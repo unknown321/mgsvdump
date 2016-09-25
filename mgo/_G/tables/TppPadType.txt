@@ -1,4 +1,5 @@
-["ACTION_B"] = 2;
 ["ACTION_A"] = 0;
-["SHOOTER_B"] = 3;
+["ACTION_B"] = 2;
 ["SHOOTER_A"] = 1;
+["SHOOTER_B"] = 3;
+

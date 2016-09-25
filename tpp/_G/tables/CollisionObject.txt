@@ -1,3 +1,5 @@
+SetInvalidRequest() = [[upvalue]];
+SetValidRequest() = [[upvalue]];
+
 ["_className"] = "CollisionObject";
-["SetValidRequest"] = [[upvalue]];
-["SetInvalidRequest"] = [[upvalue]];
+

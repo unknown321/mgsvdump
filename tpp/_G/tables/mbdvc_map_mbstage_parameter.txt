@@ -1,3 +1,6 @@
+GetMissionParameter() = [[loadstring()]];
+
 ["_scriptPath"] = "mbdvc_map_mbstage_parameter";
-["GetMissionParameter"] = [[loadstring()]];
+
 ["_scriptInstanceId"] = [[userdata]]
+

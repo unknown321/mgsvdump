@@ -7,4 +7,6 @@
 	["WALKER_GEAR"] = [[upvalue]];
 	["DOG"] = [[upvalue]];
 };
+
 [-285212672] = 0;
+

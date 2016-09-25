@@ -1,31 +1,34 @@
-["UpdateLoadAnimalBlock"] = [[upvalue]];
-["StopAnimalBlockLoad"] = [[loadstring()]];
-["OnTerminate"] = [[upvalue]];
-["_GetSetupTable"] = [[upvalue]];
-["_SetRoute"] = [[upvalue]];
-["_scriptInstanceId"] = [[userdata]]
-["OnReload"] = [[upvalue]];
-["_scriptPath"] = "TppAnimalBlock";
-["_GetAnimalBlockState"] = [[upvalue]];
-["weatherTable"] = {
-};
-["OnActivateAnimalBlock"] = [[loadstring()]];
-["OnInitializeAnimalBlock"] = [[upvalue]];
-["OnAllocate"] = [[upvalue]];
-["_MakeMessageExecTable"] = [[loadstring()]];
-["InitializeBlockStatus"] = [[upvalue]];
-["_GetAnimalBlockAreaName"] = [[upvalue]];
-["_ChangeRouteAtTime"] = [[upvalue]];
-["_InitializeCommonAnimalSetting"] = [[upvalue]];
-["_SetHerdRoute"] = [[upvalue]];
-["_UpdateActiveAnimalBlock"] = [[upvalue]];
-["_AddClockMessage"] = [[upvalue]];
-["_RegisterClockMessage"] = [[upvalue]];
-["_RegisterWeatherTable"] = [[upvalue]];
-["_ChangeDeadState"] = [[upvalue]];
-["CLOCK_MESSAGE_AT_NIGHT_FORMAT"] = "AnimalRouteChangeAtNight%02d";
+GetCurrentAnimalBlockAreaName() = [[loadstring()]];
+GetDefaultTimeTable() = [[upvalue]];
+InitializeBlockStatus() = [[upvalue]];
+OnActivateAnimalBlock() = [[loadstring()]];
+OnAllocate() = [[upvalue]];
+OnInitializeAnimalBlock() = [[upvalue]];
+OnReload() = [[upvalue]];
+OnTerminate() = [[upvalue]];
+StopAnimalBlockLoad() = [[loadstring()]];
+UpdateLoadAnimalBlock() = [[upvalue]];
+_AddClockMessage() = [[upvalue]];
+_ChangeDeadState() = [[upvalue]];
+_ChangeRouteAtTime() = [[upvalue]];
+_GetAnimalBlockAreaName() = [[upvalue]];
+_GetAnimalBlockState() = [[upvalue]];
+_GetSetupTable() = [[upvalue]];
+_InitializeCommonAnimalSetting() = [[upvalue]];
+_IsNight() = [[loadstring()]];
+_IsNightForAnimalType() = [[upvalue]];
+_MakeMessageExecTable() = [[loadstring()]];
+_RegisterClockMessage() = [[upvalue]];
+_RegisterWeatherTable() = [[upvalue]];
+_SetHerdRoute() = [[upvalue]];
+_SetRoute() = [[upvalue]];
+_UpdateActiveAnimalBlock() = [[upvalue]];
+
+["weatherTable"] = {};
+
 ["CLOCK_MESSAGE_AT_MORNING_FORMAT"] = "AnimalRouteChangeAtMorning%02d";
-["GetCurrentAnimalBlockAreaName"] = [[loadstring()]];
-["_IsNight"] = [[loadstring()]];
-["_IsNightForAnimalType"] = [[upvalue]];
-["GetDefaultTimeTable"] = [[upvalue]];
+["CLOCK_MESSAGE_AT_NIGHT_FORMAT"] = "AnimalRouteChangeAtNight%02d";
+["_scriptPath"] = "TppAnimalBlock";
+
+["_scriptInstanceId"] = [[userdata]]
+

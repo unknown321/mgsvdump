@@ -1,5 +1,3 @@
-["_scriptPath"] = "LoadingBgUi";
-["_scriptInstanceId"] = [[userdata]]
 ["widgets"] = {
 	[1] = {
 		["type"] = "MgoUiAnimation";
@@ -18,3 +16,8 @@
 		};
 	};
 };
+
+["_scriptPath"] = "LoadingBgUi";
+
+["_scriptInstanceId"] = [[userdata]]
+

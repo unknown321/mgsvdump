@@ -52,5 +52,8 @@
 	};
 	["material"] = "MTR_SOIL_A";
 };
+
 ["_scriptPath"] = "mtbs_common_fx_mtr_rain";
+
 ["_scriptInstanceId"] = [[userdata]]
+

@@ -1,10 +1,13 @@
-["OnReturnToFreeplay"] = [[loadstring()]];
-["OnUnloadMission"] = [[loadstring()]];
+OnExit() = [[loadstring()]];
+OnGotoTpp() = [[loadstring()]];
+OnMatchStart() = [[loadstring()]];
+OnMatchmakeError() = [[loadstring()]];
+OnMatchmakeSuccess() = [[loadstring()]];
+OnReturnToFreeplay() = [[loadstring()]];
+OnStartTransition() = [[loadstring()]];
+OnUnloadMission() = [[loadstring()]];
+
 ["_scriptPath"] = "Matchmaking";
-["OnExit"] = [[loadstring()]];
-["OnMatchmakeSuccess"] = [[loadstring()]];
+
 ["_scriptInstanceId"] = [[userdata]]
-["OnGotoTpp"] = [[loadstring()]];
-["OnMatchmakeError"] = [[loadstring()]];
-["OnMatchStart"] = [[loadstring()]];
-["OnStartTransition"] = [[loadstring()]];
+

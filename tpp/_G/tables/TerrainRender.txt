@@ -1,3 +1,5 @@
+ClearPackedMaterialTexture() = [[upvalue]];
+ExportPackedMaterialTexture() = [[upvalue]];
+
 ["_className"] = "TerrainRender";
-["ExportPackedMaterialTexture"] = [[upvalue]];
-["ClearPackedMaterialTexture"] = [[upvalue]];
+

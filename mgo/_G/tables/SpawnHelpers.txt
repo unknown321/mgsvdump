@@ -1,20 +1,24 @@
-["FindNewBuddyForBuddy"] = [[upvalue]];
-["BuddyAssignment"] = [[loadstring()]];
-["FindBuddy"] = [[upvalue]];
-["HasTeamAssignmentHappened"] = [[upvalue]];
-["TeamRoleAssignment"] = [[upvalue]];
-["_scriptInstanceId"] = [[userdata]]
-["_scriptPath"] = "SpawnHelpers";
-["DebugDumpTeamRoster"] = [[upvalue]];
-["BriefingTeamAssignDone"] = [[upvalue]];
-["GetSpawnChoices"] = [[loadstring()]];
-["initialTeamAssignmentHasHappened"] = false;
-["TryTeamAssignment"] = [[upvalue]];
+BriefingTeamAssignDone() = [[upvalue]];
+BuddyAssignment() = [[loadstring()]];
+ChooseRandomSpawnsForEachTeam() = [[upvalue]];
+DebugDumpTeamRoster() = [[upvalue]];
+FindBuddy() = [[upvalue]];
+FindNewBuddyForBuddy() = [[upvalue]];
+GetSpawnChoices() = [[loadstring()]];
+HasTeamAssignmentHappened() = [[upvalue]];
+Reset() = [[upvalue]];
+SetTeamGroupState() = [[loadstring()]];
+SwapPoiTeam() = [[loadstring()]];
+SwapSpawnsForEachTeam() = [[upvalue]];
+TeamRoleAssignment() = [[upvalue]];
+TryTeamAssignment() = [[upvalue]];
+
 ["teamRoster"] = {
 	[0] = 0;
 };
-["ChooseRandomSpawnsForEachTeam"] = [[upvalue]];
-["SwapPoiTeam"] = [[loadstring()]];
-["SwapSpawnsForEachTeam"] = [[upvalue]];
-["SetTeamGroupState"] = [[loadstring()]];
-["Reset"] = [[upvalue]];
+
+["_scriptPath"] = "SpawnHelpers";
+["initialTeamAssignmentHasHappened"] = false;
+
+["_scriptInstanceId"] = [[userdata]]
+

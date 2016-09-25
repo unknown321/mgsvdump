@@ -1,5 +1,7 @@
+GetInstance() = [[upvalue]];
+ResetInitAlphaRate() = [[upvalue]];
+SetBaseColorSmoke() = [[upvalue]];
+SetInitAlphaRate() = [[upvalue]];
+
 ["_className"] = "TppCigaretteSmokeGlobalManager";
-["GetInstance"] = [[upvalue]];
-["SetInitAlphaRate"] = [[upvalue]];
-["ResetInitAlphaRate"] = [[upvalue]];
-["SetBaseColorSmoke"] = [[upvalue]];
+

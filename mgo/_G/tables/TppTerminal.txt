@@ -1,57 +1,171 @@
-["ReleaseFunctionOfMbSection"] = [[upvalue]];
-["PickUpEmblem"] = [[loadstring()]];
-["GetRecoveredDonkeyCount"] = [[loadstring()]];
-["MOTHER_BASE_SECTION_LIST"] = {
-	[1] = "Combat";
-	[2] = "BaseDev";
-	[3] = "Spy";
-	[4] = "Medical";
-	[5] = "Security";
-	[6] = "Hospital";
-	[7] = "Prison";
-	[8] = "Separation";
+AcquireDlcItem() = [[loadstring()]];
+AcquireDlcItemEmblem() = [[upvalue]];
+AcquireDlcItemKeyItem() = [[upvalue]];
+AcquireGzPrivilege() = [[loadstring()]];
+AcquireGzPrivilegeKeyItem() = [[upvalue]];
+AcquireKeyItem() = [[upvalue]];
+AcquirePrivilegeInTitleScreen() = [[upvalue]];
+AcquirePrivilegeStaff() = [[upvalue]];
+AddAnimalRecoverHistory() = [[loadstring()]];
+AddPickedUpResourceToTempBuffer() = [[upvalue]];
+AddStaffsFromTempBuffer() = [[loadstring()]];
+AddTempDataBase() = [[loadstring()]];
+AddTempDataBaseAnimal() = [[loadstring()]];
+AddTempResource() = [[upvalue]];
+AddTempStaffFulton() = [[upvalue]];
+AddUniqueCharactor() = [[upvalue]];
+AddUniqueVolunteerStaff() = [[upvalue]];
+AddVolunteerStaffs() = [[loadstring()]];
+CanConstructFirstFob() = [[upvalue]];
+CheckAddTempBuffer() = [[loadstring()]];
+CheckPandemicEventFinish() = [[loadstring()]];
+ClearBaseTelopName() = [[loadstring()]];
+CorrectGMP() = [[upvalue]];
+DeclareSVars() = [[upvalue]];
+DoFuncByFultonTypeSwitch() = [[loadstring()]];
+EnableDvcMenuByList() = [[loadstring()]];
+EnableTerminalVoice() = [[loadstring()]];
+FinishPandemicEvent() = [[loadstring()]];
+FinishPandemicTutorial() = [[loadstring()]];
+ForceStartBuildPlatform() = [[loadstring()]];
+GetAnimalTypeCountFromRecoveredHistory() = [[loadstring()]];
+GetBluePrintKeyItemId() = [[loadstring()]];
+GetFobStatus() = [[loadstring()]];
+GetFultonCountKeyItem() = [[upvalue]];
+GetLocationAndBaseTelop() = [[loadstring()]];
+GetMissionHumanFultonCount() = [[loadstring()]];
+GetPandemicBingoCount() = [[loadstring()]];
+GetRecoveredAfghGoatCount() = [[loadstring()]];
+GetRecoveredDonkeyCount() = [[loadstring()]];
+GetRecoveredHostageCount() = [[loadstring()]];
+GetRecoveredMafrGoatCount() = [[loadstring()]];
+GetRecoveredOkapiCount() = [[loadstring()]];
+GetRecoveredSoldierCount() = [[loadstring()]];
+GetRecoveredZebraCount() = [[loadstring()]];
+HasVehicle() = [[loadstring()]];
+IncrementFultonCount() = [[loadstring()]];
+IncrementRecoveredHostageCount() = [[upvalue]];
+IncrementRecoveredSoldierCount() = [[upvalue]];
+Init() = [[upvalue]];
+InitNuclearAbolitionCount() = [[loadstring()]];
+InitializeBluePrintLocatorIdTable() = [[upvalue]];
+IsAnimalBear() = [[upvalue]];
+IsAnimalDog() = [[upvalue]];
+IsAnimalGoat() = [[upvalue]];
+IsAnimalHorse() = [[upvalue]];
+IsBuiltAnimalPlatform() = [[loadstring()]];
+IsCleardRetakeThePlatform() = [[loadstring()]];
+IsConstructedFirstFob() = [[loadstring()]];
+IsFailedRetakeThePlatform() = [[loadstring()]];
+IsNeedPlayPandemicTutorialRadio() = [[upvalue]];
+IsNeedStartPandemicTutorial() = [[loadstring()]];
+IsOpenMBDvcArmsMenu() = [[loadstring()]];
+IsPandemicTutorialFinished() = [[loadstring()]];
+IsRecoveredCompleatedBear() = [[upvalue]];
+IsRecoveredCompleatedDog() = [[upvalue]];
+IsRecoveredCompleatedGoat() = [[upvalue]];
+IsRecoveredCompleatedHorse() = [[upvalue]];
+IsReleaseFunctionBattle() = [[loadstring()]];
+IsReleaseFunctionNuclearDevelop() = [[loadstring()]];
+IsReleaseMedicalSection() = [[loadstring()]];
+IsReleaseSection() = [[upvalue]];
+MakeMessage() = [[upvalue]];
+Messages() = [[upvalue]];
+OnAllocate() = [[loadstring()]];
+OnEnterCpIntelTrap() = [[loadstring()]];
+OnEstablishMissionClear() = [[upvalue]];
+OnExitCpIntelTrap() = [[loadstring()]];
+OnFulton() = [[upvalue]];
+OnFultonAnimal() = [[upvalue]];
+OnFultonBossQuiet() = [[upvalue]];
+OnFultonBuddy() = [[loadstring()]];
+OnFultonContainer() = [[upvalue]];
+OnFultonEnemyWalkerGear() = [[upvalue]];
+OnFultonFailedEnd() = [[loadstring()]];
+OnFultonGimmickCommon() = [[upvalue]];
+OnFultonHostage() = [[upvalue]];
+OnFultonParasiteSquad() = [[upvalue]];
+OnFultonSoldier() = [[upvalue]];
+OnFultonVehicle() = [[upvalue]];
+OnFultonVolgin() = [[loadstring()]];
+OnMessage() = [[upvalue]];
+OnMissionGameStart() = [[loadstring()]];
+OnRecoverByHelicopter() = [[upvalue]];
+OnRecoverByHelicopterAlreadyGetPassengerList() = [[upvalue]];
+OnRecoverByHelicopterOnCheckPoint() = [[upvalue]];
+OnReload() = [[upvalue]];
+OpenAllSection() = [[upvalue]];
+OpenDeployMission() = [[loadstring()]];
+PandemicTutorialStoryCondition() = [[loadstring()]];
+PickUpBluePrint() = [[upvalue]];
+PickUpEmblem() = [[loadstring()]];
+PlayTerminalVoice() = [[loadstring()]];
+PushRewardOnMbSectionOpen() = [[upvalue]];
+ReleaseFreePlay() = [[upvalue]];
+ReleaseFunctionOfMbSection() = [[upvalue]];
+ReleaseMbSection() = [[upvalue]];
+RemoveStaffsAfterS10240() = [[loadstring()]];
+ReserveHelicopterSoundOnMissionGameEnd() = [[loadstring()]];
+SetActiveTerminalMenu() = [[upvalue]];
+SetBaseTelopName() = [[loadstring()]];
+SetDevelpedByDevelopIdList() = [[loadstring()]];
+SetUp() = [[upvalue]];
+SetUpArmsMBDVCMenu() = [[upvalue]];
+SetUpBuddyMBDVCMenu() = [[upvalue]];
+SetUpCustomWeaponMBDVCMenu() = [[upvalue]];
+SetUpDvcMenuAll() = [[loadstring()]];
+SetUpOnHelicopterSpace() = [[upvalue]];
+SetUpStoryAfterCleardPitchDark() = [[upvalue]];
+SetUpStoryBeforeCleardRescueMiller() = [[upvalue]];
+SetUpStoryBeforeCleardRescueMillerOnHelicopter() = [[upvalue]];
+SetUpStoryCleardHoneyBee() = [[upvalue]];
+SetUpStoryCleardPitchDark() = [[upvalue]];
+SetUpStoryCleardRescueMiller() = [[upvalue]];
+SetUpStoryCleardToMotherBase() = [[upvalue]];
+ShowLocationAndBaseTelop() = [[upvalue]];
+ShowLocationAndBaseTelopForContinue() = [[upvalue]];
+ShowLocationAndBaseTelopForStartFreePlay() = [[upvalue]];
+StartChangeDayTerminalAnnounce() = [[loadstring()]];
+StartPandemicEvent() = [[loadstring()]];
+StartSyncMbManagementOnMissionStart() = [[loadstring()]];
+StopChangeDayTerminalAnnounce() = [[loadstring()]];
+TerminalVoiceOnSunRise() = [[upvalue]];
+TerminalVoiceOnSunSet() = [[upvalue]];
+TerminalVoiceOnSupportFireIncoming() = [[upvalue]];
+TerminalVoiceWeatherForecast() = [[upvalue]];
+UnSetUsageRestriction() = [[upvalue]];
+UnSetUsageRestrictionOnFOB() = [[upvalue]];
+UpdateGMP() = [[upvalue]];
+UpdatePandemicEventBingoCount() = [[loadstring()]];
+VarSaveMbMissionStartSyncEnd() = [[loadstring()]];
+_AcquireDlcItemStaff() = [[upvalue]];
+_AcquireGzPrivilegeStaff() = [[upvalue]];
+_AcquirePrivilegeStaff() = [[upvalue]];
+_AddUniqueVolunteerStaff() = [[loadstring()]];
+_OnFultonParasiteSquad() = [[upvalue]];
+_SetUpDvcMenu() = [[upvalue]];
+
+["BLUE_PRINT_LANG_ID"] = {
+	[31] = "key_bprint_2013";
+	[33] = "key_bprint_2015";
+	[34] = "key_bprint_2016";
+	[37] = "key_bprint_2025";
+	[38] = "key_bprint_2019";
+	[39] = "key_bprint_2020";
+	[40] = "key_bprint_2026";
+	[21] = "key_bprint_2002";
+	[42] = "key_bprint_2022";
+	[43] = "key_bprint_2023";
+	[44] = "key_bprint_2024";
+	[46] = "key_item_3001";
+	[24] = "key_bprint_2006";
+	[25] = "key_bprint_2007";
+	[26] = "key_bprint_2008";
+	[27] = "key_bprint_2009";
+	[439] = "key_bprint_2027";
+	[29] = "key_bprint_2011";
+	[41] = "key_bprint_2021";
 };
-["IsAnimalGoat"] = [[upvalue]];
-["InitNuclearAbolitionCount"] = [[loadstring()]];
-["AddTempDataBase"] = [[loadstring()]];
-["IsBuiltAnimalPlatform"] = [[loadstring()]];
-["IsPandemicTutorialFinished"] = [[loadstring()]];
-["FOB_TUTORIAL_STATE"] = {
-	["INIT"] = 0;
-	["FINISH"] = 127;
-	["CONSTRUCT_FOB"] = 2;
-	["FOB_MISSIONS"] = 4;
-	["INTRODUCTION_CONSTRUCT_FOB"] = 1;
-	["INTRODUCTION_FOB_MISSIONS"] = 3;
-};
-["OnEstablishMissionClear"] = [[upvalue]];
-["IsRecoveredCompleatedBear"] = [[upvalue]];
-["GetAnimalTypeCountFromRecoveredHistory"] = [[loadstring()]];
-["_AcquirePrivilegeStaff"] = [[upvalue]];
-["FinishPandemicTutorial"] = [[loadstring()]];
-["SetUpArmsMBDVCMenu"] = [[upvalue]];
-["AddPickedUpResourceToTempBuffer"] = [[upvalue]];
-["ReserveHelicopterSoundOnMissionGameEnd"] = [[loadstring()]];
-["IsFailedRetakeThePlatform"] = [[loadstring()]];
-["GetBluePrintKeyItemId"] = [[loadstring()]];
-["IsCleardRetakeThePlatform"] = [[loadstring()]];
-["parasiteSquadFultonResouceId"] = {
-	[2453233330] = {
-		[1] = 31;
-		[2] = 5;
-	};
-	[1092735239] = {
-		[1] = 32;
-		[2] = 5;
-	};
-	[817330953] = {
-		[1] = 30;
-		[2] = 5;
-	};
-};
-["UnSetUsageRestrictionOnFOB"] = [[upvalue]];
-["SetUpStoryCleardHoneyBee"] = [[upvalue]];
-["TerminalVoiceOnSunSet"] = [[upvalue]];
 ["BLUE_PRINT_LOCATOR_TABLE"] = {
 	["col_develop_RevolverGrenade0001"] = 29;
 	["col_develop_RevolverGrenade0004"] = 29;
@@ -84,89 +198,62 @@
 	["col_develop_RevolverGrenade0003"] = 29;
 	["col_develop_RevolverGrenade0002"] = 29;
 };
-["SetUpDvcMenuAll"] = [[loadstring()]];
-["DeclareSVars"] = [[upvalue]];
-["OnMessage"] = [[upvalue]];
-["_OnFultonParasiteSquad"] = [[upvalue]];
-["AcquirePrivilegeInTitleScreen"] = [[upvalue]];
-["IsRecoveredCompleatedDog"] = [[upvalue]];
-["IsRecoveredCompleatedGoat"] = [[upvalue]];
-["BLUE_PRINT_LANG_ID"] = {
-	[31] = "key_bprint_2013";
-	[33] = "key_bprint_2015";
-	[34] = "key_bprint_2016";
-	[37] = "key_bprint_2025";
-	[38] = "key_bprint_2019";
-	[39] = "key_bprint_2020";
-	[40] = "key_bprint_2026";
-	[21] = "key_bprint_2002";
-	[42] = "key_bprint_2022";
-	[43] = "key_bprint_2023";
-	[44] = "key_bprint_2024";
-	[46] = "key_item_3001";
-	[24] = "key_bprint_2006";
-	[25] = "key_bprint_2007";
-	[26] = "key_bprint_2008";
-	[27] = "key_bprint_2009";
-	[439] = "key_bprint_2027";
-	[29] = "key_bprint_2011";
-	[41] = "key_bprint_2021";
-};
-["OnFultonAnimal"] = [[upvalue]];
-["SectionFuncOpenCondition"] = {
-	["BaseDev"] = {
-		["NuclearDevelop"] = [[loadstring()]];
-		["Processing"] = true;
-		["Mining"] = true;
-		["Construct"] = [[loadstring()]];
-		["Extention"] = true;
+["BUDDY_MB_DVC_MENU"] = {
+	[2] = {
+		[1] = {
+			["menu"] = "MSN_BUDDY_DOG";
+			["active"] = true;
+		};
+		[2] = {
+			["menu"] = "MSN_BUDDY_DOG_DISMISS";
+			["active"] = true;
+		};
 	};
-	["Combat"] = {
-		["DispatchFobDefence"] = [[loadstring()]];
-		["DispatchSoldier"] = true;
+	[3] = {
+		[1] = {
+			["menu"] = "MSN_BUDDY_QUIET_SCOUT";
+			["active"] = true;
+		};
+		[2] = {
+			["menu"] = "MSN_BUDDY_QUIET_ATTACK";
+			["active"] = true;
+		};
+		[3] = {
+			["menu"] = "MSN_BUDDY_QUIET_DISMISS";
+			["active"] = true;
+		};
 	};
-	["Security"] = {
-		["BaseDefence"] = true;
-		["BaseBlockade"] = [[loadstring()]];
-		["MachineDefence"] = [[loadstring()]];
-		["SecurityInfo"] = [[loadstring()]];
+	[1] = {
+		[1] = {
+			["menu"] = "MSN_BUDDY_HORSE";
+			["active"] = true;
+		};
+		[2] = {
+			["menu"] = "MSN_BUDDY_HORSE_DISMISS";
+			["active"] = true;
+		};
 	};
-	["Support"] = {
-		["Fulton"] = true;
-		["Battle"] = [[loadstring()]];
-		["Supply"] = true;
-		["BattleArtillery"] = [[loadstring()]];
-		["BattleSmoke"] = [[loadstring()]];
-		["BattleChaff"] = [[loadstring()]];
-		["BattleSleepGas"] = [[loadstring()]];
-		["BattleWeather"] = [[loadstring()]];
+	[4] = {
+		[1] = {
+			["menu"] = "MSN_BUDDY_WALKER";
+			["active"] = true;
+		};
+		[2] = {
+			["menu"] = "MSN_BUDDY_WALKER_DISMISS";
+			["active"] = true;
+		};
 	};
-	["Medical"] = {
-		["Treatment"] = true;
-		["Emergency"] = true;
-	};
-	["Spy"] = {
-		["WeatherInformation"] = true;
-		["Scouting"] = true;
-		["Information"] = true;
-		["SearchResource"] = true;
-	};
-	["Develop"] = {
-		["SecurityDevice"] = [[loadstring()]];
-		["D_Walker"] = [[loadstring()]];
-		["BattleGear"] = [[loadstring()]];
-		["D_Dog"] = [[loadstring()]];
-		["Quiet"] = [[loadstring()]];
-		["D_Horse"] = [[loadstring()]];
-		["SupportHelicopter"] = [[loadstring()]];
-		["Weapon"] = true;
+	[5] = {
+		[1] = {
+			["menu"] = "MSN_BUDDY_BATTLE";
+			["active"] = true;
+		};
+		[2] = {
+			["menu"] = "MSN_BUDDY_BATTLE_DISMISS";
+			["active"] = true;
+		};
 	};
 };
-["SetUpStoryBeforeCleardRescueMiller"] = [[upvalue]];
-["ForceStartBuildPlatform"] = [[loadstring()]];
-["OnMissionGameStart"] = [[loadstring()]];
-["PlayTerminalVoice"] = [[loadstring()]];
-["IncrementFultonCount"] = [[loadstring()]];
 ["EMBLEM_LOCATOR_TABLE"] = {
 	["col_develop_MTBS_30250_0000"] = "front7";
 	["ly003_cl00_collct0000|cl00pl0_uq_0000_collct|col_develop_MTBS_0001"] = "front10";
@@ -176,26 +263,21 @@
 	["col_develop_MTBS_30150_0000"] = "front11";
 	["ly003_cl00_collct0000|cl00pl0_uq_0000_collct|col_develop_MTBS_0003"] = "front16";
 };
-["UpdateGMP"] = [[upvalue]];
-["SetUpOnHelicopterSpace"] = [[upvalue]];
-["AcquireGzPrivilegeKeyItem"] = [[upvalue]];
-["AddVolunteerStaffs"] = [[loadstring()]];
-["IsReleaseFunctionNuclearDevelop"] = [[loadstring()]];
-["IsNeedPlayPandemicTutorialRadio"] = [[upvalue]];
-["SetUpStoryCleardPitchDark"] = [[upvalue]];
-["SetUpBuddyMBDVCMenu"] = [[upvalue]];
-["OnExitCpIntelTrap"] = [[loadstring()]];
-["AcquireDlcItemEmblem"] = [[upvalue]];
-["IsNeedStartPandemicTutorial"] = [[loadstring()]];
-["OnAllocate"] = [[loadstring()]];
-["OnFultonParasiteSquad"] = [[upvalue]];
-["AcquirePrivilegeStaff"] = [[upvalue]];
-["OpenAllSection"] = [[upvalue]];
-["Init"] = [[upvalue]];
-["_scriptPath"] = "TppTerminal";
-["setUpMenuList"] = {
+["FOB_TUTORIAL_STATE"] = {
+	["INIT"] = 0;
+	["FINISH"] = 127;
+	["CONSTRUCT_FOB"] = 2;
+	["FOB_MISSIONS"] = 4;
+	["INTRODUCTION_CONSTRUCT_FOB"] = 1;
+	["INTRODUCTION_FOB_MISSIONS"] = 3;
 };
-["CorrectGMP"] = [[upvalue]];
+["GIMMICK_RESOURCE_ID_TABLE"] = {
+	[2207998916] = 35;
+	[1187982616] = 36;
+	[3601635493] = 37;
+	[1845465265] = 34;
+	[20562949] = 38;
+};
 ["MBDVCMENU"] = {
 	["MSN_HELI"] = "MSN_HELI";
 	["MBM_CUSTOM"] = "MBM_CUSTOM";
@@ -272,205 +354,16 @@
 	["MBM_CUSTOM_ARMS"] = "MBM_CUSTOM_ARMS";
 	["MBM_CUSTOM_ARMS_VEHICLE"] = "MBM_CUSTOM_ARMS_VEHICLE";
 };
-["OnRecoverByHelicopter"] = [[upvalue]];
-["GetRecoveredZebraCount"] = [[loadstring()]];
-["StopChangeDayTerminalAnnounce"] = [[loadstring()]];
-["OnFultonBuddy"] = [[loadstring()]];
-["IsRecoveredCompleatedHorse"] = [[upvalue]];
-["IsAnimalBear"] = [[upvalue]];
-["AddUniqueVolunteerStaff"] = [[upvalue]];
-["AcquireDlcItemKeyItem"] = [[upvalue]];
-["AcquireKeyItem"] = [[upvalue]];
-["OnRecoverByHelicopterOnCheckPoint"] = [[upvalue]];
-["ReleaseFreePlay"] = [[upvalue]];
-["OnFultonVolgin"] = [[loadstring()]];
-["keyItemAnnounceLogTable"] = {
-	[46] = "key_item_3001";
-	[48] = "key_item_3012";
-	[50] = "key_item_3005";
-	[54] = "key_item_3002";
-	[47] = "key_item_3011";
-	[49] = "key_item_3006";
-	[51] = "key_item_3000";
-	[53] = "key_item_3009";
-	[55] = "key_item_3007";
+["MOTHER_BASE_SECTION_LIST"] = {
+	[1] = "Combat";
+	[2] = "BaseDev";
+	[3] = "Spy";
+	[4] = "Medical";
+	[5] = "Security";
+	[6] = "Hospital";
+	[7] = "Prison";
+	[8] = "Separation";
 };
-["keyItemRewardTable"] = {
-	[440] = "key_item_3020";
-	[441] = "key_item_3014";
-	[442] = "key_item_3015";
-	[52] = "key_item_3003";
-	[444] = "key_item_3017";
-	[56] = "key_item_3008";
-	[446] = "key_item_3019";
-	[45] = "key_item_3013";
-	[55] = "key_item_3007";
-	[57] = "key_item_3010";
-	[445] = "key_item_3018";
-	[443] = "key_item_3016";
-};
-["OnFultonBossQuiet"] = [[upvalue]];
-["CheckAddTempBuffer"] = [[loadstring()]];
-["IsReleaseSection"] = [[upvalue]];
-["EnableTerminalVoice"] = [[loadstring()]];
-["UpdatePandemicEventBingoCount"] = [[loadstring()]];
-["AddAnimalRecoverHistory"] = [[loadstring()]];
-["GetMissionHumanFultonCount"] = [[loadstring()]];
-["IsAnimalDog"] = [[upvalue]];
-["IsAnimalHorse"] = [[upvalue]];
-["IsOpenMBDvcArmsMenu"] = [[loadstring()]];
-["DoFuncByFultonTypeSwitch"] = [[loadstring()]];
-["IsConstructedFirstFob"] = [[loadstring()]];
-["OnFultonContainer"] = [[upvalue]];
-["StartPandemicEvent"] = [[loadstring()]];
-["_scriptInstanceId"] = [[userdata]]
-["AcquireDlcItem"] = [[loadstring()]];
-["IncrementRecoveredHostageCount"] = [[upvalue]];
-["SetActiveTerminalMenu"] = [[upvalue]];
-["EnableDvcMenuByList"] = [[loadstring()]];
-["_SetUpDvcMenu"] = [[upvalue]];
-["_AcquireDlcItemStaff"] = [[upvalue]];
-["OnFultonFailedEnd"] = [[loadstring()]];
-["OnFultonEnemyWalkerGear"] = [[upvalue]];
-["GetFobStatus"] = [[loadstring()]];
-["TerminalVoiceOnSupportFireIncoming"] = [[upvalue]];
-["AddUniqueCharactor"] = [[upvalue]];
-["ReleaseMbSection"] = [[upvalue]];
-["OnFultonVehicle"] = [[upvalue]];
-["InitializeBluePrintLocatorIdTable"] = [[upvalue]];
-["PickUpBluePrint"] = [[upvalue]];
-["RemoveStaffsAfterS10240"] = [[loadstring()]];
-["SetUpStoryCleardRescueMiller"] = [[upvalue]];
-["IsReleaseFunctionBattle"] = [[loadstring()]];
-["CanConstructFirstFob"] = [[upvalue]];
-["OnReload"] = [[upvalue]];
-["PushRewardOnMbSectionOpen"] = [[upvalue]];
-["IncrementRecoveredSoldierCount"] = [[upvalue]];
-["OnFultonGimmickCommon"] = [[upvalue]];
-["OpenDeployMission"] = [[loadstring()]];
-["_AddUniqueVolunteerStaff"] = [[loadstring()]];
-["GetRecoveredHostageCount"] = [[loadstring()]];
-["AcquireGzPrivilege"] = [[loadstring()]];
-["PandemicTutorialStoryCondition"] = [[loadstring()]];
-["SectionOpenCondition"] = {
-	["Separation"] = [[upvalue]];
-	["BaseDev"] = [[loadstring()]];
-	["Combat"] = [[loadstring()]];
-	["Hospital"] = [[upvalue]];
-	["Prison"] = [[loadstring()]];
-	["Medical"] = [[loadstring()]];
-	["Spy"] = [[loadstring()]];
-	["Security"] = [[upvalue]];
-};
-["ShowLocationAndBaseTelop"] = [[upvalue]];
-["RewardLangIdTable"] = {
-	["BaseDev"] = {
-		[1] = "reward_100";
-		[2] = "reward_101";
-	};
-	["Combat"] = {
-		[1] = "reward_105";
-		[2] = "reward_106";
-	};
-	["Hospital"] = {
-		[1] = "reward_104";
-	};
-	["Medical"] = {
-		[1] = "reward_103";
-	};
-	["Spy"] = {
-		[1] = "reward_102";
-	};
-	["Security"] = {
-		[1] = "reward_108";
-	};
-};
-["GIMMICK_RESOURCE_ID_TABLE"] = {
-	[2207998916] = 35;
-	[1187982616] = 36;
-	[3601635493] = 37;
-	[1845465265] = 34;
-	[20562949] = 38;
-};
-["OnEnterCpIntelTrap"] = [[loadstring()]];
-["ShowLocationAndBaseTelopForContinue"] = [[upvalue]];
-["AddTempStaffFulton"] = [[upvalue]];
-["ShowLocationAndBaseTelopForStartFreePlay"] = [[upvalue]];
-["GMP_POSTER"] = 500;
-["GetRecoveredAfghGoatCount"] = [[loadstring()]];
-["SetDevelpedByDevelopIdList"] = [[loadstring()]];
-["GetFultonCountKeyItem"] = [[upvalue]];
-["_AcquireGzPrivilegeStaff"] = [[upvalue]];
-["UnSetUsageRestriction"] = [[upvalue]];
-["SetUp"] = [[upvalue]];
-["BUDDY_MB_DVC_MENU"] = {
-	[2] = {
-		[1] = {
-			["menu"] = "MSN_BUDDY_DOG";
-			["active"] = true;
-		};
-		[2] = {
-			["menu"] = "MSN_BUDDY_DOG_DISMISS";
-			["active"] = true;
-		};
-	};
-	[3] = {
-		[1] = {
-			["menu"] = "MSN_BUDDY_QUIET_SCOUT";
-			["active"] = true;
-		};
-		[2] = {
-			["menu"] = "MSN_BUDDY_QUIET_ATTACK";
-			["active"] = true;
-		};
-		[3] = {
-			["menu"] = "MSN_BUDDY_QUIET_DISMISS";
-			["active"] = true;
-		};
-	};
-	[1] = {
-		[1] = {
-			["menu"] = "MSN_BUDDY_HORSE";
-			["active"] = true;
-		};
-		[2] = {
-			["menu"] = "MSN_BUDDY_HORSE_DISMISS";
-			["active"] = true;
-		};
-	};
-	[4] = {
-		[1] = {
-			["menu"] = "MSN_BUDDY_WALKER";
-			["active"] = true;
-		};
-		[2] = {
-			["menu"] = "MSN_BUDDY_WALKER_DISMISS";
-			["active"] = true;
-		};
-	};
-	[5] = {
-		[1] = {
-			["menu"] = "MSN_BUDDY_BATTLE";
-			["active"] = true;
-		};
-		[2] = {
-			["menu"] = "MSN_BUDDY_BATTLE_DISMISS";
-			["active"] = true;
-		};
-	};
-};
-["IsReleaseMedicalSection"] = [[loadstring()]];
-["Messages"] = [[upvalue]];
-["GetLocationAndBaseTelop"] = [[loadstring()]];
-["OnFulton"] = [[upvalue]];
-["FinishPandemicEvent"] = [[loadstring()]];
-["MakeMessage"] = [[upvalue]];
-["SetBaseTelopName"] = [[loadstring()]];
-["GetRecoveredMafrGoatCount"] = [[loadstring()]];
-["GetRecoveredSoldierCount"] = [[loadstring()]];
-["SetUpCustomWeaponMBDVCMenu"] = [[upvalue]];
-["GetPandemicBingoCount"] = [[loadstring()]];
-["ClearBaseTelopName"] = [[loadstring()]];
 ["RESOURCE_INFORMATION_TABLE"] = {
 	[27] = {
 		["resourceName"] = "PreciousMetal";
@@ -693,11 +586,127 @@
 		["count"] = 100;
 	};
 };
-["OnFultonSoldier"] = [[upvalue]];
-["TerminalVoiceOnSunRise"] = [[upvalue]];
-["TerminalVoiceWeatherForecast"] = [[upvalue]];
-["StartChangeDayTerminalAnnounce"] = [[loadstring()]];
-["AddStaffsFromTempBuffer"] = [[loadstring()]];
+["RewardLangIdTable"] = {
+	["BaseDev"] = {
+		[1] = "reward_100";
+		[2] = "reward_101";
+	};
+	["Combat"] = {
+		[1] = "reward_105";
+		[2] = "reward_106";
+	};
+	["Hospital"] = {
+		[1] = "reward_104";
+	};
+	["Medical"] = {
+		[1] = "reward_103";
+	};
+	["Spy"] = {
+		[1] = "reward_102";
+	};
+	["Security"] = {
+		[1] = "reward_108";
+	};
+};
+["SectionFuncOpenCondition"] = {
+	["BaseDev"] = {
+		["NuclearDevelop"] = [[loadstring()]];
+		["Processing"] = true;
+		["Mining"] = true;
+		["Construct"] = [[loadstring()]];
+		["Extention"] = true;
+	};
+	["Combat"] = {
+		["DispatchFobDefence"] = [[loadstring()]];
+		["DispatchSoldier"] = true;
+	};
+	["Security"] = {
+		["BaseDefence"] = true;
+		["BaseBlockade"] = [[loadstring()]];
+		["MachineDefence"] = [[loadstring()]];
+		["SecurityInfo"] = [[loadstring()]];
+	};
+	["Support"] = {
+		["Fulton"] = true;
+		["Battle"] = [[loadstring()]];
+		["Supply"] = true;
+		["BattleArtillery"] = [[loadstring()]];
+		["BattleSmoke"] = [[loadstring()]];
+		["BattleChaff"] = [[loadstring()]];
+		["BattleSleepGas"] = [[loadstring()]];
+		["BattleWeather"] = [[loadstring()]];
+	};
+	["Medical"] = {
+		["Treatment"] = true;
+		["Emergency"] = true;
+	};
+	["Spy"] = {
+		["WeatherInformation"] = true;
+		["Scouting"] = true;
+		["Information"] = true;
+		["SearchResource"] = true;
+	};
+	["Develop"] = {
+		["SecurityDevice"] = [[loadstring()]];
+		["D_Walker"] = [[loadstring()]];
+		["BattleGear"] = [[loadstring()]];
+		["D_Dog"] = [[loadstring()]];
+		["Quiet"] = [[loadstring()]];
+		["D_Horse"] = [[loadstring()]];
+		["SupportHelicopter"] = [[loadstring()]];
+		["Weapon"] = true;
+	};
+};
+["SectionOpenCondition"] = {
+	["Separation"] = [[upvalue]];
+	["BaseDev"] = [[loadstring()]];
+	["Combat"] = [[loadstring()]];
+	["Hospital"] = [[upvalue]];
+	["Prison"] = [[loadstring()]];
+	["Medical"] = [[loadstring()]];
+	["Spy"] = [[loadstring()]];
+	["Security"] = [[upvalue]];
+};
+["keyItemAnnounceLogTable"] = {
+	[46] = "key_item_3001";
+	[48] = "key_item_3012";
+	[50] = "key_item_3005";
+	[54] = "key_item_3002";
+	[47] = "key_item_3011";
+	[49] = "key_item_3006";
+	[51] = "key_item_3000";
+	[53] = "key_item_3009";
+	[55] = "key_item_3007";
+};
+["keyItemRewardTable"] = {
+	[440] = "key_item_3020";
+	[441] = "key_item_3014";
+	[442] = "key_item_3015";
+	[52] = "key_item_3003";
+	[444] = "key_item_3017";
+	[56] = "key_item_3008";
+	[446] = "key_item_3019";
+	[45] = "key_item_3013";
+	[55] = "key_item_3007";
+	[57] = "key_item_3010";
+	[445] = "key_item_3018";
+	[443] = "key_item_3016";
+};
+["parasiteSquadFultonResouceId"] = {
+	[2453233330] = {
+		[1] = 31;
+		[2] = 5;
+	};
+	[1092735239] = {
+		[1] = 32;
+		[2] = 5;
+	};
+	[817330953] = {
+		[1] = 30;
+		[2] = 5;
+	};
+};
+["setUpMenuList"] = {};
 ["unitLvAnnounceLogTable"] = {
 	[1511626866] = {
 		["down"] = "unitLvDownSecurity";
@@ -728,15 +737,9 @@
 		["up"] = "unitLvUpSupport";
 	};
 };
-["SetUpStoryCleardToMotherBase"] = [[upvalue]];
-["AddTempResource"] = [[upvalue]];
-["SetUpStoryBeforeCleardRescueMillerOnHelicopter"] = [[upvalue]];
-["SetUpStoryAfterCleardPitchDark"] = [[upvalue]];
-["GetRecoveredOkapiCount"] = [[loadstring()]];
-["OnFultonHostage"] = [[upvalue]];
-["AddTempDataBaseAnimal"] = [[loadstring()]];
-["StartSyncMbManagementOnMissionStart"] = [[loadstring()]];
-["CheckPandemicEventFinish"] = [[loadstring()]];
-["OnRecoverByHelicopterAlreadyGetPassengerList"] = [[upvalue]];
-["HasVehicle"] = [[loadstring()]];
-["VarSaveMbMissionStartSyncEnd"] = [[loadstring()]];
+
+["GMP_POSTER"] = 500;
+["_scriptPath"] = "TppTerminal";
+
+["_scriptInstanceId"] = [[userdata]]
+

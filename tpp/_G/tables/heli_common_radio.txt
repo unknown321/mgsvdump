@@ -1,19 +1,22 @@
+AddGZStaff() = [[loadstring()]];
+InsertToActiveOptionalRadio() = [[loadstring()]];
+MissionListGuide00() = [[loadstring()]];
+MissionListGuide10() = [[loadstring()]];
+RemoveToActiveOptionalRadio() = [[loadstring()]];
+SetOptionalRadioFromSituation() = [[upvalue]];
+SetOptionalRadioInEmergency() = [[loadstring()]];
+
+["debugRadioLineTable"] = {};
 ["optionalRadioList"] = {
 	[1] = "Set_f2000_oprg4010";
 };
-["_scriptPath"] = "heli_common_radio";
-["SetOptionalRadioInEmergency"] = [[loadstring()]];
-["AddGZStaff"] = [[loadstring()]];
-["_scriptInstanceId"] = [[userdata]]
-["MissionListGuide00"] = [[loadstring()]];
-["debugRadioLineTable"] = {
-};
-["RemoveToActiveOptionalRadio"] = [[loadstring()]];
-["InsertToActiveOptionalRadio"] = [[loadstring()]];
-["SetOptionalRadioFromSituation"] = [[upvalue]];
-["MissionListGuide10"] = [[loadstring()]];
 ["radioList"] = {
 	[1] = "f2000_rtrg1110";
 	[2] = "f2000_rtrg1120";
 	[3] = "f2000_rtrg1130";
 };
+
+["_scriptPath"] = "heli_common_radio";
+
+["_scriptInstanceId"] = [[userdata]]
+

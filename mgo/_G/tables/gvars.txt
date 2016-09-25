@@ -1,233 +1,3 @@
-["__rt"] = {
-	["gim_brekableLightName"] = {
-		["__vi"] = 130;
-	};
-	["ui_isTaskLastComleted"] = {
-		["__vi"] = 170;
-	};
-	["res_neutralizeCount"] = {
-		["__vi"] = 164;
-	};
-	["rwd_mbManagementRewardLangEnum"] = {
-		["__vi"] = 158;
-	};
-	["ply_missionStartPosForNoOrderBox"] = {
-		["__vi"] = 82;
-	};
-	["col_daimondStatus_mtbs"] = {
-		["__vi"] = 123;
-	};
-	["ui_isTipsGuideShownOnce"] = {
-		["__vi"] = 253;
-	};
-	["trm_isPushRewardOpenSection"] = {
-		["__vi"] = 134;
-	};
-	["col_markerStatus_afgh"] = {
-		["__vi"] = 118;
-	};
-	["rwd_missionRewardLangEnum"] = {
-		["__vi"] = 155;
-	};
-	["gim_missionStartFultonableObjects"] = {
-		["__vi"] = 128;
-	};
-	["col_daimondStatus_afgh"] = {
-		["__vi"] = 117;
-	};
-	["rwd_mbManagementRewardParam"] = {
-		["__vi"] = 160;
-	};
-	["trm_animalRecoverHistory"] = {
-		["__vi"] = 188;
-	};
-	["col_isRegisteredInDb_mafr"] = {
-		["__vi"] = 122;
-	};
-	["quietHasFriendshipWithChildFlag"] = {
-		["__vi"] = 244;
-	};
-	["res_isStealth"] = {
-		["__vi"] = 168;
-	};
-	["exc_queueGameMode"] = {
-		["__vi"] = 31;
-	};
-	["ene_takingOverHostageFaceIds"] = {
-		["__vi"] = 115;
-	};
-	["ply_lastWeaponsUsingTemp"] = {
-		["__vi"] = 75;
-	};
-	["col_isRegisteredInDb_mtbs"] = {
-		["__vi"] = 125;
-	};
-	["qst_failedIndex"] = {
-		["__vi"] = 226;
-	};
-	["mbFreeDemoPlayedFlag"] = {
-		["__vi"] = 247;
-	};
-	["qst_randomFaceId"] = {
-		["__vi"] = 223;
-	};
-	["trp_isGot"] = {
-		["__vi"] = 246;
-	};
-	["initAmmoSubInWeapons"] = {
-		["__vi"] = 44;
-	};
-	["rnk_missionBestScore"] = {
-		["__vi"] = 204;
-	};
-	["ene_takingOverHostageStaffIdsLower"] = {
-		["__vi"] = 114;
-	};
-	["s10100_boyEscape"] = {
-		["__vi"] = 242;
-	};
-	["res_bestRank"] = {
-		["__vi"] = 161;
-	};
-	["rwd_questRewardParam"] = {
-		["__vi"] = 221;
-	};
-	["res_neutralizeCountForPlayData"] = {
-		["__vi"] = 166;
-	};
-	["str_missionOpenFlag"] = {
-		["__vi"] = 90;
-	};
-	["gim_checkPointStartFultonableObjects"] = {
-		["__vi"] = 129;
-	};
-	["ui_isControlGuidShownInThisGame"] = {
-		["__vi"] = 256;
-	};
-	["rnk_missionBestScoreUsedLimitEquip"] = {
-		["__vi"] = 205;
-	};
-	["str_elapsedMissionCount"] = {
-		["__vi"] = 95;
-	};
-	["col_isRegisteredInDb_afgh"] = {
-		["__vi"] = 119;
-	};
-	["ene_takingOverHostageStaffIdsUpper"] = {
-		["__vi"] = 113;
-	};
-	["res_missionClearHistory"] = {
-		["__vi"] = 163;
-	};
-	["initAmmoStockCounts"] = {
-		["__vi"] = 42;
-	};
-	["qst_questRepopFlag"] = {
-		["__vi"] = 216;
-	};
-	["res_isPerfectStealth"] = {
-		["__vi"] = 169;
-	};
-	["gim_checkPointBreakableObjects"] = {
-		["__vi"] = 127;
-	};
-	["col_markerStatus_mtbs"] = {
-		["__vi"] = 124;
-	};
-	["qst_questActiveFlag"] = {
-		["__vi"] = 218;
-	};
-	["qst_questOpenFlag"] = {
-		["__vi"] = 215;
-	};
-	["gim_brekableLightStatus"] = {
-		["__vi"] = 131;
-	};
-	["str_missionClearedFlag"] = {
-		["__vi"] = 91;
-	};
-	["gim_missionStartBreakableObjects"] = {
-		["__vi"] = 126;
-	};
-	["res_headShotCount"] = {
-		["__vi"] = 167;
-	};
-	["ui_isControlGuideShownOnce"] = {
-		["__vi"] = 255;
-	};
-	["rnk_isOpen"] = {
-		["__vi"] = 190;
-	};
-	["ene_takingOverHostagePositions"] = {
-		["__vi"] = 112;
-	};
-	["ene_fovaUniqueBodyIds"] = {
-		["__vi"] = 109;
-	};
-	["ene_fovaUniqueTargetIds"] = {
-		["__vi"] = 107;
-	};
-	["forceMbRadioPlayedFlag"] = {
-		["__vi"] = 252;
-	};
-	["col_daimondStatus_mafr"] = {
-		["__vi"] = 120;
-	};
-	["ene_fovaUniqueFlags"] = {
-		["__vi"] = 110;
-	};
-	["mbFreeDemoPlayRequestFlag"] = {
-		["__vi"] = 248;
-	};
-	["col_markerStatus_mafr"] = {
-		["__vi"] = 121;
-	};
-	["ene_fovaUniqueFaceIds"] = {
-		["__vi"] = 108;
-	};
-	["s10100_boyEscapeCurrentPlay"] = {
-		["__vi"] = 243;
-	};
-	["trm_isPushRewardBuddyCommand"] = {
-		["__vi"] = 144;
-	};
-	["ply_missionStartPos"] = {
-		["__vi"] = 79;
-	};
-	["initAmmoStockIds"] = {
-		["__vi"] = 41;
-	};
-	["ene_takingOverHostageFlags"] = {
-		["__vi"] = 116;
-	};
-	["rwd_questRewardLangEnum"] = {
-		["__vi"] = 219;
-	};
-	["str_missionNewOpenFlag"] = {
-		["__vi"] = 92;
-	};
-	["initAmmoInWeapons"] = {
-		["__vi"] = 43;
-	};
-	["ply_lastItemsUsingTemp"] = {
-		["__vi"] = 76;
-	};
-	["qst_questClearedFlag"] = {
-		["__vi"] = 217;
-	};
-	["exc_exceptionQueue"] = {
-		["__vi"] = 30;
-	};
-	["ui_isTipsGuidShownInThisGame"] = {
-		["__vi"] = 254;
-	};
-	["str_missionOpenPermission"] = {
-		["__vi"] = 89;
-	};
-	["rwd_missionRewardParam"] = {
-		["__vi"] = 157;
-	};
-};
 ["__as"] = {
 	["gim_brekableLightName"] = 128;
 	["hosface_groupNumber"] = 1;
@@ -490,3 +260,234 @@
 	["isContinueFromTitle"] = 1;
 	["totalAnnihilateOutPostCount"] = 1;
 };
+["__rt"] = {
+	["gim_brekableLightName"] = {
+		["__vi"] = 130;
+	};
+	["ui_isTaskLastComleted"] = {
+		["__vi"] = 170;
+	};
+	["res_neutralizeCount"] = {
+		["__vi"] = 164;
+	};
+	["rwd_mbManagementRewardLangEnum"] = {
+		["__vi"] = 158;
+	};
+	["ply_missionStartPosForNoOrderBox"] = {
+		["__vi"] = 82;
+	};
+	["col_daimondStatus_mtbs"] = {
+		["__vi"] = 123;
+	};
+	["ui_isTipsGuideShownOnce"] = {
+		["__vi"] = 253;
+	};
+	["trm_isPushRewardOpenSection"] = {
+		["__vi"] = 134;
+	};
+	["col_markerStatus_afgh"] = {
+		["__vi"] = 118;
+	};
+	["rwd_missionRewardLangEnum"] = {
+		["__vi"] = 155;
+	};
+	["gim_missionStartFultonableObjects"] = {
+		["__vi"] = 128;
+	};
+	["col_daimondStatus_afgh"] = {
+		["__vi"] = 117;
+	};
+	["rwd_mbManagementRewardParam"] = {
+		["__vi"] = 160;
+	};
+	["trm_animalRecoverHistory"] = {
+		["__vi"] = 188;
+	};
+	["col_isRegisteredInDb_mafr"] = {
+		["__vi"] = 122;
+	};
+	["quietHasFriendshipWithChildFlag"] = {
+		["__vi"] = 244;
+	};
+	["res_isStealth"] = {
+		["__vi"] = 168;
+	};
+	["exc_queueGameMode"] = {
+		["__vi"] = 31;
+	};
+	["ene_takingOverHostageFaceIds"] = {
+		["__vi"] = 115;
+	};
+	["ply_lastWeaponsUsingTemp"] = {
+		["__vi"] = 75;
+	};
+	["col_isRegisteredInDb_mtbs"] = {
+		["__vi"] = 125;
+	};
+	["qst_failedIndex"] = {
+		["__vi"] = 226;
+	};
+	["mbFreeDemoPlayedFlag"] = {
+		["__vi"] = 247;
+	};
+	["qst_randomFaceId"] = {
+		["__vi"] = 223;
+	};
+	["trp_isGot"] = {
+		["__vi"] = 246;
+	};
+	["initAmmoSubInWeapons"] = {
+		["__vi"] = 44;
+	};
+	["rnk_missionBestScore"] = {
+		["__vi"] = 204;
+	};
+	["ene_takingOverHostageStaffIdsLower"] = {
+		["__vi"] = 114;
+	};
+	["s10100_boyEscape"] = {
+		["__vi"] = 242;
+	};
+	["res_bestRank"] = {
+		["__vi"] = 161;
+	};
+	["rwd_questRewardParam"] = {
+		["__vi"] = 221;
+	};
+	["res_neutralizeCountForPlayData"] = {
+		["__vi"] = 166;
+	};
+	["str_missionOpenFlag"] = {
+		["__vi"] = 90;
+	};
+	["gim_checkPointStartFultonableObjects"] = {
+		["__vi"] = 129;
+	};
+	["ui_isControlGuidShownInThisGame"] = {
+		["__vi"] = 256;
+	};
+	["rnk_missionBestScoreUsedLimitEquip"] = {
+		["__vi"] = 205;
+	};
+	["str_elapsedMissionCount"] = {
+		["__vi"] = 95;
+	};
+	["col_isRegisteredInDb_afgh"] = {
+		["__vi"] = 119;
+	};
+	["ene_takingOverHostageStaffIdsUpper"] = {
+		["__vi"] = 113;
+	};
+	["res_missionClearHistory"] = {
+		["__vi"] = 163;
+	};
+	["initAmmoStockCounts"] = {
+		["__vi"] = 42;
+	};
+	["qst_questRepopFlag"] = {
+		["__vi"] = 216;
+	};
+	["res_isPerfectStealth"] = {
+		["__vi"] = 169;
+	};
+	["gim_checkPointBreakableObjects"] = {
+		["__vi"] = 127;
+	};
+	["col_markerStatus_mtbs"] = {
+		["__vi"] = 124;
+	};
+	["qst_questActiveFlag"] = {
+		["__vi"] = 218;
+	};
+	["qst_questOpenFlag"] = {
+		["__vi"] = 215;
+	};
+	["gim_brekableLightStatus"] = {
+		["__vi"] = 131;
+	};
+	["str_missionClearedFlag"] = {
+		["__vi"] = 91;
+	};
+	["gim_missionStartBreakableObjects"] = {
+		["__vi"] = 126;
+	};
+	["res_headShotCount"] = {
+		["__vi"] = 167;
+	};
+	["ui_isControlGuideShownOnce"] = {
+		["__vi"] = 255;
+	};
+	["rnk_isOpen"] = {
+		["__vi"] = 190;
+	};
+	["ene_takingOverHostagePositions"] = {
+		["__vi"] = 112;
+	};
+	["ene_fovaUniqueBodyIds"] = {
+		["__vi"] = 109;
+	};
+	["ene_fovaUniqueTargetIds"] = {
+		["__vi"] = 107;
+	};
+	["forceMbRadioPlayedFlag"] = {
+		["__vi"] = 252;
+	};
+	["col_daimondStatus_mafr"] = {
+		["__vi"] = 120;
+	};
+	["ene_fovaUniqueFlags"] = {
+		["__vi"] = 110;
+	};
+	["mbFreeDemoPlayRequestFlag"] = {
+		["__vi"] = 248;
+	};
+	["col_markerStatus_mafr"] = {
+		["__vi"] = 121;
+	};
+	["ene_fovaUniqueFaceIds"] = {
+		["__vi"] = 108;
+	};
+	["s10100_boyEscapeCurrentPlay"] = {
+		["__vi"] = 243;
+	};
+	["trm_isPushRewardBuddyCommand"] = {
+		["__vi"] = 144;
+	};
+	["ply_missionStartPos"] = {
+		["__vi"] = 79;
+	};
+	["initAmmoStockIds"] = {
+		["__vi"] = 41;
+	};
+	["ene_takingOverHostageFlags"] = {
+		["__vi"] = 116;
+	};
+	["rwd_questRewardLangEnum"] = {
+		["__vi"] = 219;
+	};
+	["str_missionNewOpenFlag"] = {
+		["__vi"] = 92;
+	};
+	["initAmmoInWeapons"] = {
+		["__vi"] = 43;
+	};
+	["ply_lastItemsUsingTemp"] = {
+		["__vi"] = 76;
+	};
+	["qst_questClearedFlag"] = {
+		["__vi"] = 217;
+	};
+	["exc_exceptionQueue"] = {
+		["__vi"] = 30;
+	};
+	["ui_isTipsGuidShownInThisGame"] = {
+		["__vi"] = 254;
+	};
+	["str_missionOpenPermission"] = {
+		["__vi"] = 89;
+	};
+	["rwd_missionRewardParam"] = {
+		["__vi"] = 157;
+	};
+};
+

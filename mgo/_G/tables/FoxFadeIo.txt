@@ -1,12 +1,14 @@
+Create() = [[upvalue]];
+EditModeDisregard() = [[upvalue]];
+FadeDisregard() = [[upvalue]];
+FadeIn() = [[upvalue]];
+FadeOut() = [[upvalue]];
+IsFadeProcessing() = [[upvalue]];
+IsPadReleaseMode() = [[upvalue]];
+ResetFadeLock() = [[upvalue]];
+SetFadeLock() = [[upvalue]];
+SetPadReleaseMode() = [[upvalue]];
+WhiteFadeOut() = [[upvalue]];
+
 ["_className"] = "FoxFadeIo";
-["FadeOut"] = [[upvalue]];
-["SetPadReleaseMode"] = [[upvalue]];
-["ResetFadeLock"] = [[upvalue]];
-["Create"] = [[upvalue]];
-["IsFadeProcessing"] = [[upvalue]];
-["SetFadeLock"] = [[upvalue]];
-["FadeDisregard"] = [[upvalue]];
-["IsPadReleaseMode"] = [[upvalue]];
-["WhiteFadeOut"] = [[upvalue]];
-["EditModeDisregard"] = [[upvalue]];
-["FadeIn"] = [[upvalue]];
+

@@ -1,2 +1,4 @@
+GetInstance() = [[upvalue]];
+
 ["_className"] = "EnvironmentDaemon";
-["GetInstance"] = [[upvalue]];
+

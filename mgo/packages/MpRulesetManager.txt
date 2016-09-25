@@ -1,15 +1,17 @@
-["IsDynamicBlockLoaded"] = [[non-lua function]];
-["GetRulesetScriptVarsValueById"] = [[non-lua function]];
+Config() = [[non-lua function]];
+GetActiveRuleset() = [[non-lua function]];
+GetRulesetScriptVarsValueById() = [[non-lua function]];
+HasBlockController() = [[non-lua function]];
+HasCommonBlock() = [[non-lua function]];
+HasDynamicBlock() = [[non-lua function]];
+HasMapBlock() = [[non-lua function]];
+IsCommonBlockLoaded() = [[non-lua function]];
+IsDynamicBlockLoaded() = [[non-lua function]];
+IsMapBlockLoaded() = [[non-lua function]];
+ReloadRuleset() = [[non-lua function]];
+
 ["SPECIAL_ROLE_NONE"] = 3;
-["IsCommonBlockLoaded"] = [[non-lua function]];
-["SPECIAL_ROLE_SNAKE"] = 0;
-["SPECIAL_ROLE_QUIET"] = 2;
-["HasDynamicBlock"] = [[non-lua function]];
-["IsMapBlockLoaded"] = [[non-lua function]];
-["GetActiveRuleset"] = [[non-lua function]];
-["ReloadRuleset"] = [[non-lua function]];
-["HasBlockController"] = [[non-lua function]];
-["HasCommonBlock"] = [[non-lua function]];
-["Config"] = [[non-lua function]];
 ["SPECIAL_ROLE_OCELOT"] = 1;
-["HasMapBlock"] = [[non-lua function]];
+["SPECIAL_ROLE_QUIET"] = 2;
+["SPECIAL_ROLE_SNAKE"] = 0;
+

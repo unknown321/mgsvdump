@@ -1,5 +1,3 @@
-["_scriptPath"] = "RoundEnd";
-["_scriptInstanceId"] = [[userdata]]
 ["widgets"] = {
 	[1] = {
 		["type"] = "MgoUiLabel";
@@ -45,3 +43,8 @@
 		["source"] = "mgo_ruleset_winner";
 	};
 };
+
+["_scriptPath"] = "RoundEnd";
+
+["_scriptInstanceId"] = [[userdata]]
+

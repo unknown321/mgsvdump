@@ -1,1 +1,2 @@
-["SetVisible"] = [[non-lua function]];
+SetVisible() = [[non-lua function]];
+

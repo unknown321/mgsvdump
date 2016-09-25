@@ -151,4 +151,6 @@
 	["GAME_OBJECT_TYPE_BUDDYQUIET2"] = [[upvalue]];
 	["GAME_OBJECT_TYPE_PLAYER_HORSE2_FOR_VR"] = [[upvalue]];
 };
+
 [-285212672] = 0;
+

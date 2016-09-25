@@ -1,5 +1,8 @@
-["BeforeRecursively"] = [[loadstring()]];
+AfterRecursively() = [[loadstring()]];
+BeforeRecursively() = [[loadstring()]];
+Exec() = [[loadstring()]];
+
 ["_scriptPath"] = "vfxTrap";
-["Exec"] = [[loadstring()]];
-["AfterRecursively"] = [[loadstring()]];
+
 ["_scriptInstanceId"] = [[userdata]]
+

@@ -1,12 +1,15 @@
-["AddProperty"] = [[upvalue]];
-["_scriptPath"] = "Entity";
-["DebugGetEntityCount"] = [[upvalue]];
-["GetPropertyInfo"] = [[upvalue]];
-["IsMemberOf"] = [[upvalue]];
-["_scriptInstanceId"] = [[userdata]]
+AddProperty() = [[upvalue]];
+DebugGetEntityCount() = [[upvalue]];
+GetClassName() = [[upvalue]];
+GetPropertyInfo() = [[upvalue]];
+GetPropertyList() = [[upvalue]];
+IsKindOf() = [[upvalue]];
+IsMemberOf() = [[upvalue]];
+IsNull() = [[loadstring()]];
+Null() = [[loadstring()]];
+
 ["_className"] = "Entity";
-["GetPropertyList"] = [[upvalue]];
-["IsNull"] = [[loadstring()]];
-["GetClassName"] = [[upvalue]];
-["IsKindOf"] = [[upvalue]];
-["Null"] = [[loadstring()]];
+["_scriptPath"] = "Entity";
+
+["_scriptInstanceId"] = [[userdata]]
+

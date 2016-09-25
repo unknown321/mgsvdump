@@ -1,7 +1,9 @@
+IsPlaying() = [[upvalue]];
+PostEvent() = [[upvalue]];
+ResetRTPC() = [[upvalue]];
+SetRTPC() = [[upvalue]];
+SetSwitch() = [[upvalue]];
+StopEvent() = [[upvalue]];
+
 ["_className"] = "SoundSourceBody";
-["PostEvent"] = [[upvalue]];
-["SetSwitch"] = [[upvalue]];
-["SetRTPC"] = [[upvalue]];
-["IsPlaying"] = [[upvalue]];
-["StopEvent"] = [[upvalue]];
-["ResetRTPC"] = [[upvalue]];
+

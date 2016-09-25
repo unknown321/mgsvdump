@@ -1,2 +1,4 @@
+ClearTags() = [[upvalue]];
+
 ["_className"] = "GeoPathUnit";
-["ClearTags"] = [[upvalue]];
+

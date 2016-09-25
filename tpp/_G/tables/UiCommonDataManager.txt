@@ -1,13 +1,15 @@
+Create() = [[upvalue]];
+End() = [[upvalue]];
+GetInstance() = [[upvalue]];
+GetNclResultCommonData() = [[upvalue]];
+GzTitlePreSetting() = [[upvalue]];
+GzTitleShuffle() = [[upvalue]];
+InitDataCreate() = [[upvalue]];
+IsGroundZeroesMode() = [[upvalue]];
+SetGroundZeroesMode() = [[upvalue]];
+SetTitleType() = [[upvalue]];
+SetUseMbDvcGzBlock() = [[upvalue]];
+StartTitleMenu() = [[upvalue]];
+
 ["_className"] = "UiCommonDataManager";
-["GetInstance"] = [[upvalue]];
-["StartTitleMenu"] = [[upvalue]];
-["SetUseMbDvcGzBlock"] = [[upvalue]];
-["IsGroundZeroesMode"] = [[upvalue]];
-["Create"] = [[upvalue]];
-["SetGroundZeroesMode"] = [[upvalue]];
-["GzTitleShuffle"] = [[upvalue]];
-["InitDataCreate"] = [[upvalue]];
-["End"] = [[upvalue]];
-["SetTitleType"] = [[upvalue]];
-["GetNclResultCommonData"] = [[upvalue]];
-["GzTitlePreSetting"] = [[upvalue]];
+

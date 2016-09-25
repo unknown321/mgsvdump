@@ -1,24 +1,27 @@
-["preAvatarPlayerPartsType"] = 0;
-["needToSaveAvatarData"] = false;
-["sequenceFrameCount"] = 0;
-["UnloadAvatarData"] = [[upvalue]];
-["preAvatarPlayerCamoType"] = 0;
-["IsMgoFemalePlayerType"] = [[loadstring()]];
-["preAvatarPlayerType"] = 0;
-["startedLoadingAvatarEditUI"] = false;
-["_scriptInstanceId"] = [[userdata]]
-["OnLoad"] = [[upvalue]];
-["needToResetAfterAvatarEdit"] = false;
+CheckScriptBlockExists() = [[upvalue]];
+GetAvatarScriptBlockId() = [[upvalue]];
+IsFinishedLoadingAvatarData() = [[upvalue]];
+IsMgoFemalePlayerType() = [[loadstring()]];
+LoadAvatarData() = [[upvalue]];
+MissionPrepare() = [[loadstring()]];
+OnLoad() = [[upvalue]];
+RevertPlayerAfterAvatarUI() = [[upvalue]];
+SetNextSequence() = [[loadstring()]];
+SetupPlayerForAvatarUI() = [[upvalue]];
+UnloadAvatarData() = [[upvalue]];
+
+["preAvatarGearState"] = {};
+
 ["_scriptPath"] = "ruleset_sequence";
-["SetupPlayerForAvatarUI"] = [[upvalue]];
-["RevertPlayerAfterAvatarUI"] = [[upvalue]];
-["preAvatarGearState"] = {
-};
-["GetAvatarScriptBlockId"] = [[upvalue]];
-["MissionPrepare"] = [[loadstring()]];
-["SetNextSequence"] = [[loadstring()]];
-["CheckScriptBlockExists"] = [[upvalue]];
-["loadedAvatarData"] = false;
-["IsFinishedLoadingAvatarData"] = [[upvalue]];
-["LoadAvatarData"] = [[upvalue]];
 ["isFemaleAvatar"] = false;
+["loadedAvatarData"] = false;
+["needToResetAfterAvatarEdit"] = false;
+["needToSaveAvatarData"] = false;
+["preAvatarPlayerCamoType"] = 0;
+["preAvatarPlayerPartsType"] = 0;
+["preAvatarPlayerType"] = 0;
+["sequenceFrameCount"] = 0;
+["startedLoadingAvatarEditUI"] = false;
+
+["_scriptInstanceId"] = [[userdata]]
+

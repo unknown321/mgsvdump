@@ -1,5 +1,22 @@
-["AddLocationCommonMissionAreaPack"] = [[upvalue]];
-["_scriptInstanceId"] = [[userdata]]
+AddAvatarEditPack() = [[upvalue]];
+AddColoringPack() = [[upvalue]];
+AddDefaultMissionAreaPack() = [[upvalue]];
+AddFOBLayoutPack() = [[upvalue]];
+AddLocationCommonMissionAreaPack() = [[upvalue]];
+AddLocationCommonScriptPack() = [[upvalue]];
+AddMissionPack() = [[upvalue]];
+DeleteMissionPack() = [[upvalue]];
+GetLocationNameFormMissionCode() = [[loadstring()]];
+GetMissionTypeAndMissionName() = [[upvalue]];
+IsMissionPackLabel() = [[loadstring()]];
+IsMissionPackLabelList() = [[upvalue]];
+MakeDefaultMissionAreaPackPath() = [[upvalue]];
+MakeDefaultMissionPackList() = [[upvalue]];
+MakeMissionPackList() = [[upvalue]];
+SetDefaultMissionPackLabelName() = [[upvalue]];
+SetMissionPackLabelName() = [[loadstring()]];
+SetUseDdEmblemFova() = [[loadstring()]];
+
 ["missionPackList"] = {
 	[1] = "/Assets/tpp/pack/mission2/heli/heli_common_script.fpk";
 	[2] = "/Assets/tpp/pack/mission2/common/title_sequence.fpk";
@@ -10,21 +27,8 @@
 	[7] = "/Assets/tpp/pack/fova/mecha/all/mfv_scol_c11.fpk";
 	[8] = "/Assets/tpp/pack/fova/mecha/all/mfv_scol_c07.fpk";
 };
-["IsMissionPackLabelList"] = [[upvalue]];
-["MakeDefaultMissionPackList"] = [[upvalue]];
-["IsMissionPackLabel"] = [[loadstring()]];
-["SetMissionPackLabelName"] = [[loadstring()]];
+
 ["_scriptPath"] = "TppPackList";
-["AddColoringPack"] = [[upvalue]];
-["MakeMissionPackList"] = [[upvalue]];
-["AddAvatarEditPack"] = [[upvalue]];
-["DeleteMissionPack"] = [[upvalue]];
-["AddFOBLayoutPack"] = [[upvalue]];
-["GetLocationNameFormMissionCode"] = [[loadstring()]];
-["GetMissionTypeAndMissionName"] = [[upvalue]];
-["AddLocationCommonScriptPack"] = [[upvalue]];
-["AddMissionPack"] = [[upvalue]];
-["AddDefaultMissionAreaPack"] = [[upvalue]];
-["MakeDefaultMissionAreaPackPath"] = [[upvalue]];
-["SetDefaultMissionPackLabelName"] = [[upvalue]];
-["SetUseDdEmblemFova"] = [[loadstring()]];
+
+["_scriptInstanceId"] = [[userdata]]
+

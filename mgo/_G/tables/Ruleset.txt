@@ -1,5 +1,3 @@
-["_scriptPath"] = "Ruleset";
-["_scriptInstanceId"] = [[userdata]]
 ["widgets"] = {
 	[1] = {
 		["widgets"] = {
@@ -1010,3 +1008,8 @@
 		};
 	};
 };
+
+["_scriptPath"] = "Ruleset";
+
+["_scriptInstanceId"] = [[userdata]]
+

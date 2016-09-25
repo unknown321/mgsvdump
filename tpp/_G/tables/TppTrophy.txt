@@ -1,3 +1,18 @@
+Unlock() = [[loadstring()]];
+UnlockOnAllMissionTaskCompleted() = [[upvalue]];
+UnlockOnAllQuestClear() = [[upvalue]];
+UnlockOnBuddyFriendlyMax() = [[upvalue]];
+UnlockOnMissionClear() = [[upvalue]];
+
+["BUDDY_FRIENDLY_MAX"] = {
+	[1] = 27;
+	[2] = 26;
+	[0] = 28;
+};
+["DOMINATION_TARGET_CP_COUNT"] = {
+	["afgh"] = 38;
+	["mafr"] = 32;
+};
 ["DOMINATION_TARGET_CP_NAME_LIST"] = {
 	["afgh_fieldWest_ob"] = true;
 	["afgh_villageWest_ob"] = true;
@@ -70,14 +85,6 @@
 	["afgh_village_cp"] = true;
 	["afgh_slopedTown_cp"] = true;
 };
-["UnlockOnAllMissionTaskCompleted"] = [[upvalue]];
-["UnlockOnBuddyFriendlyMax"] = [[upvalue]];
-["BUDDY_FRIENDLY_MAX"] = {
-	[1] = 27;
-	[2] = 26;
-	[0] = 28;
-};
-["_scriptInstanceId"] = [[userdata]]
 ["MISSION_CLEAR"] = {
 	[10020] = 2;
 	[10090] = 5;
@@ -90,11 +97,8 @@
 	[10070] = 4;
 	[10040] = 3;
 };
-["UnlockOnMissionClear"] = [[upvalue]];
-["UnlockOnAllQuestClear"] = [[upvalue]];
+
 ["_scriptPath"] = "TppTrophy";
-["Unlock"] = [[loadstring()]];
-["DOMINATION_TARGET_CP_COUNT"] = {
-	["afgh"] = 38;
-	["mafr"] = 32;
-};
+
+["_scriptInstanceId"] = [[userdata]]
+

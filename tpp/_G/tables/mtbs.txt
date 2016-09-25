@@ -1,5 +1,9 @@
-["OnReload"] = [[loadstring()]];
-["_scriptInstanceId"] = [[userdata]]
+OnAllocate() = [[upvalue]];
+OnInitialize() = [[loadstring()]];
+OnMessage() = [[loadstring()]];
+OnMissionCanStart() = [[loadstring()]];
+OnReload() = [[loadstring()]];
+
 ["requires"] = {
 	[1] = "/Assets/tpp/script/location/mtbs/mtbs_enemy.lua";
 	[2] = "/Assets/tpp/script/location/mtbs/mtbs_item.lua";
@@ -7,8 +11,8 @@
 	[4] = "/Assets/tpp/script/location/mtbs/mtbs_baseTelop.lua";
 	[5] = "/Assets/tpp/script/location/mtbs/mtbs_helicopter.lua";
 };
+
 ["_scriptPath"] = "mtbs";
-["OnInitialize"] = [[loadstring()]];
-["OnMissionCanStart"] = [[loadstring()]];
-["OnAllocate"] = [[upvalue]];
-["OnMessage"] = [[loadstring()]];
+
+["_scriptInstanceId"] = [[userdata]]
+

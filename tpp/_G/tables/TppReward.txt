@@ -1,55 +1,33 @@
-["TYPE"] = {
-	[1] = "MIN";
-	[2] = "COMMON";
-	[3] = "CASSET_TAPE";
-	[4] = "KEY_ITEM";
-	[5] = "BLUE_PRINT";
-	[6] = "EMBLEM";
-	[7] = "ANIMAL";
-	[8] = "RANKING";
-	[9] = "MAX";
-	["ANIMAL"] = 7;
-	["EMBLEM"] = 6;
-	["BLUE_PRINT"] = 5;
-	["KEY_ITEM"] = 4;
-	["RANKING"] = 8;
-	["MAX"] = 9;
-	["COMMON"] = 2;
-	["CASSET_TAPE"] = 3;
-	["MIN"] = 1;
+GetBonusPopupCategory() = [[loadstring()]];
+GetParameterOffsets() = [[loadstring()]];
+GetParameters() = [[upvalue]];
+IsStacked() = [[upvalue]];
+Push() = [[upvalue]];
+PushBluePrintReward() = [[loadstring()]];
+SetParameters() = [[upvalue]];
+ShowAllReward() = [[upvalue]];
+ShowBonusPopup() = [[upvalue]];
+ShowBonusPopupCategory() = [[upvalue]];
+ShowBonusPopupCategoryCommon() = [[upvalue]];
+ShowReward() = [[upvalue]];
+
+["GVARS_NAME"] = {
+	[8] = {
+		["stackSizeName"] = "rwd_missionRewardStackSize";
+		["langEnumName"] = "rwd_missionRewardLangEnum";
+		["paramName"] = "rwd_missionRewardParam";
+	};
+	[32] = {
+		["stackSizeName"] = "rwd_mbManagementRewardStackSize";
+		["langEnumName"] = "rwd_mbManagementRewardLangEnum";
+		["paramName"] = "rwd_mbManagementRewardParam";
+	};
+	[64] = {
+		["stackSizeName"] = "rwd_questRewardStackSize";
+		["langEnumName"] = "rwd_questRewardLangEnum";
+		["paramName"] = "rwd_questRewardParam";
+	};
 };
-["RADIO_GROUP_NAME"] = {
-	[25] = "f6000_rtrg2160";
-	[7] = "f6000_rtrg2030";
-	[8] = "f6000_rtrg2040";
-	[55] = "f6000_rtrg2270";
-	[5] = "f6000_rtrg2010";
-	[10] = "f6000_rtrg2050";
-	[20] = "f6000_rtrg2130";
-	[11] = "f6000_rtrg2060";
-	[6] = "f6000_rtrg2020";
-	[30] = "f6000_rtrg2150";
-	[22] = "f6000_rtrg2140";
-};
-["_scriptInstanceId"] = [[userdata]]
-["GetParameterOffsets"] = [[loadstring()]];
-["GetBonusPopupCategory"] = [[loadstring()]];
-["ShowReward"] = [[upvalue]];
-["REWARD_MAX"] = {
-	[8] = 16;
-	[32] = 64;
-	[64] = 8;
-};
-["ShowBonusPopupCategoryCommon"] = [[upvalue]];
-["SetParameters"] = [[upvalue]];
-["ShowAllReward"] = [[upvalue]];
-["REWARD_FIRST_LANG"] = {
-	[7] = "announce_extract_animal";
-	[8] = "reward_607";
-	[4] = "announce_find_keyitem";
-	[5] = "announce_get_blueprint";
-};
-["_scriptPath"] = "TppReward";
 ["LANG_ENUM"] = {
 	[8] = {
 		[1] = "reward_fob_goal_staff";
@@ -182,26 +160,52 @@
 		["dummy"] = 1;
 	};
 };
-["Push"] = [[upvalue]];
-["ShowBonusPopupCategory"] = [[upvalue]];
-["GVARS_NAME"] = {
-	[8] = {
-		["stackSizeName"] = "rwd_missionRewardStackSize";
-		["langEnumName"] = "rwd_missionRewardLangEnum";
-		["paramName"] = "rwd_missionRewardParam";
-	};
-	[32] = {
-		["stackSizeName"] = "rwd_mbManagementRewardStackSize";
-		["langEnumName"] = "rwd_mbManagementRewardLangEnum";
-		["paramName"] = "rwd_mbManagementRewardParam";
-	};
-	[64] = {
-		["stackSizeName"] = "rwd_questRewardStackSize";
-		["langEnumName"] = "rwd_questRewardLangEnum";
-		["paramName"] = "rwd_questRewardParam";
-	};
+["RADIO_GROUP_NAME"] = {
+	[25] = "f6000_rtrg2160";
+	[7] = "f6000_rtrg2030";
+	[8] = "f6000_rtrg2040";
+	[55] = "f6000_rtrg2270";
+	[5] = "f6000_rtrg2010";
+	[10] = "f6000_rtrg2050";
+	[20] = "f6000_rtrg2130";
+	[11] = "f6000_rtrg2060";
+	[6] = "f6000_rtrg2020";
+	[30] = "f6000_rtrg2150";
+	[22] = "f6000_rtrg2140";
 };
-["ShowBonusPopup"] = [[upvalue]];
-["PushBluePrintReward"] = [[loadstring()]];
-["IsStacked"] = [[upvalue]];
-["GetParameters"] = [[upvalue]];
+["REWARD_FIRST_LANG"] = {
+	[7] = "announce_extract_animal";
+	[8] = "reward_607";
+	[4] = "announce_find_keyitem";
+	[5] = "announce_get_blueprint";
+};
+["REWARD_MAX"] = {
+	[8] = 16;
+	[32] = 64;
+	[64] = 8;
+};
+["TYPE"] = {
+	[1] = "MIN";
+	[2] = "COMMON";
+	[3] = "CASSET_TAPE";
+	[4] = "KEY_ITEM";
+	[5] = "BLUE_PRINT";
+	[6] = "EMBLEM";
+	[7] = "ANIMAL";
+	[8] = "RANKING";
+	[9] = "MAX";
+	["ANIMAL"] = 7;
+	["EMBLEM"] = 6;
+	["BLUE_PRINT"] = 5;
+	["KEY_ITEM"] = 4;
+	["RANKING"] = 8;
+	["MAX"] = 9;
+	["COMMON"] = 2;
+	["CASSET_TAPE"] = 3;
+	["MIN"] = 1;
+};
+
+["_scriptPath"] = "TppReward";
+
+["_scriptInstanceId"] = [[userdata]]
+

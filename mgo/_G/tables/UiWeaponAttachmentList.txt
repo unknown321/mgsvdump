@@ -222,8 +222,6 @@
 	["options"] = {
 	};
 };
-["_scriptInstanceId"] = [[userdata]]
-["_scriptPath"] = "UiWeaponAttachmentList";
 ["attachments"] = {
 	[1] = {
 		["id"] = 582;
@@ -1595,3 +1593,8 @@
 		};
 	};
 };
+
+["_scriptPath"] = "UiWeaponAttachmentList";
+
+["_scriptInstanceId"] = [[userdata]]
+

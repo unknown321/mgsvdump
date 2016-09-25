@@ -1,5 +1,7 @@
+SetDensity() = [[upvalue]];
+SetFriction() = [[upvalue]];
+SetName() = [[upvalue]];
+SetRestitution() = [[upvalue]];
+
 ["_className"] = "PhMaterialInfo";
-["SetDensity"] = [[upvalue]];
-["SetName"] = [[upvalue]];
-["SetFriction"] = [[upvalue]];
-["SetRestitution"] = [[upvalue]];
+

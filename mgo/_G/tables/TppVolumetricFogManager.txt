@@ -1,4 +1,6 @@
+IsEnableAreaFog() = [[upvalue]];
+SetEnableAreaFog() = [[upvalue]];
+SetEnableFog() = [[upvalue]];
+
 ["_className"] = "TppVolumetricFogManager";
-["SetEnableAreaFog"] = [[upvalue]];
-["SetEnableFog"] = [[upvalue]];
-["IsEnableAreaFog"] = [[upvalue]];
+

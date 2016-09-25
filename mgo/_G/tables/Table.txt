@@ -1,5 +1,8 @@
-["_scriptInstanceId"] = [[userdata]]
-["Count"] = [[loadstring()]];
+Count() = [[loadstring()]];
+Merge() = [[loadstring()]];
+Uniquify() = [[upvalue]];
+
 ["_scriptPath"] = "Table";
-["Uniquify"] = [[upvalue]];
-["Merge"] = [[loadstring()]];
+
+["_scriptInstanceId"] = [[userdata]]
+

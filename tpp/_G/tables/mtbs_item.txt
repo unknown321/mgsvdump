@@ -1,11 +1,14 @@
-["OnMissionGameStart"] = [[upvalue]];
-["Messages"] = [[upvalue]];
-["OnInitialize"] = [[upvalue]];
-["_RegisterGetAssetTableFunc"] = [[loadstring()]];
-["OnReload"] = [[upvalue]];
-["OnMessage"] = [[upvalue]];
-["RegisterGimmick"] = [[loadstring()]];
-["_scriptInstanceId"] = [[userdata]]
+Messages() = [[upvalue]];
+OnInitialize() = [[upvalue]];
+OnMessage() = [[upvalue]];
+OnMissionGameStart() = [[upvalue]];
+OnReload() = [[upvalue]];
+RegisterGimmick() = [[loadstring()]];
+SwitchingLockGoalDoor() = [[loadstring()]];
+_EnableCollectionStation() = [[loadstring()]];
+_RegisterGetAssetTableFunc() = [[loadstring()]];
+
 ["_scriptPath"] = "mtbs_item";
-["SwitchingLockGoalDoor"] = [[loadstring()]];
-["_EnableCollectionStation"] = [[loadstring()]];
+
+["_scriptInstanceId"] = [[userdata]]
+

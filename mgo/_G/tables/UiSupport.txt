@@ -1,5 +1,7 @@
+Create() = [[upvalue]];
+CreateLoginPrint() = [[upvalue]];
+End() = [[upvalue]];
+GetInstance() = [[upvalue]];
+
 ["_className"] = "UiSupport";
-["GetInstance"] = [[upvalue]];
-["End"] = [[upvalue]];
-["Create"] = [[upvalue]];
-["CreateLoginPrint"] = [[upvalue]];
+

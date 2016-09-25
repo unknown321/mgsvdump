@@ -1,2 +1,4 @@
+GetSuffererHandle() = [[upvalue]];
+
 ["_className"] = "GkDefenseTargetData";
-["GetSuffererHandle"] = [[upvalue]];
+

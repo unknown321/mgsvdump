@@ -1,5 +1,8 @@
-["_scriptInstanceId"] = [[userdata]]
-["GetGlobalLocationParameter"] = [[loadstring()]];
+GetGlobalLocationParameter() = [[loadstring()]];
+GetLocationOfMissions() = [[loadstring()]];
+GetLocationParameter() = [[loadstring()]];
+
 ["_scriptPath"] = "mbdvc_map_location_parameter";
-["GetLocationParameter"] = [[loadstring()]];
-["GetLocationOfMissions"] = [[loadstring()]];
+
+["_scriptInstanceId"] = [[userdata]]
+
