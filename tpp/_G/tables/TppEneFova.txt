@@ -104,4 +104,3 @@ SetHostageFaceTable() = [[upvalue]];
 ["_scriptPath"] = "TppEneFova";
 
 ["_scriptInstanceId"] = [[userdata]]
-

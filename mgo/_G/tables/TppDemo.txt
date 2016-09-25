@@ -269,4 +269,3 @@ _Play() = [[upvalue]];
 ["_scriptPath"] = "TppDemo";
 
 ["_scriptInstanceId"] = [[userdata]]
-

@@ -52,4 +52,3 @@ SetTriggerMask() = [[upvalue]];
 ["_scriptPath"] = "Pad";
 
 ["_scriptInstanceId"] = [[userdata]]
-

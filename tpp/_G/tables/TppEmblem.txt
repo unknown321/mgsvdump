@@ -13,4 +13,3 @@ _AcquireByMissionCode() = [[upvalue]];
 ["_scriptPath"] = "TppEmblem";
 
 ["_scriptInstanceId"] = [[userdata]]
-

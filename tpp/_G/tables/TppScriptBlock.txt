@@ -26,4 +26,3 @@ Unload() = [[loadstring()]];
 ["_scriptPath"] = "TppScriptBlock";
 
 ["_scriptInstanceId"] = [[userdata]]
-

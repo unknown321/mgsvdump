@@ -1377,4 +1377,3 @@ SetupDefaultLoadoutToChar() = [[loadstring()]];
 ["_scriptPath"] = "FakeServerLoadouts";
 
 ["_scriptInstanceId"] = [[userdata]]
-

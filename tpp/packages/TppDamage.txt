@@ -514,4 +514,3 @@ ReloadDamageParameter() = [[non-lua function]];
 ["INJ_TYPE_CUT"] = 2;
 ["INJ_TYPE_DISLOCATED"] = 1;
 ["INJ_TYPE_NONE"] = 0;
-

@@ -19,4 +19,3 @@ _SetupClusterConstructState() = [[loadstring()]];
 ["_scriptPath"] = "mtbs_cluster";
 
 ["_scriptInstanceId"] = [[userdata]]
-

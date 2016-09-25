@@ -161,4 +161,3 @@ _PlayDebugStart() = [[loadstring()]];
 ["_scriptPath"] = "TppRadio";
 
 ["_scriptInstanceId"] = [[userdata]]
-

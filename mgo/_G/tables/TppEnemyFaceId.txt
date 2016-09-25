@@ -15,4 +15,3 @@
 ["svs_balaclava"] = 550;
 
 ["_scriptInstanceId"] = [[userdata]]
-

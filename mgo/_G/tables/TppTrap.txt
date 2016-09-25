@@ -13,4 +13,3 @@ RestoreVariableTrapState() = [[upvalue]];
 ["_scriptPath"] = "TppTrap";
 
 ["_scriptInstanceId"] = [[userdata]]
-

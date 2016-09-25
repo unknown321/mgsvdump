@@ -940,4 +940,3 @@
 ["_scriptPath"] = "CharacterModInfo";
 
 ["_scriptInstanceId"] = [[userdata]]
-

@@ -142,4 +142,3 @@ pressStart() = [[loadstring()]];
 ["spawnGroupTag"] = "INITIAL";
 
 ["_scriptInstanceId"] = [[userdata]]
-

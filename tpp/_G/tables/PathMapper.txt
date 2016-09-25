@@ -5,4 +5,3 @@ RegisterRealPath() = [[upvalue]];
 Replace() = [[upvalue]];
 
 ["_className"] = "PathMapper";
-

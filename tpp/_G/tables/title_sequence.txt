@@ -26,4 +26,3 @@ StartTitleMenu() = [[loadstring()]];
 ["_scriptPath"] = "title_sequence";
 
 ["_scriptInstanceId"] = [[userdata]]
-

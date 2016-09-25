@@ -6,4 +6,3 @@ AddMatrix() = [[upvalue]];
 AddPosition() = [[upvalue]];
 
 ["_className"] = "TppFootPrintBody";
-

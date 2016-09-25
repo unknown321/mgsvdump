@@ -1,2 +1,1 @@
 GetTacticalActionEdge() = [[non-lua function]];
-

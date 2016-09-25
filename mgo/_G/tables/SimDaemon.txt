@@ -6,4 +6,3 @@ SetMaxActiveSimNum() = [[upvalue]];
 SetSimWorkSize() = [[upvalue]];
 
 ["_className"] = "SimDaemon";
-

@@ -1,2 +1,1 @@
 FireMortar() = [[non-lua function]];
-

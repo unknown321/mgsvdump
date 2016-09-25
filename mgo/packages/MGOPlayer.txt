@@ -115,4 +115,3 @@ ReloadPlayerTable() = [[non-lua function]];
 ["SKL_DEF_STEALTH_CAMO_PLUS"] = 2;
 ["SKL_TYP_ATTRIB_ONLY"] = 0;
 ["SKL_TYP_CUSTOM"] = 1;
-

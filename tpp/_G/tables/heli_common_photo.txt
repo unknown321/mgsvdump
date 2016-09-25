@@ -232,4 +232,3 @@ ShowMESH() = [[upvalue]];
 ["_scriptPath"] = "heli_common_photo";
 
 ["_scriptInstanceId"] = [[userdata]]
-

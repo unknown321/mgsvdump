@@ -76,4 +76,3 @@
 ["_scriptPath"] = "UiAttachmentColors";
 
 ["_scriptInstanceId"] = [[userdata]]
-

@@ -14,4 +14,3 @@ Stop() = [[non-lua function]];
 ["BGM_TYPE_START_JINGLE"] = 4;
 ["BGM_TYPE_TITLE"] = 1;
 ["BGM_TYPE_WIN_JINGLE"] = 5;
-

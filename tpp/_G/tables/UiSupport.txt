@@ -4,4 +4,3 @@ End() = [[upvalue]];
 GetInstance() = [[upvalue]];
 
 ["_className"] = "UiSupport";
-

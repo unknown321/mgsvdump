@@ -2036,4 +2036,3 @@
 ["_scriptPath"] = "TppQuestList";
 
 ["_scriptInstanceId"] = [[userdata]]
-

@@ -6,4 +6,3 @@ SetStartEndFadeInDistanceDemo() = [[upvalue]];
 SwitchEnableInterruptData() = [[upvalue]];
 
 ["_className"] = "TppRainFilterInterruptManager";
-

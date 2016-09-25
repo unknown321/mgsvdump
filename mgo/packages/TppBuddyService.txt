@@ -78,4 +78,3 @@ UnsetDisableBuddyType() = [[non-lua function]];
 UnsetDisableCallBuddyType() = [[non-lua function]];
 UnsetObtainedBuddyType() = [[non-lua function]];
 UnsetSortieBuddyType() = [[non-lua function]];
-

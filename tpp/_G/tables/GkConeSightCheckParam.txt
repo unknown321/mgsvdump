@@ -8,4 +8,3 @@ SetHeadBackDistance() = [[upvalue]];
 SetRange() = [[upvalue]];
 
 ["_className"] = "GkConeSightCheckParam";
-

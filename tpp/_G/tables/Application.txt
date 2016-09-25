@@ -8,4 +8,3 @@ RemoveGame() = [[upvalue]];
 SetMainGame() = [[upvalue]];
 
 ["_className"] = "Application";
-

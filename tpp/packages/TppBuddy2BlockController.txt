@@ -28,4 +28,3 @@ SetVarsInitialStatus() = [[non-lua function]];
 SetVarsPositionFromNearPlayer() = [[non-lua function]];
 Unload() = [[non-lua function]];
 UnsetObtainedBuddyType() = [[non-lua function]];
-

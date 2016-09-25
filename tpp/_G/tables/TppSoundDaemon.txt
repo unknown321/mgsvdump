@@ -25,4 +25,3 @@ UnloadRegidentStreamData() = [[upvalue]];
 UnregisterSourceEvent() = [[upvalue]];
 
 ["_className"] = "TppSoundDaemon";
-

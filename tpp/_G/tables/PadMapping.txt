@@ -13,4 +13,3 @@ SetPad3LogicalNum() = [[upvalue]];
 __call() = [[upvalue]];
 
 ["_className"] = "PadMapping";
-

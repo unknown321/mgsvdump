@@ -11,4 +11,3 @@ SetPadReleaseMode() = [[upvalue]];
 WhiteFadeOut() = [[upvalue]];
 
 ["_className"] = "FoxFadeIo";
-

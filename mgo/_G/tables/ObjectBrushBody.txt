@@ -9,4 +9,3 @@ IsBlockLoaded() = [[upvalue]];
 IsExistBlockData() = [[upvalue]];
 
 ["_className"] = "ObjectBrushBody";
-

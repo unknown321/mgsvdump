@@ -9,4 +9,3 @@ RemoveActor() = [[upvalue]];
 ["_scriptPath"] = "Scene";
 
 ["_scriptInstanceId"] = [[userdata]]
-

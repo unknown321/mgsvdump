@@ -23,4 +23,3 @@ SetPackFileCopyMode() = [[non-lua function]];
 SetPackFileRootDirectory() = [[non-lua function]];
 SetProjectRootPath() = [[non-lua function]];
 SetTargetDirectory() = [[non-lua function]];
-

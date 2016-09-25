@@ -9,4 +9,3 @@ SetWorldMatrix() = [[non-lua function]];
 StopEffect() = [[non-lua function]];
 TearDown() = [[non-lua function]];
 TearDownAll() = [[non-lua function]];
-

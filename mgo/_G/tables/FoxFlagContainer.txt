@@ -10,4 +10,3 @@ Set() = [[upvalue]];
 __call() = [[upvalue]];
 
 ["_className"] = "FoxFlagContainer";
-

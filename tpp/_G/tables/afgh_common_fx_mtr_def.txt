@@ -205,4 +205,3 @@
 ["material"] = "MTR_IRON_A";!};
 ["material"] = "MTR_CLOT_C";!};
 ["material"] = "MTR_CONC_A";!};
-

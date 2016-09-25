@@ -46,4 +46,3 @@ SetupComponent() = [[upvalue]];
 ["_scriptPath"] = "RulesetCallbacks";
 
 ["_scriptInstanceId"] = [[userdata]]
-

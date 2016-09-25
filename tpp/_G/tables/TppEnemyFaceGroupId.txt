@@ -77,4 +77,3 @@
 ["_scriptPath"] = "TppEnemyFaceGroupId";
 
 ["_scriptInstanceId"] = [[userdata]]
-

@@ -653,4 +653,3 @@
 ["_scriptPath"] = "CharacterModGearOverview";
 
 ["_scriptInstanceId"] = [[userdata]]
-

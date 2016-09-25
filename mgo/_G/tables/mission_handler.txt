@@ -9,4 +9,3 @@ OnUpdate() = [[upvalue]];
 ["_scriptPath"] = "mission_handler";
 
 ["_scriptInstanceId"] = [[userdata]]
-

@@ -18,4 +18,3 @@
 ["OnReload"] = loadstring("LuaQ\000\000+\000\000\000\000\000\000\000@/Assets/tpp/script/location/afgh/afgh.lua\000*\000\000\000-\000\000\000\000\000\000\000\000\000\000\000\000@@\000@€\000\000€\000\000\000\000\
 ["_scriptInstanceId"] = nil --[[userdata]]
 ["_scriptPath"] = "afgh";
-

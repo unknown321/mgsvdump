@@ -9,4 +9,3 @@ SetCorrelationValueByLocatorName() = [[non-lua function]];
 SetEnableByLocatorName() = [[non-lua function]];
 SetFobFreePositionMineId() = [[non-lua function]];
 StartToCreateFromLocators() = [[non-lua function]];
-

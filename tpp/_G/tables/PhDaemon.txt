@@ -10,4 +10,3 @@ SetWorldMax() = [[upvalue]];
 SetWorldMin() = [[upvalue]];
 
 ["_className"] = "PhDaemon";
-

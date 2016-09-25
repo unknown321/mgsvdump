@@ -22,4 +22,3 @@ _GetRequestWeatherArgs() = [[loadstring()]];
 ["_scriptPath"] = "TppWeather";
 
 ["_scriptInstanceId"] = [[userdata]]
-

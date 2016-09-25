@@ -10,4 +10,3 @@ Play() = [[upvalue]];
 ["_scriptPath"] = "TppMovie";
 
 ["_scriptInstanceId"] = [[userdata]]
-

@@ -8,4 +8,3 @@ OnAllocate() = [[non-lua function]];
 SetCorrelationValueByLocatorName() = [[non-lua function]];
 SetEnableByLocatorName() = [[non-lua function]];
 StartToCreateFromLocators() = [[non-lua function]];
-

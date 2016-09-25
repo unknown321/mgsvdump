@@ -13,4 +13,3 @@ SaveEditableDataSet() = [[upvalue]];
 UnloadDataSetFile() = [[upvalue]];
 
 ["_className"] = "Bucket";
-

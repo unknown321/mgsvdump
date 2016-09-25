@@ -3,4 +3,3 @@ SetRotation() = [[upvalue]];
 SetSpeed() = [[upvalue]];
 
 ["_className"] = "WindGlobalBody";
-

@@ -510,4 +510,3 @@ ReloadDamageParameter() = [[non-lua function]];
 ["STAMINA_DAMAGE_FAINT"] = 1;
 ["STAMINA_DAMAGE_NONE"] = 0;
 ["STAMINA_DAMAGE_SLEEP"] = 2;
-

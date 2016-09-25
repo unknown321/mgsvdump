@@ -7,4 +7,3 @@ Vector3toTable() = [[loadstring()]];
 ["_scriptPath"] = "TppMath";
 
 ["_scriptInstanceId"] = [[userdata]]
-

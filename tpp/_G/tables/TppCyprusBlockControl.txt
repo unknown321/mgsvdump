@@ -4,4 +4,3 @@ IsCyprusLoading() = [[upvalue]];
 SetCyprusStep() = [[upvalue]];
 
 ["_className"] = "TppCyprusBlockControl";
-

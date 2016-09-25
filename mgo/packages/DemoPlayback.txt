@@ -5,4 +5,3 @@ SetAutoPause() = [[non-lua function]];
 SetLoopMode() = [[non-lua function]];
 SetTransform() = [[non-lua function]];
 Skip() = [[non-lua function]];
-

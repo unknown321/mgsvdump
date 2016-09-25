@@ -44,4 +44,3 @@ StageBlockCurrentPosition() = [[loadstring()]];
 ["_scriptPath"] = "MgoMain";
 
 ["_scriptInstanceId"] = [[userdata]]
-

@@ -4,4 +4,3 @@ ScrollDownDebugPrint() = [[upvalue]];
 ScrollUpDebugPrint() = [[upvalue]];
 
 ["_className"] = "UiManager";
-

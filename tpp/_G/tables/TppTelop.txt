@@ -18,4 +18,3 @@ StartMissionObjective() = [[upvalue]];
 ["_scriptPath"] = "TppTelop";
 
 ["_scriptInstanceId"] = [[userdata]]
-

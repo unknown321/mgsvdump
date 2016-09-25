@@ -5,4 +5,3 @@ Uniquify() = [[upvalue]];
 ["_scriptPath"] = "Table";
 
 ["_scriptInstanceId"] = [[userdata]]
-

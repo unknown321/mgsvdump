@@ -24,4 +24,3 @@ Sqrt() = [[non-lua function]];
 Tan() = [[non-lua function]];
 
 ["PI"] = 3.1415927410126;
-

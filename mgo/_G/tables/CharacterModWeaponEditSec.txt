@@ -1766,4 +1766,3 @@
 ["_scriptPath"] = "CharacterModWeaponEditSec";
 
 ["_scriptInstanceId"] = [[userdata]]
-

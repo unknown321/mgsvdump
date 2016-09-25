@@ -51,4 +51,3 @@
 ["waterway_tower001"] = "waterway_tower001_link";
 ["waterway_tower002"] = "waterway_tower002_link";
 ["waterway_tower003"] = "waterway_tower003_link";
-

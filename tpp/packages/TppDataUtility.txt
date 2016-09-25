@@ -17,4 +17,3 @@ SetVisibleDataFromIdentifier() = [[non-lua function]];
 SetVisibleEffectFromGroupId() = [[non-lua function]];
 SetVisibleEffectFromId() = [[non-lua function]];
 VisibleMeshFromIdentifier() = [[non-lua function]];
-

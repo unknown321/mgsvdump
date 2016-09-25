@@ -45,4 +45,3 @@ SetForceConstructDevelopCluster() = [[upvalue]];
 ["_scriptPath"] = "TppLocation";
 
 ["_scriptInstanceId"] = [[userdata]]
-

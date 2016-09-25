@@ -5,4 +5,3 @@ SetShowLoadScreen() = [[upvalue]];
 Start() = [[upvalue]];
 
 ["_className"] = "TppSimpleGameSequenceSystem";
-

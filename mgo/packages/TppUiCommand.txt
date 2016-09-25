@@ -417,4 +417,3 @@ UnRegisterSideOpsListFunction() = [[non-lua function]];
 UnregisterAllMapRadios() = [[non-lua function]];
 UnregisterMapRadio() = [[non-lua function]];
 UpdateTips() = [[non-lua function]];
-

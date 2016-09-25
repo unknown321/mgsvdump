@@ -7,4 +7,3 @@ StartParallel() = [[non-lua function]];
 StopParallel() = [[non-lua function]];
 UnLoad() = [[non-lua function]];
 UnLoadAll() = [[non-lua function]];
-

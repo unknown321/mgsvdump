@@ -8,4 +8,3 @@ SetSquadEnableState() = [[loadstring()]];
 ["_scriptPath"] = "TppSystemUtility";
 
 ["_scriptInstanceId"] = [[userdata]]
-

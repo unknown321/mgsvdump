@@ -438,4 +438,3 @@ _SetFocusAreaInPlnt() = [[upvalue]];
 ["useUiSetting"] = true;
 
 ["_scriptInstanceId"] = [[userdata]]
-

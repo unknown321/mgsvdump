@@ -29,4 +29,3 @@ UnregisterNeutralMusic() = [[upvalue]];
 UpdateParameter() = [[upvalue]];
 
 ["_className"] = "TppMusicManager";
-

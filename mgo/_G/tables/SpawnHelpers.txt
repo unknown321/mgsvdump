@@ -21,4 +21,3 @@ TryTeamAssignment() = [[upvalue]];
 ["initialTeamAssignmentHasHappened"] = false;
 
 ["_scriptInstanceId"] = [[userdata]]
-

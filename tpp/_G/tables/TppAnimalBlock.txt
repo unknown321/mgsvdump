@@ -31,4 +31,3 @@ _UpdateActiveAnimalBlock() = [[upvalue]];
 ["_scriptPath"] = "TppAnimalBlock";
 
 ["_scriptInstanceId"] = [[userdata]]
-

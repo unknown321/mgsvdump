@@ -24,4 +24,3 @@ _SetEnable() = [[upvalue]];
 ["_scriptPath"] = "TppCheckPoint";
 
 ["_scriptInstanceId"] = [[userdata]]
-

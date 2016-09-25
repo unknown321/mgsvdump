@@ -173,4 +173,3 @@ UpdateCanStartMission() = [[non-lua function]];
 VisibleGasMask() = [[non-lua function]];
 WarpToRotation() = [[non-lua function]];
 WriteSequenceWork() = [[non-lua function]];
-

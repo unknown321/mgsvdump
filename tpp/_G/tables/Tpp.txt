@@ -188,4 +188,3 @@ StrCode32Table() = [[upvalue]];
 ["_scriptPath"] = "Tpp";
 
 ["_scriptInstanceId"] = [[userdata]]
-

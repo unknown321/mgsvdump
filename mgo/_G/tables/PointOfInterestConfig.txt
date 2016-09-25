@@ -7,4 +7,3 @@
 ["outpostOffsetY_4"] = 0;
 
 ["_scriptInstanceId"] = [[userdata]]
-

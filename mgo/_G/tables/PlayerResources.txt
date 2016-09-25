@@ -69,4 +69,3 @@ GetPartsFpkPath() = [[upvalue]];
 ["_scriptPath"] = "PlayerResources";
 
 ["_scriptInstanceId"] = [[userdata]]
-

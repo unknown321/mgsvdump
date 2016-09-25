@@ -136,4 +136,3 @@ UnlockMessaging() = [[loadstring()]];
 ["_scriptPath"] = "Freeplay_Scoring";
 
 ["_scriptInstanceId"] = [[userdata]]
-

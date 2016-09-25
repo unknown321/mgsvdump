@@ -101,4 +101,3 @@ UnlockOnMissionClear() = [[upvalue]];
 ["_scriptPath"] = "TppTrophy";
 
 ["_scriptInstanceId"] = [[userdata]]
-

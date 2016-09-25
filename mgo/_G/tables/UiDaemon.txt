@@ -20,4 +20,3 @@ SetPrefetchTextureTable() = [[upvalue]];
 SetUiPauseTag() = [[upvalue]];
 
 ["_className"] = "UiDaemon";
-

@@ -248,4 +248,3 @@
 ["_scriptPath"] = "CharacterModClassEdit";
 
 ["_scriptInstanceId"] = [[userdata]]
-

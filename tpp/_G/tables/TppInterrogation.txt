@@ -43,4 +43,3 @@ _SelectInterrogation() = [[upvalue]];
 ["_scriptPath"] = "TppInterrogation";
 
 ["_scriptInstanceId"] = [[userdata]]
-

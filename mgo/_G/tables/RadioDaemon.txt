@@ -48,4 +48,3 @@ UnregisterRadioGroupSetFromList() = [[upvalue]];
 UnregisterRadioGroupSetFromRadioGroupSet() = [[upvalue]];
 
 ["_className"] = "RadioDaemon";
-

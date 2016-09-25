@@ -7,4 +7,3 @@ SetDefaultPartsPath() = [[non-lua function]];
 SetHostageType() = [[non-lua function]];
 SetSVarsKeyNames2() = [[non-lua function]];
 SetUniquePartsPath() = [[non-lua function]];
-

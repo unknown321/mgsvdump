@@ -125,4 +125,3 @@
 ["locatorSetName"] = "cs_citadel_04";
 ["locatorSetName"] = "cs_citadel_01";
 ["locatorSetName"] = "cs_citadel_03";
-

@@ -485,4 +485,3 @@
 ["_scriptPath"] = "CharacterModColorNavigation";
 
 ["_scriptInstanceId"] = [[userdata]]
-

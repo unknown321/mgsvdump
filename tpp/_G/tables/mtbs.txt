@@ -15,4 +15,3 @@ OnReload() = [[loadstring()]];
 ["_scriptPath"] = "mtbs";
 
 ["_scriptInstanceId"] = [[userdata]]
-

@@ -4,4 +4,3 @@ StageLightOff() = [[upvalue]];
 StageLightOn() = [[upvalue]];
 
 ["_className"] = "StageLightFadeDataBody";
-

@@ -1207,4 +1207,3 @@ SetMgoParameters() = [[non-lua function]];
 ["WP_pvp_sr01_v00"] = 13;
 ["WP_pvp_sr02_v00"] = 14;
 ["WP_pvp_sr03_v00"] = 15;
-

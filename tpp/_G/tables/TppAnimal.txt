@@ -36,4 +36,3 @@ SetSleep() = [[upvalue]];
 ["_scriptPath"] = "TppAnimal";
 
 ["_scriptInstanceId"] = [[userdata]]
-

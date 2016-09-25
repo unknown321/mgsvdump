@@ -164,4 +164,3 @@ UserNotSignedIn() = [[upvalue]];
 ["_scriptPath"] = "TppException";
 
 ["_scriptInstanceId"] = [[userdata]]
-

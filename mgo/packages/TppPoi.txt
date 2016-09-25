@@ -6,4 +6,3 @@ RecreateLocatorBasedPOIObjects() = [[non-lua function]];
 ["POI_TYPE_PLAYER"] = 2;
 ["POI_TYPE_SPAWN_POINT"] = 1;
 ["POI_TYPE_VEHICLE"] = 3;
-

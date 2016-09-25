@@ -8,4 +8,3 @@ ResetDefaultPadSensibility() = [[non-lua function]];
 SetPadDataCacheCapacity() = [[non-lua function]];
 SetPadSensibility() = [[non-lua function]];
 Sleep() = [[non-lua function]];
-

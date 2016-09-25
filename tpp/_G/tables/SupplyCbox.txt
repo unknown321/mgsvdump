@@ -3,4 +3,3 @@
 ["DROP_TYPE_EQUIPMENT"] = 0;
 ["DROP_TYPE_HAND"] = 2;
 ["DROP_TYPE_SUIT"] = 1;
-

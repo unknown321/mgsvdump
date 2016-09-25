@@ -3,4 +3,3 @@ GetInstance() = [[upvalue]];
 SetDefaultVoiceLanguage() = [[upvalue]];
 
 ["_className"] = "SubtitlesDaemon";
-

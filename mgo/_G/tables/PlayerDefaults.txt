@@ -261,4 +261,3 @@
 ["_scriptPath"] = "PlayerDefaults";
 
 ["_scriptInstanceId"] = [[userdata]]
-

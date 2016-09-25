@@ -17,4 +17,3 @@ SetInvitationBlockStoreOpen() = [[non-lua function]];
 StartMatch() = [[non-lua function]];
 StartNextMatch() = [[non-lua function]];
 WillBeHost() = [[non-lua function]];
-

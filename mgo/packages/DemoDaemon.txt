@@ -20,4 +20,3 @@ SkipAll() = [[non-lua function]];
 SkipAtDemoPlay() = [[non-lua function]];
 StopAll() = [[non-lua function]];
 StopProceduralDemo() = [[non-lua function]];
-

@@ -7,4 +7,3 @@ SetReceiverVector() = [[upvalue]];
 Visible() = [[upvalue]];
 
 ["_className"] = "FxLocator";
-

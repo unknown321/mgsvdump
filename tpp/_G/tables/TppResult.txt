@@ -865,4 +865,3 @@ _SetSpecialBonusResultScore() = [[upvalue]];
 ["_scriptPath"] = "TppResult";
 
 ["_scriptInstanceId"] = [[userdata]]
-

@@ -4,4 +4,3 @@ EnableMarker() = [[non-lua function]];
 SetAdditionalFlag() = [[non-lua function]];
 SetPosition() = [[non-lua function]];
 SetUserData() = [[non-lua function]];
-

@@ -191,4 +191,3 @@
 ["seq_textureLoadWaitStartTime"] = 16.558333137937;
 ["snd_finishHeliClearJingleName"] = "Stop_bgm_mission_clear_heli";
 ["snd_startHeliClearJingleName"] = "Play_bgm_mission_clear_heli";
-

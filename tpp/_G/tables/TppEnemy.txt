@@ -1692,4 +1692,3 @@ _StoreSVars_Hostage() = [[upvalue]];
 ["_scriptPath"] = "TppEnemy";
 
 ["_scriptInstanceId"] = [[userdata]]
-

@@ -27,4 +27,3 @@ _WarpRats() = [[loadstring()]];
 ["_scriptPath"] = "TppRatBird";
 
 ["_scriptInstanceId"] = [[userdata]]
-

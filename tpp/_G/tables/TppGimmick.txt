@@ -259,4 +259,3 @@ _ShowCommCutOffAnnounceLog() = [[upvalue]];
 ["_scriptPath"] = "TppGimmick";
 
 ["_scriptInstanceId"] = [[userdata]]
-

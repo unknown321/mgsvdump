@@ -7,4 +7,3 @@ SetUrl() = [[upvalue]];
 SetWebserver() = [[upvalue]];
 
 ["_className"] = "NclDaemon";
-

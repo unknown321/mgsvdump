@@ -2456,4 +2456,3 @@ StartLoadingToEquipMissionBlock() = [[non-lua function]];
 ["WP_West_thg_050"] = 359;
 ["WP_Wood_ar_010"] = 416;
 ["WP_mgm0_mgun0"] = 415;
-

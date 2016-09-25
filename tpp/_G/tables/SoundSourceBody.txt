@@ -6,4 +6,3 @@ SetSwitch() = [[upvalue]];
 StopEvent() = [[upvalue]];
 
 ["_className"] = "SoundSourceBody";
-

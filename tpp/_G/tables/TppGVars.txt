@@ -1991,4 +1991,3 @@ AllInitialize() = [[upvalue]];
 ["_scriptPath"] = "TppGVars";
 
 ["_scriptInstanceId"] = [[userdata]]
-

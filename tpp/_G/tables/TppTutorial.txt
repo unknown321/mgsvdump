@@ -701,4 +701,3 @@ _UnregisterIntelRadioAfterPlayed() = [[upvalue]];
 ["_scriptPath"] = "TppTutorial";
 
 ["_scriptInstanceId"] = [[userdata]]
-

@@ -9,4 +9,3 @@ read_config() = [[upvalue]];
 ["hold_pressed"] = 100.35100637249;
 
 ["_scriptInstanceId"] = [[userdata]]
-

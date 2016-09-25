@@ -18,4 +18,3 @@ ReserveDataChunkIdMapper() = [[non-lua function]];
 ResetAttributeTacticalActionInRange() = [[non-lua function]];
 SetEnabledTacticalActionEdgeInRange() = [[non-lua function]];
 SetEnabledTacticalActionInRange() = [[non-lua function]];
-

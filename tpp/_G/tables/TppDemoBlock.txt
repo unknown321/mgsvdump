@@ -7,4 +7,3 @@ OnUpdate() = [[upvalue]];
 ["isAllocatedMtbsEnemy"] = false;
 
 ["_scriptInstanceId"] = [[userdata]]
-

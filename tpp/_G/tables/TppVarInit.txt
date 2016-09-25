@@ -21,4 +21,3 @@ StartTitle() = [[upvalue]];
 ["_scriptPath"] = "TppVarInit";
 
 ["_scriptInstanceId"] = [[userdata]]
-

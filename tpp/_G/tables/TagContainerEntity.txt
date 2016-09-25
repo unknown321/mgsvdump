@@ -10,4 +10,3 @@ RemoveTag() = [[upvalue]];
 RemoveTags() = [[upvalue]];
 
 ["_className"] = "TagContainerEntity";
-

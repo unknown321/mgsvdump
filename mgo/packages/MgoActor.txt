@@ -44,4 +44,3 @@ GetPlayerGameObjectId() = [[non-lua function]];
 ["INVALID_LINE_CHECK_ID"] = 4294967295;
 ["MGO_ACTOR_BLOCK_NONE"] = 1;
 ["MGO_ACTOR_BLOCK_PARTS"] = 0;
-

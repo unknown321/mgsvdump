@@ -76,4 +76,3 @@ SetValidStation() = [[non-lua function]];
 ["TYPE_POSTER_SOL_ZRS"] = 49;
 ["TYPE_SHIPPING_LABEL"] = 6;
 ["TYPE_STATION"] = 130;
-

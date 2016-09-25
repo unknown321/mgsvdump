@@ -4,4 +4,3 @@ GetSize() = [[upvalue]];
 ReloadWorldTextures() = [[upvalue]];
 
 ["_className"] = "TerrainRenderBody";
-

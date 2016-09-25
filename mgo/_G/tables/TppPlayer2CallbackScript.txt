@@ -42,4 +42,3 @@ _StartCameraAnimationUseFileSetName() = [[loadstring()]];
 ["defaultStopRecoverInterpByPadOperation"] = true;
 
 ["_scriptInstanceId"] = [[userdata]]
-

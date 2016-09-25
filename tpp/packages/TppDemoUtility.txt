@@ -6,4 +6,3 @@ ResetFadeInfo() = [[non-lua function]];
 SetEnableDemoZoomSound() = [[non-lua function]];
 SetInvisibleUniqueCharacter() = [[non-lua function]];
 SetUseBlackDiamond() = [[non-lua function]];
-

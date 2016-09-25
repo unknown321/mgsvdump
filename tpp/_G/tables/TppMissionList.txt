@@ -5,4 +5,3 @@ IsStartHeliToMB() = [[loadstring()]];
 ["_scriptPath"] = "TppMissionList";
 
 ["_scriptInstanceId"] = [[userdata]]
-

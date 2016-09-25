@@ -2144,4 +2144,3 @@
 ["_scriptPath"] = "CharacterModCharacterSelect";
 
 ["_scriptInstanceId"] = [[userdata]]
-

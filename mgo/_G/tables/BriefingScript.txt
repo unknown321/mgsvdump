@@ -296,4 +296,3 @@
 ["_scriptPath"] = "BriefingScript";
 
 ["_scriptInstanceId"] = [[userdata]]
-

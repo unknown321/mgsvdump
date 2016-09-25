@@ -5,4 +5,3 @@ IsExistingData() = [[upvalue]];
 SetGroupName() = [[upvalue]];
 
 ["_className"] = "TppDefaultParameter";
-

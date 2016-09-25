@@ -12,4 +12,3 @@ ResetFadeTime() = [[non-lua function]];
 SetFadeCallEnable() = [[non-lua function]];
 SetFadeColor() = [[non-lua function]];
 SetFadeTime() = [[non-lua function]];
-

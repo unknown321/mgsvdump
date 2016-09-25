@@ -5,4 +5,3 @@ GetUnlockValue() = [[non-lua function]];
 HasEquipUnlock() = [[non-lua function]];
 HasUnlock() = [[non-lua function]];
 ResetSavedXP() = [[non-lua function]];
-

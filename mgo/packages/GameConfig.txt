@@ -7,4 +7,3 @@ Reset() = [[non-lua function]];
 SetCameraLRIsReversed() = [[non-lua function]];
 SetCameraUDIsReversed() = [[non-lua function]];
 SetStealthAssistEnabled() = [[non-lua function]];
-

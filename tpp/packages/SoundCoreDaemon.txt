@@ -12,4 +12,3 @@ SetInterferenceRTPCName() = [[non-lua function]];
 SetRearParameter() = [[non-lua function]];
 SetState() = [[non-lua function]];
 WaitAsync() = [[non-lua function]];
-

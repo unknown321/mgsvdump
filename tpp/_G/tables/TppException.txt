@@ -200,4 +200,3 @@ UpdateMgoPatchDlcCheckingPopup() = [[loadstring()]];
 ["mgoInvitationUpdateCount"] = 0;
 
 ["_scriptInstanceId"] = [[userdata]]
-

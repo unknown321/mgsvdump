@@ -12,4 +12,3 @@ SetMainBucket() = [[upvalue]];
 SetName() = [[upvalue]];
 
 ["_className"] = "Game";
-

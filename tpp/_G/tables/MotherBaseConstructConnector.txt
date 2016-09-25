@@ -9,4 +9,3 @@ SetSahelanLodVisibility() = [[upvalue]];
 SetVariableGimmickList() = [[upvalue]];
 
 ["_className"] = "MotherBaseConstructConnector";
-

@@ -65,4 +65,3 @@ StoreSaveDataPermanentGimmickFromCheckPoint() = [[non-lua function]];
 StoreSaveDataPermanentGimmickFromMission() = [[non-lua function]];
 StoreSaveDataPermanentGimmickFromMissionAfterClear() = [[non-lua function]];
 isIndicatorVisibility() = [[non-lua function]];
-

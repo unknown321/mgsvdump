@@ -4,4 +4,3 @@ LoadRequest() = [[upvalue]];
 UnloadRequest() = [[upvalue]];
 
 ["_className"] = "PassiveBlockController";
-

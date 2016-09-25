@@ -8,4 +8,3 @@ GenerateDynamicPackTable() = [[loadstring()]];
 ["_scriptPath"] = "Freeplay_Dynamic";
 
 ["_scriptInstanceId"] = [[userdata]]
-

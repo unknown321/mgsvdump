@@ -6,4 +6,3 @@ LoadLibraryAsync() = [[upvalue]];
 ReloadAll() = [[upvalue]];
 
 ["_className"] = "Script";
-

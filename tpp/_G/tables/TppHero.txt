@@ -502,4 +502,3 @@ _RideOnHeli() = [[upvalue]];
 ["_scriptPath"] = "TppHero";
 
 ["_scriptInstanceId"] = [[userdata]]
-

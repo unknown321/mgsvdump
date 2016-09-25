@@ -3,4 +3,3 @@ GetMissionLimitBordId() = [[non-lua function]];
 IsRankingBusy() = [[non-lua function]];
 RegistRanking() = [[non-lua function]];
 WriteServerRankingScore() = [[non-lua function]];
-

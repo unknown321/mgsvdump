@@ -11,4 +11,3 @@ RegisterAssaultDropLandingZone() = [[loadstring()]];
 ["_scriptPath"] = "TppLandingZone";
 
 ["_scriptInstanceId"] = [[userdata]]
-

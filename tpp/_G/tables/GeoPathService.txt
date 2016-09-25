@@ -6,4 +6,3 @@ RegisterNodeTag() = [[upvalue]];
 RegisterPathTag() = [[upvalue]];
 
 ["_className"] = "GeoPathService";
-

@@ -10,4 +10,3 @@ OnUnloadMission() = [[loadstring()]];
 ["_scriptPath"] = "Matchmaking";
 
 ["_scriptInstanceId"] = [[userdata]]
-

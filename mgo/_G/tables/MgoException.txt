@@ -15,4 +15,3 @@ OnEndExceptionDialogForSignInUserChange() = [[loadstring()]];
 ["_scriptPath"] = "MgoException";
 
 ["_scriptInstanceId"] = [[userdata]]
-

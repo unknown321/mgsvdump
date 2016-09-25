@@ -6,4 +6,3 @@ Stop() = [[upvalue]];
 StopAll() = [[upvalue]];
 
 ["_className"] = "GkEventTimerManager";
-

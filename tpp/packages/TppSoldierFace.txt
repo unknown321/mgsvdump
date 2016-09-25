@@ -30,4 +30,3 @@ SetSplitRaceForHostageRandomFaceId() = [[non-lua function]];
 SetUseBlackDdFova() = [[non-lua function]];
 SetUseFaceIdListMode() = [[non-lua function]];
 SetUseZombieFova() = [[non-lua function]];
-

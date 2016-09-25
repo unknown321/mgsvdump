@@ -120,4 +120,3 @@ _SetEnabledVehicle() = [[upvalue]];
 ["_scriptPath"] = "TppReinforceBlock";
 
 ["_scriptInstanceId"] = [[userdata]]
-

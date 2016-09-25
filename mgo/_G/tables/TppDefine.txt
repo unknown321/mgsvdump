@@ -3210,4 +3210,3 @@ Enum() = [[loadstring()]];
 ["_scriptPath"] = "TppDefine";
 
 ["_scriptInstanceId"] = [[userdata]]
-

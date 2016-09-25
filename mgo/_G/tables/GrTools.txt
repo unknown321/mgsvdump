@@ -54,4 +54,3 @@ SetVertexLodScale() = [[upvalue]];
 SetupSystemShaderResources() = [[upvalue]];
 
 ["_className"] = "GrTools";
-

@@ -21,4 +21,3 @@ StartFobPickup() = [[non-lua function]];
 StartLogin() = [[non-lua function]];
 SynchronizeEmblem() = [[non-lua function]];
 SynchronizeServer() = [[non-lua function]];
-

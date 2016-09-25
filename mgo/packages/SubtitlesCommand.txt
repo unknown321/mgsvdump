@@ -29,4 +29,3 @@ SetVoiceLanguage() = [[non-lua function]];
 SetWaveSyncGeneratorName() = [[non-lua function]];
 Stop() = [[non-lua function]];
 StopAll() = [[non-lua function]];
-

@@ -69,4 +69,3 @@ StopSceneBGM() = [[upvalue]];
 ["_scriptPath"] = "TppSound";
 
 ["_scriptInstanceId"] = [[userdata]]
-

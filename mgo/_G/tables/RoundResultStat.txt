@@ -30,4 +30,3 @@
 ["_scriptPath"] = "RoundResultStat";
 
 ["_scriptInstanceId"] = [[userdata]]
-

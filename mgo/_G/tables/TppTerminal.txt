@@ -742,4 +742,3 @@ _SetUpDvcMenu() = [[upvalue]];
 ["_scriptPath"] = "TppTerminal";
 
 ["_scriptInstanceId"] = [[userdata]]
-

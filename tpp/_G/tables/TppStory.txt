@@ -1761,4 +1761,3 @@ _UpdateStorySequence() = [[upvalue]];
 ["_scriptPath"] = "TppStory";
 
 ["_scriptInstanceId"] = [[userdata]]
-

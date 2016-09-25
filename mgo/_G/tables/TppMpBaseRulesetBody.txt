@@ -99,4 +99,3 @@ TriggerTelemetryEvent() = [[upvalue]];
 TryTeamAssignment() = [[upvalue]];
 
 ["_className"] = "TppMpBaseRulesetBody";
-

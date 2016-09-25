@@ -7,4 +7,3 @@ RegistSyncUniqueIdTable() = [[upvalue]];
 __call() = [[upvalue]];
 
 ["_className"] = "SyncUniqueId";
-

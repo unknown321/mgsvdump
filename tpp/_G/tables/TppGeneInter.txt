@@ -403,4 +403,3 @@ debug_geneInter_powerPlant_001() = [[loadstring()]];
 ["_scriptPath"] = "TppGeneInter";
 
 ["_scriptInstanceId"] = [[userdata]]
-

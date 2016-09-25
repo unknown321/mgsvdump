@@ -10,4 +10,3 @@ ror() = [[non-lua function]];
 rshift() = [[non-lua function]];
 tobit() = [[non-lua function]];
 tohex() = [[non-lua function]];
-

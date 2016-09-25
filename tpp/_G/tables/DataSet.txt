@@ -6,4 +6,3 @@ GetDataSetFile() = [[upvalue]];
 GetRootTransformData() = [[upvalue]];
 
 ["_className"] = "DataSet";
-

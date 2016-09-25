@@ -971,4 +971,3 @@
 ["_scriptPath"] = "CharacterModLoadoutSelect";
 
 ["_scriptInstanceId"] = [[userdata]]
-

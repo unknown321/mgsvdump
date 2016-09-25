@@ -55,4 +55,3 @@ StartGrenadeShock() = [[upvalue]];
 UpdatePrimRiver() = [[upvalue]];
 
 ["_className"] = "TppEffectUtility";
-

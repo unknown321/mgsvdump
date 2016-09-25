@@ -7,4 +7,3 @@ StartWithoutInitializing() = [[upvalue]];
 Stop() = [[upvalue]];
 
 ["_className"] = "UiObjControl";
-

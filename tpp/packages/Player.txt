@@ -170,4 +170,3 @@ UpdateAroundCameraManualModeParams() = [[non-lua function]];
 UpdateCanStartMission() = [[non-lua function]];
 VisibleGasMask() = [[non-lua function]];
 WriteSequenceWork() = [[non-lua function]];
-

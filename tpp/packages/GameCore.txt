@@ -8,4 +8,3 @@ SetGameObjectPerfEnabled() = [[non-lua function]];
 StartRecording() = [[non-lua function]];
 StopPlayingRecord() = [[non-lua function]];
 StopRecording() = [[non-lua function]];
-

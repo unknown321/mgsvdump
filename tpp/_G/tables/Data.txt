@@ -5,4 +5,3 @@ GetDataSet() = [[upvalue]];
 IsReference() = [[upvalue]];
 
 ["_className"] = "Data";
-

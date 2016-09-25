@@ -291,4 +291,3 @@ _RegisterDefaultLandPoint() = [[loadstring()]];
 ["_scriptPath"] = "TppUI";
 
 ["_scriptInstanceId"] = [[userdata]]
-

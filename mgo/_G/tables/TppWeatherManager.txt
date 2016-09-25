@@ -12,4 +12,3 @@ SetNewWeatherProbabilities() = [[upvalue]];
 SwitchWeatherDesc() = [[upvalue]];
 
 ["_className"] = "TppWeatherManager";
-

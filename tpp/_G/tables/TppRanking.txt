@@ -182,4 +182,3 @@ _ShowScoreTimeAnnounceLog() = [[loadstring()]];
 ["_scriptPath"] = "TppRanking";
 
 ["_scriptInstanceId"] = [[userdata]]
-

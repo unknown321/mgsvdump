@@ -5,4 +5,3 @@ GetInstance() = [[upvalue]];
 RulesetMessage() = [[upvalue]];
 
 ["_className"] = "HudCommonDataManager";
-

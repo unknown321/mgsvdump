@@ -4,4 +4,3 @@ SetBaseColorSmoke() = [[upvalue]];
 SetInitAlphaRate() = [[upvalue]];
 
 ["_className"] = "TppCigaretteSmokeGlobalManager";
-

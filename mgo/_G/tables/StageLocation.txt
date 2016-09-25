@@ -11,4 +11,3 @@ WarpToStage() = [[upvalue]];
 ["_scriptPath"] = "StageLocation";
 
 ["_scriptInstanceId"] = [[userdata]]
-

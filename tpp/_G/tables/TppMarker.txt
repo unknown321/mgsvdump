@@ -76,4 +76,3 @@ _OnSearchTarget() = [[upvalue]];
 ["_scriptPath"] = "TppMarker";
 
 ["_scriptInstanceId"] = [[userdata]]
-

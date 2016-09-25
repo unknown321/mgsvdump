@@ -17,4 +17,3 @@ StartTitle() = [[loadstring()]];
 ["_scriptPath"] = "TppVarInit";
 
 ["_scriptInstanceId"] = [[userdata]]
-

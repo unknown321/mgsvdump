@@ -9,4 +9,3 @@ GetTppSimpleMissionBlock() = [[upvalue]];
 ["_scriptPath"] = "Overflow";
 
 ["_scriptInstanceId"] = [[userdata]]
-

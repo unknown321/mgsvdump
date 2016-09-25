@@ -14,4 +14,3 @@ RegisterObserverScript() = [[upvalue]];
 SetRestorationFromSerializedDataMode() = [[upvalue]];
 
 ["_className"] = "Checkpoint";
-

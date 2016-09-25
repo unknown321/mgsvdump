@@ -183,4 +183,3 @@ _SetClusterId() = [[upvalue]];
 ["_scriptPath"] = "mtbs_helicopter";
 
 ["_scriptInstanceId"] = [[userdata]]
-

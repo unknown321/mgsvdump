@@ -31,4 +31,3 @@ SetUseDdEmblemFova() = [[loadstring()]];
 ["_scriptPath"] = "TppPackList";
 
 ["_scriptInstanceId"] = [[userdata]]
-

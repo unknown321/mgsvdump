@@ -12,4 +12,3 @@ SetUseMbDvcGzBlock() = [[upvalue]];
 StartTitleMenu() = [[upvalue]];
 
 ["_className"] = "UiCommonDataManager";
-

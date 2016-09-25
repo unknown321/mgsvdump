@@ -68,4 +68,3 @@ UnregisterRadioGroupFromRadioGroupSet() = [[non-lua function]];
 UnregisterRadioGroupSetFromList() = [[non-lua function]];
 UnregisterRadioGroupSetFromRadioGroupSet() = [[non-lua function]];
 UnregisterTutorialRadioGroupSet() = [[non-lua function]];
-

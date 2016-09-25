@@ -86,4 +86,3 @@ _OnTrap() = [[upvalue]];
 ["_scriptPath"] = "mtbs_baseTelop";
 
 ["_scriptInstanceId"] = [[userdata]]
-

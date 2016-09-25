@@ -59,4 +59,3 @@ Warp() = [[upvalue]];
 ["_scriptPath"] = "TppPaz";
 
 ["_scriptInstanceId"] = [[userdata]]
-

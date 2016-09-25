@@ -30,4 +30,3 @@ StageBlockCurrentPosition() = [[loadstring()]];
 ["_scriptPath"] = "TppMain";
 
 ["_scriptInstanceId"] = [[userdata]]
-

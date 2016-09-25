@@ -5,4 +5,3 @@ StreamPause() = [[upvalue]];
 StreamStart() = [[upvalue]];
 
 ["_className"] = "DemoDataBody";
-

@@ -346,4 +346,3 @@ UpdatePandemicEventLimit() = [[non-lua function]];
 [-285212671] = {};
 
 [-285212672] = 0;
-

@@ -5,4 +5,3 @@ Exec() = [[loadstring()]];
 ["_scriptPath"] = "vfxTrap";
 
 ["_scriptInstanceId"] = [[userdata]]
-

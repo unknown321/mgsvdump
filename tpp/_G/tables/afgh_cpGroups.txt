@@ -82,4 +82,3 @@
 ["afgh_villageWest_ob"] = true;
 ["afgh_village_cp"] = true;
 ["afgh_waterwayEast_ob"] = true;!};
-

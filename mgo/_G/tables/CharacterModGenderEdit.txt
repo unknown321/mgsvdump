@@ -161,4 +161,3 @@
 ["_scriptPath"] = "CharacterModGenderEdit";
 
 ["_scriptInstanceId"] = [[userdata]]
-

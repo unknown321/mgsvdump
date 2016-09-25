@@ -30,4 +30,3 @@ UnregisterClockMessage() = [[upvalue]];
 ["_scriptPath"] = "TppClock";
 
 ["_scriptInstanceId"] = [[userdata]]
-

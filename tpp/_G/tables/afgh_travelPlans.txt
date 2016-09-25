@@ -164,4 +164,3 @@
 ["afgh_village_cp"] = 32;
 ["afgh_waterwayEast_ob"] = 18;
 ["afgh_waterway_cp"] = 25;
-

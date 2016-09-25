@@ -8,4 +8,3 @@ removeTeamIcons() = [[upvalue]];
 ["friendlyBase"] = 0;
 
 ["_scriptInstanceId"] = [[userdata]]
-

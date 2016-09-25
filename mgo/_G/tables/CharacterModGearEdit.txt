@@ -1934,4 +1934,3 @@
 ["_scriptPath"] = "CharacterModGearEdit";
 
 ["_scriptInstanceId"] = [[userdata]]
-

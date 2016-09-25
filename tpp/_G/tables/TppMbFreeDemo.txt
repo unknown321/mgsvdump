@@ -933,4 +933,3 @@ UpdatePackList() = [[upvalue]];
 ["_scriptPath"] = "TppMbFreeDemo";
 
 ["_scriptInstanceId"] = [[userdata]]
-

@@ -24,4 +24,3 @@ UnloadAvatarData() = [[upvalue]];
 ["startedLoadingAvatarEditUI"] = false;
 
 ["_scriptInstanceId"] = [[userdata]]
-

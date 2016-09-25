@@ -424,4 +424,3 @@ UnRegisterMbMissionListFunction() = [[non-lua function]];
 UnRegisterSideOpsListFunction() = [[non-lua function]];
 UnregisterAllMapRadios() = [[non-lua function]];
 UnregisterMapRadio() = [[non-lua function]];
-

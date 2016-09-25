@@ -4,4 +4,3 @@ SetName() = [[upvalue]];
 SetRestitution() = [[upvalue]];
 
 ["_className"] = "PhMaterialInfo";
-

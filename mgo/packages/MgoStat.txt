@@ -58,4 +58,3 @@ ReloadStatsTable() = [[non-lua function]];
 ["STAT_TRANQ"] = 51;
 ["STAT_WALKERGEAR_DESTROY"] = 52;
 ["STAT_XP"] = 53;
-

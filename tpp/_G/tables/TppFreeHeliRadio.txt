@@ -111,4 +111,3 @@ _UnregisterOptionRadio() = [[loadstring()]];
 ["isPlayBreefing"] = false;
 
 ["_scriptInstanceId"] = [[userdata]]
-

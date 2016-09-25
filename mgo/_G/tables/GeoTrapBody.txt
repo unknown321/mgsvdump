@@ -3,4 +3,3 @@ SetInvalid() = [[upvalue]];
 SetValid() = [[upvalue]];
 
 ["_className"] = "GeoTrapBody";
-

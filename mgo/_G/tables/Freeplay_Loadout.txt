@@ -261,4 +261,3 @@ Init() = [[loadstring()]];
 ["resetFPSattackMode"] = false;
 
 ["_scriptInstanceId"] = [[userdata]]
-

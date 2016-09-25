@@ -21,4 +21,3 @@ SetFobResultRankingParam() = [[non-lua function]];
 SetTimeOut() = [[non-lua function]];
 StartNetSynchronizer() = [[non-lua function]];
 SyncedExecute() = [[non-lua function]];
-

@@ -9,4 +9,3 @@ GiveBoost() = [[non-lua function]];
 ["BOOSTTYPE_PROGRESSION"] = 2;
 ["BOOSTTYPE_PURCHASED"] = 1;
 ["BOOSTTYPE_SEASONAL"] = 0;
-

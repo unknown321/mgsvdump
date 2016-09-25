@@ -30,4 +30,3 @@ tanh() = [[non-lua function]];
 
 ["huge"] = 1.#INF;
 ["pi"] = 3.1415926535898;
-

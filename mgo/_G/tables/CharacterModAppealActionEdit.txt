@@ -1562,4 +1562,3 @@
 ["_scriptPath"] = "CharacterModAppealActionEdit";
 
 ["_scriptInstanceId"] = [[userdata]]
-

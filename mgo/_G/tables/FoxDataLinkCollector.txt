@@ -3,4 +3,3 @@ GetDataBody() = [[upvalue]];
 ShowWarningIfUse() = [[upvalue]];
 
 ["_className"] = "FoxDataLinkCollector";
-

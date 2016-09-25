@@ -11,4 +11,3 @@ _RegisterGetAssetTableFunc() = [[loadstring()]];
 ["_scriptPath"] = "mtbs_item";
 
 ["_scriptInstanceId"] = [[userdata]]
-

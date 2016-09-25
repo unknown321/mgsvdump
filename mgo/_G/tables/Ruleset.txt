@@ -1012,4 +1012,3 @@
 ["_scriptPath"] = "Ruleset";
 
 ["_scriptInstanceId"] = [[userdata]]
-

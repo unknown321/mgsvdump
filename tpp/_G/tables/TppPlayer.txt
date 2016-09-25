@@ -447,4 +447,3 @@ _StartGameOverCamera() = [[loadstring()]];
 ["_scriptPath"] = "TppPlayer";
 
 ["_scriptInstanceId"] = [[userdata]]
-

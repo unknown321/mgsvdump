@@ -120,4 +120,3 @@ UpdateLoadoutFloor() = [[upvalue]];
 ["tutorialTime"] = 28.287070844157;
 
 ["_scriptInstanceId"] = [[userdata]]
-

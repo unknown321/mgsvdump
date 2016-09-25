@@ -8,4 +8,3 @@ SetDisableMarkerModelEffect() = [[non-lua function]];
 SetEnglishVoiceIdTable() = [[non-lua function]];
 SetExtendPartsInfo() = [[non-lua function]];
 SetSVarsKeyNames() = [[non-lua function]];
-

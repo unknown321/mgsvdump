@@ -208,4 +208,3 @@ ShowReward() = [[upvalue]];
 ["_scriptPath"] = "TppReward";
 
 ["_scriptInstanceId"] = [[userdata]]
-

@@ -19,4 +19,3 @@ SetOptionalRadioInEmergency() = [[loadstring()]];
 ["_scriptPath"] = "heli_common_radio";
 
 ["_scriptInstanceId"] = [[userdata]]
-
